@@ -1,0 +1,668 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="mor" corpus="" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <participants>
+    <participant id="CHI">
+      <role>Target_Child</role>
+    </participant>
+  </participants>
+  <userTiers>
+    <td tierName="Morphology" type="mor" excludeFromAlignment="false"></td>
+  </userTiers>
+  <tierOrder>
+    <tierView tierName="Orthography" visible="true" locked="false" font="default"></tierView>
+    <tierView tierName="IPA Target" visible="false" locked="false" font="default"></tierView>
+    <tierView tierName="IPA Actual" visible="false" locked="false" font="default"></tierView>
+    <tierView tierName="Morphology" visible="true" locked="false" font="default"></tierView>
+    <tierView tierName="Notes" visible="true" locked="false" font="default"></tierView>
+    <tierView tierName="Segment" visible="false" locked="false" font="default"></tierView>
+  </tierOrder>
+  <transcript>
+    <r uuid="f4dcb45a-6f32-4704-8b9f-39ad96a5ed0c" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>the</w>
+          <w>people</w>
+          <w>are</w>
+          <w>making</w>
+          <w>cakes</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <notes>
+        <tierData><tw>mor</tw><tw>example</tw></tierData>
+      </notes>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>det</c></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>people</stem></mw></mor>
+          <mor><mw><pos><c>v</c><subc>aux</subc></pos><stem>be</stem><mk type="sfxf">PRES</mk></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>make</stem><mk type="sfx">ING</mk></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>cake</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r uuid="099dac8e-c1e7-416a-90a3-34f2dbf71cc1" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <w>a</w>
+          <g><w>mor</w><k type="mor exclude"></k></g>
+          <w>exclude</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <notes>
+        <tierData><tw>mor</tw><tw>exclude</tw></tierData>
+      </notes>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>this</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>exclude</stem></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r uuid="9e98d2c7-9dd0-4a38-bd3b-665bd8dbeb29" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>here</w>
+          <w>is</w>
+          <w>a</w>
+          <w>&amp;frag</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <notes>
+        <tierData><tw>mor</tw><tw>fragment</tw></tierData>
+      </notes>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>adv</c><subc>loc</subc></pos><stem>here</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r uuid="162139b6-0c58-481f-9449-153c1d4f1c8a" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ausgegangen</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <notes>
+        <tierData><tw>mor</tw><tw>German</tw></tierData>
+      </notes>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><mpfx>PART</mpfx><pos><c>v</c></pos><stem>geh</stem><mk type="sfxf">PAST</mk><mk type="mc">PART</mk></mw><menx>go</menx><mor-pre><mw><pos><c>prep</c></pos><stem>aus</stem></mw></mor-pre></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r uuid="ff4f561d-ebed-45a7-9b54-b71695c061c7" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>here</w>
+          <w>is</w>
+          <w>a</w>
+          <e>
+            <happening>thing</happening>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <notes>
+        <tierData><tw>mor</tw><tw>happening</tw></tierData>
+      </notes>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>adv</c><subc>loc</subc></pos><stem>here</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r uuid="20eb0dba-f6b0-4ddc-944d-554d5c1d177f" excludeFromSearches="false">
+      <orthography>
+        <u xml:lang="deu">
+          <w>danke</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <notes>
+        <tierData><tw>mor</tw><tw>hyphen</tw></tierData>
+      </notes>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>danke</stem></mw><menx>thank-you</menx></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r uuid="47d503ab-7562-40c6-9963-73e0883fcee9" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ah</w>
+          <w>oui</w>
+          <w>alors</w>
+          <w>je</w>
+          <w>peux</w>
+          <w>éteindre</w>
+          <w>dans</w>
+          <w>le</w>
+          <w>couloir</w>
+          <w>oui</w>
+          <w>non</w>
+          <w>elle</w>
+          <w>va</w>
+          <w>chercher</w>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <notes>
+        <tierData><tw>mor</tw><tw>long</tw></tierData>
+      </notes>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>ah</stem></mw></mor>
+          <mor><mw><pos><c>co</c></pos><stem>oui</stem></mw><menx>yes</menx></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>alors</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>subj</subc></pos><stem>je</stem></mw></mor>
+          <mor><mw><pos><c>v</c><subc>mdl</subc></pos><stem>pouvoir</stem><mk type="sfxf">PRES</mk><mk type="sfxf">12s</mk></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>éteindre</stem><mk type="sfx">INF</mk></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>dans</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>le</stem><mk type="sfxf">m</mk><mk type="sfxf">sg</mk></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>couloir</stem><mk type="sfxf">m</mk></mw></mor>
+          <mor><mw><pos><c>co</c></pos><stem>oui</stem></mw><menx>yes</menx></mor>
+          <mor><mw><pos><c>co</c></pos><stem>non</stem></mw><menx>no</menx></mor>
+          <mor><mw><pos><c>pro</c><subc>subj</subc></pos><stem>elle</stem></mw></mor>
+          <mor><mw><pos><c>v</c><subc>mdl</subc></pos><stem>aller</stem><mk type="sfxf">PRES</mk><mk type="sfxf">3s</mk></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>chercher</stem><mk type="sfx">INF</mk></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r uuid="4bc66528-28fb-41bb-914c-c4b61e55700a" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>here</w>
+          <w>is</w>
+          <w>an</w>
+          <w type="omission">for</w>
+          <w>word</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <notes>
+        <tierData><tw>mor</tw><tw>omitted</tw></tierData>
+      </notes>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>adv</c><subc>loc</subc></pos><stem>here</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>for</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>word</stem></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r uuid="d3ceb763-8420-4b8c-a024-587fdbf49ae8" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>here</w>
+          <w>is</w>
+          <w>a</w>
+          <pause symbolic-length="simple"></pause>
+          <w>pause</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <notes>
+        <tierData><tw>mor</tw><tw>pause</tw></tierData>
+      </notes>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>adv</c><subc>loc</subc></pos><stem>here</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>pause</stem></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="b2a1ecf5-180f-4036-96e4-bba429eca1e6" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>foo<wk type="cli"></wk>bar</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <notes>
+        <tierData><tw>mor</tw><tw>postclitic</tw></tierData>
+      </notes>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>v</c></pos><stem>foo</stem></mw><mor-post><mw><pos><c>v</c></pos><stem>bar</stem></mw></mor-post></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r uuid="38d414b2-8bdb-409b-8e68-1ee06b009656" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>Ethan's</w>
+          <w>fast</w>
+          <w>megaunrework</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <notes>
+        <tierData><tw>mor</tw><tw>prefix</tw></tierData>
+      </notes>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>n</c><subc>prop</subc></pos><stem>Ethan</stem><mk type="sfx">POSS</mk></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>fast</stem></mw></mor>
+          <mor><mw><mpfx>mega</mpfx><mpfx>un</mpfx><mpfx>re</mpfx><pos><c>v</c></pos><stem>work</stem></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r uuid="8d7c7a8d-a481-453a-b022-69935b4e748e" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>lil<replacement real="false"><w>little</w></replacement></w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <notes>
+        <tierData><tw>mor</tw><tw>replacment</tw></tierData>
+      </notes>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>adj</c></pos><stem>little</stem></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r uuid="623f80a5-ab00-447a-91f6-e0d7594faa63" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <w>a</w>
+          <g><w>one</w><k type="retracing"></k></g>
+          <w>retrace</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <notes>
+        <tierData><tw>mor</tw><tw>retracing</tw></tierData>
+      </notes>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>this</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>retrace</stem></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r uuid="cc805af8-e709-4506-b414-837196389a64" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <w>a</w>
+          <g><w>two</w><k type="retracing with correction"></k></g>
+          <w>retrace</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <notes>
+        <tierData><tw>mor</tw><tw>retracing</tw></tierData>
+      </notes>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>this</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>retrace</stem></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r uuid="0815b7e7-81de-4c6c-9adb-5087417d9d26" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <w>a</w>
+          <g><w>three</w><k type="retracing reformulation"></k></g>
+          <w>retrace</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <notes>
+        <tierData><tw>mor</tw><tw>retracing</tw></tierData>
+      </notes>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>this</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>retrace</stem></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r uuid="6d84b909-2d3f-4187-91a0-05c1d6ce023a" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <w>a</w>
+          <g><w>four</w><k type="false start"></k></g>
+          <w>retrace</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <notes>
+        <tierData><tw>mor</tw><tw>retracing</tw></tierData>
+      </notes>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>this</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>retrace</stem></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r uuid="48e159df-8068-42b6-89b9-b587d06a466a" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <w>a</w>
+          <g><w>five</w><k type="retracing unclear"></k></g>
+          <w>retrace</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <notes>
+        <tierData><tw>mor</tw><tw>retracing</tw></tierData>
+      </notes>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>this</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>retrace</stem></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r uuid="804f9ca9-28e2-4d8f-9f94-0088f9333bae" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <w>a</w>
+          <g><w>four</w><w>five</w><w>six</w><k type="retracing unclear"></k></g>
+          <w>retrace</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <notes>
+        <tierData><tw>mor</tw><tw>retracing</tw></tierData>
+      </notes>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>this</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>retrace</stem></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r uuid="33b05b01-53b1-4186-854f-d62501748332" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>damelo</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <notes>
+        <tierData><tw>mor</tw><tw>Spanish</tw></tierData>
+      </notes>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>v</c></pos><stem>da</stem></mw><mor-post><mw><pos><c>pro</c></pos><stem>me</stem><mk type="sfxf">dat</mk></mw></mor-post><mor-post><mw><pos><c>pro</c></pos><stem>lo</stem><mk type="sfxf">acc</mk></mw><menx>give</menx></mor-post></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r uuid="d317c52a-8c7f-4e16-af1d-eff74edc63ba" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>it</w>
+          <w>was</w>
+          <w>lowering</w>
+          <g><w>concrete</w><w>posts</w><tagMarker type="tag"></tagMarker><w>wasn't</w><w>it</w><w>off</w><w>a</w><k type="retracing with correction"></k></g>
+          <w>concrete</w>
+          <w>girders</w>
+          <g><w>off</w><w>a</w><k type="retracing"></k></g>
+          <w>off</w>
+          <w>a</w>
+          <w>lorry</w>
+          <tagMarker type="tag"></tagMarker>
+          <w>wasn't</w>
+          <w>it</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <notes>
+        <tierData><tw>mor</tw><tw>tag</tw><tw>marker</tw></tierData>
+      </notes>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c></pos><stem>it</stem></mw></mor>
+          <mor><mw><pos><c>aux</c></pos><stem>be</stem><mk type="sfxf">PAST</mk><mk type="sfxf">13S</mk></mw></mor>
+          <mor><mw><pos><c>part</c></pos><stem>lower</stem><mk type="sfx">PROG</mk></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>concrete</stem></mw></mor>
+          <mor><mw><pos><c>n</c><subc>v</subc></pos><stem>gird</stem><mk type="sfx">AGT</mk><mk type="sfx">PL</mk></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>off</stem></mw></mor>
+          <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>lorry</stem></mw></mor>
+          <mor><mw><pos><c>end</c></pos><stem>end</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">PAST</mk><mk type="sfxf">13S</mk></mw><mor-post><mw><pos><c>neg</c></pos><stem>not</stem></mw></mor-post></mor>
+          <mor><mw><pos><c>pro</c></pos><stem>it</stem></mw></mor>
+          <mor><mt type="q"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r uuid="1dfa4066-76c3-4b15-87cc-907dd57d474c" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>it</w>
+          <w>was</w>
+          <w>lowering</w>
+          <g><w>concrete</w><w>posts</w><tagMarker type="vocative"></tagMarker><w>wasn't</w><w>it</w><w>off</w><w>a</w><k type="retracing with correction"></k></g>
+          <w>concrete</w>
+          <w>girders</w>
+          <g><w>off</w><w>a</w><k type="retracing"></k></g>
+          <w>off</w>
+          <w>a</w>
+          <w>lorry</w>
+          <tagMarker type="vocative"></tagMarker>
+          <w>wasn't</w>
+          <w>it</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <notes>
+        <tierData><tw>mor</tw><tw>tag</tw><tw>marker</tw></tierData>
+      </notes>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c></pos><stem>it</stem></mw></mor>
+          <mor><mw><pos><c>aux</c></pos><stem>be</stem><mk type="sfxf">PAST</mk><mk type="sfxf">13S</mk></mw></mor>
+          <mor><mw><pos><c>part</c></pos><stem>lower</stem><mk type="sfx">PROG</mk></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>concrete</stem></mw></mor>
+          <mor><mw><pos><c>n</c><subc>v</subc></pos><stem>gird</stem><mk type="sfx">AGT</mk><mk type="sfx">PL</mk></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>off</stem></mw></mor>
+          <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>lorry</stem></mw></mor>
+          <mor><mw><pos><c>beg</c></pos><stem>beg</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">PAST</mk><mk type="sfxf">13S</mk></mw><mor-post><mw><pos><c>neg</c></pos><stem>not</stem></mw></mor-post></mor>
+          <mor><mw><pos><c>pro</c></pos><stem>it</stem></mw></mor>
+          <mor><mt type="q"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r uuid="b1a77287-7200-4a9d-8763-918dc7ae7c1b" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>it</w>
+          <w>was</w>
+          <w>lowering</w>
+          <g><w>concrete</w><w>posts</w><tagMarker type="comma"></tagMarker><w>wasn't</w><w>it</w><w>off</w><w>a</w><k type="retracing with correction"></k></g>
+          <w>concrete</w>
+          <w>girders</w>
+          <g><w>off</w><w>a</w><k type="retracing"></k></g>
+          <w>off</w>
+          <w>a</w>
+          <w>lorry</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>wasn't</w>
+          <w>it</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <notes>
+        <tierData><tw>mor</tw><tw>tag</tw><tw>marker</tw></tierData>
+      </notes>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c></pos><stem>it</stem></mw></mor>
+          <mor><mw><pos><c>aux</c></pos><stem>be</stem><mk type="sfxf">PAST</mk><mk type="sfxf">13S</mk></mw></mor>
+          <mor><mw><pos><c>part</c></pos><stem>lower</stem><mk type="sfx">PROG</mk></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>concrete</stem></mw></mor>
+          <mor><mw><pos><c>n</c><subc>v</subc></pos><stem>gird</stem><mk type="sfx">AGT</mk><mk type="sfx">PL</mk></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>off</stem></mw></mor>
+          <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>lorry</stem></mw></mor>
+          <mor><mw><pos><c>cm</c></pos><stem>cm</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">PAST</mk><mk type="sfxf">13S</mk></mw><mor-post><mw><pos><c>neg</c></pos><stem>not</stem></mw></mor-post></mor>
+          <mor><mw><pos><c>pro</c></pos><stem>it</stem></mw></mor>
+          <mor><mt type="q"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r uuid="7c0f756d-2ee2-4c79-b6da-2846e249d2a7" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>mi</w>
+          <w>musica</w>
+          <w>mi</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <notes>
+        <tierData><tw>mor</tw><tw>translations</tw></tierData>
+      </notes>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>poss</subc></pos><stem>mi</stem></mw><menx>my</menx></mor>
+          <mor><mw><pos><c>n</c></pos><stem>musica</stem></mw><menx>musician</menx><menx>music</menx></mor>
+          <mor><mw><pos><c>pro</c><subc>poss</subc></pos><stem>mi</stem></mw><menx>my</menx></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r uuid="f7ea519d-9f24-4fad-8ee9-94d87c960336" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>perro</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <notes>
+        <tierData><tw>mor</tw><tw>translation</tw><tw>underscore</tw></tierData>
+      </notes>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>N</c></pos><stem>perro</stem><mk type="sfx">PL</mk></mw><menx>dog_more</menx></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r uuid="c1b46bc1-f9b4-46b4-b66c-f926cdb42117" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>you</w>
+          <w>gonna</w>
+          <w>put</w>
+          <w>the</w>
+          <w>choo<wk type="cmp"></wk>choo's</w>
+          <w>wheel</w>
+          <w>on</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <notes>
+        <tierData><tw>mor</tw><tw>word</tw><tw>compound</tw></tierData>
+      </notes>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c></pos><stem>you</stem></mw></mor>
+          <mor><mw><pos><c>part</c></pos><stem>go</stem><mk type="sfx">PROG</mk></mw><mor-post><mw><pos><c>inf</c></pos><stem>to</stem></mw></mor-post></mor>
+          <mor><mw><pos><c>v</c></pos><stem>put</stem><mk type="sfxf">ZERO</mk></mw></mor>
+          <mor><mw><pos><c>det</c></pos><stem>the</stem></mw></mor>
+          <mor><mwc><pos><c>n</c></pos><mw><pos><c>on</c></pos><stem>choo</stem></mw><mw><pos><c>on</c></pos><stem>choo</stem></mw></mwc><mor-post><mw><pos><c>v</c><subc>cop</subc></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor>
+          <mor><mw><pos><c>n</c></pos><stem>wheel</stem></mw></mor>
+          <mor><mw><pos><c>adv</c><subc>loc</subc></pos><stem>on</stem></mw></mor>
+          <mor><mt type="q"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+  </transcript>
+</session>
