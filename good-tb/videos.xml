@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+      Media="videos" Mediatypes="video"
+      Version="2.20.0"
+      Lang="eng"
+      Corpus="Scale"
+      >
+  <Participants>
+    <participant
+      id="PAR1"
+    name="Alison"
+      role="Participant"
+      language="eng"
+      sex="female"
+      custom-field="Alison"
+    />
+    <participant
+      id="PAR2"
+    name="Don"
+      role="Participant"
+      language="eng"
+      sex="male"
+      custom-field="Don"
+    />
+    <participant
+      id="PAR3"
+    name="Larry"
+      role="Participant"
+      language="eng"
+      sex="male"
+      custom-field="Larry"
+    />
+    <participant
+      id="PAR4"
+    name="Barry"
+      role="Participant"
+      language="eng"
+      sex="male"
+      custom-field="Barry"
+    />
+    <participant
+      id="PAR5"
+    name="Chris"
+      role="Participant"
+      language="eng"
+      sex="female"
+      custom-field="Chris"
+    />
+    <participant
+      id="INV1"
+    name="Christopher"
+      role="Investigator"
+      language="eng"
+      sex="male"
+      custom-field="Christopher"
+    />
+    <participant
+      id="INV2"
+    name="Denise"
+      role="Investigator"
+      language="eng"
+      sex="female"
+      custom-field="Denise"
+    />
+    <participant
+      id="INV3"
+    name="Margie"
+      role="Investigator"
+      language="eng"
+      sex="female"
+      custom-field="Margie"
+    />
+  </Participants>
+  <u who="INV1" uID="u0">
+    <w>alright</w>
+    <t type="p"></t>
+    <media
+      start="1.600"
+      end="2.364"
+      unit="s"
+    />
+  </u>
+</CHAT>
