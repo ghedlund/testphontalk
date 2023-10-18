@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="form-marker-plural-with-mor" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Child</role>
+      <group>normal</group>
+      <sex>female</sex>
+      <age>P1Y8M0DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+    <participant id="MOT">
+      <role>Mother</role>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <userTiers>
+    <td tierName="Morphology" type="mor" excludeFromAlignment="true"></td>
+  </userTiers>
+  <transcript>
+    <comment type="Generic">
+      <tierData><tw>Special</tw><tw>form</tw><tw>marker</tw><tw>plural</tw><tw>hack.</tw></tierData>
+    </comment>
+    <comment type="Generic">
+      <tierData><tw>Contrast</tw><tw>with</tw><tw>regular</tw><tw>word</tw><tw>plural</tw><tw>with</tw><tw>hyphen.</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="7a36abb4-2ea8-4b72-b2bf-fc2ccdb071e3" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>boy-s</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>n</c></pos><stem>boy</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="2628ff20-65b5-49d6-b820-083e77183a14" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w formSuffix="-s" formType="letter">a</w>
+          <w formSuffix="-s" formType="letter">b</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>n</c><subc>let</subc></pos><stem>a</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mw><pos><c>n</c><subc>let</subc></pos><stem>b</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+  </transcript>
+</session>

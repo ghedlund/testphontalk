@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="mor-gra-pho-mod" corpus="Alex" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <date>2002-05-02</date>
+  <languages>eng</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Target_Child</role>
+      <name>Alex</name>
+      <sex>male</sex>
+      <age>P1Y4M28DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+    <participant id="MOT">
+      <role>Mother</role>
+      <name>Mother</name>
+      <age>P25Y0M0DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+    <participant id="OPE">
+      <role>Speaker</role>
+      <name>Speaker</name>
+      <age>P25Y0M0DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+    <participant id="ENV">
+      <role>Environment</role>
+      <name>Environment</name>
+      <age>P25Y0M0DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+    <participant id="TOY">
+      <role>Speaker</role>
+      <name>Speaker</name>
+      <age>P25Y0M0DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <userTiers>
+    <td tierName="Morphology" type="mor" excludeFromAlignment="true"></td>
+    <td tierName="Grasp" type="gra" excludeFromAlignment="true"></td>
+  </userTiers>
+  <transcript>
+    <comment type="Generic">
+      <tierData><tw>matt</tw><tw>denio</tw></tierData>
+    </comment>
+    <comment type="Generic">
+      <tierData><tw>Language</tw><tw>of</tw><tw>Caregivers</tw><tw>Mother</tw><tw>Southeastern</tw><tw>Massachusetts</tw><tw>,</tw><tw>Father</tw><tw>Southeastern</tw><tw>Massachusetts</tw><tw>,</tw><tw>Grandmother</tw><tw>Southeastern</tw><tw>Massachusetts</tw></tierData>
+    </comment>
+    <comment type="Date">
+      <tierData><tw>02-MAY-2002</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="414a51c6-98d5-45ef-ad7f-355fbe838935" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <pg><g><w>Mommy</w><k type="best guess"></k></g></pg>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"></stress><ph><base>m</base></ph><ph><base>ɑ</base></ph><ph><base>m</base></ph><ph><base>i</base><phlen>ː</phlen></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"></stress><ph><base>ɑ</base></ph><ph><base>m</base></ph><ph><base>ɪ</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>n</c><subc>prop</subc></pos><stem>Mommy</stem></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+      <userTier name="Grasp">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"></gra>
+          <gra index="2" head="1" relation="PUNCT"></gra>
+        </gras>
+      </userTier>
+    </r>
+  </transcript>
+</session>

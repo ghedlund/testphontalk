@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="lang-marker" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <date>1964-07-23</date>
+  <languages>eng zho</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Child</role>
+      <group>normal</group>
+      <sex>female</sex>
+      <age>P1Y8M0DT0H0M0S</age>
+      <languages>eng zho</languages>
+    </participant>
+    <participant id="MOT">
+      <role>Mother</role>
+      <languages>eng zho</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <comment type="Date">
+      <tierData><tw>23-JUL-1964</tw></tierData>
+    </comment>
+    <comment type="Generic">
+      <tierData><tw>@s,</tw><tw>default:</tw><tw>round</tw><tw>trip</tw><tw>will</tw><tw>generate</tw><tw>explicit</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="8a574bf6-73c1-4c62-bd88-d49de237acd3" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>hey</w>
+          <w>there</w>
+          <w>what</w>
+          <w>is</w>
+          <w><langs><single>zho</single></langs>hao3</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <comment type="Generic">
+      <tierData><tw>@s,</tw><tw>one</tw><tw>explicit</tw><tw>lang</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="e5a52541-fb68-4984-94f0-4e4cddc67148" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>hey</w>
+          <w>there</w>
+          <w>what</w>
+          <w>is</w>
+          <w><langs><single>zho</single></langs>hao3</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <comment type="Generic">
+      <tierData><tw>@s,</tw><tw>two</tw><tw>langs</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="1bc0f496-f3ad-4481-994b-d110190da994" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>hey</w>
+          <w>there</w>
+          <w>what</w>
+          <w>is</w>
+          <w><langs><multiple>eng zho fra</multiple></langs>hao3</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <comment type="Generic">
+      <tierData><tw>@s,</tw><tw>two</tw><tw>langs,</tw><tw>ambiguous</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="57e8b7ab-efe0-45d9-902a-bef18be1000a" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w><langs><single>spa</single></langs>hey</w>
+          <w>there</w>
+          <w>what</w>
+          <w>is</w>
+          <w><langs><ambiguous>eng zho fra</ambiguous></langs>hao3</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+  </transcript>
+</session>

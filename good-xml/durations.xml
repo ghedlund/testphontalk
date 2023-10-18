@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="durations" corpus="sample" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <participants>
+    <participant id="MOT">
+      <role>Mother</role>
+      <languages>eng</languages>
+    </participant>
+    <participant id="CHI">
+      <role>Target_Child</role>
+      <age>P1Y10M4DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <comment type="Generic">
+      <tierData><tw>durations</tw><tw>for</tw><tw>groups</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="d185cc76-3d9f-48de-abb1-dfcc27564753" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>a</w><w>b</w><duration>3.000</duration></g>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="566594a0-331f-438d-a9ca-22611d976cc0" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>a</w><w>b</w><duration>123.000</duration></g>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="9e9a0674-422b-46dd-b6c9-3d8ce4e18022" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>a</w><w>b</w><duration>123.400</duration></g>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="79555cb2-688b-4e31-96dd-eaf44747e889" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>a</w><w>b</w><duration>3.400</duration></g>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="a1504cf1-6479-4c82-b8f5-e7909b472e68" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <happening>foo</happening>
+            <duration>6.000</duration>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+  </transcript>
+</session>

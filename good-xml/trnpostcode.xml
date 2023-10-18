@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="trnpostcode" corpus="belfast" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <date>1996-03-26</date>
+  <languages>eng</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Target_Child</role>
+      <name>Courtney</name>
+      <SES>UC</SES>
+      <birthday>1992-09-08</birthday>
+      <age>P3Y6M18DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+    <participant id="MOT">
+      <role>Mother</role>
+      <name>Tracy</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="INV">
+      <role>Investigator</role>
+      <name>Rose</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="FAT">
+      <role>Father</role>
+      <name>Tom</name>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <userTiers>
+    <td tierName="Morphology" type="mor" excludeFromAlignment="true"></td>
+    <td tierName="Speech Turn" type="mor" excludeFromAlignment="true"></td>
+  </userTiers>
+  <transcript>
+    <comment type="Date">
+      <tierData><tw>26-MAR-1996</tw></tierData>
+    </comment>
+    <comment type="Situation">
+      <tierData><tw>Did</tw><tw>a</tw><tw>Topsy</tw><tw>and</tw><tw>Tim</tw><tw>jigsaw</tw><tw>and</tw><tw>then</tw><tw>magnetic</tw><tw>fishing.</tw><tw>Ethan,</tw><tw>the</tw><tw>baby,</tw><tw>was</tw><tw>asleep</tw><tw>on</tw><tw>the</tw><tw>settee</tw><tw>to</tw><tw>begin</tw><tw>with.</tw><tw>Tom</tw><tw>came</tw><tw>in</tw><tw>briefly</tw><tw>on</tw><tw>his</tw><tw>way</tw><tw>to</tw><tw>work.</tw><tw>Hadn't</tw><tw>the</tw><tw>microphone</tw><tw>switched</tw><tw>on</tw><tw>to</tw><tw>begin</tw><tw>with</tw><tw>so</tw><tw>this</tw><tw>starts</tw><tw>a</tw><tw>few</tw><tw>minutes</tw><tw>into</tw><tw>the</tw><tw>visit.</tw></tierData>
+    </comment>
+    <r speaker="INV" uuid="b7234169-83d1-4ed9-94f8-98027ee8b9ae" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>do</w>
+          <w>you</w>
+          <w>like</w>
+          <w>having</w>
+          <w>laces</w>
+          <w>or</w>
+          <w>buckles</w>
+          <t type="q"></t>
+          <postcode>bch</postcode>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>v</c></pos><stem>do</stem></mw></mor>
+          <mor><mw><pos><c>pro</c></pos><stem>you</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>like</stem></mw></mor>
+          <mor><mw><pos><c>part</c></pos><stem>have</stem><mk type="sfx">PRES_PART</mk></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>lace</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mw><pos><c>conj</c><subc>coo</subc></pos><stem>or</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>buckle</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mt type="q"></mt></mor>
+        </mors>
+      </userTier>
+      <userTier name="Speech Turn">
+        <mors>
+          <mor><mw><pos><c>v</c></pos><stem>do</stem></mw></mor>
+          <mor><mw><pos><c>pro</c></pos><stem>you</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>like</stem></mw></mor>
+          <mor><mw><pos><c>part</c></pos><stem>have</stem><mk type="sfx">PRES_PART</mk></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>lace</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mw><pos><c>conj</c><subc>coo</subc></pos><stem>or</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>buckle</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mt type="q"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+  </transcript>
+</session>

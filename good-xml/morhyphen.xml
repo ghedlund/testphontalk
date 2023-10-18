@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="morhyphen" corpus="timmy" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>fra eng</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Target_Child</role>
+      <name>Timmy</name>
+      <age>P2Y9M8DT0H0M0S</age>
+      <languages>fra eng</languages>
+    </participant>
+    <participant id="LIN">
+      <role>Investigator</role>
+      <name>Linda</name>
+      <languages>fra eng</languages>
+    </participant>
+    <participant id="WIN">
+      <role>Investigator</role>
+      <name>Winnie</name>
+      <languages>fra eng</languages>
+    </participant>
+    <participant id="GEM">
+      <role>Speaker</role>
+      <name>Gemma</name>
+      <languages>fra eng</languages>
+    </participant>
+  </participants>
+  <userTiers>
+    <td tierName="Morphology" type="mor" excludeFromAlignment="true"></td>
+  </userTiers>
+  <transcript>
+    <comment type="Generic">
+      <tierData><tw>mor</tw><tw>translation</tw><tw>with</tw><tw>hyphen</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="29f7de49-7c58-4085-a6bc-7cf8dce5a055" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>danke</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>danke</stem></mw><menx>thank-you</menx></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+  </transcript>
+</session>

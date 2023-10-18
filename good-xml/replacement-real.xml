@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="replacement-real" corpus="Kansas" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <media>replacement-real</media>
+  <participants>
+    <participant id="PAR">
+      <role>Participant</role>
+      <name>kansas14a</name>
+      <group>Wernicke</group>
+      <sex>female</sex>
+      <SES>UC</SES>
+      <languages>eng</languages>
+    </participant>
+    <participant id="INV">
+      <role>Investigator</role>
+      <SES>UC</SES>
+      <languages>eng</languages>
+    </participant>
+    <participant id="INV2">
+      <role>Investigator</role>
+      <SES>UC</SES>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <userTiers>
+    <td tierName="Morphology" type="mor" excludeFromAlignment="true"></td>
+  </userTiers>
+  <transcript>
+    <comment type="Generic">
+      <tierData><tw>replacement</tw><tw>for</tw><tw>real</tw><tw>word,</tw><tw>so</tw><tw>that</tw><tw>mor</tw><tw>ignores</tw></tierData>
+    </comment>
+    <r speaker="PAR" uuid="88751caa-18a6-4f9b-baff-9863662e0cc7" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <happening>coughs</happening>
+          </e>
+          <w>well</w>
+          <w>this</w>
+          <w>is</w>
+          <g><w>a</w><w>little</w><g><w>girl<replacement real="true"><w>boy</w></replacement></w><error>s:r-ret</error></g><k type="retracing with correction"></k></g>
+          <e>
+            <happening>points:picture_one</happening>
+          </e>
+          <g><w>a</w><w>person</w><k type="retracing with correction"></k></g>
+          <w>a</w>
+          <g><w>man<replacement real="true"><w>boy</w></replacement></w><error>s:r-rep</error><k type="retracing"></k></g>
+          <w>man</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="200.785" end="204.700" unit="s"></segment>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>well</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>this</stem></mw></mor>
+          <mor><mw><pos><c>v</c><subc>cop</subc></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>man</stem></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r speaker="PAR" uuid="f38cfe1e-65de-4a4d-81d3-6ecdd6c8effa" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <happening>points:picture_one</happening>
+          </e>
+          <w>that's</w>
+          <w>the</w>
+          <g><w>father<replacement real="true"><w>son</w></replacement></w><error>s:r</error></g>
+          <e>
+            <happening>points:picture_three</happening>
+          </e>
+          <w>and</w>
+          <w>this</w>
+          <w>is</w>
+          <w>the</w>
+          <w>older</w>
+          <w>one</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="277.889" end="279.746" unit="s"></segment>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>that</stem></mw><mor-post><mw><pos><c>v</c><subc>cop</subc></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor>
+          <mor><mw><pos><c>det</c></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>father</stem></mw></mor>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>this</stem></mw></mor>
+          <mor><mw><pos><c>v</c><subc>cop</subc></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>det</c></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>adj</c></pos><stem>old</stem><mk type="sfx">CP</mk></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>indef</subc></pos><stem>one</stem></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r speaker="PAR" uuid="7b78eeff-0e75-42de-95e1-e24b5761c481" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <happening>points:picture_one</happening>
+          </e>
+          <g><w>let's</w><k type="retracing with correction"></k></g>
+          <w>it's</w>
+          <g><w>a</w><k type="retracing with correction"></k></g>
+          <w type="nonword">ba</w>
+          <w>the</w>
+          <g><w>brain<replacement real="true"><w>umbrella</w></replacement></w><error>s:ur</error></g>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="355.535" end="357.031" unit="s"></segment>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c></pos><stem>it</stem></mw><mor-post><mw><pos><c>v</c><subc>cop</subc></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor>
+          <mor><mw><pos><c>det</c></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>brain</stem></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+  </transcript>
+</session>

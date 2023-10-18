@@ -1,0 +1,884 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="ca" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Child</role>
+      <group>normal</group>
+      <sex>female</sex>
+      <age>P1Y8M0DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+    <participant id="MOT">
+      <role>Mother</role>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <comment type="Generic">
+      <tierData><tw>Elements</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="bd3bd0d7-5c5f-4035-9456-c04e49f872c5" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>blocked</w>
+          <w>segments</w>
+          <w>rub-b-b<ca-element type="blocked segments"></ca-element>bber</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="5657bc66-2cc9-4210-aa92-a60a84a96e42" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <w>p<ca-element type="pitch up"></ca-element>itch</w>
+          <w>up</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="f457e78e-5d17-403a-b35e-6ff51b9d7635" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <w>p<ca-element type="pitch down"></ca-element>itch</w>
+          <w>down</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="f030b609-d249-4f3d-ac5d-e5519c21b665" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <w>in<ca-element type="inhalation"></ca-element>halation</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="b0e09588-b6f8-4378-a74b-cc727f9528c1" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <w>constriction<ca-element type="constriction"></ca-element></w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="6677bdf4-370e-4ee8-9a93-3e4faa15bbc4" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <w><ca-element type="pitch reset"></ca-element>pitch</w>
+          <w>reset</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="c350ac23-1fb1-447b-986a-d324ef1488bf" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <w>lau<ca-element type="laugh in word"></ca-element>gh</w>
+          <w>in</w>
+          <w>word</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <comment type="Generic">
+      <tierData><tw>CA</tw><tw>overlaps</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="892f6b33-da67-47f7-ba9f-8b46d54bc6c9" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <overlap-point start-end="start" top-bottom="top"></overlap-point>
+          <w>top</w>
+          <w>begin</w>
+          <w>overlap</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>top</w>
+          <w>end</w>
+          <w>overlap</w>
+          <overlap-point start-end="end" top-bottom="top"></overlap-point>
+          <w>here</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="017b873b-ef04-4e7b-8b45-377889d06970" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <overlap-point start-end="start" top-bottom="bottom"></overlap-point>
+          <w>bottom</w>
+          <w>begin</w>
+          <w>overlap</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>bottom</w>
+          <w>end</w>
+          <w>overlap</w>
+          <overlap-point start-end="end" top-bottom="bottom"></overlap-point>
+          <w>there</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="0a8eac62-df5e-4d07-9474-82a01814a4c4" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <overlap-point start-end="start" top-bottom="top"></overlap-point>
+          <w>top</w>
+          <w>begin</w>
+          <w>overlap</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>top</w>
+          <w>end</w>
+          <w>overlap<overlap-point start-end="end" top-bottom="top"></overlap-point></w>
+          <w>here</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="9c9730de-5bf1-4a18-b01e-8e3a80f7d7b6" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <overlap-point start-end="start" top-bottom="bottom"></overlap-point>
+          <w>bottom</w>
+          <w>begin</w>
+          <w>overlap</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>bottom</w>
+          <w>end</w>
+          <w>overlap<overlap-point start-end="end" top-bottom="bottom"></overlap-point></w>
+          <w>there</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <comment type="Generic">
+      <tierData><tw>CA</tw><tw>overlaps</tw><tw>,</tw><tw>inside</tw><tw>groups</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="d807693e-301b-44db-8fff-338720a685ea" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>a</w><overlap-point start-end="start" top-bottom="top"></overlap-point><w>top</w><w>begin</w><w>overlap</w><tagMarker type="comma"></tagMarker><w>top</w><w>end</w><w>overlap</w><overlap-point start-end="end" top-bottom="top"></overlap-point><w>here</w><ga type="explanation">foo</ga></g>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="590cf591-2484-4d8f-85e4-e9779c4321e5" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>a</w><overlap-point start-end="start" top-bottom="bottom"></overlap-point><w>bottom</w><w>begin</w><w>overlap</w><tagMarker type="comma"></tagMarker><w>bottom</w><w>end</w><w>overlap</w><overlap-point start-end="end" top-bottom="bottom"></overlap-point><w>there</w><ga type="explanation">foo</ga></g>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="7edf2ff6-c9f4-4a2b-bb72-84916662f047" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>a</w><overlap-point start-end="start" top-bottom="top"></overlap-point><w>top</w><w>begin</w><w>overlap</w><tagMarker type="comma"></tagMarker><w>top</w><w>end</w><w>overlap<overlap-point start-end="end" top-bottom="top"></overlap-point></w><w>here</w><ga type="explanation">foo</ga></g>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="48d6418a-a24c-4146-9387-95f6eb48a3ce" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>a</w><overlap-point start-end="start" top-bottom="bottom"></overlap-point><w>bottom</w><w>begin</w><w>overlap</w><tagMarker type="comma"></tagMarker><w>bottom</w><w>end</w><w>overlap<overlap-point start-end="end" top-bottom="bottom"></overlap-point></w><w>there</w><ga type="explanation">foo</ga></g>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <comment type="Generic">
+      <tierData><tw>Segment</tw><tw>repetition</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="456d8e00-db5c-4b63-a52b-e4f35d90448a" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w><ca-delimiter type="begin" label="repeated-segment"></ca-delimiter>s-s-s<ca-delimiter type="end" label="repeated-segment"></ca-delimiter>segment</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="011dfb73-12ae-4438-9a54-0ac4ea738f85" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w><ca-delimiter type="begin" label="repeated-segment"></ca-delimiter>s-s-s<ca-delimiter type="end" label="repeated-segment"></ca-delimiter>seg<ca-delimiter type="begin" label="repeated-segment"></ca-delimiter>m-m-m-m<ca-delimiter type="end" label="repeated-segment"></ca-delimiter>ments</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <comment type="Generic">
+      <tierData><tw>Unmatched</tw><tw>delimiters</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="e3d75ad3-7ee3-4e98-943b-e7e28b887605" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <w><ca-delimiter type="begin" label="faster"></ca-delimiter>faster<ca-delimiter type="end" label="faster"></ca-delimiter></w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="00deee10-3bf0-4b27-ad27-883ffb6c6463" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <w><ca-delimiter type="begin" label="slower"></ca-delimiter>slower<ca-delimiter type="end" label="slower"></ca-delimiter></w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="5f7b3968-3aee-4f02-85cd-5b4f3fa41a82" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <w><ca-delimiter type="begin" label="creaky"></ca-delimiter>creaky<ca-delimiter type="end" label="creaky"></ca-delimiter></w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="47a91ce0-411f-426e-b241-70169051f814" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <w><ca-delimiter type="begin" label="softer"></ca-delimiter>softer<ca-delimiter type="end" label="softer"></ca-delimiter></w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="712d9ea9-a159-493f-b8c2-7ea63c1e38d2" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <w><ca-delimiter type="begin" label="low-pitch"></ca-delimiter>lowpitch<ca-delimiter type="end" label="low-pitch"></ca-delimiter></w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="6aeb62f7-1a29-4e66-88d4-08cfdfbc84eb" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <w><ca-delimiter type="begin" label="high-pitch"></ca-delimiter>highpitch<ca-delimiter type="end" label="high-pitch"></ca-delimiter></w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="53bede71-25a6-4fe0-9a42-c614abec0e0a" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <w><ca-delimiter type="begin" label="smile voice"></ca-delimiter>smilevoice<ca-delimiter type="end" label="smile voice"></ca-delimiter></w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="05213495-7654-4534-9685-6f2cf2d0f3ed" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <w><ca-delimiter type="begin" label="breathy voice"></ca-delimiter>breathyvoice<ca-delimiter type="end" label="breathy voice"></ca-delimiter></w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="d854a8e5-2d70-4e47-9497-d8f32b804c4d" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <w><ca-delimiter type="begin" label="unsure"></ca-delimiter>unsure<ca-delimiter type="end" label="unsure"></ca-delimiter></w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="a97f8c46-fdde-42bb-9ab5-b79a6d41c8f5" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <w><ca-delimiter type="begin" label="whisper"></ca-delimiter>whisper<ca-delimiter type="end" label="whisper"></ca-delimiter></w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="2223eb32-46ac-4270-bf5e-0999a26e38cc" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <w><ca-delimiter type="begin" label="yawn"></ca-delimiter>yawn<ca-delimiter type="end" label="yawn"></ca-delimiter></w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="c0dd48ef-5c5f-41ec-a968-127bf9735014" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <w><ca-delimiter type="begin" label="singing"></ca-delimiter>singing<ca-delimiter type="end" label="singing"></ca-delimiter></w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <comment type="Generic">
+      <tierData><tw>Unmatched</tw><tw>delimiters</tw><tw>,</tw><tw>in</tw><tw>group</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="93354f57-a09f-4be9-8193-fe80b66e202b" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>a</w><w><ca-delimiter type="begin" label="faster"></ca-delimiter>faster<ca-delimiter type="end" label="faster"></ca-delimiter></w><ga type="explanation">foo</ga></g>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="67dc01b1-99ae-44b2-8dd9-0a07fdb07c65" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>a</w><w><ca-delimiter type="begin" label="slower"></ca-delimiter>slower<ca-delimiter type="end" label="slower"></ca-delimiter></w><ga type="explanation">foo</ga></g>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="c8af2888-4469-43ca-b786-c81506a2482c" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>a</w><w><ca-delimiter type="begin" label="creaky"></ca-delimiter>creaky<ca-delimiter type="end" label="creaky"></ca-delimiter></w><ga type="explanation">foo</ga></g>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="dd5be641-9818-46ce-89a3-dc8d49521fdd" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><g><w><ca-delimiter type="begin" label="softer"></ca-delimiter>softer<ca-delimiter type="end" label="softer"></ca-delimiter></w><k type="retracing"></k></g><w>soft</w><ga type="explanation">foo</ga></g>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="696bde20-2b1a-4992-b095-0b6246cd0975" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>a</w><w><ca-delimiter type="begin" label="softer"></ca-delimiter>softer<ca-delimiter type="end" label="softer"></ca-delimiter></w><ga type="explanation">foo</ga></g>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="dc4223e8-d4ae-4002-bb16-3baeaa8ace22" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>a</w><w><ca-delimiter type="begin" label="low-pitch"></ca-delimiter>lowpitch<ca-delimiter type="end" label="low-pitch"></ca-delimiter></w><ga type="explanation">foo</ga></g>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="86e40503-3e29-4767-aad7-85854f9af96a" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>a</w><w><ca-delimiter type="begin" label="high-pitch"></ca-delimiter>highpitch<ca-delimiter type="end" label="high-pitch"></ca-delimiter></w><ga type="explanation">foo</ga></g>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="6d7978f8-2d69-4d12-90af-17b980588092" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>a</w><w><ca-delimiter type="begin" label="smile voice"></ca-delimiter>smilevoice<ca-delimiter type="end" label="smile voice"></ca-delimiter></w><ga type="explanation">foo</ga></g>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="232d26e9-ca41-428f-81e3-5bc4dee8d365" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>a</w><w><ca-delimiter type="begin" label="breathy voice"></ca-delimiter>breathyvoice<ca-delimiter type="end" label="breathy voice"></ca-delimiter></w><ga type="explanation">foo</ga></g>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="34f53b6b-871c-4d9a-b06c-22c06e9fa554" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>a</w><w><ca-delimiter type="begin" label="unsure"></ca-delimiter>unsure<ca-delimiter type="end" label="unsure"></ca-delimiter></w><ga type="explanation">foo</ga></g>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="32bb0888-16fd-4527-a7d8-36da6b0e2cea" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>a</w><w><ca-delimiter type="begin" label="whisper"></ca-delimiter>whisper<ca-delimiter type="end" label="whisper"></ca-delimiter></w><ga type="explanation">foo</ga></g>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="7c39e23b-a453-4ba9-a9c0-0ce3110e186c" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>a</w><w><ca-delimiter type="begin" label="yawn"></ca-delimiter>yawn<ca-delimiter type="end" label="yawn"></ca-delimiter></w><ga type="explanation">foo</ga></g>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="b7a24909-8f15-4d41-89cd-426e364ad5cf" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>a</w><w><ca-delimiter type="begin" label="singing"></ca-delimiter>singing<ca-delimiter type="end" label="singing"></ca-delimiter></w><ga type="explanation">foo</ga></g>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <comment type="Generic">
+      <tierData><tw>No</tw><tw>terminator</tw><tw>at</tw><tw>end</tw><tw>of</tw><tw>utterance</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="ba141c04-692e-46b2-9e59-bd920ead13df" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>rising</w>
+          <w>to</w>
+          <w>high</w>
+          <s type="rising to high"></s>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="27b31763-2b5f-4141-a5cf-d7df6603b8e5" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>rising</w>
+          <w>to</w>
+          <w>mid</w>
+          <s type="rising to mid"></s>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="0455a95b-695c-4a2b-adab-f544c77909a9" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>level</w>
+          <s type="level"></s>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="edf5ccd0-9ecf-4b45-8473-cd55f3988266" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>falling</w>
+          <w>to</w>
+          <w>mid</w>
+          <s type="falling to mid"></s>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="823e535e-bebc-48cc-ab01-224b3f3598a5" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>falling</w>
+          <w>to</w>
+          <w>low</w>
+          <s type="falling to low"></s>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <comment type="Generic">
+      <tierData><tw>continuations</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="822d38bf-45a7-417f-b027-04af6e7bed57" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>rising</w>
+          <w>to</w>
+          <w>high</w>
+          <w>with</w>
+          <w>continuation</w>
+          <s type="rising to high"></s>
+          <t type="technical break TCU continuation"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="7bdf4bd7-5fb4-4878-aeb2-39a89dbb2a1b" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>junk</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="bc94b92c-5eb5-4d54-bc3d-8fd81f234370" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <linker type="technical break TCU completion"></linker>
+          <w>continuation</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="8e1addcc-7b98-4a1f-b799-07473fbfa67f" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>rising</w>
+          <w>to</w>
+          <w>mid</w>
+          <w>with</w>
+          <w>continuation</w>
+          <s type="rising to mid"></s>
+          <t type="technical break TCU continuation"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="130c715a-b588-473e-9edb-8ab088f83e2f" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>junk</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="c7192210-5d62-4cdd-9afd-28b3c914cc44" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <linker type="technical break TCU completion"></linker>
+          <w>continuation</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="42884e16-d311-454e-a78b-b3a69c15bc97" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>level</w>
+          <w>with</w>
+          <w>continuation</w>
+          <s type="level"></s>
+          <t type="technical break TCU continuation"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="58fffe95-2f42-4b3b-932f-328578c417f0" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>junk</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="0fee0a6b-5cfc-4c53-a4d6-843266ebaf35" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <linker type="technical break TCU completion"></linker>
+          <w>continuation</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="562fe210-1e6e-49f8-b5c6-a7ea84132028" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>falling</w>
+          <w>to</w>
+          <w>mid</w>
+          <w>with</w>
+          <w>continuation</w>
+          <s type="falling to mid"></s>
+          <t type="technical break TCU continuation"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="eff56636-aba9-4436-9e1e-11c92614275d" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>junk</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="d7168eea-9134-4485-ab64-19433baf1db0" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <linker type="technical break TCU completion"></linker>
+          <w>continuation</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="f7eeeb54-c32f-4e93-b6b8-dea583d4ac3a" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>falling</w>
+          <w>to</w>
+          <w>low</w>
+          <w>with</w>
+          <w>continuation</w>
+          <s type="falling to low"></s>
+          <t type="technical break TCU continuation"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="13fbb51f-82cb-43b1-8982-c5b3732f8ffb" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>junk</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="bfa75b26-cf6c-4ae0-8704-7055e7ee1c58" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <linker type="technical break TCU completion"></linker>
+          <w>continuation</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="f17b892b-861c-47b6-abc7-ba8ade7d2d19" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>technical</w>
+          <w>break</w>
+          <w>TCU</w>
+          <w>continuation</w>
+          <t type="technical break TCU continuation"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="0aa6c5e8-fcb3-4337-bd6b-eb170a791953" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>junk</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="607c00dc-44de-4411-9931-71abcd9b5683" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <linker type="technical break TCU completion"></linker>
+          <w>continuation</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="adb4e168-4837-421f-b2ff-b1aaa8f5dc05" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>falling</w>
+          <w>to</w>
+          <w>low</w>
+          <w>with</w>
+          <w>no</w>
+          <w>break</w>
+          <w>TCU</w>
+          <w>continuation</w>
+          <s type="falling to low"></s>
+          <t type="no break TCU continuation"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="06d02f4e-3561-4b33-bdd4-21c91bfe2163" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>junk</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="35fa8a49-f5b2-4976-b9a1-0ca60ca30b2f" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <linker type="no break TCU completion"></linker>
+          <w>no</w>
+          <w>break</w>
+          <w>TCU</w>
+          <w>continuation</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <comment type="Generic">
+      <tierData><tw>CA</tw><tw>separators</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="0ff9659d-fc2e-4f3c-a9af-a98d7f24d28d" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>foo</w>
+          <s type="rising to high"></s>
+          <w>rising</w>
+          <w>to</w>
+          <w>high</w>
+          <s type="rising to high"></s>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="d6448f6e-1c91-46f5-9b06-59ac5cab0e3a" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>foo</w>
+          <s type="rising to mid"></s>
+          <w>rising</w>
+          <w>to</w>
+          <w>mid</w>
+          <s type="rising to mid"></s>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="0afb6444-41a7-4e73-b866-17c281878c73" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>foo</w>
+          <s type="level"></s>
+          <w>level</w>
+          <s type="level"></s>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="21db9a9c-9030-41fa-88fe-06326c7b4842" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>foo</w>
+          <s type="falling to mid"></s>
+          <w>falling</w>
+          <w>to</w>
+          <w>mid</w>
+          <s type="falling to mid"></s>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="b1241491-6133-4058-a61e-d0394c832db1" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>foo</w>
+          <s type="falling to low"></s>
+          <w>falling</w>
+          <w>to</w>
+          <w>low</w>
+          <s type="falling to low"></s>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="243f1cf8-0d4f-44aa-b19b-d809e0cda95f" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>þa<overlap-point start-end="start" top-bottom="top"></overlap-point>ð</w>
+          <w>er</w>
+          <w>svo</w>
+          <w>liti<overlap-point start-end="end" top-bottom="top"></overlap-point></w>
+          <w>langt</w>
+          <w>síðan</w>
+          <s type="unmarked ending"></s>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <comment type="Generic">
+      <tierData><tw>optional</tw><tw>spaces</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="98ae5797-f7d0-47fd-a314-7a15d50566d2" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>technical</w>
+          <w>break</w>
+          <w>Tcu</w>
+          <w>continuation</w>
+          <t type="technical break TCU continuation"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="f32555fa-fdaf-4aa7-8003-2a966e39dc58" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>junk</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="b8608dd3-6fee-44a1-9c3b-cb0bcc7b4d52" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <linker type="technical break TCU completion"></linker>
+          <w>continuation</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+  </transcript>
+</session>

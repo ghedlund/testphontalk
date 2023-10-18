@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="pauseunderscore" corpus="sample" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <participants>
+    <participant id="MOT">
+      <role>Mother</role>
+      <languages>eng</languages>
+    </participant>
+    <participant id="CHI">
+      <role>Target_Child</role>
+      <age>P1Y10M4DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <comment type="Generic">
+      <tierData><tw>test</tw><tw>pause</tw><tw>with</tw><tw>.</tw><tw>(not</tw><tw>_</tw><tw>any</tw><tw>more)</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="23ca0460-3cfa-4770-bfcc-5f7e81abc575" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>word</w>
+          <pause symbolic-length="simple" length="421.500"></pause>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+  </transcript>
+</session>

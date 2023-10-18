@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="indent-overlap-simple" corpus="SBCSAE" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <participants>
+    <participant id="CAM">
+      <role>Speaker</role>
+      <name>CAM</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="JO">
+      <role>Speaker</role>
+      <name>JO</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="WESS">
+      <role>Speaker</role>
+      <name>WESS</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="FRED">
+      <role>Speaker</role>
+      <name>FRED</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="DOG">
+      <role>Environment</role>
+      <name>DOG</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="ENV">
+      <role>Environment</role>
+      <name>ENV</name>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <r speaker="JO" uuid="648d0222-a8dc-4191-a4fc-684d2bc44692" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>h<overlap-point index="2" start-end="start" top-bottom="top"></overlap-point>j</w>
+          <w>i</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+  </transcript>
+</session>

@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="types" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Child</role>
+      <group>normal</group>
+      <sex>female</sex>
+      <age>P1Y8M0DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+    <participant id="MOT">
+      <role>Mother</role>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <comment type="Types">
+      <tierData><tw>cross,</tw><tw>toyplay,</tw><tw>SLI</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="e7565f2d-5a65-42bd-8cf8-cdd70212c101" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>hey</w>
+          <w>man</w>
+          <w>what</w>
+          <w>in</w>
+          <w>the</w>
+          <w>world</w>
+          <w>isn't</w>
+          <w>this</w>
+          <w>gonna<replacement real="false"><w>going</w><w>to</w></replacement></w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="53f47303-4b53-403b-9d20-6029582a3fea" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>hey</w>
+          <w>a/c</w>
+          <w>what</w>
+          <w>in</w>
+          <w>the</w>
+          <w>universe</w>
+          <w>is</w>
+          <w>in</w>
+          <w>this</w>
+          <w>fé</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+  </transcript>
+</session>

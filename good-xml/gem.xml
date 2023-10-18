@@ -1,0 +1,2303 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="gem" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Child</role>
+      <group>normal</group>
+      <sex>female</sex>
+      <age>P1Y8M0DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+    <participant id="MOT">
+      <role>Mother</role>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <userTiers>
+    <td tierName="actions" type="default" excludeFromAlignment="true"></td>
+    <td tierName="gesture" type="default" excludeFromAlignment="true"></td>
+    <td tierName="pho" type="default" excludeFromAlignment="false"></td>
+    <td tierName="comments" type="default" excludeFromAlignment="true"></td>
+    <td tierName="explanation" type="default" excludeFromAlignment="true"></td>
+    <td tierName="intonation" type="default" excludeFromAlignment="true"></td>
+    <td tierName="alternative" type="default" excludeFromAlignment="true"></td>
+    <td tierName="paralinguistics" type="default" excludeFromAlignment="true"></td>
+  </userTiers>
+  <transcript>
+    <comment type="Generic">
+      <tierData><tw>example</tw><tw>of</tw><tw>begin</tw><tw>and</tw><tw>end</tw><tw>gems</tw></tierData>
+    </comment>
+    <gem type="begin">a</gem>
+    <r speaker="MOT" uuid="785bc223-9dea-4f69-bf3f-42aedc2f3106" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>what's</w>
+          <w>that</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>holds</tw><tw>object</tw><tw>out</tw><tw>to</tw><tw>Amy</tw></tierData>
+      </userTier>
+    </r>
+    <gem type="begin"></gem>
+    <r speaker="CHI" uuid="475e4450-cc1a-401f-b202-0bdf14cd7e5a" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible-with-pho">yyy</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="gesture">
+        <tierData><tw>looks</tw><tw>at</tw><tw>chicken</tw></tierData>
+      </userTier>
+      <userTier name="actions">
+        <tierData><tw>holds</tw><tw>nesting</tw><tw>cups</tw></tierData>
+      </userTier>
+      <userTier name="pho">
+        <tierData><tw>wi</tw></tierData>
+      </userTier>
+    </r>
+    <gem type="end"></gem>
+    <gem type="begin">b</gem>
+    <r speaker="MOT" uuid="5f7497ba-55a1-46ea-94d1-45031c0cbfdd" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>it's</w>
+          <w>a</w>
+          <w>chicken</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="bae48441-441c-4072-a2ec-237eec66500e" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>yeah</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>takes</tw><tw>chicken</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="b51e3251-d3fb-441a-a4da-84549a649dd4" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>yeah</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="8dba559c-5b13-4ae3-8fe2-a8df195ff232" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>what's</w>
+          <w>this</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;1w-2w&gt;</tw><tw>holds</tw><tw>object</tw><tw>out</tw><tw>to</tw><tw>Amy</tw><tw>&lt;1w&gt;</tw><tw>picks</tw><tw>up</tw><tw>object</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <gem type="end">a</gem>
+    <r speaker="MOT" uuid="5626c8d9-4158-496a-a103-aa5203daae5f" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>what</w>
+          <g><w>is</w><k type="stressing"></k></g>
+          <w>that</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;1w-3w&gt;</tw><tw>holds</tw><tw>object</tw><tw>out</tw><tw>to</tw><tw>Amy</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="911c0b35-ef0d-403c-81d2-3c6b7a27a14b" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible-with-pho">yyy</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;aft&gt;</tw><tw>manipulates</tw><tw>chicken</tw><tw>in</tw><tw>hands</tw></tierData>
+      </userTier>
+      <userTier name="pho">
+        <tierData><tw>6rat</tw></tierData>
+      </userTier>
+    </r>
+    <gem type="end">b</gem>
+    <r speaker="MOT" uuid="fc76e315-7973-4e71-adf3-bb46b9723289" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>it's</w>
+          <w>a</w>
+          <w>woof<wk type="cmp"></wk><shortening>woof</shortening></w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="d29072b8-e646-4468-bb50-f6f9b793939c" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>yeah</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="55e5b9ec-ab2b-486f-b615-51cc39bde66f" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>yeah</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>picks</tw><tw>up</tw><tw>object</tw><tw>and</tw><tw>puts</tw><tw>back</tw><tw>in</tw><tw>dollhouse</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="4701b7b2-003d-4217-a2f0-7552dfa7f6df" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <w>woof</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>wiggles</tw><tw>chicken</tw><tw>back</tw><tw>and</tw><tw>forth</tw></tierData>
+      </userTier>
+      <userTier name="pho">
+        <tierData><tw>&lt;2w&gt;</tw><tw>wu</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="a2855ee2-25d0-4a4a-bf37-6adbf5eda84b" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>it's</w>
+          <w>a</w>
+          <w>woof<wk type="cmp"></wk><shortening>woof</shortening></w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="9ceeaf4a-5d32-47f8-9b0e-d7d2d7315d4a" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>what's</w>
+          <w>this</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;1w&gt;</tw><tw>picks</tw><tw>up</tw><tw>object</tw><tw>from</tw><tw>dollhouse</tw><tw>and</tw><tw>holds</tw><tw>out</tw><tw>to</tw><tw>Amy</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="3b9e3cf1-1f93-4581-8c44-0842b80ce981" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <w>chicken</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="98aae309-89d1-4891-a232-178dc0a16683" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>takes</tw><tw>object</tw><tw>and</tw><tw>examines</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="674f7038-d1b9-43f0-9771-83e7826b3631" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>what's</w>
+          <w>this</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>picks</tw><tw>up</tw><tw>object</tw><tw>from</tw><tw>dollhouse</tw><tw>and</tw><tw>holds</tw><tw>out</tw><tw>to</tw><tw>Amy</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="8ad508b6-7af8-4554-b290-c4e40de3498a" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>hat</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="comments">
+        <tierData><tw>spoken</tw><tw>softly</tw></tierData>
+      </userTier>
+      <userTier name="pho">
+        <tierData><tw>hi6</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="6cb1b82a-80e3-4c05-a58d-76829ea98161" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>is</w>
+          <w>that</w>
+          <w>a</w>
+          <w>hat</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="a961e60e-5686-4571-a5b7-a6a0121b9f0d" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>yeah</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>wiggles</tw><tw>in</tw><tw>hand</tw><tw>.</tw><tw>holds</tw><tw>objects</tw><tw>in</tw><tw>both</tw><tw>hands</tw></tierData>
+      </userTier>
+      <userTier name="comments">
+        <tierData><tw>spoken</tw><tw>loudly</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="b55c10b3-c3e1-42d1-a23a-24a57b3eb5d8" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>yeah</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="7cb782f5-b56b-4b87-bb59-f249cc8d4226" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible-with-pho">yyy</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="pho">
+        <tierData><tw>mA</tw><tw>bI</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="23d77889-a445-4ad9-8ba0-0e0a9502bfba" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>huh</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;1w&gt;</tw><tw>picks</tw><tw>up</tw><tw>table,</tw><tw>examines</tw><tw>and</tw><tw>puts</tw><tw>in</tw><tw>dollhouse</tw><tw>&lt;1w&gt;</tw><tw>puts</tw><tw>object</tw><tw>in</tw><tw>dollhouse</tw><tw>.</tw><tw>picks</tw><tw>up</tw><tw>chair</tw><tw>and</tw><tw>puts</tw><tw>in</tw><tw>dollhouse</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="1f3ad6d8-701d-41dc-ba61-9efd9807323a" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>oh</w>
+          <w>look</w>
+          <w>at</w>
+          <w>that</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;1w-4w&gt;</tw><tw>picks</tw><tw>up</tw><tw>table,</tw><tw>examines</tw><tw>and</tw><tw>puts</tw><tw>in</tw><tw>dollhouse</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="2d08f0d4-cdc5-4eef-a89c-b3d7aa967519" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>there's</w>
+          <w>a</w>
+          <w>picnic</w>
+          <w>table</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="8003eb43-31af-4343-92a2-6454873f4d50" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>and</w>
+          <w>you</w>
+          <w>can</w>
+          <w>sit</w>
+          <w>some</w>
+          <w>people</w>
+          <w>down</w>
+          <w>here</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;dur&gt;</tw><tw>picks</tw><tw>up</tw><tw>another</tw><tw>chair</tw><tw>and</tw><tw>puts</tw><tw>by</tw><tw>table</tw><tw>.</tw><tw>picks</tw><tw>up</tw><tw>man</tw><tw>and</tw><tw>puts</tw><tw>in</tw><tw>chair</tw><tw>&lt;bef&gt;</tw><tw>picks</tw><tw>up</tw><tw>chair</tw><tw>and</tw><tw>puts</tw><tw>down</tw><tw>by</tw><tw>table</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="5654387c-aee9-4daf-8c47-ac854b1c6e18" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>hey</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>puts</tw><tw>toys</tw><tw>on</tw><tw>floor</tw><tw>and</tw><tw>leans</tw><tw>on</tw><tw>dollhouse</tw><tw>with</tw><tw>hands</tw><tw>on</tw><tw>rim</tw></tierData>
+      </userTier>
+      <userTier name="gesture">
+        <tierData><tw>points</tw><tw>in</tw><tw>dollhouse</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="82f444bd-8826-4159-bee3-5a4019c5673d" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w formType="interjection">aht</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="098d24bb-187f-4326-a330-5034e4a0641a" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ow</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="gesture">
+        <tierData><tw>&lt;aft&gt;</tw><tw>looks</tw><tw>at</tw><tw>Mother's</tw><tw>object,</tw><tw>at</tw><tw>car</tw><tw>and</tw><tw>at</tw><tw>dollhouse</tw><tw>as</tw><tw>Mother</tw><tw>uses</tw><tw>each</tw></tierData>
+      </userTier>
+      <userTier name="actions">
+        <tierData><tw>&lt;aft&gt;</tw><tw>picks</tw><tw>up</tw><tw>object</tw><tw>and</tw><tw>holds</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="4f4e64a3-ee67-46a6-bb65-e648796fda84" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>hoo<wk type="cmp"></wk>hoo<wk type="cmp"></wk>hoo<wk type="cmp"></wk>hoo<wk type="cmp"></wk>hoo</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;aft&gt;</tw><tw>puts</tw><tw>object</tw><tw>on</tw><tw>dollhouse</tw><tw>floor</tw><tw>.</tw><tw>picks</tw><tw>up</tw><tw>car</tw><tw>and</tw><tw>puts</tw><tw>outside</tw><tw>dollhouse</tw><tw>.</tw><tw>pushes</tw><tw>dollhouse</tw><tw>back</tw></tierData>
+      </userTier>
+      <userTier name="explanation">
+        <tierData><tw>dancing</tw><tw>noises</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="75f8fb65-61f9-4455-a71a-6b8982f68f6c" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>I</w>
+          <w>don't</w>
+          <w>know</w>
+          <t type="trail off"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;1w&gt;</tw><tw>picks</tw><tw>up</tw><tw>ladder</tw><tw>and</tw><tw>examines</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="f8419afd-043c-42fa-926f-eb45a666f92b" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>what's</w>
+          <w>this</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;1w&gt;</tw><tw>puts</tw><tw>down</tw><tw>on</tw><tw>side</tw><tw>of</tw><tw>dollhouse</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="e8ad0e2d-803b-472d-9011-9ea34907dae4" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <w>ladder</w>
+          <w>I</w>
+          <w>guess</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="99893a1c-12f1-4318-b403-2b708c56810c" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>puts</tw><tw>object</tw><tw>down</tw><tw>.</tw><tw>takes</tw><tw>two</tw><tw>men</tw><tw>out</tw><tw>of</tw><tw>dollhouse</tw><tw>and</tw><tw>holds</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="d86d3938-d2e1-44ef-a71f-be5d9b34c2db" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>takes</tw><tw>chair</tw><tw>from</tw><tw>dollhouse</tw><tw>and</tw><tw>puts</tw><tw>on</tw><tw>floor</tw><tw>.</tw><tw>takes</tw><tw>another</tw><tw>chair</tw><tw>out</tw><tw>and</tw><tw>begins</tw><tw>to</tw><tw>put</tw><tw>on</tw><tw>floor</tw><tw>but</tw><tw>stops</tw><tw>.</tw><tw>moves</tw><tw>toward</tw><tw>Amy</tw><tw>and</tw><tw>puts</tw><tw>chair</tw><tw>on</tw><tw>floor</tw><tw>in</tw><tw>front</tw><tw>of</tw><tw>her</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="72c680f7-4ac8-4435-9883-945ed6e6bcbb" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>picks</tw><tw>up</tw><tw>chair</tw><tw>out</tw><tw>of</tw><tw>dollhouse,</tw><tw>drops,</tw><tw>picks</tw><tw>up</tw><tw>again</tw><tw>.</tw><tw>begins</tw><tw>tp</tw><tw>put</tw><tw>on</tw><tw>floor</tw><tw>but</tw><tw>stops,</tw><tw>examines,</tw><tw>and</tw><tw>puts</tw><tw>down</tw><tw>by</tw><tw>Mother's</tw><tw>chair</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="93ce3830-d861-402a-9d4f-c9e4665338ee" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>can</w>
+          <w>you</w>
+          <w>take</w>
+          <w>him</w>
+          <w>out</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;aft&gt;</tw><tw>opens</tw><tw>dollhouse</tw><tw>door</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="2c695b40-a0e0-4b79-8a04-c1c0e29d4844" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>boom<wk type="cmp"></wk>boom<wk type="cmp"></wk>boom<wk type="cmp"></wk>boom</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;aft&gt;</tw><tw>puts</tw><tw>man</tw><tw>in</tw><tw>chair</tw></tierData>
+      </userTier>
+      <userTier name="explanation">
+        <tierData><tw>walking</tw><tw>noises</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="8d5b8560-e67c-4d8b-84eb-97112a0d90f6" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>yeah</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;aft&gt;</tw><tw>picks</tw><tw>up</tw><tw>chair</tw><tw>with</tw><tw>other</tw><tw>hand</tw><tw>and</tw><tw>holds</tw><tw>both</tw><tw>to</tw><tw>knee</tw><tw>&lt;dur&gt;</tw><tw>lowers</tw><tw>one</tw><tw>man</tw><tw>toward</tw><tw>chair</tw><tw>.</tw><tw>&lt;bef&gt;</tw><tw>manipulates</tw><tw>men,</tw><tw>holding</tw><tw>one</tw><tw>in</tw><tw>each</tw><tw>hand</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="c3cdeb50-9cc8-45dc-91cd-c88f18cf4c49" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>walks</tw><tw>another</tw><tw>man</tw><tw>out</tw><tw>dollhouse</tw><tw>door</tw><tw>and</tw><tw>puts</tw><tw>in</tw><tw>chair</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="8ed0286e-b779-45b8-ade5-f2b37281f242" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>here</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;dur&gt;</tw><tw>picks</tw><tw>up</tw><tw>man</tw><tw>and</tw><tw>puts</tw><tw>in</tw><tw>car</tw><tw>.</tw><tw>pushes</tw><tw>car</tw><tw>toward</tw><tw>Amy</tw><tw>slightly</tw><tw>&lt;1w&gt;</tw><tw>moves</tw><tw>chair</tw><tw>toward</tw><tw>Amy</tw><tw>slightly</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="7028948f-22ee-4f71-a2e6-86994458311c" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>go</w>
+          <w>for</w>
+          <w>a</w>
+          <w>ride</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;dur&gt;</tw><tw>picks</tw><tw>up</tw><tw>man</tw><tw>and</tw><tw>puts</tw><tw>in</tw><tw>car</tw><tw>.</tw><tw>pushes</tw><tw>car</tw><tw>toward</tw><tw>Amy</tw><tw>slightly</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="b2868099-8766-4201-b58f-ddbcef2c8788" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>yeah</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="f5bd87dd-e931-4a6a-98f8-68bc5a878da1" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>he's</w>
+          <w>gon</w>
+          <w><shortening>t</shortening>a</w>
+          <w>go</w>
+          <w>for</w>
+          <w>a</w>
+          <w>ride</w>
+          <w>with</w>
+          <w>the</w>
+          <w>children</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>picks</tw><tw>up</tw><tw>chicken</tw><tw>by</tw><tw>Amy</tw><tw>and</tw><tw>puts</tw><tw>in</tw><tw>car</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="4fb914dd-be86-41b2-9f04-97984d19f116" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>yeah</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>attempts</tw><tw>to</tw><tw>put</tw><tw>man</tw><tw>in</tw><tw>car</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="b3c0e986-c99f-4db5-b03b-5239ea4e253b" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>yeah</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="5e4fc8f8-a418-4ac1-8472-5bb04bb96cde" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>yeah</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>succeeds</tw><tw>in</tw><tw>getting</tw><tw>man</tw><tw>in</tw><tw>car</tw></tierData>
+      </userTier>
+      <userTier name="comments">
+        <tierData><tw>spoken</tw><tw>loudly</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="14681a80-eff9-4842-9faf-10360bd3dea4" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>yeah</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="e324b002-393b-49ea-9e34-75e001568d0d" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>examines</tw><tw>man</tw><tw>in</tw><tw>hand</tw><tw>.</tw><tw>attempts</tw><tw>to</tw><tw>put</tw><tw>man</tw><tw>in</tw><tw>car</tw><tw>.</tw><tw>knocks</tw><tw>other</tw><tw>man</tw><tw>out</tw><tw>.</tw><tw>succeeds</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="8aa82529-641c-4e80-a0eb-cee054f9884c" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>whoops</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="759556a0-02dc-4e29-9836-6dd78d5e267a" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>picks</tw><tw>up</tw><tw>man,</tw><tw>puts</tw><tw>back</tw><tw>in</tw><tw>car</tw><tw>and</tw><tw>drives</tw><tw>car</tw><tw>in</tw><tw>front</tw><tw>of</tw><tw>Amy</tw></tierData>
+      </userTier>
+      <userTier name="explanation">
+        <tierData><tw>car</tw><tw>noises</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="6751e550-044b-4afc-8cdc-9674da31014e" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+            <ga type="paralinguistics">snoring noise</ga>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>picks</tw><tw>up</tw><tw>chair</tw><tw>and</tw><tw>puts</tw><tw>on</tw><tw>floor</tw><tw>.</tw><tw>puts</tw><tw>man</tw><tw>in</tw><tw>chair,</tw><tw>tilting</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="fe6dfff7-49ba-4911-82f6-094da3ea3433" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+            <ga type="paralinguistics">laughs</ga>
+            <overlap type="overlap follows"></overlap>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="2d807047-dfe5-4eba-be5b-bf6884c24b4e" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+            <ga type="paralinguistics">laughs</ga>
+            <overlap type="overlap precedes"></overlap>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>pokes</tw><tw>Amy</tw><tw>in</tw><tw>stomach</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="0938fbd4-29fd-4f0a-a582-bd425dba832e" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+            <ga type="paralinguistics">laughs louder</ga>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>pushes</tw><tw>toys</tw><tw>on</tw><tw>floor,</tw><tw>knocks</tw><tw>ladder</tw><tw>and</tw><tw>puts</tw><tw>hands</tw><tw>on</tw><tw>toys</tw><tw>on</tw><tw>floor</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="795bc959-bb9a-4d1c-8fa4-5bf3da3760d7" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>uhoh</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;1w&gt;</tw><tw>rights</tw><tw>ladder</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="011ea56f-8988-4935-ba10-f0d5c40e8dd4" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>here</w>
+          <pause symbolic-length="simple"></pause>
+          <w>the</w>
+          <w>dog's</w>
+          <w>gon</w>
+          <w><shortening>t</shortening>a</w>
+          <w>go</w>
+          <w>up</w>
+          <w>the</w>
+          <w>ladder</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;1w&gt;</tw><tw>picks</tw><tw>up</tw><tw>dog</tw><tw>and</tw><tw>makes</tw><tw>him</tw><tw>climb</tw><tw>the</tw><tw>ladder</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="c26837be-797e-4609-a735-4bcded8e14bd" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+            <ga type="paralinguistics">chuckles</ga>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>pushes</tw><tw>toys</tw><tw>toward</tw><tw>ladder</tw><tw>and</tw><tw>ladder</tw><tw>falls</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="cb2049e4-26f9-44fe-8111-51f20c65c32d" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>look</w>
+          <w>at</w>
+          <w>this</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>rights</tw><tw>ladder,</tw><tw>makes</tw><tw>dog</tw><tw>climb</tw><tw>it</tw><tw>and</tw><tw>dance</tw><tw>on</tw><tw>the</tw><tw>rim</tw></tierData>
+      </userTier>
+      <userTier name="explanation">
+        <tierData><tw>climbing</tw><tw>noises</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="dc4ea3f9-d355-4047-91ed-b86131a16c0d" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>look</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="0640f600-f4e1-46d4-be52-b746e8ee5cd1" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>boom<wk type="cmp"></wk>boom<wk type="cmp"></wk>boom<wk type="cmp"></wk>boom</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="3800e4cb-f895-49ce-8b7d-f312d4f3ad97" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ah</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;aft&gt;</tw><tw>takes</tw><tw>table</tw><tw>out</tw><tw>of</tw><tw>dollhouse</tw><tw>and</tw><tw>puts</tw><tw>down</tw><tw>by</tw><tw>chair</tw></tierData>
+      </userTier>
+      <userTier name="intonation">
+        <tierData><tw>draws</tw><tw>out</tw><tw>the</tw><tw>letter</tw><tw>h</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="ee20e87e-186a-4a40-9c31-2958016b76dc" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>picks</tw><tw>up</tw><tw>Mother's</tw><tw>man</tw><tw>and</tw><tw>holds</tw><tw>with</tw><tw>other</tw><tw>object</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="035265a7-cc37-4955-998a-f501509b1181" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>there's</w>
+          <w>a</w>
+          <w>table</w>
+          <w>and</w>
+          <w>there's</w>
+          <w>some</w>
+          <w>chairs</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>picks</tw><tw>up</tw><tw>chair</tw><tw>by</tw><tw>Amy</tw><tw>and</tw><tw>puts</tw><tw>down</tw><tw>by</tw><tw>table</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="8fff2835-803a-49d1-91b0-47880b157371" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>there's</w>
+          <w>a</w>
+          <w>little</w>
+          <w>boy</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;aft&gt;</tw><tw>reaches</tw><tw>in</tw><tw>dollhouse,</tw><tw>takes</tw><tw>out</tw><tw>object</tw><tw>and</tw><tw>puts</tw><tw>on</tw><tw>floor</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="f8c1db6c-206b-497a-9fef-d25c32811c54" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ah</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="pho">
+        <tierData><tw>yet</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="030335b4-2fa7-4a4a-8cbc-978a43b62ef5" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible-with-pho">yyy</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;aft&gt;</tw><tw>picks</tw><tw>up</tw><tw>man</tw><tw>and</tw><tw>holds</tw><tw>.</tw><tw>dog</tw><tw>falls</tw><tw>.</tw><tw>examines</tw><tw>objects</tw><tw>.</tw><tw>lets</tw><tw>another</tw><tw>object</tw><tw>fall</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="007479d9-8a13-423c-a66d-e115517e9b44" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>shall</w>
+          <w>we</w>
+          <w>go</w>
+          <w>eat</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>holds</tw><tw>dog</tw><tw>.</tw><tw>dances</tw><tw>dog</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="d2391410-b84a-4224-8df8-623102e947fe" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible-with-pho">yyy</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>takes</tw><tw>man</tw><tw>from</tw><tw>open</tw><tw>hand</tw><tw>and</tw><tw>attempts</tw><tw>to</tw><tw>put</tw><tw>in</tw><tw>car</tw></tierData>
+      </userTier>
+      <userTier name="pho">
+        <tierData><tw>ye+yet</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="ae637cfb-9f5b-457a-afb0-a1b8a3655b7f" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>c<shortening>o</shortening>m<shortening>e</shortening></w>
+          <w>on</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>picks</tw><tw>up</tw><tw>dog</tw><tw>and</tw><tw>brings</tw><tw>to</tw><tw>table</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="05647aa7-9437-46c1-b28d-ea60968910fb" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>let's</w>
+          <w>go</w>
+          <w>eat</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="4a673079-a9cd-4c91-8902-ca38a9d4fbd1" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>no</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>takes</tw><tw>hand</tw><tw>back</tw><tw>and</tw><tw>holds</tw><tw>man</tw><tw>and</tw><tw>objects</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="da31171b-c908-4f21-b786-4edacf4896ab" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>uh</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;1w&gt;</tw><tw>puts</tw><tw>dog</tw><tw>in</tw><tw>chair</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="7f4b40a9-6584-4918-9397-4bb460d849b8" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>dog's</w>
+          <w>gon</w>
+          <w><shortening>t</shortening>a</w>
+          <w>eat</w>
+          <w>first</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;1w-5w&gt;</tw><tw>picks</tw><tw>up</tw><tw>boy,</tw><tw>walks</tw><tw>him</tw><tw>toward</tw><tw>table</tw><tw>and</tw><tw>puts</tw><tw>him</tw><tw>in</tw><tw>chair</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="fcae3895-cb4b-4cab-a3ee-f127de70b469" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>dog</w>
+          <w>and</w>
+          <w>the</w>
+          <w>boy</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;1w-4w&gt;</tw><tw>picks</tw><tw>up</tw><tw>boy,</tw><tw>walks</tw><tw>him</tw><tw>toward</tw><tw>table</tw><tw>and</tw><tw>puts</tw><tw>him</tw><tw>in</tw><tw>chair</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="7c152a9e-ec77-4d08-9a3a-43e25c2f1222" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>uh<wk type="cmp"></wk>uh<wk type="cmp"></wk>uh</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;aft&gt;</tw><tw>puts</tw><tw>arm</tw><tw>up,</tw><tw>flailing</tw></tierData>
+      </userTier>
+      <userTier name="explanation">
+        <tierData><tw>walking</tw><tw>noises</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="87285c10-d4bd-40a2-9393-568ac98eb58e" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>huh</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>walks</tw><tw>man</tw><tw>toward</tw><tw>chair</tw><tw>and</tw><tw>puts</tw><tw>in</tw><tw>chair</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="09a445f8-51be-49ce-8f3d-4f127c982ae4" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>here</w>
+          <w>comes</w>
+          <w>the</w>
+          <w>little</w>
+          <w>girl</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="5c628f5c-626d-4f0d-aec4-bdc0feac00ed" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>girl</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;1w&gt;</tw><tw>brings</tw><tw>man</tw><tw>over</tw><tw>to</tw><tw>chair</tw><tw>.</tw></tierData>
+      </userTier>
+      <userTier name="pho">
+        <tierData><tw>ge</tw><tw>wId6l</tw><tw>g6</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="4a708815-3bf7-49fe-aaaa-23ab26dcb123" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>little</w>
+          <w>girl</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;1w&gt;</tw><tw>examines</tw><tw>object</tw><tw>in</tw><tw>hand</tw><tw>&lt;1w&gt;</tw><tw>attempts</tw><tw>to</tw><tw>put</tw><tw>man</tw><tw>in</tw><tw>chair</tw><tw>and</tw><tw>succeeds</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="5173d700-5002-4f7e-9d09-6c5444ccfc42" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+            <ga type="paralinguistics">eating noises</ga>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="0c246df2-88a0-4486-947c-3062b50b5f17" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="gesture">
+        <tierData><tw>smiles</tw><tw>at</tw><tw>Mother</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="fd615b45-0231-49c1-894a-1c7c00007f4e" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+            <ga type="paralinguistics">eating noises</ga>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="182a232d-efd8-4dc5-84a9-4df4960243b8" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>hey</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>reaches</tw><tw>for</tw><tw>shape</tw><tw>box</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="d8219ec2-38cf-41cc-acc4-300cc730e5f4" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>what's</w>
+          <w>that</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="41589d50-5702-4286-bcd1-53db3263c063" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible-with-pho">yyy</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;aft&gt;</tw><tw>looks</tw><tw>inside</tw><tw>shape</tw><tw>box</tw></tierData>
+      </userTier>
+      <userTier name="pho">
+        <tierData><tw>geI</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="ab398497-ebb6-4f42-b8d2-69e1d730839c" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>huh</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>rummages</tw><tw>in</tw><tw>shape</tw><tw>box</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="3eb60173-1f15-426d-9545-8d26ffc7f4fc" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>oh</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="1c5a05fb-bcd8-4738-bdad-e7536161958b" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>what's</w>
+          <w>in</w>
+          <w>there</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="b5c23917-201c-4dd2-addb-41214bfead1b" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible-with-pho">yyy</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="pho">
+        <tierData><tw>m6</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="9c76adca-f17a-408f-822e-cc43e260f2fc" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>huh</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>takes</tw><tw>block</tw><tw>out</tw><tw>of</tw><tw>shape</tw><tw>box,</tw><tw>drops,</tw><tw>and</tw><tw>retrieves</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="679bedb6-bb73-43f7-8087-4d5991440f79" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>takes</tw><tw>ball</tw><tw>out</tw><tw>of</tw><tw>shape</tw><tw>box</tw><tw>and</tw><tw>holds</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="4fc89b65-292a-410d-a582-552cc954efbe" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>what's</w>
+          <w>that</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>holds</tw><tw>object</tw><tw>out</tw><tw>on</tw><tw>her</tw><tw>palm</tw><tw>toward</tw><tw>Amy</tw><tw>.</tw><tw>closes</tw><tw>palm</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="1d30487f-326a-4f5a-ae14-302393934ef0" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>what</w>
+          <w>is</w>
+          <w>it</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>opens</tw><tw>palm</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="9f07c1b0-4811-414c-9499-2fba55407e25" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible-with-pho">yyy</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>puts</tw><tw>ball</tw><tw>on</tw><tw>Mother's</tw><tw>palm</tw></tierData>
+      </userTier>
+      <userTier name="alternative">
+        <tierData><tw>ball</tw></tierData>
+      </userTier>
+      <userTier name="pho">
+        <tierData><tw>A</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="79cc1cfb-b71b-4e43-b89e-83454c62ffb3" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <w>ball</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="27f2b210-fd75-4dcb-a700-bee21a606db9" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>ball</tw><tw>drops</tw><tw>.</tw><tw>picks</tw><tw>up</tw><tw>ball</tw><tw>and</tw><tw>holds</tw><tw>.</tw><tw>kicks</tw><tw>object</tw><tw>on</tw><tw>floor</tw><tw>away</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="ddf72e98-0c59-4286-b398-f80eb1214ccd" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+            <ga type="paralinguistics">babbles</ga>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>fingers</tw><tw>ball</tw><tw>on</tw><tw>top</tw><tw>.</tw><tw>takes</tw><tw>hand</tw><tw>away</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="7ad808b2-2870-48f4-8b48-1b1eba6aea91" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>pushes</tw><tw>dollhouse</tw><tw>away</tw><tw>and</tw><tw>shuts</tw><tw>door</tw><tw>.</tw><tw>puts</tw><tw>balls</tw><tw>on</tw><tw>top</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="2b101711-d57d-4fae-a4b0-27148f961c9c" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>where</w>
+          <w>does</w>
+          <w>it</w>
+          <w>go</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="1fda6f84-694a-4a33-b6f3-a45eb6b21dad" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>puts</tw><tw>ball</tw><tw>in</tw><tw>shape</tw><tw>box</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="bf88306b-216a-40d2-9809-15ae8a302f35" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>up</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;aft&gt;</tw><tw>retrieves</tw><tw>ball</tw><tw>and</tw><tw>puts</tw><tw>on</tw><tw>shape</tw><tw>box</tw><tw>lid</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="889bcd73-7701-45ea-8a45-0d7875687332" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>opens</tw><tw>shape</tw><tw>box</tw><tw>lid</tw><tw>and</tw><tw>block</tw><tw>falls</tw><tw>.</tw><tw>holds</tw><tw>open</tw><tw>a</tw><tw>bit</tw><tw>and</tw><tw>then</tw><tw>shuts</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="c3842e5a-08f1-46d5-871e-4d3175be0ec6" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>where</w>
+          <w>does</w>
+          <w>it</w>
+          <w>go</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="f4e44e19-9303-45b1-8489-78c2fa785a18" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>picks</tw><tw>up</tw><tw>ball</tw><tw>and</tw><tw>attempts</tw><tw>to</tw><tw>put</tw><tw>in</tw><tw>wrong</tw><tw>hole</tw><tw>.</tw><tw>bangs</tw><tw>on</tw><tw>lid</tw><tw>with</tw><tw>block</tw><tw>.</tw><tw>puts</tw><tw>block</tw><tw>in</tw><tw>right</tw><tw>hole</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="213cfe44-aa5e-4ea1-805f-b8d27b98f14b" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+            <ga type="paralinguistics">gasps</ga>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="59710be6-0f7f-4ab0-a6d0-c55c7c3b1e47" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>opens</tw><tw>shape</tw><tw>box</tw><tw>and</tw><tw>block</tw><tw>falls</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="7f188ccc-cad8-4206-b12e-2c3443515b6a" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>whoop<shortening>s</shortening></w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>retrieves</tw><tw>block</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="34861abd-07b5-4a69-b22b-da52875ed1ae" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>takes</tw><tw>ball</tw><tw>out</tw></tierData>
+      </userTier>
+      <userTier name="gesture">
+        <tierData><tw>smiles</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="c37fe4b3-1e5d-4d5f-8859-3e6307f6e693" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>where</w>
+          <w>does</w>
+          <w>this</w>
+          <w>go</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>holds</tw><tw>object</tw><tw>out</tw><tw>to</tw><tw>Amy</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="dd334c96-ab54-4ab1-bfd6-941eaab89cce" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>shuts</tw><tw>shape</tw><tw>box</tw><tw>lid</tw><tw>.</tw><tw>puts</tw><tw>own</tw><tw>ball</tw><tw>in</tw><tw>.</tw><tw>opens</tw><tw>shape</tw><tw>box</tw><tw>lid</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="66da971f-f06e-4aa1-9142-c7501b737d97" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;dur&gt;</tw><tw>puts</tw><tw>hand</tw><tw>in</tw><tw>shape</tw><tw>box</tw><tw>and</tw><tw>back</tw><tw>out</tw><tw>&lt;bef&gt;</tw><tw>puts</tw><tw>block</tw><tw>in</tw><tw>shape</tw><tw>box</tw><tw>.</tw></tierData>
+      </userTier>
+      <userTier name="paralinguistics">
+        <tierData><tw>spoken</tw><tw>very</tw><tw>softly</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="0aa9cfdc-566c-4d85-b8ce-09ef321eccae" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>reaches</tw><tw>in</tw><tw>shape</tw><tw>box</tw><tw>and</tw><tw>takes</tw><tw>out</tw><tw>block</tw><tw>.</tw><tw>shuts</tw><tw>lid,</tw><tw>rubs</tw><tw>block</tw><tw>on</tw><tw>lid</tw><tw>and</tw><tw>puts</tw><tw>in</tw><tw>shape</tw><tw>box</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="06578b6a-4499-4c0a-bda9-37b3bb054cb7" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+            <ga type="paralinguistics">gasps</ga>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="gesture">
+        <tierData><tw>&lt;aft&gt;</tw><tw>smiles</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="0a092eee-a2ca-4def-a914-e6477565b9ee" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+            <ga type="paralinguistics">laughs</ga>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>opens</tw><tw>shape</tw><tw>box</tw><tw>lid,</tw><tw>takes</tw><tw>out</tw><tw>same</tw><tw>block,</tw><tw>shuts</tw><tw>lid</tw><tw>and</tw><tw>puts</tw><tw>in</tw><tw>shape</tw><tw>box</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="778eff29-7ccc-447c-a03b-58294012e310" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+            <ga type="paralinguistics">laughs</ga>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>opens</tw><tw>shape</tw><tw>box</tw><tw>and</tw><tw>reaches</tw><tw>in</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="cf0963ad-4af9-43bb-93d6-6a6767bcd0d3" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>reaches</tw><tw>in</tw><tw>shape</tw><tw>box</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="f70f8586-4218-4096-b9b0-64b81c3d4498" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>no</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>takes</tw><tw>Mother's</tw><tw>hand</tw><tw>out</tw><tw>.</tw><tw>reaches</tw><tw>in</tw><tw>shape</tw><tw>box</tw><tw>and</tw><tw>rummages</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="97625a89-4e70-4588-b648-76f044dbfc2b" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>no</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;aft&gt;</tw><tw>puts</tw><tw>finger</tw><tw>to</tw><tw>shape</tw><tw>box</tw><tw>lid</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="ff6d2316-1159-42fa-92bd-0421b07a83a8" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ah</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;aft&gt;</tw><tw>rummages</tw><tw>in</tw><tw>shape</tw><tw>box</tw><tw>&lt;dur&gt;</tw><tw>puts</tw><tw>hand</tw><tw>on</tw><tw>shape</tw><tw>box</tw><tw>lid</tw><tw>and</tw><tw>opens</tw><tw>it</tw><tw>.</tw><tw>holds</tw><tw>it</tw><tw>open</tw><tw>.</tw><tw>&lt;bef&gt;</tw><tw>takes</tw><tw>block</tw><tw>out</tw><tw>of</tw><tw>shape</tw><tw>box,</tw><tw>shuts</tw><tw>lid</tw><tw>and</tw><tw>puts</tw><tw>in</tw><tw>shape</tw><tw>box</tw><tw>.</tw></tierData>
+      </userTier>
+      <userTier name="gesture">
+        <tierData><tw>big</tw><tw>smile</tw></tierData>
+      </userTier>
+      <userTier name="paralinguistics">
+        <tierData><tw>pleasurable</tw><tw>scream</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="49601fa3-cac7-450b-8f93-2247691fead6" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>let</w>
+          <w>me</w>
+          <w>see</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>puts</tw><tw>hand</tw><tw>in</tw><tw>shape</tw><tw>box</tw><tw>and</tw><tw>rummages</tw><tw>.</tw><tw>takes</tw><tw>out</tw><tw>blocks</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="6cdc4733-adce-4142-9c67-dbe586a3a827" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>let</w>
+          <w>me</w>
+          <w>see</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="e42eac2b-dd85-40e9-b322-61ece2dfbd66" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>no</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>attempts</tw><tw>to</tw><tw>remove</tw><tw>Mother's</tw><tw>hand</tw><tw>.</tw><tw>takes</tw><tw>block</tw><tw>out</tw><tw>and</tw><tw>holds</tw></tierData>
+      </userTier>
+      <userTier name="pho">
+        <tierData><tw>&lt;1w&gt;</tw><tw>ne</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="45baf18c-495e-4547-a979-2b28ea7367c1" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>no</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="comments">
+        <tierData><tw>&lt;1w&gt;</tw><tw>spoken</tw><tw>louder</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="37236320-24b0-44b6-80cd-19adf95f9df9" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>what's</w><w>this</w><w>one</w><overlap type="overlap follows"></overlap></g>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>holds</tw><tw>block</tw><tw>out</tw><tw>to</tw><tw>Amy</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="4d5e3258-9932-4fab-a348-9a458d25f822" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>no</w><overlap type="overlap precedes"></overlap></g>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="945a69ee-f708-408e-9327-d8e3caa468d8" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>no</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;aft&gt;</tw><tw>puts</tw><tw>block</tw><tw>in</tw><tw>shape</tw><tw>box</tw><tw>but</tw><tw>it</tw><tw>sticks</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="f65485fb-e8e1-4f75-b3d3-bafd4741dd7d" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>mine</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>manipulates</tw><tw>Mother's</tw><tw>block</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="61180972-da8f-44ce-9df7-8b5c71b1d60c" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>pushes</tw><tw>stuck</tw><tw>block</tw><tw>through</tw><tw>hole</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="4d28421f-defd-452e-bcf0-d8f73d08e999" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>attempts</tw><tw>to</tw><tw>put</tw><tw>square</tw><tw>block</tw><tw>in</tw><tw>circular</tw><tw>hole</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="7bb600e3-4ba7-403f-ac75-15609c8f062f" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>uhoh</w>
+          <pause symbolic-length="simple"></pause>
+          <w>where</w>
+          <w>does</w>
+          <g><w>that</w><k type="stressing"></k></g>
+          <w>go</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="ae44b70a-c57c-4d5e-9a61-b4b9c5201a14" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible-with-pho">yyy</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>begins</tw><tw>opening</tw><tw>lid</tw></tierData>
+      </userTier>
+      <userTier name="pho">
+        <tierData><tw>6+n6</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="cd4cf7d8-690a-4c0b-bab1-e1a9f4829eb5" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>huh</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="3cc9bdc1-8b69-41e3-80c9-9fa6878845ad" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>uhoh</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;aft&gt;</tw><tw>puts</tw><tw>block</tw><tw>in</tw><tw>shape</tw><tw>box</tw><tw>.</tw><tw>takes</tw><tw>out</tw><tw>round</tw><tw>block</tw><tw>and</tw><tw>attempts</tw><tw>to</tw><tw>put</tw><tw>in</tw><tw>wrong</tw><tw>hole</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="999834b1-0bec-4c37-9473-547d7b621740" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>where</w>
+          <w>go</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>picks</tw><tw>up</tw><tw>square</tw><tw>block</tw><tw>and</tw><tw>holds</tw><tw>out</tw><tw>to</tw><tw>Amy</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="18e94f27-a937-4316-bb83-a6b7f1b61ea2" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>yeah</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>lifts</tw><tw>block</tw><tw>up</tw><tw>and</tw><tw>takes</tw><tw>Mother's</tw><tw>block</tw><tw>.</tw><tw>puts</tw><tw>round</tw><tw>block</tw><tw>in</tw><tw>shape</tw><tw>box</tw><tw>but</tw><tw>it</tw><tw>sticks</tw><tw>.</tw><tw>attempts</tw><tw>to</tw><tw>push</tw><tw>through</tw><tw>with</tw><tw>index</tw><tw>finger</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="31357af7-44dc-4838-a57b-fcde4a82c470" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>where</w>
+          <w>does</w>
+          <g><w>this</w><k type="stressing"></k></g>
+          <w>go</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="gesture">
+        <tierData><tw>&lt;3w&gt;</tw><tw>touches</tw><tw>block</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="94ca37c2-e73d-404a-80ae-ade798129c4c" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+            <ga type="paralinguistics">laughs</ga>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;bef&gt;</tw><tw>opens</tw><tw>shape</tw><tw>box</tw><tw>a</tw><tw>bit</tw><tw>and</tw><tw>block</tw><tw>falls</tw><tw>through</tw><tw>and</tw><tw>lid</tw><tw>falls</tw><tw>shut</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="0736f8c5-6a8d-4dea-bfce-520b00e8e3d5" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+            <ga type="paralinguistics">laughs</ga>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;dur&gt;</tw><tw>opens</tw><tw>shape</tw><tw>box</tw><tw>lid</tw><tw>&lt;bef&gt;</tw><tw>lifts</tw><tw>shape</tw><tw>box</tw><tw>lid</tw><tw>a</tw><tw>bit</tw><tw>and</tw><tw>lets</tw><tw>it</tw><tw>shut</tw><tw>.</tw><tw>repeats</tw><tw>two</tw><tw>times</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="d83d9759-d730-4539-a7c4-ebabb5bbf786" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>helps</tw><tw>open</tw><tw>shape</tw><tw>box</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="e44c7edf-54e6-4f1d-9adf-9e045f3a2740" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>takes</tw><tw>block</tw><tw>from</tw><tw>shape</tw><tw>box</tw><tw>and</tw><tw>holds</tw><tw>under</tw><tw>arm</tw><tw>with</tw><tw>other</tw><tw>blocks</tw><tw>.</tw><tw>reaches</tw><tw>in</tw><tw>and</tw><tw>out</tw><tw>of</tw><tw>shape</tw><tw>box</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="c6131987-33e1-4c50-875b-5ff25da886d5" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>shall</w>
+          <w>we</w>
+          <w>dump</w>
+          <w>them</w>
+          <w>all</w>
+          <w>out</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;aft&gt;</tw><tw>dumps</tw><tw>box</tw><tw>out,</tw><tw>rights</tw><tw>box</tw><tw>and</tw><tw>shuts</tw><tw>lid</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="ca6868b4-ce5a-420d-a10b-91cfed1b719c" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>helps</tw><tw>with</tw><tw>shape</tw><tw>box</tw><tw>.</tw><tw>puts</tw><tw>hand</tw><tw>over</tw><tw>box</tw><tw>and</tw><tw>block</tw><tw>falls</tw><tw>from</tw><tw>under</tw><tw>her</tw><tw>arm</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="83969f28-857a-4054-9473-83148e9432f4" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>there</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>pushes</tw><tw>shape</tw><tw>box</tw><tw>toward</tw><tw>Amy</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="3c90d5d4-b5f8-49a3-92fc-2714edadf739" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>uh</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>opens</tw><tw>shape</tw><tw>box</tw><tw>and</tw><tw>reaches</tw><tw>in</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="782cd402-4f84-400a-984f-6d8c7dd06359" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>op<shortening>en</shortening></w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="2a211535-9a1c-4bd1-a708-5b461b618f02" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible-with-pho">yyy</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>takes</tw><tw>block</tw><tw>from</tw><tw>shape</tw><tw>box</tw><tw>and</tw><tw>puts</tw><tw>on</tw><tw>floor</tw></tierData>
+      </userTier>
+      <userTier name="pho">
+        <tierData><tw>deI</tw><tw>de</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="577ca643-63c7-4078-bca5-df5ed2355d28" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>mmhm</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="fc920c5c-d40b-4671-8ea0-48366eae9ae3" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>uh</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;aft&gt;</tw><tw>shuts</tw><tw>lid</tw></tierData>
+      </userTier>
+      <userTier name="comments">
+        <tierData><tw>struggle</tw><tw>noise</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="385cd7f8-9d53-4bd7-befb-07b019d7e3c3" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>where</w>
+          <w>does</w>
+          <w>that</w>
+          <w>one</w>
+          <w>go</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>picks</tw><tw>up</tw><tw>block</tw><tw>and</tw><tw>holds</tw><tw>out</tw><tw>to</tw><tw>Amy</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="29169d11-f02b-4f64-971f-930dafb2ed55" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>there</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>takes</tw><tw>block</tw><tw>and</tw><tw>puts</tw><tw>under</tw><tw>other</tw><tw>arm</tw></tierData>
+      </userTier>
+      <userTier name="pho">
+        <tierData><tw>&lt;1w&gt;</tw><tw>ger</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="7cc95a9b-15f3-4b4d-ba62-0a84dd963e69" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>op<shortening>en</shortening></w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="6a0319b7-6b1f-452c-ae10-3e74089bc1e8" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible-with-pho">yyy</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;aft&gt;</tw><tw>touches</tw><tw>shape</tw><tw>box</tw><tw>lid</tw><tw>with</tw><tw>block</tw><tw>and</tw><tw>puts</tw><tw>block</tw><tw>through</tw><tw>hole</tw><tw>.</tw><tw>touches</tw><tw>blocks</tw><tw>in</tw><tw>arm</tw><tw>.</tw><tw>puts</tw><tw>slab</tw><tw>block</tw><tw>in</tw><tw>other</tw><tw>hand</tw><tw>.</tw><tw>holds</tw><tw>square</tw><tw>block</tw><tw>toward</tw><tw>wrong</tw><tw>hole</tw><tw>while</tw><tw>holding</tw><tw>slab</tw><tw>toward</tw><tw>floor</tw><tw>.</tw><tw>attempts</tw><tw>to</tw><tw>put</tw><tw>square</tw><tw>block</tw><tw>in</tw></tierData>
+      </userTier>
+      <userTier name="pho">
+        <tierData><tw>eI</tw><tw>g6</tw><tw>gum</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="26d43303-4099-4bbb-b2ec-c383800b1001" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>where</w>
+          <w>does</w>
+          <w>it</w>
+          <w>go</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;dur&gt;</tw><tw>fingers</tw><tw>and</tw><tw>holds</tw><tw>it</tw><tw>&lt;bef&gt;</tw><tw>picks</tw><tw>up</tw><tw>another</tw><tw>slab</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="7d337366-81c8-45f2-94de-a6282bac1a91" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>nope</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;dur&gt;</tw><tw>holds</tw><tw>block</tw><tw>over</tw><tw>hole</tw><tw>&lt;bef&gt;</tw><tw>taps</tw><tw>block</tw><tw>on</tw><tw>lid</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="596b1a92-5c58-456d-ad7b-cbc746acf2e5" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>holds</tw><tw>blocks</tw><tw>.</tw><tw>arm</tw><tw>follows</tw><tw>Mother's</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="ad9fddd8-5b81-4df9-b23a-f7e992fc0628" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>nope</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>puts</tw><tw>block</tw><tw>over</tw><tw>another</tw><tw>hole</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="374f8532-7ef2-4fc9-b838-da7f3c574d8b" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>touches</tw><tw>Mother's</tw><tw>block</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="4acfe863-845c-4207-a477-b3578c995e5b" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>nope</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>puts</tw><tw>block</tw><tw>over</tw><tw>another</tw><tw>hole</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="bbf47199-12e8-4923-9931-b88d60dbf851" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>no</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>takes</tw><tw>block</tw><tw>and</tw><tw>tries</tw><tw>fourth</tw><tw>hole</tw></tierData>
+      </userTier>
+      <userTier name="comments">
+        <tierData><tw>spoken</tw><tw>softly</tw></tierData>
+      </userTier>
+      <userTier name="pho">
+        <tierData><tw>nA</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="e4d89ddc-e1c1-4282-bddb-b48c16bb856f" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>nope</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="intonation">
+        <tierData><tw>draws</tw><tw>out</tw><tw>the</tw><tw>letter</tw><tw>o</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="8d0d3743-e9f6-4447-9f3d-4d71d33999ae" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>no</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="pho">
+        <tierData><tw>nA</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="1c048568-025c-46ca-82eb-d5804c7d142a" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>where</w>
+          <w>does</w>
+          <w>it</w>
+          <w>go</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="a156a267-6e0c-45ea-b477-c2afc503e6fe" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>no</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>continues</tw><tw>trying</tw><tw>fourth</tw><tw>hole</tw></tierData>
+      </userTier>
+      <userTier name="pho">
+        <tierData><tw>nA</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="60c9e73b-0c53-44a9-9410-fe6f8c44b3ff" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>no</w>
+          <w>it</w>
+          <w>doesn't</w>
+          <w>go</w>
+          <w>there</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="7c41609a-b486-4e38-a2ac-c215005e4145" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible-with-pho">yyy</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>&lt;aft&gt;</tw><tw>tries</tw><tw>third</tw><tw>hole</tw></tierData>
+      </userTier>
+      <userTier name="pho">
+        <tierData><tw>noI</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="07028537-c2c8-440c-b9a6-6ab72c3bb93a" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>where</w>
+          <g><w>does</w><k type="stressing"></k></g>
+          <w>it</w>
+          <w>go</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="193e7956-2aed-446a-b212-db6d2ab5e964" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>try</w>
+          <w>right</w>
+          <w>there</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="gesture">
+        <tierData><tw>&lt;1w&gt;</tw><tw>points</tw><tw>to</tw><tw>middle</tw><tw>hole</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="8ec643f2-f0de-41d3-b10c-65968082db28" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>try</w>
+          <w>right</w>
+          <w>there</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="3fb64407-1764-4362-88c4-7a9ad28fe736" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <action></action>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>manipulates</tw><tw>blocks</tw><tw>.</tw><tw>takes</tw><tw>slab</tw><tw>again</tw><tw>and</tw><tw>puts</tw><tw>by</tw><tw>hole</tw></tierData>
+      </userTier>
+    </r>
+  </transcript>
+</session>

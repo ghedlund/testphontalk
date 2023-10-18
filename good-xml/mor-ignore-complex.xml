@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="mor-ignore-complex" corpus="timmy" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Target_Child</role>
+      <name>Timmy</name>
+      <age>P2Y0M0DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+    <participant id="LIN">
+      <role>Investigator</role>
+      <name>Linda</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="WIN">
+      <role>Investigator</role>
+      <name>Winnie</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="GEM">
+      <role>Speaker</role>
+      <name>Gemma</name>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <userTiers>
+    <td tierName="Morphology" type="mor" excludeFromAlignment="true"></td>
+  </userTiers>
+  <transcript>
+    <r speaker="CHI" uuid="8ef37bf3-99f7-4cb6-bfa1-fd96030e38d5" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>pos<replacement real="false"><w>puess</w></replacement></w><error></error><k type="retracing with correction"></k></g>
+          <w>pues</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>n</c></pos><stem>retrace</stem></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+  </transcript>
+</session>

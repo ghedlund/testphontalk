@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="tcu-cont-check" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Child</role>
+      <group>normal</group>
+      <sex>female</sex>
+      <age>P1Y8M0DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+    <participant id="MOT">
+      <role>Mother</role>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <comment type="Generic">
+      <tierData><tw>TCU</tw><tw>continuation</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="c0ab3b95-ecc0-4ef8-8011-7d0cfbe1e54f" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>berettiger</w>
+          <w>andre</w>
+          <t type="technical break TCU continuation"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="e33e0158-d0f3-4972-b369-a28b61c09b85" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>bar</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="06231581-3f90-47f3-8477-a86b9f8ebbc3" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <linker type="technical break TCU completion"></linker>
+          <w>til</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+  </transcript>
+</session>

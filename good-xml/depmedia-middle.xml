@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="depmedia-middle" corpus="stevens" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <media>depmedia-middle</media>
+  <participants>
+    <participant id="EN1">
+      <role>Student</role>
+      <name>Engineer1</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="AR1">
+      <role>Student</role>
+      <name>Architect1</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="EN2">
+      <role>Student</role>
+      <name>Enginneer2</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="AR2">
+      <role>Student</role>
+      <name>Architect2</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="PR1">
+      <role>Student</role>
+      <name>Preservationist</name>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <userTiers>
+    <td tierName="coding" type="default" excludeFromAlignment="true"></td>
+  </userTiers>
+  <transcript>
+    <comment type="Generic">
+      <tierData><tw>bullet</tw><tw>inside</tw><tw>a</tw><tw>dependent</tw><tw>tier</tw></tierData>
+    </comment>
+    <r speaker="EN2" uuid="d8efb5b1-ce29-44f7-932a-83ec3c2b8c49" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>and</w>
+          <w>I'm</w>
+          <w>getting</w>
+          <w>demand</w>
+          <w>capacity</w>
+          <w>ratios</w>
+          <w>of</w>
+          <w>one</w>
+          <w>point</w>
+          <w>five</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="32.221" end="37.628" unit="s"></segment>
+    </r>
+    <r speaker="AR1" uuid="15f61ade-5223-4594-845e-6438a97e87c9" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>hmmm</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="37.628" end="38.893" unit="s"></segment>
+    </r>
+    <r speaker="EN2" uuid="e27007d3-ae77-4394-a634-41afc2c7866e" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>and</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>uh</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>one</w>
+          <w>point</w>
+          <w>one</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>ok</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="38.893" end="42.173" unit="s"></segment>
+    </r>
+    <r speaker="EN2" uuid="1504d0aa-6fc1-4aef-9272-309c5772e570" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>we</w>
+          <w>need</w>
+          <w>to</w>
+          <underline type="begin"></underline>
+          <w>do<underline type="end"></underline></w>
+          <w>something</w>
+          <underline type="begin"></underline>
+          <w>to<underline type="end"></underline></w>
+          <w>that</w>
+          <w>wall</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="47.685" end="50.005" unit="s"></segment>
+      <userTier name="coding">
+        <tierData><tw>palm</tw><tw>down</tw><tw>hand</tw><tw>opens,</tw><tw>and</tw><tw>bobs</tw><tw>up</tw><tw>and</tw><tw>down</tw><tw>over</tw><tw>the</tw><tw>west</tw><tw>wall</tw><internal-media start="48.908" end="50.441" unit="s"></internal-media></tierData>
+      </userTier>
+    </r>
+  </transcript>
+</session>

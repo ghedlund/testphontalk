@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="phonocolon" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Child</role>
+      <group>normal</group>
+      <sex>female</sex>
+      <age>P1Y8M0DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+    <participant id="MOT">
+      <role>Mother</role>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <r speaker="CHI" uuid="7388fa61-204e-4d26-be47-591556031cd0" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>I</w>
+          <w>am</w>
+          <w type="nonword">li<p type="drawl"></p>ing</w>
+          <w>right</w>
+          <g><w type="nonword">woh<p type="drawl"></p></w><overlap type="overlap follows"></overlap></g>
+          <w>now</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+  </transcript>
+</session>

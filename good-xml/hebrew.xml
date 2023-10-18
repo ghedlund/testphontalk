@@ -1,0 +1,2642 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="hebrew" corpus="bermanlong" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>heb</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Target_Child</role>
+      <name>Hagar</name>
+      <sex>female</sex>
+      <age>P1Y7M3DT0H0M0S</age>
+      <languages>heb</languages>
+    </participant>
+    <participant id="MOT">
+      <role>Mother</role>
+      <name>Inbal</name>
+      <languages>heb</languages>
+    </participant>
+    <participant id="GRA">
+      <role>Grandmother</role>
+      <languages>heb</languages>
+    </participant>
+  </participants>
+  <userTiers>
+    <td tierName="coding" type="default" excludeFromAlignment="true"></td>
+    <td tierName="explanation" type="default" excludeFromAlignment="true"></td>
+    <td tierName="situation" type="default" excludeFromAlignment="true"></td>
+    <td tierName="comments" type="default" excludeFromAlignment="true"></td>
+    <td tierName="actions" type="default" excludeFromAlignment="true"></td>
+    <td tierName="paralinguistics" type="default" excludeFromAlignment="true"></td>
+  </userTiers>
+  <transcript>
+    <comment type="Situation">
+      <tierData><tw>At</tw><tw>subject's</tw><tw>home</tw><tw>.Participants</tw><tw>are</tw><tw>telling</tw><tw>a</tw><tw>story</tw><tw>and</tw><tw>talking.</tw><tw>They</tw><tw>are</tw><tw>also</tw><tw>looking</tw><tw>at</tw><tw>a</tw><tw>book.</tw><tw>linguist.</tw></tierData>
+    </comment>
+    <r speaker="MOT" uuid="35adb41d-1e9d-431b-873f-344dcfc08138" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>Hagár</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>ʔat</w>
+          <w>rocá</w>
+          <w>lišmóa'</w>
+          <w>sipúr</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="2c02ab43-c243-45a0-9215-35754187ec33" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>sipur</w>
+          <w>al</w>
+          <w>sipur</w>
+          <w>al</w>
+          <w>yalda</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="coding">
+        <tierData><tw>&lt;5&gt;</tw><tw>yida</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="c442dfe1-e1cc-4329-9ec6-ee4a90b454ed" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>al</w>
+          <w>yalda</w>
+          <w>al</w>
+          <w>yalda</w>
+          <w>yalda</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="a1ffe139-96fd-484e-972b-10010568b9c2" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>mimix</w>
+          <w>xa</w>
+          <w>mimixa</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="explanation">
+        <tierData><tw>"mixa"</tw><tw>or</tw><tw>"mimixa"</tw><tw>always</tw><tw>refers</tw><tw>to</tw><tw>Dodi</tw><tw>Simxa</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="f4ae0d28-af9c-4a67-8583-3bef5f193ea9" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>mimiexa</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="f98260a8-656f-4382-b230-9927042c4cc9" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>lesapér</w>
+          <w>laḳ</w>
+          <w>ʔet</w>
+          <w>Dodí</w>
+          <w>Símxa</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="f355675a-941e-402c-a762-86bd2db02ab1" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>et</w>
+          <w>ze</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="coding">
+        <tierData><tw>&lt;1+2&gt;</tw><tw>eje</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="b83c9716-a910-470a-96fd-95d851bf4b85" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ʔet</w>
+          <w>ze</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="163af679-a93b-4dfd-816b-3b6d7612fa95" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>xatul</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>eper</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>xatul</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="coding">
+        <tierData><tw>&lt;1</tw><tw>,</tw><tw>3&gt;</tw><tw>atul</tw></tierData>
+      </userTier>
+      <userTier name="explanation">
+        <tierData><tw>&lt;2&gt;</tw><tw>some</tw><tw>form</tw><tw>of</tw><tw>s</tw><tw>.p</tw><tw>.r</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="6df8694a-3135-4b14-9bf3-0b7a649db759" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>lesapér</w>
+          <w>'al</w>
+          <w>xatúl</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="ae27dc5d-7384-4448-992a-d9a102d6e543" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ṭov</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="14fdadfb-4b12-4b12-99ae-f5fd38344f86" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>xatul</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="coding">
+        <tierData><tw>&lt;1&gt;</tw><tw>atul</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="06a00352-8a56-4da6-bb37-73950541ba92" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>naḳón</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>we-</w>
+          <w>ma</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="situation">
+        <tierData><tw>looking</tw><tw>at</tw><tw>pictures</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="b283da64-9fdf-403f-9362-13a70e430b86" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>xatul</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="coding">
+        <tierData><tw>&lt;1&gt;</tw><tw>tul</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="26c5c80c-53bd-4e3a-a45e-8a4e2386b217" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>mi</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="ee5b6e0f-0f2d-42ee-b201-dd1237c4ba72" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>tarnegol</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="coding">
+        <tierData><tw>&lt;1&gt;</tw><tw>egol</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="4ba5a36d-5f14-4847-8e82-b91a0c2a5ff5" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>tarnegól</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="0eb05791-51bc-4934-9e2d-102a483ac956" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ha-</w>
+          <w>shafan</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>ha-</w>
+          <w>shafan</w>
+          <w>ha-</w>
+          <w>katan</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="59adde4e-6b99-41a0-a617-3aba994029fc" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>yafé</w>
+          <w>ha-</w>
+          <w>sipúr</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="8058fb89-9f5b-42f3-8978-8295b912946e" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ha-</w>
+          <w>shafan</w>
+          <w>ha-</w>
+          <w>katan</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="comments">
+        <tierData><tw>singing</tw><tw>with</tw><tw>the</tw><tw>right</tw><tw>tune</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="a64f0403-1e22-401e-a22a-d64c00c1ea90" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>yom</w>
+          <w>huledet</w>
+          <w>ima</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>yom</w>
+          <w>yed</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>yom</w>
+          <w>huledet</w>
+          <w>Imamar</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="coding">
+        <tierData><tw>&lt;2</tw><tw>,</tw><tw>7&gt;</tw><tw>ledet</tw><tw>&lt;8&gt;</tw><tw>Itamar</tw><tw>,</tw><tw>all</tw><tw>other</tw><tw>occurances</tw><tw>of</tw><tw>huledet</tw><tw>and</tw><tw>Itamar</tw><tw>as</tw><tw>well</tw><tw>.</tw></tierData>
+      </userTier>
+      <userTier name="comments">
+        <tierData><tw>&lt;3</tw><tw>,</tw><tw>4-5&gt;</tw><tw>false</tw><tw>start</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="e3aa3dc8-0296-4dbb-9c0b-9c9940594222" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>xag</w>
+          <w>lo</w>
+          <w>ṣaméax</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="comments">
+        <tierData><tw>singing</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="74ed83f6-5268-42e1-84f4-2c8a921874f7" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ma</w>
+          <w>yeš</w>
+          <w>lo</w>
+          <w>le-</w>
+          <w>ʔitamár</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>ma</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="64ff62d1-7e1a-454b-8531-db56f13da16a" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>yom</w>
+          <w>huledet</w>
+          <w>Itamar</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="3dba7c13-460f-4135-9fba-1c517e93f305" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>naḳón</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="34821546-18a6-4a75-a231-b8c191c19b20" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>yeš</w>
+          <w>lo</w>
+          <w>yom</w>
+          <w>hulédet</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="f6417811-2e0b-4f6c-b070-d8abc0c21de9" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>yom</w>
+          <w>huledet</w>
+          <w>Itamar</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="comments">
+        <tierData><tw>repeats</tw><tw>that</tw><tw>6</tw><tw>times</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="efe1b149-b56e-43a6-b6ce-3ee01916c9d5" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>naḳón</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="situation">
+        <tierData><tw>Hagar</tw><tw>is</tw><tw>now</tw><tw>sitting</tw><tw>on</tw><tw>mother's</tw><tw>laps</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="a8dbee6a-1c3e-4bb7-bfec-cbe26c4533c4" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ma</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="948b6002-55fb-4b59-b0e0-f9aaebf95d8f" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ṭipá</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>ṭipá</w>
+          <w>šel</w>
+          <w>máyim</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="2356f335-c6e9-4957-86a7-614725647ed0" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>geshem</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>geshem</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="560e5c84-e8a4-4605-b954-637a3e77bcf7" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ken</w>
+          <w>ze</w>
+          <w>géšem</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>naḳón</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>ze</w>
+          <w>géšem</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="582be2f2-a0be-49da-8cca-c3b80f120c24" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>geshem</w>
+          <w>geshem</w>
+          <w>geshem</w>
+          <w>mi-</w>
+          <w>shamayim</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="comments">
+        <tierData><tw>singing</tw><tw>a</tw><tw>song</tw><tw>about</tw><tw>rain</tw><tw>.</tw></tierData>
+      </userTier>
+      <userTier name="coding">
+        <tierData><tw>&lt;4&gt;</tw><tw>mi-shame</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="2096ff58-bd3f-48ee-8312-7bd1e4ce2c6a" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>mi-</w>
+          <w>šamáyim</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>mother</tw><tw>is</tw><tw>repeating</tw><tw>the</tw><tw>same</tw><tw>song</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="901f98bd-2d6d-43ee-adaa-8ef3a8ed4d29" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ima</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="f9a051a6-3ae0-4623-af78-3159ee0593c2" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ʔímaʔ</w>
+          <w>yeqará</w>
+          <w>li</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="comments">
+        <tierData><tw>singing</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="b771bf3e-0c56-46fe-baa0-b2110a741b20" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ma</w>
+          <w>ze</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>šir</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="722c7e13-3892-4061-92b2-8bfd9535a78e" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ma</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="comments">
+        <tierData><tw>the</tw><tw>question</tw><tw>is</tw><tw>not</tw><tw>referring</tw><tw>to</tw><tw>that</tw><tw>song</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="4f9ea1f7-2b4c-4a93-abb4-1e7d896e4337" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ze</w>
+          <w>šir</w>
+          <w>'al</w>
+          <w>yéled</w>
+          <w>še-</w>
+          <w>yagídu</w>
+          <w>lo</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>ʔal</w>
+          <w>také</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>ʔal</w>
+          <w>tarbíc</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>ze</w>
+          <w>loʔ</w>
+          <w>yafé</w>
+          <w>leharbíc</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="comments">
+        <tierData><tw>&lt;8-end&gt;</tw><tw>reciting</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="3cf445df-6a54-43f8-a194-513af7b4ef95" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ma</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="37bfe2d2-a6c7-45f6-ad6e-9d5c147fe69f" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ma</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="df86e514-3b62-489c-be3e-eef27eba6137" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>yadi</w>
+          <w>yadi</w>
+          <w>yad</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="comments">
+        <tierData><tw>singing</tw><tw>a</tw><tw>song</tw><tw>about</tw><tw>a</tw><tw>hand</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="cd24b143-0eed-477a-b75a-d074cf5bfc21" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>yad</w>
+          <w>ten</w>
+          <w>yad</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="comments">
+        <tierData><tw>repeating</tw><tw>the</tw><tw>song</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="b8fc963b-be9c-4806-a7e1-729f90f00c2c" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>et</w>
+          <w>ze</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="coding">
+        <tierData><tw>&lt;1+2&gt;</tw><tw>eje</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="5322e6c3-7ea0-449a-9d27-26ab9fc9f4a0" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ma</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="473d5823-db1d-426c-bb2a-0c968f15b8ff" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>lashir</w>
+          <w>lashir</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="f415bd71-9e38-442b-a152-5e06059d9884" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>lašír</w>
+          <w>ʔet</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="3658ed00-9f29-40e0-80de-3f9c43081501" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ṭov</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>singing</tw><tw>the</tw><tw>requested</tw><tw>song</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="e1dae2db-2a61-43be-be80-35d11141f9f3" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>gamárnu</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="aa77e661-2608-4f9c-8cc6-d7774c041cb5" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>et</w>
+          <w>ze</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>ba</w>
+          <w>amama</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="coding">
+        <tierData><tw>&lt;1+2&gt;</tw><tw>eje</tw><tw>&lt;3&gt;</tw><tw>buba</tw><tw>Yemima</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="257cc861-5ca7-4017-9332-af7e6538d9ac" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>bubá</w>
+          <w>ʔaní</w>
+          <w>we-</w>
+          <w>šmi</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="comments">
+        <tierData><tw>singing</tw><tw>,</tw><tw>and</tw><tw>stops</tw><tw>abruptly</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="aa354a2d-90f2-43a7-8c54-4c7621fc7b81" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ma</w>
+          <w>ze</w>
+          <w>Hagári</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>ma</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="471f44f1-1030-4994-af32-092e7e4ce4a7" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>parpar</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="coding">
+        <tierData><tw>&lt;1&gt;</tw><tw>parpal</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="f5a7751e-1425-48bc-93ec-c1985a272352" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>parpár</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>ma</w>
+          <w>'oṣé</w>
+          <w>ha-</w>
+          <w>parpár</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="6db16981-c591-4d56-bf0e-c30c3dc5f384" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ma</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="930f67c8-90fe-4b5e-bb03-e8e34df4eda3" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>tarnegól</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="9d4dc6c9-7bbd-4244-bf26-eaeed51ad063" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>we-</w>
+          <w>ma</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="comments">
+        <tierData><tw>Hagar</tw><tw>does</tw><tw>not</tw><tw>respond</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="e2ff7d25-935b-450d-80e9-4746c9b6ede8" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ma</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="ac6d2d05-08de-432a-bf8a-d193d3b5aeb1" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>et</w>
+          <w>ze</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>et</w>
+          <w>ze</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>lashir</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="coding">
+        <tierData><tw>&lt;1+2</tw><tw>,</tw><tw>3+4&gt;</tw><tw>eje</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="4158a65d-6a0d-492b-8482-eb8935eba401" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>lašír</w>
+          <w>ʔet</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="bac7571a-347a-4183-84bc-25ce8f69d079" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ze</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>qol</w>
+          <w>dodí</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>qol</w>
+          <w>dodí</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="comments">
+        <tierData><tw>singing</tw><tw>.(the</tw><tw>rest</tw><tw>os</tw><tw>the</tw><tw>song</tw><tw>is</tw><tw>not</tw><tw>transcribed)</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="b25d6b2a-61b9-4f89-8fc8-0ef7f0e61b35" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>hópa</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="9c5b754d-38c8-4435-8a00-9d089f7b6c03" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>mi</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="edc43783-8574-4c63-8eb6-66bf7db23b33" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>xamor</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>xamor</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="coding">
+        <tierData><tw>&lt;1</tw><tw>,</tw><tw>2&gt;</tw><tw>imar</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="644116f1-20ee-4a4c-868f-2e1087fd1972" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>we-</w>
+          <w>ma</w>
+          <w>huʔ</w>
+          <w>'oṣé</w>
+          <w>ha-</w>
+          <w>xamór</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>ma</w>
+          <w>huʔ</w>
+          <w>'oṣé</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="0c890500-a050-40f2-a115-e8c2c2a37108" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>et</w>
+          <w>ze</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>et</w>
+          <w>ze</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="coding">
+        <tierData><tw>&lt;1+2</tw><tw>,</tw><tw>3+4&gt;</tw><tw>eje</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="1feebf19-8c04-44c1-91e3-7a892bbd99d9" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>tistaklí</w>
+          <w>ma</w>
+          <w>huʔ</w>
+          <w>'oṣé</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="ab43b17f-ce7a-46ea-876b-3a71eab823fd" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>per</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>per</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="explanation">
+        <tierData><tw>&lt;1</tw><tw>,</tw><tw>2&gt;</tw><tw>mesaper</tw><tw>,</tw><tw>according</tw><tw>to</tw><tw>mother</tw><tw>.</tw></tierData>
+      </userTier>
+      <userTier name="situation">
+        <tierData><tw>the</tw><tw>phone</tw><tw>is</tw><tw>ringing</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="9b4e7ae2-9df4-4e76-a3cd-41aba4257ff5" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>mesapér</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="30f044a6-eedc-4fbf-b1ff-67e1939eee89" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>'aḳšáyw</w>
+          <w>Hagári</w>
+          <w>tesapér</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="87fa9727-2653-4f67-87bb-83fc88302436" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ʔímaʔ</w>
+          <w>ta'ané</w>
+          <w>'al</w>
+          <w>ha-</w>
+          <w>ṭélefon</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>ṭov</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="6b904f6f-002e-41b0-8216-17ae3aac7222" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ṭov</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>Hagári</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="4912e151-0069-42c6-8a68-f97a104f3014" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ʔat</w>
+          <w>tešví</w>
+          <w>po</w>
+          <w>we-</w>
+          <w>tesaprí</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="afe109f4-61e9-4842-816b-2d0a134d3a43" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>tešví</w>
+          <w>we-</w>
+          <w>tesaprí</w>
+          <w>ʔet</w>
+          <w>ha-</w>
+          <w>sipúr</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="situation">
+        <tierData><tw>Hagar</tw><tw>is</tw><tw>alone</tw><tw>,</tw><tw>a</tw><tw>few</tw><tw>seconds</tw><tw>of</tw><tw>silence</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="d90b1036-d638-4247-8826-186e29ad39b3" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>mor</w>
+          <w>a'a</w>
+          <w>ia</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="explanation">
+        <tierData><tw>&lt;1&gt;</tw><tw>may</tw><tw>be</tw><tw>"xamor"</tw><tw>and</tw><tw>&lt;2&gt;</tw><tw>and</tw><tw>&lt;3&gt;</tw><tw>immitation</tw><tw>of</tw><tw>its</tw><tw>voice</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="9cda2a85-b94c-4771-8c5a-3818753ee4be" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>xelet</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="explanation">
+        <tierData><tw>&lt;1&gt;</tw><tw>oxelet</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="c8001c36-a6b8-4f01-9fe5-903c1f00d2d1" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>az</w>
+          <w>hi</w>
+          <w>loʔ</w>
+          <w>oxelet</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="comments">
+        <tierData><tw>adult-like</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="b805d5ec-ee71-4197-aa37-5899e447568b" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>mi</w>
+          <w>ʔoḳélet</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="d15fe2b6-52a4-4d16-a713-4b1efe02556d" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ha-</w>
+          <w>xamór</w>
+          <w>ʔoḳél</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="44d2fedb-ca4a-4379-8854-8df66ecf8d69" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>oxel</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="coding">
+        <tierData><tw>&lt;1&gt;</tw><tw>xel</tw></tierData>
+      </userTier>
+      <userTier name="actions">
+        <tierData><tw>pointing</tw><tw>at</tw><tw>a</tw><tw>picture</tw><tw>of</tw><tw>an</tw><tw>eating</tw><tw>donkey</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="07bbec53-9131-45fc-b35a-c025c0ed5581" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>naḳón</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="05c63115-f85e-48d7-ad7e-4300351915cc" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ma</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="b2737675-39dd-4f99-9fb9-08d7631e34af" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>katuv</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="de859af7-d204-454d-a711-95fa0c519401" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ze</w>
+          <w>loʔ</w>
+          <w>katúv</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>ze</w>
+          <w>ciyúr</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="e65b2713-5b9c-4c9d-bed9-826d5258a850" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ʔéjfo</w>
+          <w>ha-</w>
+          <w>katúv</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="6db4917a-bcb9-4d07-adee-6449f12417c5" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>tarʔí</w>
+          <w>li</w>
+          <w>ʔéjfo</w>
+          <w>katúv</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="45bc3476-c443-4f9f-a720-ae0a040678d1" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>híne</w>
+          <w>katúv</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>Inbal</tw><tw>is</tw><tw>showing</tw><tw>Hagar</tw><tw>lines</tw><tw>of</tw><tw>text</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="69cd2b50-32bb-49ba-8f9b-9cd08b154119" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ha-</w>
+          <w>oto</w>
+          <w>shelanu</w>
+          <w>a</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="coding">
+        <tierData><tw>&lt;1&gt;</tw><tw>oto</tw><tw>&lt;2&gt;</tw><tw>lanu</tw></tierData>
+      </userTier>
+      <userTier name="comments">
+        <tierData><tw>singing</tw><tw>a</tw><tw>song</tw><tw>about</tw><tw>a</tw><tw>car</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="ec554ca9-0317-4916-9191-dfd9314952ea" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ʔavál</w>
+          <w>ze</w>
+          <w>loʔ</w>
+          <w>ha-</w>
+          <w>ʔOṭo</w>
+          <w>Šelánu</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="45f53fdf-5690-44de-85d0-79254a2f5700" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ma</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="aba8d96e-8791-4c01-8a32-4f5d937e0f64" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>oto</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="901af40d-afed-46a0-88a3-cf13f141cc98" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ʔéjfo</w>
+          <w>ʔóṭo</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>tarʔí</w>
+          <w>li</w>
+          <w>ʔéjfo</w>
+          <w>ʔóṭo</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="1a816327-39ff-44c3-a49c-97f3487c96ed" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>oto</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="87a2af7c-ad84-4519-8cbd-0ec843a70a79" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ze</w>
+          <w>oto</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="a9d4f910-7a96-4097-9a1f-03ad4320c2c6" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>oto</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="7ecca41c-eb13-427a-af81-c582f6ae1bda" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>Hagár</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>lašír</w>
+          <w>'al</w>
+          <w>ʔóṭo</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="4ac1ff06-b5ea-4076-9f6f-4ac23fe9e977" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>híne</w>
+          <w>ʔóṭo</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="a19c647f-a118-4c90-8e3c-932e8eaf7a7c" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>oto</w>
+          <w>shelanu</w>
+          <w>a</w>
+          <w>a</w>
+          <w>a</w>
+          <w>o</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="coding">
+        <tierData><tw>&lt;2&gt;</tw><tw>lanu</tw></tierData>
+      </userTier>
+      <userTier name="comments">
+        <tierData><tw>repeating</tw><tw>the</tw><tw>previous</tw><tw>song</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="ec987ff5-c706-417c-b436-dcb28b179138" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>sham</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="a870d1d4-8c6a-4751-8dc5-3bfcb1848be3" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>oto</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="b67bd1d0-d782-4fe2-971b-0349d7d351c9" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>mi</w>
+          <w>šar</w>
+          <w>ʔóṭo</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="comments">
+        <tierData><tw>transcriber</tw><tw>heard</tw><tw>"sham"</tw><tw>in</tw><tw>Hagar's</tw><tw>previous</tw><tw>utterance</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="8e910d57-a0e8-47ca-bb10-038e6e6d61f1" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>oto</w>
+          <w>shelanu</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="coding">
+        <tierData><tw>&lt;2&gt;</tw><tw>lanu</tw></tierData>
+      </userTier>
+      <userTier name="comments">
+        <tierData><tw>repeating</tw><tw>the</tw><tw>song</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="887bc087-b32b-453b-98ca-e4bf92502b81" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>parpar</w>
+          <w>parpar</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="4b0f365b-a7d8-4742-a1e5-7a7d472ca3da" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>naḳón</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="comments">
+        <tierData><tw>then</tw><tw>singing</tw><tw>a</tw><tw>song</tw><tw>about</tw><tw>a</tw><tw>butterfly</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="128172db-46df-485e-8228-5e0d73c0c128" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>et</w>
+          <w>ze</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="coding">
+        <tierData><tw>&lt;1+2&gt;</tw><tw>eje</tw><tw>.</tw></tierData>
+      </userTier>
+      <userTier name="comments">
+        <tierData><tw>Inbal</tw><tw>is</tw><tw>singing</tw><tw>another</tw><tw>song</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="93879eca-83c7-4a8e-9326-26c28c1b58a0" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>Hagári</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>ʔéjze</w>
+          <w>šir</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="2795b8e1-c770-44be-b0b8-d7f6bf11a03e" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>'al</w>
+          <w>mi</w>
+          <w>ze</w>
+          <w>kaʔn</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="cbd1f1b7-43b3-44f9-af01-c424ddc04338" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>et</w>
+          <w>ze</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>et</w>
+          <w>ze</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="coding">
+        <tierData><tw>&lt;1+2</tw><tw>,</tw><tw>3+4&gt;</tw><tw>eje</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="cf113539-1fb6-41f5-a432-0fa8d0cdf78a" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ʔet</w>
+          <w>ma</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="be9d9f15-0d32-40d9-b298-e80fe9fa9d17" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>et</w>
+          <w>ze</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="coding">
+        <tierData><tw>&lt;1+2&gt;</tw><tw>eje</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="67cd2b24-5b70-4986-8d86-5891213bf73b" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>lashir</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>lashir</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="d4c32d60-7a63-46e1-82e9-a24bbdab79b1" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>mi</w>
+          <w>ze</w>
+          <w>kaʔn</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>Hagári</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="0d94025b-dd37-4b84-a759-f9519ed44e5d" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>yom</w>
+          <w>huledet</w>
+          <w>i</w>
+          <w>Itamar</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="405d0d85-bf25-4bed-9b1a-11652dbfd129" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ʔavál</w>
+          <w>kaʔn</w>
+          <w>ze</w>
+          <w>loʔ</w>
+          <w>yom</w>
+          <w>hulédet</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="1b586a07-36af-4a2f-82a4-c08a1e3764c7" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>kaʔn</w>
+          <w>ze</w>
+          <w>meʔaxoréy</w>
+          <w>ha-</w>
+          <w>har</w>
+          <w>ʔaxát</w>
+          <w>štáyim</w>
+          <w>šalóš</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="comments">
+        <tierData><tw>&lt;3-end&gt;</tw><tw>singing</tw></tierData>
+      </userTier>
+      <userTier name="coding">
+        <tierData><tw>&lt;4&gt;</tw><tw>ha-</tw><tw>ha'ar</tw><tw>&lt;5&gt;</tw><tw>xat</tw><tw>&lt;6&gt;</tw><tw>shtaym</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="6f113265-7d8f-4589-ae4a-4b75deece465" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>yom</w>
+          <w>yom</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>yom</w>
+          <w>huledet</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="b3fbba51-7982-43e2-84bd-ba87902df10e" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>á</w>
+          <w>naḳón</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="8c577e45-9388-4058-bc6f-0a9e3f24398e" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>kaʔn</w>
+          <w>be-</w>
+          <w>ʔemét</w>
+          <w>yeš</w>
+          <w>yom</w>
+          <w>hulédet</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="dc71b928-4226-4646-9b7d-9e827159130d" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>yom</w>
+          <w>huledet</w>
+          <w>esh</w>
+          <w>esh</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>pointign</tw><tw>at</tw><tw>a</tw><tw>picture</tw><tw>of</tw><tw>candles</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="52e82e43-eae1-4a79-8d8d-2a5608635729" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>yom</w>
+          <w>huledet</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="fa4c85d7-677c-4b2a-b97c-c381a6f0b6d6" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>yom</w>
+          <w>huledet</w>
+          <w>Itamar</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="a81e03f2-6e51-4e30-b655-7a10d1dea883" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>kaʔn</w>
+          <w>ze</w>
+          <w>yom</w>
+          <w>hulédet</w>
+          <w>le-</w>
+          <w>Yoram</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="comments">
+        <tierData><tw>then</tw><tw>singing</tw><tw>a</tw><tw>birthday</tw><tw>song</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="090779ba-f206-4213-a45a-ef7593f77121" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ma</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="3a60ec80-3629-44a4-9942-c329d48bc836" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ze</w>
+          <w>pil</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>bubi</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="2870b167-7bc0-46f5-9720-19b383ed5ff6" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>naḳón</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>we-</w>
+          <w>ma</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="329f33fd-64b0-43ba-8565-968de67580e8" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>kof</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="89ac7c24-29f5-4cfd-b266-615275b0b296" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>we-</w>
+          <w>mi</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="4b60d885-88d7-457e-87c4-4642f9bbf9b5" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>yeled</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="12217b38-6277-4d77-a467-b5d0d9438703" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>naḳón</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>ze</w>
+          <w>yéled</w>
+          <w>šováv</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="fc5b28b9-560a-4627-b47c-90b20a51f32f" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>kof</w>
+          <w>kof</w>
+          <w>kof</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="16981edb-c313-4bb1-895c-ec2394ed120a" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>naḳón</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>we-</w>
+          <w>mi</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="310d4b7a-0406-43cf-84d6-204fd2ce7def" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>pil</w>
+          <w>pil</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="38ef42b1-4b7e-43e1-82ef-5a80f8a48f36" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>we-</w>
+          <w>mi</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="8aa318dc-319d-4940-8302-50d597a579a7" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>yo</w>
+          <w>a</w>
+          <w>a</w>
+          <w>o</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="4a9a6b13-bab4-4220-98d3-15e19521dbd4" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>pil</w>
+          <w>pil</w>
+          <w>pil</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="34ad0897-a476-44d0-9a71-0cfa16fb3a87" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>pil</w>
+          <w>pilón</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="comments">
+        <tierData><tw>singing</tw><tw>a</tw><tw>song</tw><tw>about</tw><tw>an</tw><tw>elephant</tw><tw>.</tw></tierData>
+      </userTier>
+      <userTier name="situation">
+        <tierData><tw>the</tw><tw>phone</tw><tw>is</tw><tw>ringing</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="c3e119b4-9d26-465e-8d34-4725a498afe3" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ze</w>
+          <w>mimixa</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="0913ed2c-4301-4d27-af5c-af1216d82975" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>'al</w>
+          <w>Dodí</w>
+          <w>Símxa</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="af431aa3-506b-466a-8beb-a98476c0e4d0" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>be-</w>
+          <w>séder</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>tatxíli</w>
+          <w>lesapér</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="situation">
+        <tierData><tw>Inbal</tw><tw>is</tw><tw>on</tw><tw>the</tw><tw>phone</tw><tw>.</tw><tw>Hagar</tw><tw>is</tw><tw>alone</tw><tw>with</tw><tw>the</tw><tw>book</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="327f7f6b-6e09-4304-a5e1-3198d4fbd747" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ma</w>
+          <w>ze</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>ma</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="1a7ef273-c9fe-45c9-8194-27ef00805f67" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ton</w>
+          <w>ton</w>
+          <w>ton</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="5c05d574-5408-40b8-8c33-304c0b2e4ef2" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ton</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="situation">
+        <tierData><tw>a</tw><tw>few</tw><tw>seconds</tw><tw>of</tw><tw>silence</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="19a4ecfc-4bb4-4847-8b78-2d62b5509e64" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>erim</w>
+          <w>exim</w>
+          <w>exim</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="bff15b72-9bc7-4439-81fd-ce096e8c9efb" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ma</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="b8ac71b5-5fe6-4025-99dc-422110496e31" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>seu</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="224f7253-6625-47d4-943e-4fa7c4f95faf" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>lalalalala</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="comments">
+        <tierData><tw>singing</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="b74ce6b2-a414-4be5-b6e8-15316a259858" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>sau</w>
+          <w>sau</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>ashav</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="explanation">
+        <tierData><tw>&lt;3&gt;</tw><tw>axshav</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="58ca3373-d701-4cd5-9e0c-ae060042dbf3" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>lalalalala</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="comments">
+        <tierData><tw>singing</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="1e9e9a28-112b-4aa8-a870-0c6b227d4503" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>shav</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="explanation">
+        <tierData><tw>&lt;1&gt;</tw><tw>axshav</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="77b14dc7-7d1f-4be5-b814-e89d20cb807a" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>mixa</w>
+          <w>mimixa</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="59d1ecdc-50c1-4f0b-b505-54029e1730e7" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>kova</w>
+          <w>kova</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="72e213dd-99d4-4228-a555-af24e561adb1" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ima</w>
+          <w>ima</w>
+          <w>e</w>
+          <w>aba</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="2f0c5b9b-db14-4150-8fd6-a9caa3036834" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>yeled</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="60f91da1-2f38-4106-936e-372ca2303578" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>yom</w>
+          <w>huledet</w>
+          <w>i</w>
+          <w>Itamar</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="comments">
+        <tierData><tw>repeats</tw><tw>that</tw><tw>4</tw><tw>times</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="98dec314-29a6-4be3-8e5f-39d7a3649830" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>oto</w>
+          <w>shelanu</w>
+          <w>a</w>
+          <w>ha-</w>
+          <w>katan</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="coding">
+        <tierData><tw>&lt;2&gt;</tw><tw>lanu</tw></tierData>
+      </userTier>
+      <userTier name="comments">
+        <tierData><tw>singing</tw><tw>the</tw><tw>song</tw><tw>about</tw><tw>a</tw><tw>car</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="30c6e84d-4156-41e7-9802-4863c728298f" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>et</w>
+          <w>ze</w>
+          <pause symbolic-length="simple"></pause>
+          <w>sipur</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="coding">
+        <tierData><tw>&lt;1+2&gt;</tw><tw>eje</tw></tierData>
+      </userTier>
+      <userTier name="situation">
+        <tierData><tw>silence</tw><tw>.</tw><tw>(Inbal</tw><tw>is</tw><tw>still</tw><tw>on</tw><tw>the</tw><tw>phone)</tw><tw>.</tw><tw>turning</tw><tw>pages</tw></tierData>
+      </userTier>
+      <userTier name="paralinguistics">
+        <tierData><tw>Hagar</tw><tw>is</tw><tw>coughing</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="c27e1f1d-5cd0-402c-bd4a-fe8e2c48b59b" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>mimixa</w>
+          <w>mimixa</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>mimixa</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="e831a3a0-f4f5-4dcb-b23f-a88053bbcf8d" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>loʔ</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>xim</w>
+          <w>la-</w>
+          <w>yam</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="explanation">
+        <tierData><tw>&lt;2&gt;</tw><tw>holxim</tw><tw>,</tw><tw>in</tw><tw>following</tw><tw>occurences</tw><tw>as</tw><tw>well</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="8e7e8b88-142c-4880-ba17-c68d67d2fd29" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>xim</w>
+          <w>la-</w>
+          <w>yam</w>
+          <w>yam</w>
+          <w>yam</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="56e5ff28-1a8e-41fd-8c4d-4ef65c924089" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>xi</w>
+          <w>xim</w>
+          <w>yam</w>
+          <w>xim</w>
+          <w>la-</w>
+          <w>yam</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="9b14cfa3-aa38-4d60-93b2-8edf676ff38d" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>xim</w>
+          <w>la-</w>
+          <w>yam</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="03a1c83d-bd28-4c73-9c33-892d08842018" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>mimixa</w>
+          <w>day</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="ab165c38-608a-4da7-b814-aed8e7b882e7" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ma</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="comments">
+        <tierData><tw>adult-like</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="efc64a52-dc9e-42ab-b38b-fe3491395f5e" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ma</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="51c9e1d9-240a-4e61-984d-74192995f901" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>yeled</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="1c628796-1cd0-4c90-80af-1bb5639c3155" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ma</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="7426241b-f46c-498a-a2ba-5bde5e356496" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>mimixa</w>
+          <w>mimixa</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="d8606669-4327-4961-8c23-df1d5a13d5d1" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <w>b</w>
+          <w>b</w>
+          <w>b</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="782e02ea-fce2-4485-84a7-a811dc8a06d5" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ma</w>
+          <w>ze</w>
+          <w>mimixa</w>
+          <w>mimixa</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="2d058d2d-e1c0-423e-95bf-e876a3f03b44" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>xatul</w>
+          <w>xatul</w>
+          <w>xatul</w>
+          <w>eta</w>
+          <w>xatul</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="coding">
+        <tierData><tw>&lt;1-3</tw><tw>,</tw><tw>5&gt;</tw><tw>atul</tw></tierData>
+      </userTier>
+      <userTier name="explanation">
+        <tierData><tw>&lt;4&gt;</tw><tw>might</tw><tw>be</tw><tw>"et</tw><tw>ha"</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="2f6c34b8-4cbb-4a7e-baa4-ccac6b2bed9a" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>mixa</w>
+          <w>yalti</w>
+          <w>mixa</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>yalti</w>
+          <w>mimixa</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>yalti</w>
+          <w>mimixa</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="9291f7cd-6dac-449e-af41-a557bb6310c9" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>kelev</w>
+          <w>kelev</w>
+          <w>kelev</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="47c7fab1-2d13-4630-8a57-6bbbd16925c4" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>hine</w>
+          <w>kelev</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="b7304f8b-b87a-4118-9606-888bd7b35da4" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>seaka</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="11760e0e-e498-4683-a52a-b3c0e6ff6c4f" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>kelev</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="1eef9198-32f2-4ba4-a480-27547ac61559" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>xatul</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="coding">
+        <tierData><tw>&lt;1&gt;</tw><tw>atul</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="28bcc6ed-5c3b-4b7d-be72-038891784f9c" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>kelev</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="36bf9fe8-27c4-4149-b29b-f4e417969c8e" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ga</w>
+          <w>ga</w>
+          <w>ga</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="comments">
+        <tierData><tw>imitating</tw><tw>a</tw><tw>duck</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="53800f3c-36fe-4827-a08c-4fb51aa1b008" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>naḳón</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="1ee036ed-3d47-4ec0-b354-e173aa37ce58" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ze</w>
+          <w>ha-</w>
+          <w>xayót</w>
+          <w>še-</w>
+          <w>dod</w>
+          <w>Símxa</w>
+          <w>hevíʔ</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="2f8f7e6d-dae8-4c08-b376-957db564212e" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ma</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="cb96fc4e-0a25-4f81-aea9-7a0380e1fb3f" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>sipur</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="9999a2ce-df00-4558-8b84-f65c914a83a9" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>še-</w>
+          <w>ʔímaʔ</w>
+          <w>tesapér</w>
+          <w>'aḳšáyw</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="a85e0e3b-0347-4fe0-9d53-54cb8f0bf319" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>'aḳšáyw</w>
+          <w>ʔímaʔ</w>
+          <w>tesapér</w>
+          <w>'al</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="comments">
+        <tierData><tw>interrupted</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="8cf5e751-6469-4fa9-837f-92ff1b361ef4" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>kelev</w>
+          <w>kelev</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="d9d2d459-ff7a-4d4a-afac-63d85a05cce0" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>naḳón</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>we-</w>
+          <w>mi</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="8c7ca882-dccf-4949-8c87-18572620d719" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>sus</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="0034fc89-9d9e-4795-bc5f-a992941d4486" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>sus</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="a236a921-96e5-4265-b30f-240f635ef79e" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ku</w>
+          <w>ku</w>
+          <w>ku</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="4886444f-d11c-4095-9bd7-d6a49e6fcf4c" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>od</w>
+          <w>pa'am</w>
+          <w>od</w>
+          <w>pa'am</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="103b6e47-ed63-4e56-a6c4-7470b5d80d14" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>'od</w>
+          <w>pá'am</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="3146cf0f-ce75-492a-b465-d36d17dc7622" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>'od</w>
+          <w>pá'am</w>
+          <w>ʔet</w>
+          <w>ha-</w>
+          <w>séfer</w>
+          <w>ha-</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="coding">
+        <tierData><tw>&lt;2&gt;</tw><tw>pam</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="3569d154-7031-4eae-a4a5-dec2712f404f" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ken</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="situation">
+        <tierData><tw>Hagar</tw><tw>is</tw><tw>bringing</tw><tw>another</tw><tw>book</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="9d6368cd-63ea-44bc-af10-63afb651ba94" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ma</w>
+          <w>ze</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>ma</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="6b4975eb-82c7-4e76-83ec-a8d110c5818f" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>oto</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="326ed8fc-6b47-47d8-8f38-f2bdf14238b0" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>naḳón</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>ze</w>
+          <w>ʔóṭo</w>
+          <w>dóʔar</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="a62f2c5e-3d4f-4378-b347-78162167eaa2" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>we-</w>
+          <w>ma</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="d7180d0b-5430-4eba-95f8-69465a7712e8" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>miḳtáv</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>'im</w>
+          <w>bul</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="d3df0e4c-207b-4e54-9952-e41d4fcf4c53" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>aba</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="5244d89b-be98-4df9-b23e-876a1ab4a47a" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ze</w>
+          <w>ʔábaʔ</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="comments">
+        <tierData><tw>there</tw><tw>is</tw><tw>a</tw><tw>picture</tw><tw>of</tw><tw>a</tw><tw>man</tw><tw>on</tw><tw>the</tw><tw>stamp</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT" uuid="34c8f4d1-ffd9-4945-8e9a-bc0bdf84338b" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>naḳón</w>
+          <tagMarker type="comma"></tagMarker>
+          <w>yaḳól</w>
+          <w>lihiyót</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="ac8bc529-a80b-4e30-964b-cba64c734eaf" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>we-</w>
+          <w>mi</w>
+          <w>ze</w>
+          <w>po</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="ad2553ef-e283-4102-945d-99c6307db501" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>dubi</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="a5862b1f-d015-47a7-b850-acf0906fddf3" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>dúbi</w>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="a194fa74-e4d1-4d14-a653-dbec80bb21f1" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>we-</w>
+          <w>ze</w>
+          <w>kaʔn</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="86538bd3-4ce2-4116-8b14-98346beceb3c" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ma</w>
+          <w>ze</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="7e1ff362-83ad-4d0c-9e52-00e29c22fa70" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ze</w>
+          <w>bul</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="c594d5ef-b0c0-4ee7-94bd-e6e84d981173" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>bul</w>
+          <w>še-</w>
+          <w>madbiqím</w>
+          <w>'al</w>
+          <w>miḳtáv</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="a38d177a-5ae9-402b-9fd0-26ccaec8c0f4" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>od</w>
+          <w>pa'am</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="14cb3e63-123a-4a02-ac8f-9fa0be303e7c" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>'od</w>
+          <w>pá'am</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+  </transcript>
+</session>

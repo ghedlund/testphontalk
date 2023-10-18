@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="ca-pauses" corpus="sample" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <participants>
+    <participant id="MOT">
+      <role>Mother</role>
+      <languages>eng</languages>
+    </participant>
+    <participant id="CHI">
+      <role>Target_Child</role>
+      <age>P1Y10M4DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <comment type="Generic">
+      <tierData><tw>pauses</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="d1896498-f451-49b3-9b34-7f7cfd842aca" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <pause symbolic-length="simple"></pause>
+          <w>b</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="3b47e101-e148-4956-9536-d8ccd87036c4" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <pause symbolic-length="long"></pause>
+          <w>b</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="71a7e561-6b6c-486e-8a01-741a7fe774c1" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <pause symbolic-length="very long"></pause>
+          <w>b</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="568be6f4-5f90-41f8-9e78-d69b37fa06ae" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <pause symbolic-length="simple" length="3.000"></pause>
+          <w>b</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="4f07e023-c1d3-4a0d-a624-861f65f59cbd" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <pause symbolic-length="simple" length="123.000"></pause>
+          <w>b</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="897083a0-c8db-4cb7-97b0-aa4cd7ffd5ba" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <pause symbolic-length="simple" length="123.400"></pause>
+          <w>b</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="1de54e54-a2a8-47b2-80ca-9761845d8426" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <pause symbolic-length="simple" length="3.400"></pause>
+          <w>b</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <comment type="Generic">
+      <tierData><tw>pauses</tw><tw>followed</tw><tw>by</tw><tw>stuff</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="68374b48-c794-4989-b4bc-2ce3246edf5e" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <pause symbolic-length="simple"></pause>
+          <tagMarker type="comma"></tagMarker>
+          <w>b</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <comment type="Generic">
+      <tierData><tw>pauses</tw><tw>with</tw><tw>annotations</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="ef9074ef-48f4-430c-83f3-5ed2c6c84302" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>a</w><pause symbolic-length="simple" length="3.400"></pause><k type="retracing"></k></g>
+          <w>a</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+  </transcript>
+</session>

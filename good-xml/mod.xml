@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="mod" corpus="mcf" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <date>1987-05-01</date>
+  <languages>por swe</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Target_Child</role>
+      <name>Karin</name>
+      <age>P1Y9M0DT0H0M0S</age>
+      <languages>por swe</languages>
+    </participant>
+    <participant id="DAD">
+      <role>Father</role>
+      <name>Peter</name>
+      <languages>por swe</languages>
+    </participant>
+    <participant id="MUM">
+      <role>Mother</role>
+      <name>Madalena</name>
+      <languages>por swe</languages>
+    </participant>
+  </participants>
+  <userTiers>
+    <td tierName="target gloss" type="default" excludeFromAlignment="true"></td>
+    <td tierName="english translation" type="default" excludeFromAlignment="true"></td>
+    <td tierName="pho" type="default" excludeFromAlignment="false"></td>
+    <td tierName="mod" type="default" excludeFromAlignment="false"></td>
+    <td tierName="intonation" type="default" excludeFromAlignment="true"></td>
+  </userTiers>
+  <transcript>
+    <comment type="Transcriber">
+      <tierData><tw>MCF</tw></tierData>
+    </comment>
+    <comment type="Transcriber">
+      <tierData><tw>MCF</tw></tierData>
+    </comment>
+    <comment type="Date">
+      <tierData><tw>01-MAY-1987</tw></tierData>
+    </comment>
+    <comment type="Tape Location">
+      <tierData><tw>Video</tw><tw>1</tw><tw>sd.</tw></tierData>
+    </comment>
+    <comment type="Location">
+      <tierData><tw>Viken,</tw><tw>Sweden.</tw></tierData>
+    </comment>
+    <comment type="Situation">
+      <tierData><tw>sitting</tw><tw>at</tw><tw>a</tw><tw>table</tw><tw>at</tw><tw>home</tw><tw>with</tw><tw>Father,</tw><tw>Karin</tw><tw>in</tw><tw>her</tw><tw>high</tw><tw>chair.</tw><tw>Mother</tw><tw>is</tw><tw>videotaping.</tw></tierData>
+    </comment>
+    <comment type="Activities">
+      <tierData><tw>playing</tw><tw>with</tw><tw>crayons</tw><tw>and</tw><tw>paper</tw><tw>on</tw><tw>the</tw><tw>table.</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="3aee4ddf-7a46-470a-a42d-1beaec814789" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>n<shortening>e</shortening>j</w>
+          <g><w><shortening>v</shortening>ill</w><k type="best guess"></k></g>
+          <w><shortening>h</shortening>a</w>
+          <w>han<shortening>d</shortening></w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="target gloss">
+        <tierData><tw>nej,</tw><tw>jag</tw><tw>vill</tw><tw>ha</tw><tw>handen</tw><tw>.</tw></tierData>
+      </userTier>
+      <userTier name="english translation">
+        <tierData><tw>no,</tw><tw>I</tw><tw>want</tw><tw>the</tw><tw>hand</tw><tw>.</tw></tierData>
+      </userTier>
+      <userTier name="pho">
+        <tierData><tw>n̩ːːiwʊaˈhan̚</tw></tierData>
+      </userTier>
+      <userTier name="mod">
+        <tierData><tw>neʝ</tw><tw>vil</tw><tw>hɑː</tw><tw>ˈhandən</tw></tierData>
+      </userTier>
+      <userTier name="intonation">
+        <tierData><tw>LL</tw><tw>on</tw><tw>syllabic</tw><tw>nasal,</tw><tw>HF</tw><tw>on</tw><tw>the</tw><tw>next</tw><tw>three</tw><tw>sylls,</tw><tw>MR</tw><tw>on</tw><tw>last</tw><tw>word</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+  </transcript>
+</session>

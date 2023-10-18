@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="mortranslation-continuation" corpus="Paris" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <date>2007-06-03</date>
+  <languages>fra</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Target_Child</role>
+      <name>Antoine</name>
+      <sex>male</sex>
+      <birthday>2006-04-10</birthday>
+      <age>P1Y1M23DT0H0M0S</age>
+      <languages>fra</languages>
+    </participant>
+    <participant id="FAT">
+      <role>Father</role>
+      <name>Mathieu</name>
+      <sex>male</sex>
+      <birthday>1978-07-07</birthday>
+      <age>P35Y0M0DT0H0M0S</age>
+      <languages>fra</languages>
+    </participant>
+    <participant id="OBS">
+      <role>Investigator</role>
+      <name>Christophe</name>
+      <sex>male</sex>
+      <birthday>1960-12-15</birthday>
+      <age>P46Y5M18DT0H0M0S</age>
+      <languages>fra</languages>
+    </participant>
+    <participant id="AUN">
+      <role>Relative</role>
+      <name>Anne_Aunt</name>
+      <sex>female</sex>
+      <birthday>1975-05-05</birthday>
+      <age>P32Y0M28DT0H0M0S</age>
+      <languages>fra</languages>
+    </participant>
+  </participants>
+  <userTiers>
+    <td tierName="Morphology" type="mor" excludeFromAlignment="true"></td>
+  </userTiers>
+  <transcript>
+    <comment type="Generic">
+      <tierData><tw>mor</tw><tw>translation</tw><tw>with</tw><tw>continuation</tw><tw>lines</tw></tierData>
+    </comment>
+    <comment type="Date">
+      <tierData><tw>03-JUN-2007</tw></tierData>
+    </comment>
+    <r speaker="AUN" uuid="1e106371-ec6a-4392-96df-444f5fc3b6a8" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ah</w>
+          <w>oui</w>
+          <w>alors</w>
+          <w>je</w>
+          <w>peux</w>
+          <w>éteindre</w>
+          <w>dans</w>
+          <w>le</w>
+          <w>couloir</w>
+          <w>oui</w>
+          <w>non</w>
+          <w>elle</w>
+          <w>va</w>
+          <w>chercher</w>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="350.255" end="354.852" unit="s"></segment>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>ah</stem></mw></mor>
+          <mor><mw><pos><c>co</c></pos><stem>oui</stem></mw><menx>yes</menx></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>alors</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>subj</subc></pos><stem>je</stem></mw></mor>
+          <mor><mw><pos><c>v</c><subc>mdl</subc></pos><stem>pouvoir</stem><mk type="sfxf">PRES</mk><mk type="sfxf">12s</mk></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>éteindre</stem><mk type="sfx">INF</mk></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>dans</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>le</stem><mk type="sfxf">m</mk><mk type="sfxf">sg</mk></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>couloir</stem><mk type="sfxf">m</mk></mw></mor>
+          <mor><mw><pos><c>co</c></pos><stem>oui</stem></mw><menx>yes</menx></mor>
+          <mor><mw><pos><c>co</c></pos><stem>non</stem></mw><menx>no</menx></mor>
+          <mor><mw><pos><c>pro</c><subc>subj</subc></pos><stem>elle</stem></mw></mor>
+          <mor><mw><pos><c>v</c><subc>mdl</subc></pos><stem>aller</stem><mk type="sfxf">PRES</mk><mk type="sfxf">3s</mk></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>chercher</stem><mk type="sfx">INF</mk></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+  </transcript>
+</session>

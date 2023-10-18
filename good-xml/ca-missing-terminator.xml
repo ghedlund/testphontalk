@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="ca-missing-terminator" corpus="sample" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <participants>
+    <participant id="MOT">
+      <role>Mother</role>
+      <languages>eng</languages>
+    </participant>
+    <participant id="CHI">
+      <role>Target_Child</role>
+      <age>P1Y10M4DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <comment type="Generic">
+      <tierData><tw>missing</tw><tw>terminator</tw><tw>for</tw><tw>CA</tw><tw>is</tw><tw>legal</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="56cb3b10-46e8-47ab-ab3a-b31f5014e3aa" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>crap</w>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+  </transcript>
+</session>

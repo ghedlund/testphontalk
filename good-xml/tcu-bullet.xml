@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="tcu-bullet" corpus="sample" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <media>tcu-bullet</media>
+  <participants>
+    <participant id="MOT">
+      <role>Mother</role>
+      <languages>eng</languages>
+    </participant>
+    <participant id="CHI">
+      <role>Target_Child</role>
+      <age>P1Y10M4DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <comment type="Generic">
+      <tierData><tw>TCU</tw><tw>bullet,</tw><tw>conceptually</tw><tw>at</tw><tw>end</tw><tw>of</tw><tw>tier;</tw><tw>4-15-09</tw><tw>require</tw><tw>terminator</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="d5ecb912-a8e0-40ba-97ea-e9b4a3dc6f14" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>crap</w>
+          <internal-media start="2041.689" end="2042.652" unit="s"></internal-media>
+          <pause symbolic-length="simple" length="9.400"></pause>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="2042.652" end="2043.652" unit="s"></segment>
+    </r>
+  </transcript>
+</session>

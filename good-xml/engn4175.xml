@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="engn4175" corpus="cf" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <media>engn4175</media>
+  <participants>
+    <participant id="M1">
+      <role>Male</role>
+      <languages>eng</languages>
+    </participant>
+    <participant id="M2">
+      <role>Male</role>
+      <languages>eng</languages>
+    </participant>
+    <participant id="F1">
+      <role>Female</role>
+      <languages>eng</languages>
+    </participant>
+    <participant id="F2">
+      <role>Female</role>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <comment type="Generic">
+      <tierData><tw>M1</tw><tw>is</tw><tw>31</tw><tw>w</tw><tw>25yrs</tw><tw>of</tw><tw>school,</tw><tw>Pittsburgh,</tw><tw>F1</tw><tw>speaks</tw><tw>only</tw><tw>for</tw><tw>the</tw><tw>last</tw><tw>two</tw><tw>minutes,</tw><tw>F2</tw><tw>in</tw><tw>the</tw><tw>last</tw><tw>minute,</tw><tw>F1</tw><tw>is</tw><tw>M2's</tw><tw>wife,</tw><tw>F2</tw><tw>is</tw><tw>M1's</tw><tw>wife.</tw></tierData>
+    </comment>
+    <comment type="Transcriber">
+      <tierData><tw>Sarah</tw><tw>Longstaff</tw></tierData>
+    </comment>
+    <comment type="Generic">
+      <tierData><tw>Probably</tw><tw>because</tw><tw>one</tw><tw>of</tw><tw>them</tw><tw>is</tw><tw>on</tw><tw>a</tw><tw>digital</tw><tw>phone,</tw><tw>the</tw><tw>signal</tw><tw>during</tw><tw>overlap</tw><tw>is</tw><tw>often</tw><tw>broken</tw><tw>up.</tw><tw>This</tw><tw>is</tw><tw>indicated</tw><tw>with</tw><tc>broken</tc><tw>.</tw></tierData>
+    </comment>
+    <r speaker="M2" uuid="99daf73e-07cd-49f6-ac4f-6e3ed9e23360" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w><ca-delimiter type="begin" label="softer"></ca-delimiter><ca-element type="inhalation"></ca-element>hhh<ca-delimiter type="end" label="softer"></ca-delimiter></w>
+          <w>actually</w>
+          <w>met</w>
+          <w>him<p type="drawl"></p></w>
+          <s type="level"></s>
+          <internal-media start="94.531" end="95.651" unit="s"></internal-media>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+  </transcript>
+</session>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="language-welsh" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <date>1964-07-23</date>
+  <languages>cym</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Child</role>
+      <group>normal</group>
+      <sex>female</sex>
+      <age>P1Y8M0DT0H0M0S</age>
+      <languages>cym</languages>
+    </participant>
+    <participant id="MOT">
+      <role>Mother</role>
+      <languages>cym</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <comment type="Date">
+      <tierData><tw>23-JUL-1964</tw></tierData>
+    </comment>
+    <comment type="Generic">
+      <tierData><tw>Welsh</tw><tw>allows</tw><tw>numbers:</tw><tw>a</tw><tw>hack</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="243e13ad-af49-4afd-805b-3767fc5b5d22" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <w>foo3</w>
+          <w>stupid</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+  </transcript>
+</session>

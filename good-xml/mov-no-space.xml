@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="mov-no-space" corpus="sample" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <media>mov-no-space</media>
+  <participants>
+    <participant id="MOT">
+      <role>Mother</role>
+      <languages>eng</languages>
+    </participant>
+    <participant id="CHI">
+      <role>Target_Child</role>
+      <age>P1Y10M4DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <r speaker="CHI" uuid="91350468-f879-47cb-b153-fa514db9ee99" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>ryoote</w><w>agete</w><ga type="paralinguistics">singing</ga></g>
+          <t type="p"></t>
+          <postcode>bch</postcode>
+          <postcode>foo</postcode>
+        </u>
+      </orthography>
+      <segment start="2041.689" end="2042.652" unit="s"></segment>
+    </r>
+  </transcript>
+</session>

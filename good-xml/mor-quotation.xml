@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="mor-quotation" corpus="timmy" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Target_Child</role>
+      <name>Timmy</name>
+      <age>P2Y0M0DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+    <participant id="LIN">
+      <role>Investigator</role>
+      <name>Linda</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="WIN">
+      <role>Investigator</role>
+      <name>Winnie</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="GEM">
+      <role>Speaker</role>
+      <name>Gemma</name>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <userTiers>
+    <td tierName="Morphology" type="mor" excludeFromAlignment="true"></td>
+  </userTiers>
+  <transcript>
+    <comment type="Generic">
+      <tierData><tw>quotations</tw><tw>with</tw><tw>mor</tw><tw>1-1</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="0d73fcf2-6e01-4fb8-9fd2-e6899573d9f2" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>he</w>
+          <w>is</w>
+          <quotation type="begin"></quotation>
+          <w>noisy</w>
+          <quotation type="end"></quotation>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c></pos><stem>he</stem></mw></mor>
+          <mor><mw><pos><c>v</c><subc>aux</subc></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>adj</c></pos><stem>noisy</stem></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+  </transcript>
+</session>

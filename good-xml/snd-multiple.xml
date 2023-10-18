@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="snd-multiple" corpus="sample" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <media>snd-multiple</media>
+  <participants>
+    <participant id="MOT">
+      <role>Mother</role>
+      <languages>eng</languages>
+    </participant>
+    <participant id="CHI">
+      <role>Target_Child</role>
+      <age>P1Y10M4DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <comment type="Generic">
+      <tierData><tw>test</tw><tw>multi</tw><tw>bullets</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="6e9c339f-8014-4414-9285-1bf01f3d1554" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>We'll</w>
+          <internal-media start="0.000" end="2.200" unit="s"></internal-media>
+          <w>hear</w>
+          <internal-media start="2.200" end="2.370" unit="s"></internal-media>
+          <w>argument</w>
+          <internal-media start="2.370" end="2.800" unit="s"></internal-media>
+          <w>now</w>
+          <internal-media start="2.800" end="2.990" unit="s"></internal-media>
+          <w>in</w>
+          <internal-media start="2.990" end="3.090" unit="s"></internal-media>
+          <w>number</w>
+          <internal-media start="3.090" end="3.330" unit="s"></internal-media>
+          <g><w>oh</w><internal-media start="3.330" end="3.460" unit="s"></internal-media><w>two</w><internal-media start="3.460" end="3.720" unit="s"></internal-media><w>ten</w><internal-media start="3.720" end="3.820" unit="s"></internal-media><w>twenty-eight</w><internal-media start="3.820" end="4.710" unit="s"></internal-media><ga type="explanation">02-1028</ga></g>
+          <tagMarker type="comma"></tagMarker>
+          <w>the</w>
+          <internal-media start="4.710" end="4.780" unit="s"></internal-media>
+          <w>Norfolk</w>
+          <internal-media start="4.780" end="5.260" unit="s"></internal-media>
+          <w>Southern</w>
+          <internal-media start="5.260" end="5.780" unit="s"></internal-media>
+          <w>Railway</w>
+          <internal-media start="5.780" end="6.190" unit="s"></internal-media>
+          <w>Company</w>
+          <internal-media start="6.190" end="7.100" unit="s"></internal-media>
+          <w>v</w>
+          <internal-media start="7.100" end="7.330" unit="s"></internal-media>
+          <w>James</w>
+          <internal-media start="7.330" end="7.980" unit="s"></internal-media>
+          <w>N</w>
+          <internal-media start="7.980" end="8.240" unit="s"></internal-media>
+          <w>Kirby</w>
+          <internal-media start="8.240" end="9.565" unit="s"></internal-media>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <gem type="lazy">---</gem>
+  </transcript>
+</session>

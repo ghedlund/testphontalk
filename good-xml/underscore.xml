@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="underscore" corpus="timmy" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <date>1996-02-29</date>
+  <languages>eng</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Target_Child</role>
+      <name>Timmy</name>
+      <age>P2Y9M8DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+    <participant id="LIN">
+      <role>Investigator</role>
+      <name>Linda</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="WIN">
+      <role>Investigator</role>
+      <name>Winnie</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="GEM">
+      <role>Speaker</role>
+      <name>Gemma</name>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <comment type="Tape Location">
+      <tierData><tw>TI060</tw><tw>(side</tw><tw>A)</tw></tierData>
+    </comment>
+    <comment type="Date">
+      <tierData><tw>29-FEB-1996</tw></tierData>
+    </comment>
+    <comment type="Time Duration">
+      <tierData><tw>17:30-18:00</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="fa3f6ec4-5fa2-4542-be4f-137dc72e1850" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>I</w>
+          <w>am</w>
+          <w>now</w>
+          <w>allowing</w>
+          <w>Mary_had_a_little_lamb</w>
+          <w>underscores</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+  </transcript>
+</session>

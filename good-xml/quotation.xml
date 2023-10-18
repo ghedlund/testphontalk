@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="quotation" corpus="timmy" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Target_Child</role>
+      <name>Timmy</name>
+      <age>P2Y0M0DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+    <participant id="LIN">
+      <role>Investigator</role>
+      <name>Linda</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="WIN">
+      <role>Investigator</role>
+      <name>Winnie</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="GEM">
+      <role>Speaker</role>
+      <name>Gemma</name>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <comment type="Generic">
+      <tierData><tw>inlined</tw><tw>quotation,</tw><tw>with</tw><tw>or</tw><tw>without</tw><tw>group</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="0758a07e-8ee1-46f0-a342-e6c73974d30c" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <quotation type="begin"></quotation>
+          <w type="nonword">foo</w>
+          <w>and</w>
+          <w>more</w>
+          <quotation type="end"></quotation>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="1e122e26-e5c7-4c31-9e9d-8e620fe0a4df" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><quotation type="begin"></quotation><w>wij</w><w>hebben</w><w>een</w><w>kikker</w><w>gevangen</w><quotation type="end"></quotation><overlap type="overlap precedes"></overlap></g>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+  </transcript>
+</session>

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="lang" corpus="sample" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <participants>
+    <participant id="MOT">
+      <role>Mother</role>
+      <name>Kelly</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="CHI">
+      <role>Target_Child</role>
+      <name>Nicolette</name>
+      <age>P1Y10M4DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <comment type="Generic">
+      <tierData><tw>Languages</tw><tw>header</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="517bbb79-bddc-4184-aa84-05e942e2acb9" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>word</w>
+          <pause symbolic-length="simple"></pause>
+          <w>rest</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+  </transcript>
+</session>

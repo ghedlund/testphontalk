@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="argha-8m" corpus="aarsenbos" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <date>1991-06-20</date>
+  <languages>ara</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Target_Child</role>
+      <name>Chariba</name>
+      <age>P8Y9M12DT0H0M0S</age>
+      <languages>ara</languages>
+    </participant>
+    <participant id="HAY">
+      <role>Investigator</role>
+      <name>Hayat</name>
+      <languages>ara</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <comment type="Date">
+      <tierData><tw>20-JUN-1991</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="3441f0fd-a928-40d3-85e2-fc87731e516b" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w type="nonword">gʰan</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+  </transcript>
+</session>

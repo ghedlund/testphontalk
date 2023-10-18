@@ -1,0 +1,120 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="indent" corpus="SBCSAE" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <participants>
+    <participant id="MARI">
+      <role>Speaker</role>
+      <name>MARILYN</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="ROY">
+      <role>Speaker</role>
+      <name>ROY</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="PETE">
+      <role>Speaker</role>
+      <name>PETE</name>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <r speaker="ROY" uuid="08d11edb-a5fa-48fe-9926-39d63718562f" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <overlap-point start-end="start" top-bottom="top"></overlap-point>
+          <w>one</w>
+          <overlap-point start-end="end" top-bottom="top"></overlap-point>
+          <overlap-point index="2" start-end="start" top-bottom="top"></overlap-point>
+          <w>two</w>
+          <overlap-point index="2" start-end="end" top-bottom="top"></overlap-point>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="PETE" uuid="39dcba92-339c-453c-ab45-cd1cf03023d8" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <overlap-point start-end="start" top-bottom="bottom"></overlap-point>
+          <w>one</w>
+          <overlap-point start-end="end" top-bottom="bottom"></overlap-point>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MARI" uuid="ee278c9a-2b76-4f5f-a617-4cc4f6fc4e78" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <overlap-point index="2" start-end="start" top-bottom="bottom"></overlap-point>
+          <w>two</w>
+          <overlap-point index="2" start-end="end" top-bottom="bottom"></overlap-point>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="PETE" uuid="ff32a986-80f2-42c1-8f03-0ccaf6dac568" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <overlap-point index="3" start-end="start" top-bottom="top"></overlap-point>
+          <w>three</w>
+          <overlap-point index="3" start-end="end" top-bottom="top"></overlap-point>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MARI" uuid="9c0cc305-5105-423f-97e7-24ca30b36835" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <overlap-point index="3" start-end="start" top-bottom="bottom"></overlap-point>
+          <w>three</w>
+          <overlap-point index="3" start-end="end" top-bottom="bottom"></overlap-point>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MARI" uuid="9cd6db12-4cb4-435c-846c-833ee9dd5d8b" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <overlap-point index="4" start-end="start" top-bottom="top"></overlap-point>
+          <w>four</w>
+          <overlap-point index="4" start-end="end" top-bottom="top"></overlap-point>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="ROY" uuid="c4359e80-1dcc-4814-b46b-5d9030e242c2" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <overlap-point index="4" start-end="start" top-bottom="bottom"></overlap-point>
+          <w>four</w>
+          <overlap-point index="4" start-end="end" top-bottom="bottom"></overlap-point>
+          <overlap-point index="5" start-end="start" top-bottom="top"></overlap-point>
+          <w>five</w>
+          <overlap-point index="5" start-end="end" top-bottom="top"></overlap-point>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="PETE" uuid="c7a91dd2-625a-4d73-911e-7d423b0fd4e6" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <overlap-point index="4" start-end="start" top-bottom="bottom"></overlap-point>
+          <w>four</w>
+          <overlap-point index="4" start-end="end" top-bottom="bottom"></overlap-point>
+          <overlap-point index="5" start-end="start" top-bottom="bottom"></overlap-point>
+          <w>five</w>
+          <overlap-point index="5" start-end="end" top-bottom="bottom"></overlap-point>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+  </transcript>
+</session>

@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="overlapindices" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Child</role>
+      <group>normal</group>
+      <sex>female</sex>
+      <age>P1Y8M0DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+    <participant id="MOT">
+      <role>Mother</role>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <r speaker="MOT" uuid="4bad49fb-ef90-4ac5-8322-a586ff0732c6" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>if</w>
+          <w>we</w>
+          <w>have</w>
+          <g><w>some</w><w>time</w><overlap index="1" type="overlap follows"></overlap></g>
+          <w>we</w>
+          <w>can</w>
+          <w>get</w>
+          <g><w>tickets</w><w>to</w><overlap index="2" type="overlap follows"></overlap></g>
+          <w>the</w>
+          <w>opera</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="d3e0b9b1-6047-4eeb-8eb0-e4ac72001548" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>Mom</w><overlap index="1" type="overlap precedes"></overlap></g>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="12785fb7-a546-4701-b956-568cbcf9567f" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>honey</w><w>we</w><w>need</w><overlap index="2" type="overlap precedes"></overlap></g>
+          <w>to</w>
+          <w>go</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+  </transcript>
+</session>

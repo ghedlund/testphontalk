@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="dep-tiers" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Child</role>
+      <group>normal</group>
+      <sex>female</sex>
+      <age>P1Y8M0DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+    <participant id="MOT">
+      <role>Mother</role>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <userTiers>
+    <td tierName="actions" type="default" excludeFromAlignment="true"></td>
+    <td tierName="addressee" type="default" excludeFromAlignment="true"></td>
+    <td tierName="alternative" type="default" excludeFromAlignment="true"></td>
+    <td tierName="cohesion" type="default" excludeFromAlignment="true"></td>
+    <td tierName="comments" type="default" excludeFromAlignment="true"></td>
+    <td tierName="SALT" type="default" excludeFromAlignment="true"></td>
+    <td tierName="english translation" type="default" excludeFromAlignment="true"></td>
+    <td tierName="errcoding" type="default" excludeFromAlignment="true"></td>
+    <td tierName="explanation" type="default" excludeFromAlignment="true"></td>
+    <td tierName="facial" type="default" excludeFromAlignment="true"></td>
+    <td tierName="flow" type="default" excludeFromAlignment="true"></td>
+    <td tierName="target gloss" type="default" excludeFromAlignment="true"></td>
+    <td tierName="gesture" type="default" excludeFromAlignment="true"></td>
+    <td tierName="intonation" type="default" excludeFromAlignment="true"></td>
+    <td tierName="orthography" type="default" excludeFromAlignment="true"></td>
+    <td tierName="paralinguistics" type="default" excludeFromAlignment="true"></td>
+    <td tierName="situation" type="default" excludeFromAlignment="true"></td>
+    <td tierName="speech act" type="default" excludeFromAlignment="true"></td>
+    <td tierName="time stamp" type="default" excludeFromAlignment="true"></td>
+    <td tierName="coding" type="default" excludeFromAlignment="true"></td>
+    <td tierName="foo" type="default" excludeFromAlignment="false"></td>
+    <td tierName="ch" type="default" excludeFromAlignment="false"></td>
+    <td tierName="RES" type="default" excludeFromAlignment="false"></td>
+    <td tierName="abcdef" type="default" excludeFromAlignment="false"></td>
+  </userTiers>
+  <transcript>
+    <comment type="Generic">
+      <tierData><tw>All</tw><tw>the</tw><tw>dependent</tw><tw>tiers</tw><tw>besides</tw><tw>1-1</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="f33a5806-7e36-4783-86fb-f0c7d789b57c" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>hey</w>
+          <w>man</w>
+          <w>what</w>
+          <w>in</w>
+          <w>the</w>
+          <w>world</w>
+          <w>isn't</w>
+          <w>this</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="actions">
+        <tierData><tw>actions</tw></tierData>
+      </userTier>
+      <userTier name="addressee">
+        <tierData><tw>addressee</tw></tierData>
+      </userTier>
+      <userTier name="alternative">
+        <tierData><tw>alternative</tw></tierData>
+      </userTier>
+      <userTier name="cohesion">
+        <tierData><tw>cohesion</tw></tierData>
+      </userTier>
+      <userTier name="comments">
+        <tierData><tw>comments</tw><tw>[foo]</tw></tierData>
+      </userTier>
+      <userTier name="SALT">
+        <tierData><tw>salt</tw></tierData>
+      </userTier>
+      <userTier name="english translation">
+        <tierData><tw>english</tw><tw>translation</tw></tierData>
+      </userTier>
+      <userTier name="errcoding">
+        <tierData><tw>errcoding</tw></tierData>
+      </userTier>
+      <userTier name="explanation">
+        <tierData><tw>explanation</tw></tierData>
+      </userTier>
+      <userTier name="facial">
+        <tierData><tw>facial</tw></tierData>
+      </userTier>
+      <userTier name="flow">
+        <tierData><tw>flow.</tw></tierData>
+      </userTier>
+      <userTier name="target gloss">
+        <tierData><tw>target</tw><tw>gloss</tw></tierData>
+      </userTier>
+      <userTier name="gesture">
+        <tierData><tw>gesture</tw></tierData>
+      </userTier>
+      <userTier name="intonation">
+        <tierData><tw>intonation</tw></tierData>
+      </userTier>
+      <userTier name="orthography">
+        <tierData><tw>orthography</tw></tierData>
+      </userTier>
+      <userTier name="paralinguistics">
+        <tierData><tw>paralinguistics</tw></tierData>
+      </userTier>
+      <userTier name="situation">
+        <tierData><tw>situation</tw></tierData>
+      </userTier>
+      <userTier name="speech act">
+        <tierData><tw>speech</tw><tw>act</tw></tierData>
+      </userTier>
+      <userTier name="time stamp">
+        <tierData><tw>23:12:33</tw></tierData>
+      </userTier>
+      <userTier name="coding">
+        <tierData><tw>coding</tw></tierData>
+      </userTier>
+      <userTier name="foo">
+        <tierData><tw>/"{:</tw><tw>o/</tw></tierData>
+      </userTier>
+      <userTier name="ch">
+        <tierData><tw>this</tw><tw>is</tw><tw>xch</tw><tw>stuff</tw></tierData>
+      </userTier>
+      <userTier name="RES">
+        <tierData><tw>In</tw><tw>this</tw><tw>opening</tw><tw>segment</tw><tw>the</tw><tw>class</tw><tw>reviews</tw><tw>what</tw><tw>they</tw><tw>studied</tw><tw>last</tw><tw>time.</tw><tw>In</tw><tw>fact,</tw><tw>the</tw><tw>whole</tw><tw>lesson</tw><tw>is</tw><tw>devoted</tw><tw>to</tw><tw>reviewing</tw><tw>previously</tw><tw>learned</tw><tw>material.</tw><tw>In</tw><tw>the</tw><tw>Czech</tw><tw>data</tw><tw>set,</tw><tw>25%</tw><tw>of</tw><tw>the</tw><tw>lessons</tw><tw>were</tw><tw>entirely</tw><tw>review</tw><tw>(Hiebert</tw><tw>et</tw><tw>al.,</tw><tw>2003,</tw><tw>Mathematics</tw><tw>Teaching</tw><tw>in</tw><tw>Seven</tw><tw>Countries:</tw><tw>Results</tw><tw>from</tw><tw>the</tw><tw>TIMSS</tw><tw>1999</tw><tw>Video</tw><tw>Study</tw><tw>[hereafter</tw><tw>Video</tw><tw>Report],</tw><tw>figure</tw><tw>3.9).</tw></tierData>
+      </userTier>
+      <userTier name="abcdef">
+        <tierData><tw>max</tw><tw>length</tw><tw>of</tw><tw>7</tw><tw>total</tw></tierData>
+      </userTier>
+    </r>
+    <comment type="Generic">
+      <tierData><tw>note</tw><tw>need</tw><tw>to</tw><tw>put</tw><tw>bracketed</tw><tw>material</tw><tw>on</tw><tw>same</tw><tw>line</tw><tw>above</tw></tierData>
+    </comment>
+  </transcript>
+</session>

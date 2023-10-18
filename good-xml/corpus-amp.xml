@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="corpus-amp" corpus="fl&quot;et&lt;c&gt;her&amp;olds" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Child</role>
+      <group>normal</group>
+      <sex>female</sex>
+      <age>P1Y8M0DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+    <participant id="MOT">
+      <role>Mother</role>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <userTiers>
+    <td tierName="comments" type="default" excludeFromAlignment="true"></td>
+  </userTiers>
+  <transcript>
+    <comment type="Generic">
+      <tierData><tw>test</tw><tw>comment</tw><tw>syntax;</tw><tw>note</tw><tw>chat2xml</tw><tw>is</tw><tw>lenient!</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="00e11c44-5135-476a-8f9b-5a61375e07fc" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>hey</w>
+          <w>man</w>
+          <w>what</w>
+          <w>in</w>
+          <w>the</w>
+          <w>world</w>
+          <w>isn't</w>
+          <w>this</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="comments">
+        <tierData><tw>"foo"</tw><tw>isn't</tw><tw>just</tw><tw>&lt;5&gt;</tw><tw>now</tw></tierData>
+      </userTier>
+    </r>
+  </transcript>
+</session>

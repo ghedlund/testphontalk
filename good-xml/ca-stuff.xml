@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="ca-stuff" corpus="CLAPIcf" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>fra</languages>
+  <media>ca-stuff</media>
+  <participants>
+    <participant id="MAN">
+      <role>Adult</role>
+      <name>Manon</name>
+      <languages>fra</languages>
+    </participant>
+    <participant id="SIM">
+      <role>Adult</role>
+      <name>Simon</name>
+      <languages>fra</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <r speaker="SIM" uuid="446b00e5-5316-4740-b2eb-1734d167cf2d" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <overlap-point start-end="start" top-bottom="bottom"></overlap-point>
+          <w>mais</w>
+          <w>j<shortening>e</shortening></w>
+          <overlap-point start-end="end" top-bottom="bottom"></overlap-point>
+          <w>veux</w>
+          <w>pas</w>
+          <w>étudier</w>
+          <w>là</w>
+          <w>dedans</w>
+          <t type="no break TCU continuation"></t>
+        </u>
+      </orthography>
+      <segment start="87.226" end="88.638" unit="s"></segment>
+    </r>
+  </transcript>
+</session>

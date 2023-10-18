@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="pho-with-replacement" corpus="IDO" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <date>2000-06-23</date>
+  <languages>ind jav</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Target_Child</role>
+      <name>Ido</name>
+      <sex>male</sex>
+      <birthday>1996-01-01</birthday>
+      <age>P4Y5M21DT0H0M0S</age>
+      <languages>ind jav</languages>
+    </participant>
+    <participant id="MOT">
+      <role>Mother</role>
+      <name>Rimi</name>
+      <sex>female</sex>
+      <languages>ind jav</languages>
+    </participant>
+    <participant id="EXP">
+      <role>Investigator</role>
+      <name>Bety</name>
+      <sex>female</sex>
+      <age>P25Y1M14DT0H0M0S</age>
+      <languages>ind jav</languages>
+    </participant>
+    <participant id="ABA">
+      <role>Brother</role>
+      <name>Praba</name>
+      <sex>male</sex>
+      <birthday>1994-10-31</birthday>
+      <age>P5Y7M22DT0H0M0S</age>
+      <languages>ind jav</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <comment type="Date">
+      <tierData><tw>23-JUN-2000</tw></tierData>
+    </comment>
+    <comment type="Generic">
+      <tierData><tw>Test</tw><tw>pho</tw><tw>with</tw><tw>replacement.</tw></tierData>
+    </comment>
+    <r speaker="EXP" uuid="67c968e9-2b17-46a9-9475-cc67470ddbdd" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <pg><w>a</w></pg>
+          <pg><w>b</w></pg>
+          <pg><w>c</w></pg>
+          <pg><w>d<replacement real="false"><w>dd</w><w>ddd</w></replacement></w></pg>
+          <pg><w>e</w></pg>
+          <pg><w>f<replacement real="true"><w>ff</w><w>fff</w></replacement></w></pg>
+          <pg><w>g</w></pg>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <ipaActual>
+        <pho><pw><ph><base>a</base></ph></pw><pw><ph><base>b</base></ph></pw><pw><ph><base>c</base></ph></pw><pw><ph><base>d</base></ph></pw><pw><ph><base>e</base></ph></pw><pw><ph><base>f</base></ph></pw><pw><ph><base>g</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+  </transcript>
+</session>

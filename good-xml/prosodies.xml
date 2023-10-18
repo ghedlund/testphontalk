@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="prosodies" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>zho eng</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Child</role>
+      <group>normal</group>
+      <sex>female</sex>
+      <age>P1Y8M0DT0H0M0S</age>
+      <languages>zho eng</languages>
+    </participant>
+    <participant id="MOT">
+      <role>Mother</role>
+      <languages>zho eng</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <comment type="Generic">
+      <tierData><tw>prosodies</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="735907a0-8346-430b-87c6-2fe970eda567" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>a</w>
+          <w>a<p type="drawl"></p></w>
+          <w>a<p type="drawl"></p>b</w>
+          <w>a<p type="drawl"></p>b<p type="drawl"></p></w>
+          <w>a<p type="drawl"></p>b<p type="drawl"></p>c</w>
+          <w>a<p type="drawl"></p>b<p type="drawl"></p>3</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="d06e61fa-8f15-4e3a-a668-3e8279612522" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>ik</w><w>heb</w><w>g<p type="drawl"></p>epuzzeld</w><ga type="explanation">silly</ga></g>
+          <tagMarker type="comma"></tagMarker>
+          <w>zeg</w>
+          <w>je</w>
+          <w>dan</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+  </transcript>
+</session>

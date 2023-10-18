@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="pho-stuff" corpus="IDO" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <date>2000-06-23</date>
+  <languages>ind jav</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Target_Child</role>
+      <name>Ido</name>
+      <sex>male</sex>
+      <birthday>1996-01-01</birthday>
+      <age>P4Y5M21DT0H0M0S</age>
+      <languages>ind jav</languages>
+    </participant>
+    <participant id="MOT">
+      <role>Mother</role>
+      <name>Rimi</name>
+      <sex>female</sex>
+      <languages>ind jav</languages>
+    </participant>
+    <participant id="EXP">
+      <role>Investigator</role>
+      <name>Bety</name>
+      <sex>female</sex>
+      <age>P25Y1M14DT0H0M0S</age>
+      <languages>ind jav</languages>
+    </participant>
+    <participant id="ABA">
+      <role>Brother</role>
+      <name>Praba</name>
+      <sex>male</sex>
+      <birthday>1994-10-31</birthday>
+      <age>P5Y7M22DT0H0M0S</age>
+      <languages>ind jav</languages>
+    </participant>
+  </participants>
+  <userTiers>
+    <td tierName="pho" type="default" excludeFromAlignment="false"></td>
+  </userTiers>
+  <transcript>
+    <comment type="Date">
+      <tierData><tw>23-JUN-2000</tw></tierData>
+    </comment>
+    <r speaker="EXP" uuid="75733e4a-e857-46fe-a665-021711f2907c" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>entar</w>
+          <w>Tante</w>
+          <w>nggak</w>
+          <w>mo</w>
+          <w>maen</w>
+          <w>lagi</w>
+          <w>deh</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="pho">
+        <tierData><tw>ʔə˜tar</tw><tw>tantəŋgaʔ</tw><tw>mɔ</tw><tw>maɛn</tw><tw>lagi</tw><tw>dɛh</tw></tierData>
+      </userTier>
+    </r>
+  </transcript>
+</session>

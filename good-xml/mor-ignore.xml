@@ -1,0 +1,285 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="mor-ignore" corpus="timmy" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Target_Child</role>
+      <name>Timmy</name>
+      <age>P2Y0M0DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+    <participant id="LIN">
+      <role>Investigator</role>
+      <name>Linda</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="WIN">
+      <role>Investigator</role>
+      <name>Winnie</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="GEM">
+      <role>Speaker</role>
+      <name>Gemma</name>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <userTiers>
+    <td tierName="Morphology" type="mor" excludeFromAlignment="true"></td>
+  </userTiers>
+  <transcript>
+    <r speaker="CHI" uuid="6a03553d-1dd0-40f1-a9d2-8ca0a4d55917" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <w>a</w>
+          <g><w>mor</w><k type="mor exclude"></k></g>
+          <w>exclude</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>this</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>exclude</stem></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="ae362ee1-c1d7-4cda-a9a6-9972c5603b75" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <w>a</w>
+          <g><w>one</w><k type="retracing"></k></g>
+          <w>retrace</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>this</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>retrace</stem></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="e77ccbf0-559c-486d-a56a-a40eb85bca50" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <w>a</w>
+          <g><w>two</w><k type="retracing with correction"></k></g>
+          <w>retrace</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>this</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>retrace</stem></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="2f70e6b5-9ba6-4091-925c-9eea52537345" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <w>a</w>
+          <g><w>three</w><k type="retracing reformulation"></k></g>
+          <w>retrace</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>this</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>retrace</stem></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="25642190-93a3-47f8-8556-08666f55c154" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <w>a</w>
+          <g><w>four</w><k type="false start"></k></g>
+          <w>retrace</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>this</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>retrace</stem></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="2a933e4f-912a-4f93-9a1c-da6742acd0e5" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <w>a</w>
+          <g><w>five</w><k type="retracing unclear"></k></g>
+          <w>retrace</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>this</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>retrace</stem></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="5cf6266e-1152-405a-b382-5c34b92250a3" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <w>a</w>
+          <g><w>four</w><w>five</w><w>six</w><k type="retracing unclear"></k></g>
+          <w>retrace</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>this</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>retrace</stem></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="f4472c01-c4c4-433d-874f-39dc737a180d" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>here</w>
+          <w>is</w>
+          <w>a</w>
+          <pause symbolic-length="simple"></pause>
+          <w>pause</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>adv</c><subc>loc</subc></pos><stem>here</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>pause</stem></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="b311d61c-3075-4ba9-a838-83c30d46004e" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>here</w>
+          <w>is</w>
+          <w>a</w>
+          <e>
+            <happening>thing</happening>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>adv</c><subc>loc</subc></pos><stem>here</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="290e81cb-73f9-4364-b6eb-039158f63e99" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>here</w>
+          <w>is</w>
+          <w>a</w>
+          <w type="nonword">frag</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>adv</c><subc>loc</subc></pos><stem>here</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="75dbfb91-0dbc-4fb1-932e-564552305cb7" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>here</w>
+          <w>is</w>
+          <w>an</w>
+          <w type="omission">for</w>
+          <w>word</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>adv</c><subc>loc</subc></pos><stem>here</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
+          <mor><mw><pos><c>0prep</c></pos><stem>for</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>word</stem></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+    </r>
+    <comment type="Generic">
+      <tierData><tw>The</tw><tw>following</tw><tw>have</tw><tw>mor</tw><tw>generating</tw><tw>?|0omitted</tw><tw>etc.</tw></tierData>
+    </comment>
+    <comment type="Generic">
+      <tierData><tw>*CHI:here</tw><tw>is</tw><tw>an</tw><tw>0omitted</tw><tw>word</tw><tw>.</tw></tierData>
+    </comment>
+    <comment type="Generic">
+      <tierData><tw>*CHI:here</tw><tw>is</tw><tw>an</tw><tw>0*omitted</tw><tw>word</tw><tw>.</tw></tierData>
+    </comment>
+    <comment type="Generic">
+      <tierData><tw>*CHI:here</tw><tw>is</tw><tw>an</tw><tw>00omitted</tw><tw>word</tw><tw>.</tw></tierData>
+    </comment>
+  </transcript>
+</session>

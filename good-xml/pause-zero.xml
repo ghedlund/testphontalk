@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="pause-zero" corpus="sample" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <media>pause-zero</media>
+  <participants>
+    <participant id="MOT">
+      <role>Mother</role>
+      <languages>eng</languages>
+    </participant>
+    <participant id="CHI">
+      <role>Target_Child</role>
+      <age>P1Y10M4DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <comment type="Generic">
+      <tierData><tw>pause</tw><tw>starting</tw><tw>with</tw><tw>0.</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="28f0949f-f486-4611-900d-93db52cc8cf7" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <pause symbolic-length="simple" length="0.400"></pause>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.000" end="4.818" unit="s"></segment>
+    </r>
+    <r speaker="CHI" uuid="beaf9a39-31ce-489d-b3f1-0f24400749e9" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>hey</w><w>you</w><pause symbolic-length="simple"></pause><ga type="explanation">hey you</ga></g>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="4.818" end="5.330" unit="s"></segment>
+    </r>
+  </transcript>
+</session>

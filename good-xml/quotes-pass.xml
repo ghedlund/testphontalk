@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="quotes-pass" corpus="change_me_later" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Child</role>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <userTiers>
+    <td tierName="Morphology" type="mor" excludeFromAlignment="true"></td>
+    <td tierName="comments" type="default" excludeFromAlignment="true"></td>
+  </userTiers>
+  <transcript>
+    <r speaker="CHI" uuid="4466c345-2f53-4c64-852e-18cc6bb172c7" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>she</w>
+          <w>said</w>
+          <quotation type="begin"></quotation>
+          <w>I</w>
+          <w>want</w>
+          <w>cookies</w>
+          <quotation type="end"></quotation>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>she</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>say</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>I</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>want</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>cookie</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+      <userTier name="comments">
+        <tierData><tw>this</tw><tw>should</tw><tw>pass,</tw><tw>because</tw><tw>MOR</tw><tw>should</tw><tw>not</tw><tw>be</tw><tw>generating</tw><tw>anything</tw><tw>for</tw><tw>the</tw><tw>quotes</tw></tierData>
+      </userTier>
+    </r>
+  </transcript>
+</session>

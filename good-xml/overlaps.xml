@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="overlaps" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Child</role>
+      <group>normal</group>
+      <sex>female</sex>
+      <age>P1Y8M0DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+    <participant id="MOT">
+      <role>Mother</role>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <r speaker="MOT" uuid="ca923d44-f944-4b7d-a805-b044f5511854" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>if</w>
+          <w>we</w>
+          <w>have</w>
+          <g><w>some</w><w>time</w><overlap type="overlap follows"></overlap></g>
+          <w>we</w>
+          <w>can</w>
+          <w>get</w>
+          <g><w>tickets</w><w>to</w><overlap type="overlap follows"></overlap></g>
+          <w>the</w>
+          <w>opera</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="07d6e163-1114-46b9-baa6-956b5d667063" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>Mom</w><overlap type="overlap precedes"></overlap></g>
+          <t type="e"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="12a295b9-85f5-4118-bdba-f9547d6eefb7" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>honey</w><w>we</w><w>need</w><overlap type="overlap precedes"></overlap></g>
+          <w>to</w>
+          <w>go</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="9a274b96-32ea-4560-9b87-6dd3862462e1" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>foo</w><pause symbolic-length="simple"></pause><overlap type="overlap precedes"></overlap></g>
+          <w>bar</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+  </transcript>
+</session>

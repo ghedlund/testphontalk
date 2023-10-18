@@ -1,0 +1,291 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="long-features" corpus="SBCSAE" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <media>long-features</media>
+  <participants>
+    <participant id="ENV">
+      <role>Environment</role>
+      <name>FAKE_ENV</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="REED">
+      <role>Speaker</role>
+      <name>REED</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="DARRE">
+      <role>Speaker</role>
+      <name>DARREN</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="SALLY">
+      <role>Speaker</role>
+      <name>SALLY</name>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <r speaker="REED" uuid="824edf65-404a-47b9-8b18-538007db0d21" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <pause symbolic-length="long"></pause>
+          <w>Hey</w>
+          <w>man</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="2.589" end="4.447" unit="s"></segment>
+    </r>
+    <r speaker="DARRE" uuid="5b16eacf-86b8-485e-8465-afbc86bfb64b" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>Hey</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="4.447" end="4.934" unit="s"></segment>
+    </r>
+    <r speaker="REED" uuid="8b2561ba-045f-4805-a609-cbfc8c157606" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <pause symbolic-length="long"></pause>
+          <w>Good</w>
+          <w>to</w>
+          <w>see</w>
+          <w>you</w>
+          <internal-media start="4.934" end="6.420" unit="s"></internal-media>
+          <e>
+            <happening>laugh</happening>
+          </e>
+          <e>
+            <happening>laugh</happening>
+          </e>
+          <internal-media start="6.420" end="6.954" unit="s"></internal-media>
+          <pause symbolic-length="long"></pause>
+          <w>we<p type="drawl"></p>ll</w>
+          <internal-media start="6.954" end="8.464" unit="s"></internal-media>
+          <pause symbolic-length="long"></pause>
+          <w>I</w>
+          <w>see</w>
+          <w>you</w>
+          <w>went</w>
+          <w>ahead</w>
+          <w>with</w>
+          <w>your</w>
+          <w>plans</w>
+          <w>to</w>
+          <w>do</w>
+          <w>a</w>
+          <w>little</w>
+          <w>skiing</w>
+          <w>there</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="8.464" end="12.328" unit="s"></segment>
+    </r>
+    <r speaker="DARRE" uuid="4085d84d-e527-4025-bf77-0c29c8e512d5" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <pause symbolic-length="simple"></pause>
+          <w>I</w>
+          <w>did</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="12.328" end="12.879" unit="s"></segment>
+    </r>
+    <r speaker="DARRE" uuid="dd0157a0-6fd3-49be-ae4d-185d674d86cb" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <happening>laugh</happening>
+          </e>
+          <e>
+            <happening>laugh</happening>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="12.879" end="13.234" unit="s"></segment>
+    </r>
+    <r speaker="SALLY" uuid="20b11c70-8135-42bc-a094-dc3419cef602" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <e>
+            <happening>laugh</happening>
+          </e>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="13.234" end="13.408" unit="s"></segment>
+    </r>
+    <r speaker="REED" uuid="bd0cd9cd-6b83-4dcf-b4c3-4e76b7187d55" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>We<p type="drawl"></p>ll</w>
+          <internal-media start="13.408" end="14.046" unit="s"></internal-media>
+          <w>I'm</w>
+          <w>glad</w>
+          <w>you</w>
+          <w>didn't</w>
+          <w>hurt</w>
+          <w>yourself</w>
+          <w>too</w>
+          <w>bad</w>
+          <t type="trail off"></t>
+        </u>
+      </orthography>
+      <segment start="14.046" end="15.579" unit="s"></segment>
+    </r>
+    <r speaker="DARRE" uuid="bf901ab4-6fb8-4135-b6e0-5b53b607326b" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <overlap-point start-end="start" top-bottom="top"></overlap-point>
+          <w>Me</w>
+          <w>too</w>
+          <overlap-point start-end="end" top-bottom="top"></overlap-point>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="15.579" end="16.185" unit="s"></segment>
+    </r>
+    <r speaker="REED" uuid="482043a9-779b-486b-9988-63f86a868f73" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <overlap-point start-end="start" top-bottom="bottom"></overlap-point>
+          <w>and</w>
+          <w>she</w>
+          <w>says</w>
+          <overlap-point start-end="end" top-bottom="bottom"></overlap-point>
+          <w>you're</w>
+          <overlap-point index="2" start-end="start" top-bottom="top"></overlap-point>
+          <w>getting</w>
+          <w>better</w>
+          <overlap-point index="2" start-end="end" top-bottom="top"></overlap-point>
+          <w>already</w>
+          <t type="trail off"></t>
+        </u>
+      </orthography>
+      <segment start="15.637" end="17.163" unit="s"></segment>
+    </r>
+    <r speaker="ENV" uuid="6c7c84cd-58e5-419e-88c5-d344277a32ae" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <overlap-point index="2" start-end="start" top-bottom="bottom"></overlap-point>
+          <e>
+            <happening>DOOR_CLOSING</happening>
+          </e>
+          <overlap-point index="2" start-end="end" top-bottom="bottom"></overlap-point>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="16.212" end="16.788" unit="s"></segment>
+    </r>
+    <r speaker="REED" uuid="f54c979d-e1ac-4e34-a86d-afe02f55b23c" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>so</w>
+          <w>that's</w>
+          <w>always</w>
+          <w>a</w>
+          <w>good</w>
+          <w>sign</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="17.163" end="18.591" unit="s"></segment>
+    </r>
+    <r speaker="DARRE" uuid="6d734e58-107f-457a-9a6a-f7d5b9587bc2" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <pause symbolic-length="simple"></pause>
+          <w>Yeah</w>
+          <internal-media start="18.591" end="18.969" unit="s"></internal-media>
+          <w>I</w>
+          <w>mean</w>
+          <w>I</w>
+          <w>couldn't</w>
+          <t type="interruption"></t>
+        </u>
+      </orthography>
+      <segment start="18.969" end="19.619" unit="s"></segment>
+    </r>
+    <r speaker="DARRE" uuid="5ce41f8b-8a0e-4809-9c76-44dd26c239cb" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <pause symbolic-length="long"></pause>
+          <w>I</w>
+          <w>couldn't</w>
+          <w>begin</w>
+          <w>to</w>
+          <overlap-point start-end="start" top-bottom="top"></overlap-point>
+          <long-feature type="begin">X</long-feature>
+          <w>deal</w>
+          <w>with</w>
+          <long-feature type="end">X</long-feature>
+          <w>the</w>
+          <w>slightest</w>
+          <w>pressure</w>
+          <overlap-point start-end="end" top-bottom="top"></overlap-point>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="19.619" end="21.848" unit="s"></segment>
+    </r>
+    <r speaker="REED" uuid="8185b048-6d11-4131-bdcc-9be8b2fb5c73" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <overlap-point start-end="start" top-bottom="bottom"></overlap-point>
+          <w>Yeah</w>
+          <internal-media start="20.757" end="21.151" unit="s"></internal-media>
+          <long-feature type="begin">X</long-feature>
+          <w>give</w>
+          <w>it</w>
+          <long-feature type="end">X</long-feature>
+          <w>easy</w>
+          <w>easy</w>
+          <overlap-point start-end="end" top-bottom="bottom"></overlap-point>
+          <internal-media start="21.151" end="22.208" unit="s"></internal-media>
+          <w>yeah</w>
+          <w>don't</w>
+          <t type="trail off"></t>
+        </u>
+      </orthography>
+      <segment start="22.208" end="22.684" unit="s"></segment>
+    </r>
+    <r speaker="DARRE" uuid="530d37e0-cdfe-4996-8fa9-25bb2c48d18b" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <pause symbolic-length="long"></pause>
+          <w>Well</w>
+          <internal-media start="23.930" end="24.260" unit="s"></internal-media>
+          <w>It's</w>
+          <w>certainly</w>
+          <w>been</w>
+          <w>a</w>
+          <internal-media start="24.260" end="25.379" unit="s"></internal-media>
+          <long-feature type="begin">PAR</long-feature>
+          <w>is</w>
+          <nonvocal type="begin">THUMP_MICROPHONE</nonvocal>
+          <e>
+            <happening>nonvocal</happening>
+          </e>
+          <w>this</w>
+          <e>
+            <happening>nonvocal</happening>
+          </e>
+          <long-feature type="begin">X</long-feature>
+          <w>one</w>
+          <long-feature type="end">X</long-feature>
+          <w>working</w>
+          <nonvocal type="end">THUMP_MICROPHONE</nonvocal>
+          <long-feature type="end">PAR</long-feature>
+          <nonvocal type="simple">PUNCH</nonvocal>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="25.379" end="26.310" unit="s"></segment>
+    </r>
+  </transcript>
+</session>

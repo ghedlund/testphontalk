@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="retrace-in-group" corpus="timmy" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Target_Child</role>
+      <name>Timmy</name>
+      <age>P2Y0M0DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <comment type="Generic">
+      <tierData><tw>retrace</tw><tw>in</tw><tw>a</tw><tw>group</tw><tw>can</tw><tw>be</tw><tw>followed</tw><tw>by</tw><tw>something</tw><tw>after</tw><tw>group</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="bec33963-d542-4711-85c3-51dbb2c57d82" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><g><w>ingroup</w><k type="retracing"></k></g><overlap type="overlap precedes"></overlap></g>
+          <w>after</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+  </transcript>
+</session>

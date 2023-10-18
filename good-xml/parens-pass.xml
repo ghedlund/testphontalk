@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="parens-pass" corpus="change_me_later" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Child</role>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <userTiers>
+    <td tierName="Morphology" type="mor" excludeFromAlignment="true"></td>
+    <td tierName="Grasp" type="gra" excludeFromAlignment="true"></td>
+    <td tierName="comments" type="default" excludeFromAlignment="true"></td>
+  </userTiers>
+  <transcript>
+    <r speaker="CHI" uuid="0ace3406-0e0e-497e-a992-587e6c977434" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>I</w>
+          <w>want</w>
+          <w><shortening>s</shortening>ome</w>
+          <w>cookies</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>I</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>want</stem></mw></mor>
+          <mor><mw><pos><c>qn</c></pos><stem>some</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>cookie</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+      <userTier name="Grasp">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"></gra>
+          <gra index="2" head="0" relation="ROOT"></gra>
+          <gra index="3" head="4" relation="QUANT"></gra>
+          <gra index="4" head="2" relation="OBJ"></gra>
+          <gra index="5" head="2" relation="PUNCT"></gra>
+        </gras>
+      </userTier>
+      <userTier name="comments">
+        <tierData><tw>this</tw><tw>is</tw><tw>okay</tw><tw>because</tw><tw>parens</tw><tw>can</tw><tw>mark</tw><tw>parts</tw><tw>of</tw><tw>words,</tw><tw>just</tw><tw>not</tw><tw>whole</tw><tw>words</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI" uuid="b661b908-8498-46b3-a2fb-b0f7eadf6406" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>I</w>
+          <w>want</w>
+          <w type="omission">some</w>
+          <w>cookies</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>I</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>want</stem></mw></mor>
+          <mor><mw><pos><c>0adj</c></pos><stem>some</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>cookie</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mt type="p"></mt></mor>
+        </mors>
+      </userTier>
+      <userTier name="Grasp">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"></gra>
+          <gra index="2" head="0" relation="ROOT"></gra>
+          <gra index="3" head="4" relation="MOD"></gra>
+          <gra index="4" head="2" relation="OBJ"></gra>
+          <gra index="5" head="2" relation="PUNCT"></gra>
+        </gras>
+      </userTier>
+      <userTier name="comments">
+        <tierData><tw>this</tw><tw>one</tw><tw>should</tw><tw>pass,</tw><tw>because</tw><tw>it</tw><tw>marks</tw><tw>the</tw><tw>omitted</tw><tw>word</tw><tw>correctly</tw></tierData>
+      </userTier>
+    </r>
+  </transcript>
+</session>

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="id-custom-field" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Child</role>
+      <group>normal</group>
+      <sex>female</sex>
+      <education>commas, here</education>
+      <age>P1Y8M0DT0H0M0S</age>
+      <languages>eng</languages>
+      <other>custom field</other>
+    </participant>
+    <participant id="MOT">
+      <role>Mother</role>
+      <group>normal</group>
+      <sex>female</sex>
+      <education>commas, here</education>
+      <age>P1Y8M0DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <r speaker="CHI" uuid="6c941ef3-4cab-4ebc-94a2-9530732b00d9" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>hey</w>
+          <w>man</w>
+          <w>what</w>
+          <w>in</w>
+          <w>the</w>
+          <w>world</w>
+          <w>isn't</w>
+          <w>this</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+  </transcript>
+</session>

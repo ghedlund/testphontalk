@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="com" corpus="providence" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <date>2002-12-22</date>
+  <languages>eng</languages>
+  <media>com</media>
+  <participants>
+    <participant id="CHI">
+      <role>Target_Child</role>
+      <sex>female</sex>
+      <birthday>2001-03-14</birthday>
+      <age>P1Y9M8DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+    <participant id="MOT">
+      <role>Mother</role>
+      <languages>eng</languages>
+    </participant>
+    <participant id="ENV">
+      <role>Environment</role>
+      <languages>eng</languages>
+    </participant>
+    <participant id="GRA">
+      <role>Grandmother</role>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <userTiers>
+    <td tierName="pho" type="default" excludeFromAlignment="false"></td>
+    <td tierName="comments" type="default" excludeFromAlignment="true"></td>
+  </userTiers>
+  <transcript>
+    <comment type="Date">
+      <tierData><tw>22-DEC-2002</tw></tierData>
+    </comment>
+    <comment type="Transcriber">
+      <tierData><tw>sarah</tw><tw>mckim</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="bd2a0ec8-00b8-4e10-bae5-e3101cbc2ed2" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible-with-pho">yyy</w>
+          <w>turn</w>
+          <w>the</w>
+          <w>radio</w>
+          <w>on</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="553.171" end="556.590" unit="s"></segment>
+      <userTier name="pho">
+        <tierData><tw>ˈmɛʔ</tw><tw>tɜ˞ndəˈweɪdioˈɑn</tw></tierData>
+      </userTier>
+      <userTier name="comments">
+        <tierData><tw>stuff</tw></tierData>
+      </userTier>
+    </r>
+  </transcript>
+</session>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="overlap-points" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Child</role>
+      <group>normal</group>
+      <sex>female</sex>
+      <age>P1Y8M0DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+    <participant id="MOT">
+      <role>Mother</role>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <r speaker="MOT" uuid="8d129aee-0cbb-4814-9d66-743dcbc27906" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <overlap-point start-end="start" top-bottom="top"></overlap-point>
+          <w>a</w>
+          <w>b<overlap-point start-end="end" top-bottom="top"></overlap-point></w>
+          <w>c</w>
+          <w>d</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="46fe8839-9254-4e02-b353-9ec152469fc3" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>e</w>
+          <w>f</w>
+          <overlap-point start-end="start" top-bottom="bottom"></overlap-point>
+          <w>g</w>
+          <w>h<overlap-point start-end="end" top-bottom="bottom"></overlap-point></w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+  </transcript>
+</session>

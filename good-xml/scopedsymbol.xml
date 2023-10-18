@@ -1,0 +1,301 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="scopedsymbol" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <participants>
+    <participant id="CHI">
+      <role>Child</role>
+      <group>normal</group>
+      <sex>female</sex>
+      <age>P1Y8M0DT0H0M0S</age>
+      <languages>eng</languages>
+    </participant>
+    <participant id="MOT">
+      <role>Mother</role>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <r speaker="CHI" uuid="74fd3359-b763-4485-9c37-69d0ba7db88a" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>when</w><ga type="paralinguistics">foo bar</ga><ga type="alternative">ah+er</ga></g>
+          <w>will</w>
+          <w>you</w>
+          <w>go</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <comment type="Generic">
+      <tierData><tw>Do</tw><tw>compound</tw><tw>also</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="70d1c86d-7c50-4ad3-afb4-dc79fd421e7d" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>when<wk type="cmp"></wk>ever</w><ga type="paralinguistics">foo bar</ga><ga type="alternative">ah+er</ga></g>
+          <w>will</w>
+          <w>you</w>
+          <w>go</w>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="MOT" uuid="1400fc3b-73e5-400f-bb71-0a46138184ea" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <g><w>rocking<wk type="cmp"></wk>house<replacement real="false"><w>rocking<wk type="cmp"></wk>horse</w></replacement></w><error></error></g>
+          <t type="q"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <comment type="Generic">
+      <tierData><tw>All</tw><tw>the</tw><tw>ones</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="58d4ea23-dbeb-40b0-8a03-d56f6209ecdc" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <g><w>child</w><ga type="paralinguistics">a+er b</ga></g>
+          <w>speaking</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="12a78d09-a603-485d-b5a1-b330d6415ff1" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <g><w>child</w><ga type="alternative">a+er b</ga></g>
+          <w>speaking</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="9882933e-5fee-4cb6-aac9-5e8ee24416ed" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <g><w>child</w><ga type="explanation">a+er b</ga></g>
+          <w>speaking</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="e8e45537-c804-405f-b81d-b85610f22c50" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <w>child<replacement real="false"><w>a<wk type="cmp"></wk>er</w><w>b</w></replacement></w>
+          <w>speaking</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="d3f38dbc-6b82-4e2a-89ed-c889cfce6fc0" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <g><w>child</w><ga type="comments">a+er b</ga></g>
+          <w>speaking</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="cfd7c1e7-69b0-4236-be7c-880f12747a2a" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <g><w>child</w><k type="best guess"></k></g>
+          <w>speaking</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="d2749e53-bf70-4899-80c8-da8a235b0494" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <g><w>child</w><k type="stressing"></k></g>
+          <w>speaking</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="133a31ad-8f76-41dc-8d37-c110922775c7" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <g><w>child</w><k type="contrastive stressing"></k></g>
+          <w>speaking</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="37d0e774-1767-4b1f-866d-b768153beb21" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <g><w>child</w><error>a+er b</error></g>
+          <w>speaking</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="a1dfacf7-07b3-44db-add2-3e8d254acae6" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <g><w>child</w><error></error></g>
+          <w>speaking</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <comment type="Generic">
+      <tierData><tw>Scoped</tw><tw>(with</tw><tw>compounds)</tw></tierData>
+    </comment>
+    <r speaker="CHI" uuid="6a483218-43ad-4c85-a67e-4608fe44a745" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <g><w>child<wk type="cmp"></wk>child</w><ga type="paralinguistics">a b</ga></g>
+          <w>speaking</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="6cf53f99-2b2b-4ac4-a1e7-d9bcdb4661f3" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <g><w>child<wk type="cmp"></wk>child</w><ga type="alternative">a b</ga></g>
+          <w>speaking</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="f69824eb-0244-45ea-8580-c0273fc98941" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <g><w>child<wk type="cmp"></wk>child</w><ga type="explanation">a b</ga></g>
+          <w>speaking</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="7d095347-e782-4e4e-9e9d-4abebf475e1c" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <w>child<wk type="cmp"></wk>child<replacement real="false"><w>a</w><w>b</w></replacement></w>
+          <w>speaking</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="7f935319-9b29-4327-9d4f-807a3ef3b4f4" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <g><w>child<wk type="cmp"></wk>child</w><ga type="comments">a b</ga></g>
+          <w>speaking</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="f0d20653-6d0c-4ffc-b2ec-5d18d20c723f" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <g><w>child<wk type="cmp"></wk>child</w><k type="best guess"></k></g>
+          <w>speaking</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="b2c17761-31de-4ff2-98f1-e1fe927a3653" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <g><w>child<wk type="cmp"></wk>child</w><k type="stressing"></k></g>
+          <w>speaking</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="54058fdd-29f6-4d4e-8ab0-78ab9710d21b" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <g><w>child<wk type="cmp"></wk>child</w><k type="contrastive stressing"></k></g>
+          <w>speaking</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="c4395b7e-2a31-462e-8e40-9c1dfa3f8edb" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <g><w>child<wk type="cmp"></wk>child</w><error>a b</error></g>
+          <w>speaking</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+    <r speaker="CHI" uuid="d7de515d-37ec-45e0-b708-744f7c44e7e6" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>this</w>
+          <w>is</w>
+          <g><w>child<wk type="cmp"></wk>child</w><error></error></g>
+          <w>speaking</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"></segment>
+    </r>
+  </transcript>
+</session>

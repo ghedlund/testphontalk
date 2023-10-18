@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="indent-overlap-in-word" corpus="SBCSAE" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <media>indent-overlap-in-word</media>
+  <participants>
+    <participant id="CAM">
+      <role>Speaker</role>
+      <name>CAM</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="JO">
+      <role>Speaker</role>
+      <name>JO</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="WESS">
+      <role>Speaker</role>
+      <name>WESS</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="FRED">
+      <role>Speaker</role>
+      <name>FRED</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="DOG">
+      <role>Environment</role>
+      <name>DOG</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="ENV">
+      <role>Environment</role>
+      <name>ENV</name>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <transcript>
+    <r speaker="FRED" uuid="dcf425a0-f051-4d7e-a40a-394c3f4e008d" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>it's</w>
+          <w>already</w>
+          <w>in</w>
+          <w>the</w>
+          <w>pan</w>
+          <internal-media start="1138.844" end="1139.850" unit="s"></internal-media>
+          <w>and</w>
+          <overlap-point start-end="start" top-bottom="top"></overlap-point>
+          <w>it's</w>
+          <w>done</w>
+          <overlap-point start-end="end" top-bottom="top"></overlap-point>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="1139.850" end="1140.362" unit="s"></segment>
+    </r>
+    <r speaker="WESS" uuid="05c90940-3df8-4db5-869a-23f1a40749b2" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <overlap-point start-end="start" top-bottom="bottom"></overlap-point>
+          <w>Mm</w>
+          <overlap-point start-end="end" top-bottom="bottom"></overlap-point>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="1139.975" end="1140.362" unit="s"></segment>
+    </r>
+    <r speaker="JO" uuid="6c5ce47a-2cad-4665-bd0e-a3f72b26e594" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <overlap-point start-end="start" top-bottom="bottom"></overlap-point>
+          <pause symbolic-length="simple"></pause>
+          <w>Yeah<overlap-point start-end="end" top-bottom="bottom"></overlap-point><overlap-point index="2" start-end="start" top-bottom="top"></overlap-point><p type="drawl"></p></w>
+          <w>but</w>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="1139.984" end="1140.875" unit="s"></segment>
+    </r>
+    <r speaker="FRED" uuid="c7f113a9-ff3a-497b-88f6-441815456111" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <overlap-point index="2" start-end="start" top-bottom="bottom"></overlap-point>
+          <w>and</w>
+          <w>you</w>
+          <w>just</w>
+          <w>set</w>
+          <w>it</w>
+          <w>a<overlap-point index="2" start-end="end" top-bottom="bottom"></overlap-point><overlap-point index="3" start-end="start" top-bottom="top"></overlap-point>side</w>
+          <overlap-point index="3" start-end="end" top-bottom="top"></overlap-point>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="1140.362" end="1141.652" unit="s"></segment>
+    </r>
+    <r speaker="JO" uuid="2fe87283-e4e6-47d4-9f2c-e564aa8ef60e" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>ye<overlap-point index="2" start-end="end" top-bottom="top"></overlap-point><overlap-point index="3" start-end="start" top-bottom="bottom"></overlap-point><p type="drawl"></p>s</w>
+          <overlap-point index="3" start-end="end" top-bottom="bottom"></overlap-point>
+          <t type="p"></t>
+        </u>
+      </orthography>
+      <segment start="1140.875" end="1141.652" unit="s"></segment>
+    </r>
+  </transcript>
+</session>
