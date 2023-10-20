@@ -56,18 +56,6 @@
         <tierData><tw>phone</tw><tw>length</tw><tw>simple</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI" uuid="0e778e98-fe2a-4fa3-9cc5-cfc2718f6536" excludeFromSearches="false">
-      <orthography>
-        <u>
-          <w untranscribed="unintelligible">xxx</w>
-          <t type="p"/>
-        </u>
-      </orthography>
-      <segment start="0.0" end="0.0" unit="ms"/>
-      <userTier name="comments">
-        <tierData><tw>phone</tw><tw>length</tw><tw>simple</tw></tierData>
-      </userTier>
-    </r>
     <r speaker="CHI" uuid="07ff8e61-23ff-472c-95ae-bd0a52b5ce5c" excludeFromSearches="false">
       <orthography>
         <u>
@@ -321,7 +309,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
       <userTier name="comments">
-        <tierData><tw>simple</tw><tw>compound</tw><tw>phone</tw></tierData>
+        <tierData><tw>compound</tw><tw>phone</tw><tw>with</tw><tw>suffix</tw><tw>diacritics</tw></tierData>
       </userTier>
     </r>
     <r speaker="CHI" uuid="3a0375f7-8d68-4fba-8130-8e2a3e0ccd88" excludeFromSearches="false">
