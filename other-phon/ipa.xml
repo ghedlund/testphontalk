@@ -185,7 +185,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
       <userTier name="comments">
-        <tierData><tw>liason</tw><tw>(e.g,.</tw><tw>A⁀B)</tw></tierData>
+        <tierData><tw>liason</tw><tw>(e.g.,</tw><tw>A⁀B)</tw></tierData>
       </userTier>
     </r>
     <r speaker="CHI" uuid="5b205e9c-ddf5-4a8f-86ad-c638d4e47933" excludeFromSearches="false">
