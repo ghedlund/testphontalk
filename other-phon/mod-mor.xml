@@ -1,20 +1,20 @@
 <?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="mod-mor" corpus="" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="mod-mor" corpus="other-phon" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <participants>
     <participant id="CHI">
       <role>Target_Child</role>
     </participant>
   </participants>
   <userTiers>
-    <td tierName="Morphology" type="mor" excludeFromAlignment="false"></td>
+    <td tierName="Morphology" type="mor" excludeFromAlignment="false"/>
   </userTiers>
   <tierOrder>
-    <tierView tierName="Orthography" visible="true" locked="false" font="default"></tierView>
-    <tierView tierName="IPA Target" visible="true" locked="false" font="default"></tierView>
-    <tierView tierName="IPA Actual" visible="false" locked="false" font="default"></tierView>
-    <tierView tierName="Morphology" visible="true" locked="false" font="default"></tierView>
-    <tierView tierName="Notes" visible="true" locked="false" font="default"></tierView>
-    <tierView tierName="Segment" visible="false" locked="false" font="default"></tierView>
+    <tierView tierName="Orthography" visible="true" locked="false" font="default"/>
+    <tierView tierName="IPA Target" visible="true" locked="false" font="default"/>
+    <tierView tierName="IPA Actual" visible="false" locked="false" font="default"/>
+    <tierView tierName="Morphology" visible="true" locked="false" font="default"/>
+    <tierView tierName="Notes" visible="true" locked="false" font="default"/>
+    <tierView tierName="Segment" visible="false" locked="false" font="default"/>
   </tierOrder>
   <transcript>
     <r uuid="f4dcb45a-6f32-4704-8b9f-39ad96a5ed0c" excludeFromSearches="false">
@@ -25,10 +25,9 @@
           <w>are</w>
           <w>making</w>
           <w>cakes</w>
-          <t type="p"></t>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <notes>
         <tierData><tw>mor</tw><tw>example</tw></tierData>
       </notes>
@@ -39,7 +38,7 @@
           <mor><mw><pos><c>v</c><subc>aux</subc></pos><stem>be</stem><mk type="sfxf">PRES</mk></mw></mor>
           <mor><mw><pos><c>v</c></pos><stem>make</stem><mk type="sfx">ING</mk></mw></mor>
           <mor><mw><pos><c>n</c></pos><stem>cake</stem><mk type="sfx">PL</mk></mw></mor>
-          <mor><mt type="p"></mt></mor>
+          <mor><mt type="p"/></mor>
         </mors>
       </userTier>
     </r>
@@ -49,12 +48,12 @@
           <w>this</w>
           <w>is</w>
           <w>a</w>
-          <g><w>mor</w><k type="mor exclude"></k></g>
+          <g><w>mor</w><k type="mor exclude"/></g>
           <w>exclude</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <notes>
         <tierData><tw>mor</tw><tw>exclude</tw></tierData>
       </notes>
@@ -64,7 +63,7 @@
           <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
           <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
           <mor><mw><pos><c>n</c></pos><stem>exclude</stem></mw></mor>
-          <mor><mt type="p"></mt></mor>
+          <mor><mt type="p"/></mor>
         </mors>
       </userTier>
     </r>
@@ -75,10 +74,10 @@
           <w>is</w>
           <w>a</w>
           <w>&amp;frag</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <notes>
         <tierData><tw>mor</tw><tw>fragment</tw></tierData>
       </notes>
@@ -87,7 +86,30 @@
           <mor><mw><pos><c>adv</c><subc>loc</subc></pos><stem>here</stem></mw></mor>
           <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
           <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
-          <mor><mt type="p"></mt></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+    </r>
+    <r uuid="22471b9a-6d11-4055-abc4-bd6bd495e3ed" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>here</w>
+          <w>is</w>
+          <w>a</w>
+          <w type="filler">filler</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <notes>
+        <tierData><tw>mor</tw><tw>fragment</tw></tierData>
+      </notes>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>adv</c><subc>loc</subc></pos><stem>here</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
+          <mor><mt type="p"/></mor>
         </mors>
       </userTier>
     </r>
@@ -97,13 +119,11 @@
           <w>here</w>
           <w>is</w>
           <w>a</w>
-          <e>
-            <happening>thing</happening>
-          </e>
-          <t type="p"></t>
+          <e><happening>thing</happening></e>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <notes>
         <tierData><tw>mor</tw><tw>happening</tw></tierData>
       </notes>
@@ -112,7 +132,7 @@
           <mor><mw><pos><c>adv</c><subc>loc</subc></pos><stem>here</stem></mw></mor>
           <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
           <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
-          <mor><mt type="p"></mt></mor>
+          <mor><mt type="p"/></mor>
         </mors>
       </userTier>
     </r>
@@ -134,10 +154,10 @@
           <w>va</w>
           <w>chercher</w>
           <w untranscribed="unintelligible">xxx</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <notes>
         <tierData><tw>mor</tw><tw>long</tw></tierData>
       </notes>
@@ -157,7 +177,7 @@
           <mor><mw><pos><c>pro</c><subc>subj</subc></pos><stem>elle</stem></mw></mor>
           <mor><mw><pos><c>v</c><subc>mdl</subc></pos><stem>aller</stem><mk type="sfxf">PRES</mk><mk type="sfxf">3s</mk></mw></mor>
           <mor><mw><pos><c>v</c></pos><stem>chercher</stem><mk type="sfx">INF</mk></mw></mor>
-          <mor><mt type="p"></mt></mor>
+          <mor><mt type="p"/></mor>
         </mors>
       </userTier>
     </r>
@@ -179,10 +199,10 @@
           <w>va</w>
           <w>chercher</w>
           <w untranscribed="unintelligible-with-pho">yyy</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <notes>
         <tierData><tw>mor</tw><tw>long</tw></tierData>
       </notes>
@@ -202,7 +222,7 @@
           <mor><mw><pos><c>pro</c><subc>subj</subc></pos><stem>elle</stem></mw></mor>
           <mor><mw><pos><c>v</c><subc>mdl</subc></pos><stem>aller</stem><mk type="sfxf">PRES</mk><mk type="sfxf">3s</mk></mw></mor>
           <mor><mw><pos><c>v</c></pos><stem>chercher</stem><mk type="sfx">INF</mk></mw></mor>
-          <mor><mt type="p"></mt></mor>
+          <mor><mt type="p"/></mor>
         </mors>
       </userTier>
     </r>
@@ -224,10 +244,10 @@
           <w>va</w>
           <w>chercher</w>
           <w untranscribed="untranscribed">www</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <notes>
         <tierData><tw>mor</tw><tw>long</tw></tierData>
       </notes>
@@ -247,7 +267,7 @@
           <mor><mw><pos><c>pro</c><subc>subj</subc></pos><stem>elle</stem></mw></mor>
           <mor><mw><pos><c>v</c><subc>mdl</subc></pos><stem>aller</stem><mk type="sfxf">PRES</mk><mk type="sfxf">3s</mk></mw></mor>
           <mor><mw><pos><c>v</c></pos><stem>chercher</stem><mk type="sfx">INF</mk></mw></mor>
-          <mor><mt type="p"></mt></mor>
+          <mor><mt type="p"/></mor>
         </mors>
       </userTier>
     </r>
@@ -259,10 +279,10 @@
           <w>an</w>
           <w type="omission">for</w>
           <w>word</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <notes>
         <tierData><tw>mor</tw><tw>omitted</tw></tierData>
       </notes>
@@ -273,7 +293,7 @@
           <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
           <mor><mw><pos><c>prep</c></pos><stem>for</stem></mw></mor>
           <mor><mw><pos><c>n</c></pos><stem>word</stem></mw></mor>
-          <mor><mt type="p"></mt></mor>
+          <mor><mt type="p"/></mor>
         </mors>
       </userTier>
     </r>
@@ -283,12 +303,12 @@
           <w>here</w>
           <w>is</w>
           <w>a</w>
-          <pause symbolic-length="simple"></pause>
+          <pause symbolic-length="simple"/>
           <w>pause</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <notes>
         <tierData><tw>mor</tw><tw>pause</tw></tierData>
       </notes>
@@ -298,25 +318,25 @@
           <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
           <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
           <mor><mw><pos><c>n</c></pos><stem>pause</stem></mw></mor>
-          <mor><mt type="p"></mt></mor>
+          <mor><mt type="p"/></mor>
         </mors>
       </userTier>
     </r>
     <r speaker="CHI" uuid="b2a1ecf5-180f-4036-96e4-bba429eca1e6" excludeFromSearches="false">
       <orthography>
         <u>
-          <w>foo<wk type="cli"></wk>bar</w>
-          <t type="p"></t>
+          <w>foo<wk type="cli"/>bar</w>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <notes>
         <tierData><tw>mor</tw><tw>postclitic</tw></tierData>
       </notes>
       <userTier name="Morphology">
         <mors>
           <mor><mw><pos><c>v</c></pos><stem>foo</stem></mw><mor-post><mw><pos><c>v</c></pos><stem>bar</stem></mw></mor-post></mor>
-          <mor><mt type="p"></mt></mor>
+          <mor><mt type="p"/></mor>
         </mors>
       </userTier>
     </r>
@@ -324,17 +344,17 @@
       <orthography>
         <u>
           <w>lil<replacement real="false"><w>little</w></replacement></w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <notes>
         <tierData><tw>mor</tw><tw>replacment</tw></tierData>
       </notes>
       <userTier name="Morphology">
         <mors>
           <mor><mw><pos><c>adj</c></pos><stem>little</stem></mw></mor>
-          <mor><mt type="p"></mt></mor>
+          <mor><mt type="p"/></mor>
         </mors>
       </userTier>
     </r>
@@ -344,12 +364,12 @@
           <w>this</w>
           <w>is</w>
           <w>a</w>
-          <g><w>one</w><k type="retracing"></k></g>
+          <g><w>one</w><k type="retracing"/></g>
           <w>retrace</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <notes>
         <tierData><tw>mor</tw><tw>retracing</tw></tierData>
       </notes>
@@ -359,7 +379,7 @@
           <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
           <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
           <mor><mw><pos><c>n</c></pos><stem>retrace</stem></mw></mor>
-          <mor><mt type="p"></mt></mor>
+          <mor><mt type="p"/></mor>
         </mors>
       </userTier>
     </r>
@@ -369,12 +389,12 @@
           <w>this</w>
           <w>is</w>
           <w>a</w>
-          <g><w>two</w><k type="retracing with correction"></k></g>
+          <g><w>two</w><k type="retracing with correction"/></g>
           <w>retrace</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <notes>
         <tierData><tw>mor</tw><tw>retracing</tw></tierData>
       </notes>
@@ -384,7 +404,7 @@
           <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
           <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
           <mor><mw><pos><c>n</c></pos><stem>retrace</stem></mw></mor>
-          <mor><mt type="p"></mt></mor>
+          <mor><mt type="p"/></mor>
         </mors>
       </userTier>
     </r>
@@ -394,12 +414,12 @@
           <w>this</w>
           <w>is</w>
           <w>a</w>
-          <g><w>three</w><k type="retracing reformulation"></k></g>
+          <g><w>three</w><k type="retracing reformulation"/></g>
           <w>retrace</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <notes>
         <tierData><tw>mor</tw><tw>retracing</tw></tierData>
       </notes>
@@ -409,7 +429,7 @@
           <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
           <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
           <mor><mw><pos><c>n</c></pos><stem>retrace</stem></mw></mor>
-          <mor><mt type="p"></mt></mor>
+          <mor><mt type="p"/></mor>
         </mors>
       </userTier>
     </r>
@@ -419,12 +439,12 @@
           <w>this</w>
           <w>is</w>
           <w>a</w>
-          <g><w>four</w><k type="false start"></k></g>
+          <g><w>four</w><k type="false start"/></g>
           <w>retrace</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <notes>
         <tierData><tw>mor</tw><tw>retracing</tw></tierData>
       </notes>
@@ -434,7 +454,7 @@
           <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
           <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
           <mor><mw><pos><c>n</c></pos><stem>retrace</stem></mw></mor>
-          <mor><mt type="p"></mt></mor>
+          <mor><mt type="p"/></mor>
         </mors>
       </userTier>
     </r>
@@ -444,12 +464,12 @@
           <w>this</w>
           <w>is</w>
           <w>a</w>
-          <g><w>five</w><k type="retracing unclear"></k></g>
+          <g><w>five</w><k type="retracing unclear"/></g>
           <w>retrace</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <notes>
         <tierData><tw>mor</tw><tw>retracing</tw></tierData>
       </notes>
@@ -459,7 +479,7 @@
           <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
           <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
           <mor><mw><pos><c>n</c></pos><stem>retrace</stem></mw></mor>
-          <mor><mt type="p"></mt></mor>
+          <mor><mt type="p"/></mor>
         </mors>
       </userTier>
     </r>
@@ -469,12 +489,12 @@
           <w>this</w>
           <w>is</w>
           <w>a</w>
-          <g><w>four</w><w>five</w><w>six</w><k type="retracing unclear"></k></g>
+          <g><w>four</w><w>five</w><w>six</w><k type="retracing unclear"/></g>
           <w>retrace</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <notes>
         <tierData><tw>mor</tw><tw>retracing</tw></tierData>
       </notes>
@@ -484,7 +504,7 @@
           <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
           <mor><mw><pos><c>det</c></pos><stem>a</stem></mw></mor>
           <mor><mw><pos><c>n</c></pos><stem>retrace</stem></mw></mor>
-          <mor><mt type="p"></mt></mor>
+          <mor><mt type="p"/></mor>
         </mors>
       </userTier>
     </r>
@@ -494,20 +514,20 @@
           <w>it</w>
           <w>was</w>
           <w>lowering</w>
-          <g><w>concrete</w><w>posts</w><tagMarker type="tag"></tagMarker><w>wasn't</w><w>it</w><w>off</w><w>a</w><k type="retracing with correction"></k></g>
+          <g><w>concrete</w><w>posts</w><tagMarker type="tag"/><w>wasn't</w><w>it</w><w>off</w><w>a</w><k type="retracing with correction"/></g>
           <w>concrete</w>
           <w>girders</w>
-          <g><w>off</w><w>a</w><k type="retracing"></k></g>
+          <g><w>off</w><w>a</w><k type="retracing"/></g>
           <w>off</w>
           <w>a</w>
           <w>lorry</w>
-          <tagMarker type="tag"></tagMarker>
+          <tagMarker type="tag"/>
           <w>wasn't</w>
           <w>it</w>
-          <t type="q"></t>
+          <t type="q"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <notes>
         <tierData><tw>mor</tw><tw>tag</tw><tw>marker</tw></tierData>
       </notes>
@@ -524,7 +544,7 @@
           <mor><mw><pos><c>end</c></pos><stem>end</stem></mw></mor>
           <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">PAST</mk><mk type="sfxf">13S</mk></mw><mor-post><mw><pos><c>neg</c></pos><stem>not</stem></mw></mor-post></mor>
           <mor><mw><pos><c>pro</c></pos><stem>it</stem></mw></mor>
-          <mor><mt type="q"></mt></mor>
+          <mor><mt type="q"/></mor>
         </mors>
       </userTier>
     </r>
@@ -534,20 +554,20 @@
           <w>it</w>
           <w>was</w>
           <w>lowering</w>
-          <g><w>concrete</w><w>posts</w><tagMarker type="vocative"></tagMarker><w>wasn't</w><w>it</w><w>off</w><w>a</w><k type="retracing with correction"></k></g>
+          <g><w>concrete</w><w>posts</w><tagMarker type="vocative"/><w>wasn't</w><w>it</w><w>off</w><w>a</w><k type="retracing with correction"/></g>
           <w>concrete</w>
           <w>girders</w>
-          <g><w>off</w><w>a</w><k type="retracing"></k></g>
+          <g><w>off</w><w>a</w><k type="retracing"/></g>
           <w>off</w>
           <w>a</w>
           <w>lorry</w>
-          <tagMarker type="vocative"></tagMarker>
+          <tagMarker type="vocative"/>
           <w>wasn't</w>
           <w>it</w>
-          <t type="q"></t>
+          <t type="q"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <notes>
         <tierData><tw>mor</tw><tw>tag</tw><tw>marker</tw></tierData>
       </notes>
@@ -564,7 +584,7 @@
           <mor><mw><pos><c>beg</c></pos><stem>beg</stem></mw></mor>
           <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">PAST</mk><mk type="sfxf">13S</mk></mw><mor-post><mw><pos><c>neg</c></pos><stem>not</stem></mw></mor-post></mor>
           <mor><mw><pos><c>pro</c></pos><stem>it</stem></mw></mor>
-          <mor><mt type="q"></mt></mor>
+          <mor><mt type="q"/></mor>
         </mors>
       </userTier>
     </r>
@@ -574,20 +594,20 @@
           <w>it</w>
           <w>was</w>
           <w>lowering</w>
-          <g><w>concrete</w><w>posts</w><tagMarker type="comma"></tagMarker><w>wasn't</w><w>it</w><w>off</w><w>a</w><k type="retracing with correction"></k></g>
+          <g><w>concrete</w><w>posts</w><tagMarker type="comma"/><w>wasn't</w><w>it</w><w>off</w><w>a</w><k type="retracing with correction"/></g>
           <w>concrete</w>
           <w>girders</w>
-          <g><w>off</w><w>a</w><k type="retracing"></k></g>
+          <g><w>off</w><w>a</w><k type="retracing"/></g>
           <w>off</w>
           <w>a</w>
           <w>lorry</w>
-          <tagMarker type="comma"></tagMarker>
+          <tagMarker type="comma"/>
           <w>wasn't</w>
           <w>it</w>
-          <t type="q"></t>
+          <t type="q"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <notes>
         <tierData><tw>mor</tw><tw>tag</tw><tw>marker</tw></tierData>
       </notes>
@@ -604,7 +624,7 @@
           <mor><mw><pos><c>cm</c></pos><stem>cm</stem></mw></mor>
           <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">PAST</mk><mk type="sfxf">13S</mk></mw><mor-post><mw><pos><c>neg</c></pos><stem>not</stem></mw></mor-post></mor>
           <mor><mw><pos><c>pro</c></pos><stem>it</stem></mw></mor>
-          <mor><mt type="q"></mt></mor>
+          <mor><mt type="q"/></mor>
         </mors>
       </userTier>
     </r>
@@ -615,13 +635,13 @@
           <w>gonna</w>
           <w>put</w>
           <w>the</w>
-          <w>choo<wk type="cmp"></wk>choo's</w>
+          <w>choo<wk type="cmp"/>choo's</w>
           <w>wheel</w>
           <w>on</w>
-          <t type="q"></t>
+          <t type="q"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <notes>
         <tierData><tw>mor</tw><tw>word</tw><tw>compound</tw></tierData>
       </notes>
@@ -634,7 +654,7 @@
           <mor><mwc><pos><c>n</c></pos><mw><pos><c>on</c></pos><stem>choo</stem></mw><mw><pos><c>on</c></pos><stem>choo</stem></mw></mwc><mor-post><mw><pos><c>v</c><subc>cop</subc></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor>
           <mor><mw><pos><c>n</c></pos><stem>wheel</stem></mw></mor>
           <mor><mw><pos><c>adv</c><subc>loc</subc></pos><stem>on</stem></mw></mor>
-          <mor><mt type="q"></mt></mor>
+          <mor><mt type="q"/></mor>
         </mors>
       </userTier>
     </r>
@@ -645,13 +665,13 @@
           <w>gonna</w>
           <w>put</w>
           <w>the</w>
-          <pg><w>choo<wk type="cmp"></wk>choo</w><w>'s</w></pg>
+          <pg><w>choo<wk type="cmp"/>choo</w><w>'s</w></pg>
           <w>wheel</w>
           <w>on</w>
-          <t type="q"></t>
+          <t type="q"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <notes>
         <tierData><tw>mor</tw><tw>word</tw><tw>compound</tw></tierData>
       </notes>
@@ -665,7 +685,7 @@
           <mor><mw><pos><c>v</c><subc>cop</subc></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
           <mor><mw><pos><c>n</c></pos><stem>wheel</stem></mw></mor>
           <mor><mw><pos><c>adv</c><subc>loc</subc></pos><stem>on</stem></mw></mor>
-          <mor><mt type="q"></mt></mor>
+          <mor><mt type="q"/></mor>
         </mors>
       </userTier>
     </r>
