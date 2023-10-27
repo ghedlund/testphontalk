@@ -1,0 +1,297 @@
+<?xml version="1.0" ?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="blind" corpus="other-phon" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <participants>
+    <participant id="PAR">
+      <role>Participant</role>
+    </participant>
+  </participants>
+  <userTiers>
+    <td tierName="custom" type="default" excludeFromAlignment="true"/>
+  </userTiers>
+  <blindMode>
+    <blindTier>IPA Target</blindTier>
+    <blindTier>IPA Actual</blindTier>
+    <blindTier>Notes</blindTier>
+    <blindTier>custom</blindTier>
+    <transcriber id="one">
+      <name>Testy McTester</name>
+      <password use="false"/>
+    </transcriber>
+    <transcriber id="two">
+      <name>Yoho Svensson</name>
+      <password use="false"/>
+    </transcriber>
+  </blindMode>
+  <transcript>
+    <r speaker="PAR" uuid="6c60e69c-cf73-4f4e-af6b-e56c36c827f2" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>hello</w>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><ph><base>*</base></ph></pw></pho>
+        <blindTranscription transcriber="one">
+          <pho><pw><ph><base>m</base></ph><ph><base>o</base></ph><ph><base>d</base></ph></pw><pw><ph><base>o</base></ph><ph><base>n</base></ph><ph><base>e</base></ph></pw></pho>
+        </blindTranscription>
+        <blindTranscription transcriber="two">
+          <unparsed>
+            <unparsedValue>mod# two</unparsedValue>
+            <parseError charPositionInLine="3">mod# two: token recognition error at: '#'</parseError>
+          </unparsed>
+        </blindTranscription>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><ph><base>*</base></ph></pw></pho>
+        <blindTranscription transcriber="one">
+          <pho><pw><ph><base>p</base></ph><ph><base>h</base></ph><ph><base>o</base></ph></pw><pw><ph><base>o</base></ph><ph><base>n</base></ph><ph><base>e</base></ph></pw></pho>
+        </blindTranscription>
+        <blindTranscription transcriber="two">
+          <pho><pw><ph><base>p</base></ph><ph><base>h</base></ph><ph><base>o</base></ph></pw><pw><ph><base>t</base></ph><ph><base>w</base></ph><ph><base>o</base></ph></pw></pho>
+        </blindTranscription>
+      </ipaActual>
+      <alignment>
+        <pm target="0" actual="0">
+          <top>0</top>
+          <bottom>0</bottom>
+        </pm>
+        <blindTranscription transcriber="one">
+          <pm target="0" actual="0">
+            <top>0 -1 1 2</top>
+            <bottom>0 1 2 -1</bottom>
+          </pm>
+          <pm target="1" actual="1">
+            <top>0 1 2</top>
+            <bottom>0 1 2</bottom>
+          </pm>
+        </blindTranscription>
+        <blindTranscription transcriber="two">
+          <pm target="-1" actual="0">
+            <top>-1 -1 -1</top>
+            <bottom>0 1 2</bottom>
+          </pm>
+          <pm target="-1" actual="1">
+            <top>-1 -1 -1</top>
+            <bottom>0 1 2</bottom>
+          </pm>
+        </blindTranscription>
+      </alignment>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <notes>
+        <tierData><tw>This</tw><tw>is</tw><tw>the</tw><tw>initial</tw><tw>notes</tw><tw>value</tw><tw>for</tw><tw>record</tw><tw>1</tw></tierData>
+      </notes>
+      <userTier name="custom">
+        <tierData><tw>This</tw><tw>is</tw><tw>the</tw><tw>initial</tw><tw>custom</tw><tw>tier</tw><tw>value</tw><tw>for</tw><tw>record</tw><tw>1</tw></tierData>
+        <blindTranscription transcriber="one">
+          <tierData><tw>custom</tw><tw>one</tw></tierData>
+        </blindTranscription>
+        <blindTranscription transcriber="two">
+          <tierData><tw>custom</tw><tw>two</tw></tierData>
+        </blindTranscription>
+      </userTier>
+    </r>
+    <r speaker="PAR" uuid="cbc871d8-f0e4-4725-b07d-e30d54bff9b0" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>world</w>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><ph><base>*</base></ph></pw></pho>
+        <blindTranscription transcriber="one">
+          <pho><pw><ph><base>m</base></ph><ph><base>o</base></ph><ph><base>d</base></ph></pw><pw><ph><base>o</base></ph><ph><base>n</base></ph><ph><base>e</base></ph></pw></pho>
+        </blindTranscription>
+        <blindTranscription transcriber="two">
+          <pho><pw><ph><base>m</base></ph><ph><base>o</base></ph><ph><base>d</base></ph></pw><pw><ph><base>t</base></ph><ph><base>w</base></ph><ph><base>o</base></ph></pw></pho>
+        </blindTranscription>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><ph><base>*</base></ph></pw></pho>
+        <blindTranscription transcriber="one">
+          <pho><pw><ph><base>p</base></ph><ph><base>h</base></ph><ph><base>o</base></ph></pw><pw><ph><base>o</base></ph><ph><base>n</base></ph><ph><base>e</base></ph></pw></pho>
+        </blindTranscription>
+        <blindTranscription transcriber="two">
+          <pho><pw><ph><base>p</base></ph><ph><base>h</base></ph><ph><base>o</base></ph></pw><pw><ph><base>t</base></ph><ph><base>w</base></ph><ph><base>o</base></ph></pw></pho>
+        </blindTranscription>
+      </ipaActual>
+      <alignment>
+        <pm target="0" actual="0">
+          <top>0</top>
+          <bottom>0</bottom>
+        </pm>
+        <blindTranscription transcriber="one">
+          <pm target="0" actual="0">
+            <top>0 -1 1 2</top>
+            <bottom>0 1 2 -1</bottom>
+          </pm>
+          <pm target="1" actual="1">
+            <top>0 1 2</top>
+            <bottom>0 1 2</bottom>
+          </pm>
+        </blindTranscription>
+        <blindTranscription transcriber="two">
+          <pm target="0" actual="0">
+            <top>0 -1 1 2</top>
+            <bottom>0 1 2 -1</bottom>
+          </pm>
+          <pm target="1" actual="1">
+            <top>0 1 2</top>
+            <bottom>0 1 2</bottom>
+          </pm>
+        </blindTranscription>
+      </alignment>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <notes>
+        <tierData><tw>This</tw><tw>is</tw><tw>the</tw><tw>initial</tw><tw>notes</tw><tw>value</tw><tw>for</tw><tw>record</tw><tw>2</tw></tierData>
+      </notes>
+      <userTier name="custom">
+        <tierData><tw>This</tw><tw>is</tw><tw>the</tw><tw>initial</tw><tw>custom</tw><tw>tier</tw><tw>value</tw><tw>for</tw><tw>record</tw><tw>2</tw></tierData>
+        <blindTranscription transcriber="one">
+          <tierData><tw>custom</tw><tw>one</tw></tierData>
+        </blindTranscription>
+        <blindTranscription transcriber="two">
+          <tierData><tw>custom</tw><tw>two</tw></tierData>
+        </blindTranscription>
+      </userTier>
+    </r>
+    <r speaker="PAR" uuid="f844840a-2471-42d0-8ee5-ff96ded5f10e" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>goodbye</w>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><ph><base>*</base></ph></pw></pho>
+        <blindTranscription transcriber="one">
+          <pho><pw><ph><base>m</base></ph><ph><base>o</base></ph><ph><base>d</base></ph></pw><pw><ph><base>o</base></ph><ph><base>n</base></ph><ph><base>e</base></ph></pw></pho>
+        </blindTranscription>
+        <blindTranscription transcriber="two">
+          <pho><pw><ph><base>m</base></ph><ph><base>o</base></ph><ph><base>d</base></ph></pw><pw><ph><base>t</base></ph><ph><base>w</base></ph><ph><base>o</base></ph></pw></pho>
+        </blindTranscription>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><ph><base>*</base></ph></pw></pho>
+        <blindTranscription transcriber="one">
+          <unparsed>
+            <unparsedValue>pho# one</unparsedValue>
+            <parseError charPositionInLine="3">pho# one: token recognition error at: '#'</parseError>
+          </unparsed>
+        </blindTranscription>
+        <blindTranscription transcriber="two">
+          <pho><pw><ph><base>p</base></ph><ph><base>h</base></ph><ph><base>o</base></ph></pw><pw><ph><base>t</base></ph><ph><base>w</base></ph><ph><base>o</base></ph></pw></pho>
+        </blindTranscription>
+      </ipaActual>
+      <alignment>
+        <pm target="0" actual="0">
+          <top>0</top>
+          <bottom>0</bottom>
+        </pm>
+        <blindTranscription transcriber="one">
+          <pm target="0" actual="-1">
+            <top>0 1 2</top>
+            <bottom>-1 -1 -1</bottom>
+          </pm>
+          <pm target="1" actual="-1">
+            <top>0 1 2</top>
+            <bottom>-1 -1 -1</bottom>
+          </pm>
+        </blindTranscription>
+        <blindTranscription transcriber="two">
+          <pm target="0" actual="0">
+            <top>0 -1 1 2</top>
+            <bottom>0 1 2 -1</bottom>
+          </pm>
+          <pm target="1" actual="1">
+            <top>0 1 2</top>
+            <bottom>0 1 2</bottom>
+          </pm>
+        </blindTranscription>
+      </alignment>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <notes>
+        <tierData><tw>This</tw><tw>is</tw><tw>the</tw><tw>initial</tw><tw>notes</tw><tw>value</tw><tw>for</tw><tw>record</tw><tw>3</tw></tierData>
+      </notes>
+      <userTier name="custom">
+        <tierData><tw>This</tw><tw>is</tw><tw>the</tw><tw>initial</tw><tw>custom</tw><tw>tier</tw><tw>value</tw><tw>for</tw><tw>record</tw><tw>3</tw></tierData>
+        <blindTranscription transcriber="one">
+          <tierData><tw>custom</tw><tw>one</tw></tierData>
+        </blindTranscription>
+        <blindTranscription transcriber="two">
+          <tierData><tw>custom</tw><tw>two</tw></tierData>
+        </blindTranscription>
+      </userTier>
+    </r>
+    <r speaker="PAR" uuid="cb676563-695e-41df-89f9-640f175679ee" excludeFromSearches="false">
+      <orthography>
+        <u>
+          <w>sanity</w>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><ph><base>*</base></ph></pw></pho>
+        <blindTranscription transcriber="one">
+          <pho><pw><ph><base>m</base></ph><ph><base>o</base></ph><ph><base>d</base></ph></pw><pw><ph><base>o</base></ph><ph><base>n</base></ph><ph><base>e</base></ph></pw></pho>
+        </blindTranscription>
+        <blindTranscription transcriber="two">
+          <pho><pw><ph><base>m</base></ph><ph><base>o</base></ph><ph><base>d</base></ph></pw><pw><ph><base>t</base></ph><ph><base>w</base></ph><ph><base>o</base></ph></pw></pho>
+        </blindTranscription>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><ph><base>*</base></ph></pw></pho>
+        <blindTranscription transcriber="one">
+          <pho><pw><ph><base>p</base></ph><ph><base>h</base></ph><ph><base>o</base></ph></pw><pw><ph><base>o</base></ph><ph><base>n</base></ph><ph><base>e</base></ph></pw></pho>
+        </blindTranscription>
+        <blindTranscription transcriber="two">
+          <pho><pw><ph><base>p</base></ph><ph><base>h</base></ph><ph><base>o</base></ph></pw><pw><ph><base>t</base></ph><ph><base>w</base></ph><ph><base>o</base></ph></pw></pho>
+        </blindTranscription>
+      </ipaActual>
+      <alignment>
+        <pm target="0" actual="0">
+          <top>0</top>
+          <bottom>0</bottom>
+        </pm>
+        <blindTranscription transcriber="one">
+          <pm target="0" actual="0">
+            <top>0 -1 1 2</top>
+            <bottom>0 1 2 -1</bottom>
+          </pm>
+          <pm target="1" actual="1">
+            <top>0 1 2</top>
+            <bottom>0 1 2</bottom>
+          </pm>
+        </blindTranscription>
+        <blindTranscription transcriber="two">
+          <pm target="0" actual="0">
+            <top>0 -1 1 2</top>
+            <bottom>0 1 2 -1</bottom>
+          </pm>
+          <pm target="1" actual="1">
+            <top>0 1 2</top>
+            <bottom>0 1 2</bottom>
+          </pm>
+        </blindTranscription>
+      </alignment>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <notes>
+        <tierData><tw>This</tw><tw>is</tw><tw>the</tw><tw>initial</tw><tw>notes</tw><tw>value</tw><tw>for</tw><tw>record</tw><tw>4</tw></tierData>
+      </notes>
+      <userTier name="custom">
+        <tierData><tw>This</tw><tw>is</tw><tw>the</tw><tw>initial</tw><tw>custom</tw><tw>tier</tw><tw>value</tw><tw>for</tw><tw>record</tw><tw>4</tw></tierData>
+        <blindTranscription transcriber="one">
+          <tierData><tw>custom</tw><tw>one</tw></tierData>
+        </blindTranscription>
+        <blindTranscription transcriber="two">
+          <tierData><tw>custom</tw><tw>two</tw></tierData>
+        </blindTranscription>
+      </userTier>
+    </r>
+  </transcript>
+</session>
