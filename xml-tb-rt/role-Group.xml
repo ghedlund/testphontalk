@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Corpus="bates" Lang="eng">
+  <Participants>
+    <participant id="CHI" role="Group" age="P1Y8M" group="normal" sex="female" language="eng"/>
+  </Participants>
+  <comment type="Generic">Test role Group</comment>
+  <u who="CHI" uID="u0">
+    <w>foo</w>
+    <t type="p"></t>
+  </u>
+</CHAT>

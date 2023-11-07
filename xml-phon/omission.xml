@@ -1,12 +1,12 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="omission" corpus="timmy" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="timmy" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <date>1996-02-29</date>
   <languages>eng</languages>
   <participants>
     <participant id="CHI">
       <role>Target_Child</role>
       <name>Timmy</name>
-      <age>P2Y9M8DT0H0M0S</age>
+      <age>P2Y9M8D</age>
       <languages>eng</languages>
     </participant>
     <participant id="LIN">
@@ -32,29 +32,29 @@
     <comment type="Generic">
       <tierData><tw>test</tw><tw>omissions</tw></tierData>
     </comment>
-    <r speaker="CHI" uuid="ccad9024-8978-4394-9823-c5ccddfa2ad3" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w>a<shortening>b</shortening>c<shortening>d</shortening></w>
           <w>efg</w>
           <w>hij<shortening>k</shortening></w>
           <w>lmn<shortening>o</shortening>p</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <comment type="Generic">
       <tierData><tw>underscores</tw></tierData>
     </comment>
-    <r speaker="CHI" uuid="6db9030c-d03f-4c65-a8a6-ade4b0b3120b" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w>Wi<shortening>nnie_the</shortening>_Pooh</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
   </transcript>
 </session>

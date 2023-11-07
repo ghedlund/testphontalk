@@ -1,8 +1,8 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="headers" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <date>2001-07-28</date>
   <languages>eng deu</languages>
-  <media>headers</media>
+  <mediaLocation>headers</mediaLocation>
   <participants>
     <participant id="CHI">
       <role>Child</role>
@@ -12,7 +12,7 @@
       <education>bleah</education>
       <birthday>2001-06-28</birthday>
       <birthplace>Taipei, Taiwan</birthplace>
-      <age>P1Y8M2DT0H0M0S</age>
+      <age>P1Y8M2D</age>
       <languages>eng deu</languages>
       <first-language>ara</first-language>
     </participant>
@@ -25,14 +25,14 @@
     <comment type="Generic">
       <tierData><tw>Test</tw><tw>all</tw><tw>headers</tw><tw>FAKE_WORD</tw><tw>=</tw><tw>({ALNUM}</tw><tw>|</tw><tw>[\_\@\&amp;~\;\-\!\?\.\,\'\"\+\&lt;\&gt;\(\)\/\=\~\*\#\`\\\%\^\$]</tw><tw>|</tw><tw>{TAG_CHAR})+</tw></tierData>
     </comment>
-    <r speaker="CHI" uuid="06496a32-3c25-4370-87ae-b7c6021a231c" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w>foo</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <comment type="Location">
       <tierData><tw>foo</tw></tierData>
@@ -64,14 +64,14 @@
     <comment type="Warning">
       <tierData><tw>foo</tw></tierData>
     </comment>
-    <r speaker="MOT" uuid="34a2cc03-00a1-43ef-ab3d-34ebd1ee69dd" excludeFromSearches="false">
+    <r speaker="MOT">
       <orthography>
         <u>
           <w>foo</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <comment type="Activities">
       <tierData><tw>foo</tw></tierData>
@@ -82,7 +82,7 @@
     <gem type="begin"></gem>
     <gem type="begin">foo</gem>
     <comment type="Blank">
-      <tierData></tierData>
+      <tierData/>
     </comment>
     <comment type="Generic">
       <tierData><tw>foo</tw></tierData>
@@ -94,7 +94,7 @@
     <gem type="end">foo</gem>
     <gem type="lazy">foo</gem>
     <comment type="New Episode">
-      <tierData></tierData>
+      <tierData/>
     </comment>
     <comment type="Situation">
       <tierData><tw>foo</tw></tierData>

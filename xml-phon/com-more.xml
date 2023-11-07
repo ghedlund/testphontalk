@@ -1,87 +1,87 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="com-more" corpus="providence" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="providence" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>eng</languages>
   <participants>
     <participant id="TXT">
       <role>Target_Child</role>
       <sex>female</sex>
-      <age>P1Y9M8DT0H0M0S</age>
+      <age>P1Y9M8D</age>
       <languages>eng</languages>
     </participant>
   </participants>
   <userTiers>
-    <td tierName="comments" type="default" excludeFromAlignment="true"></td>
+    <td tierName="Comments" type="default" excludeFromAlignment="true"/>
   </userTiers>
   <transcript>
-    <r speaker="TXT" uuid="88ab8006-3d9f-451b-81ed-24a744cf879d" excludeFromSearches="false">
+    <r speaker="TXT">
       <orthography>
         <u>
           <w>text</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
-      <userTier name="comments">
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Comments">
         <tierData><tw>TTHIS</tw><tw>can</tw><tw>(happen)</tw><tw>in</tw><tw>"quotes"</tw><tw>or</tw><tw>even</tw><tw>with</tw><tw>!!</tw><tw>sometimes.</tw></tierData>
       </userTier>
     </r>
-    <r speaker="TXT" uuid="2dd299a1-2be1-4c0a-ae3f-9b9ee02eab87" excludeFromSearches="false">
+    <r speaker="TXT">
       <orthography>
         <u>
           <w>text</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
-      <userTier name="comments">
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Comments">
         <tierData><tw>a-a-and</tw><tw>-</tw><tw>--</tw><tw>we</tw><tw>get</tw><tw>***</tw><tw>/this\</tw><tw>or</tw><tw>#{this}</tw><tw>with</tw><tw>@^$</tw><tw>+</tw><tw>and</tw><tw>the</tw><tw>rest.</tw></tierData>
       </userTier>
     </r>
-    <r speaker="TXT" uuid="ca26332b-f709-4542-b815-fc795be8973d" excludeFromSearches="false">
+    <r speaker="TXT">
       <orthography>
         <u>
           <w>text</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
-      <userTier name="comments">
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Comments">
         <tierData><tw>then</tw><tw>there</tw><tw>is</tw><tw>IPA</tw><tw>ɟɮɬːɟɮːɬʉɨɤθ</tw><tw>and</tw><tw>so</tw><tw>on</tw></tierData>
       </userTier>
     </r>
-    <r speaker="TXT" uuid="cf1447eb-cd67-4c20-ab0c-83701a334ca9" excludeFromSearches="false">
+    <r speaker="TXT">
       <orthography>
         <u>
           <w>text</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
-      <userTier name="comments">
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Comments">
         <tierData><tw>and</tw><tw>there</tw><tw>are</tw><tw>the</tw><tw>CA</tw><tw>characters</tw><tw>↓↑∆∇t☺</tw><tw>and</tw><tw>so</tw><tw>on</tw><tw>(see</tw><tw>manual)</tw></tierData>
       </userTier>
     </r>
-    <r speaker="TXT" uuid="6ee51544-3fac-4630-9cee-020d36ab1990" excludeFromSearches="false">
+    <r speaker="TXT">
       <orthography>
         <u>
           <w>text</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
-      <userTier name="comments">
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Comments">
         <tierData><tw>and</tw><tw>CJK</tw><tw>阿萨德</tw></tierData>
       </userTier>
     </r>
-    <r speaker="TXT" uuid="4711004e-f844-4e52-9ef3-ac31d2e1592b" excludeFromSearches="false">
+    <r speaker="TXT">
       <orthography>
         <u>
           <w>text</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
-      <userTier name="comments">
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Comments">
         <tierData><tw>there</tw><tw>are</tw><tw>extended</tw><tw>Latin</tw><tw>characters</tw><tw>ňŝâ,</tw><tw>and</tw><tw>Greek</tw><tw>ζΫβ,</tw><tw>Cyrillic</tw><tw>чДЋ,</tw><tw>Hebrew</tw><tw>דים,</tw><tw>and</tw><tw>some</tw><tw>هإكآday</tw><tw>we</tw><tw>will</tw><tw>have</tw><tw>Arabic</tw><tw>etc.</tw></tierData>
       </userTier>
     </r>

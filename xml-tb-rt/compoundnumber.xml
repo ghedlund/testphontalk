@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Corpus="bates" Lang="zho eng">
+  <Participants>
+    <participant id="CHI" role="Child" age="P1Y8M" group="normal" sex="female" language="zho eng"/>
+    <participant id="MOT" role="Mother" language="zho eng"/>
+  </Participants>
+  <comment type="Generic">number can be in compound word</comment>
+  <u who="CHI" uID="u0">
+    <w>zhei4<wk type="cmp"></wk>ge</w>
+    <w>hello</w>
+    <t type="p"></t>
+  </u>
+</CHAT>

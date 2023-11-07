@@ -1,5 +1,5 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="pho-mod-group" corpus="IDO" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="IDO" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <date>2000-06-23</date>
   <languages>ind jav</languages>
   <participants>
@@ -7,7 +7,7 @@
       <role>Target_Child</role>
       <name>Ido</name>
       <sex>male</sex>
-      <age>P4Y5M21DT0H0M0S</age>
+      <age>P4Y5M21D</age>
       <languages>ind jav</languages>
     </participant>
   </participants>
@@ -18,22 +18,16 @@
     <comment type="Generic">
       <tierData><tw>Test</tw><tw>new</tw><tw>pho</tw><tw>with</tw><tw>mod</tw></tierData>
     </comment>
-    <r speaker="CHI" uuid="8ab325e5-7601-4a08-8f04-087312d6ccb3" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <pg><w>A</w></pg>
           <pg><w>B</w></pg>
           <pg><w>C</w></pg>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <ipaTarget>
-        <pho><pw><ph><base>d</base></ph></pw><pw><ph><base>e</base></ph></pw><pw><ph><base>f</base></ph></pw></pho>
-      </ipaTarget>
-      <ipaActual>
-        <pho><pw><ph><base>a</base></ph></pw><pw><ph><base>b</base></ph></pw><pw><ph><base>c</base></ph></pw></pho>
-      </ipaActual>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
   </transcript>
 </session>

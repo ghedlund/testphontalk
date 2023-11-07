@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Corpus="bates" Lang="eng">
+  <Participants>
+    <participant id="CHI" role="Child" age="P1Y8M" group="normal" sex="female" language="eng"/>
+    <participant id="MOT" role="Mother" language="eng"/>
+  </Participants>
+  <u who="MOT" uID="u0">
+    <overlap-point start-end="start" top-bottom="top"></overlap-point>
+    <w>a</w>
+    <w>b<overlap-point start-end="end" top-bottom="top"></overlap-point></w>
+    <w>c</w>
+    <w>d</w>
+    <t type="p"></t>
+  </u>
+  <u who="CHI" uID="u1">
+    <w>e</w>
+    <w>f</w>
+    <overlap-point start-end="start" top-bottom="bottom"></overlap-point>
+    <w>g</w>
+    <w>h<overlap-point start-end="end" top-bottom="bottom"></overlap-point></w>
+    <t type="p"></t>
+  </u>
+</CHAT>

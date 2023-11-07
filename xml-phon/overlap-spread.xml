@@ -1,5 +1,5 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="overlap-spread" corpus="SBCSAE" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="SBCSAE" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>eng</languages>
   <participants>
     <participant id="JAMI">
@@ -29,82 +29,82 @@
     </participant>
   </participants>
   <transcript>
-    <r speaker="MILE" uuid="f84fa633-4d5b-45cb-ab00-5a8e67e36a38" excludeFromSearches="false">
+    <r speaker="MILE">
       <orthography>
         <u>
-          <overlap-point start-end="start" top-bottom="top"></overlap-point>
+          <overlap-point start-end="start" top-bottom="top"/>
           <w>top</w>
-          <overlap-point start-end="end" top-bottom="top"></overlap-point>
-          <overlap-point index="2" start-end="start" top-bottom="top"></overlap-point>
+          <overlap-point start-end="end" top-bottom="top"/>
+          <overlap-point index="2" start-end="start" top-bottom="top"/>
           <w>second</w>
           <w>top</w>
-          <overlap-point index="2" start-end="end" top-bottom="top"></overlap-point>
-          <overlap-point index="3" start-end="start" top-bottom="top"></overlap-point>
+          <overlap-point index="2" start-end="end" top-bottom="top"/>
+          <overlap-point index="3" start-end="start" top-bottom="top"/>
           <w>third</w>
           <w>top</w>
-          <overlap-point index="3" start-end="end" top-bottom="top"></overlap-point>
-          <t type="p"></t>
+          <overlap-point index="3" start-end="end" top-bottom="top"/>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="JAMI" uuid="f9026ec1-0a51-462d-bf2e-9d0df921c414" excludeFromSearches="false">
+    <r speaker="JAMI">
       <orthography>
         <u>
-          <overlap-point start-end="start" top-bottom="bottom"></overlap-point>
+          <overlap-point start-end="start" top-bottom="bottom"/>
           <w>bottom</w>
           <w>begin</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="JAMI" uuid="d309cabb-6de5-451d-9fec-b4a499443a86" excludeFromSearches="false">
+    <r speaker="JAMI">
       <orthography>
         <u>
           <w>bottom</w>
           <w>end</w>
-          <overlap-point start-end="end" top-bottom="bottom"></overlap-point>
-          <t type="p"></t>
+          <overlap-point start-end="end" top-bottom="bottom"/>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="PETE" uuid="184a7fd5-9c69-4fb7-bddb-af889b289f06" excludeFromSearches="false">
+    <r speaker="PETE">
       <orthography>
         <u>
-          <overlap-point index="2" start-end="start" top-bottom="bottom"></overlap-point>
+          <overlap-point index="2" start-end="start" top-bottom="bottom"/>
           <w>second</w>
           <w>bottom</w>
-          <overlap-point index="2" start-end="end" top-bottom="bottom"></overlap-point>
-          <t type="p"></t>
+          <overlap-point index="2" start-end="end" top-bottom="bottom"/>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="JAMI" uuid="d204db6d-a2e9-4d9a-9687-d24469d5a58a" excludeFromSearches="false">
+    <r speaker="JAMI">
       <orthography>
         <u>
-          <overlap-point index="3" start-end="start" top-bottom="bottom"></overlap-point>
+          <overlap-point index="3" start-end="start" top-bottom="bottom"/>
           <w>third</w>
           <w>bottom</w>
           <w>begin</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="JAMI" uuid="99124ea0-e3eb-4acb-917f-c9f1414f5f63" excludeFromSearches="false">
+    <r speaker="JAMI">
       <orthography>
         <u>
           <w>third</w>
           <w>bottom</w>
           <w>end</w>
-          <overlap-point index="3" start-end="end" top-bottom="bottom"></overlap-point>
-          <t type="p"></t>
+          <overlap-point index="3" start-end="end" top-bottom="bottom"/>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
   </transcript>
 </session>

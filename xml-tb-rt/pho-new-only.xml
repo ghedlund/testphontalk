@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Date="2000-06-23" Corpus="IDO" Lang="ind jav">
+  <Participants>
+    <participant id="CHI" role="Target_Child" name="Ido" age="P4Y5M21D" sex="male" birthday="1996-01-01" language="ind jav"/>
+    <participant id="MOT" role="Mother" name="Rimi" sex="female" language="ind jav"/>
+    <participant id="EXP" role="Investigator" name="Bety" age="P25Y1M14D" sex="female" language="ind jav"/>
+    <participant id="ABA" role="Brother" name="Praba" age="P5Y7M22D" sex="male" birthday="1994-10-31" language="ind jav"/>
+  </Participants>
+  <comment type="Date">23-JUN-2000</comment>
+  <comment type="Generic">Test new pho</comment>
+  <u who="EXP" uID="u0">
+    <pg><w>entar</w></pg>
+    <pg><w>Tante</w></pg>
+    <pg><w>nggak</w></pg>
+    <pg><w>mo</w></pg>
+    <pg><w>maen</w></pg>
+    <pg><w>lagi</w></pg>
+    <pg><w>deh</w></pg>
+    <t type="p"></t>
+  </u>
+  <comment type="Generic">With pho groups</comment>
+  <u who="EXP" uID="u1">
+    <pg><w>entar</w></pg>
+    <pg><w>Tante</w></pg>
+    <pg><w>nggak</w></pg>
+    <pg><w>mo</w></pg>
+    <pg><w>maen</w></pg>
+    <pg><w>lagi</w></pg>
+    <pg><w>deh</w></pg>
+    <t type="p"></t>
+  </u>
+  <comment type="Generic">retrace without groups</comment>
+  <u who="EXP" uID="u2">
+    <g><pg><w>mon</w></pg><overlap type="overlap precedes"></overlap><k type="retracing"></k></g>
+    <pg><w>non</w></pg>
+    <t type="e"></t>
+  </u>
+  <comment type="Generic">retrace with groups</comment>
+  <u who="EXP" uID="u3">
+    <g><pg><w>ah</w><w>non</w></pg><overlap type="overlap precedes"></overlap><k type="retracing"></k></g>
+    <pg><w>ah</w><w>non</w></pg>
+    <t type="e"></t>
+  </u>
+  <comment type="Generic">1-1 group on main line</comment>
+  <u who="EXP" uID="u4">
+    <pg><w>c'</w><w>est</w></pg>
+    <pg><w>lait</w></pg>
+    <t type="p"></t>
+  </u>
+  <comment type="Generic">1-1 group on main line for &amp;=cri</comment>
+  <u who="EXP" uID="u5">
+    <pg><e><happening>cri</happening></e></pg>
+    <pg><w>lait</w></pg>
+    <t type="p"></t>
+  </u>
+  <comment type="Generic">1-1 group on npho line</comment>
+  <u who="EXP" uID="u6">
+    <pg><w>lait</w></pg>
+    <t type="p"></t>
+    <a type="extension" flavor="pho">‹se le›</a>
+    <a type="extension" flavor="mod">‹se le›</a>
+  </u>
+  <comment type="Generic">compound</comment>
+  <u who="EXP" uID="u7">
+    <pg><w>foo<wk type="cmp"></wk>bar</w></pg>
+    <t type="p"></t>
+  </u>
+  <comment type="Generic">retrace of simple word</comment>
+  <u who="EXP" uID="u8">
+    <pg><g><w>est</w><k type="retracing"></k></g></pg>
+    <pg><w>lait</w></pg>
+    <t type="p"></t>
+  </u>
+  <comment type="Generic">fragment retrace</comment>
+  <u who="EXP" uID="u9">
+    <pg><g><w type="nonword">est</w><k type="retracing"></k></g></pg>
+    <pg><w>lait</w></pg>
+    <t type="p"></t>
+  </u>
+  <comment type="Generic">pho group around regular group, and vice versa</comment>
+  <u who="EXP" uID="u10">
+    <pg><w>est</w><g><w>lait</w><k type="retracing"></k></g><w>la</w></pg>
+    <g><pg><w>est</w></pg><pg><w>lait</w></pg><k type="retracing"></k></g>
+    <pg><w>la</w></pg>
+    <t type="p"></t>
+  </u>
+  <comment type="Generic">syllable stress</comment>
+  <u who="EXP" uID="u11">
+    <pg><w>hello</w></pg>
+    <pg><w>world</w></pg>
+    <t type="p"></t>
+  </u>
+  <comment type="Generic">omission etc.</comment>
+  <u who="EXP" uID="u12">
+    <pg><w>hello</w></pg>
+    <w type="omission">omitted</w>
+    <t type="p"></t>
+  </u>
+  <comment type="Generic">yyy has pho</comment>
+  <u who="EXP" uID="u13">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w></pg>
+    <t type="p"></t>
+  </u>
+  <u who="EXP" uID="u14">
+    <pg><w type="nonword">notomitted</w></pg>
+    <t type="p"></t>
+  </u>
+  <u who="EXP" uID="u15">
+    <pg><w type="filler">notomitted</w></pg>
+    <t type="p"></t>
+  </u>
+  <u who="EXP" uID="u16">
+    <pg><w type="fragment">notomitted</w></pg>
+    <t type="p"></t>
+  </u>
+  <u who="EXP" uID="u17">
+    <pg><w>hello</w></pg>
+    <e><happening>omitted</happening></e>
+    <t type="p"></t>
+  </u>
+  <comment type="Generic">xxx has *</comment>
+  <u who="EXP" uID="u18">
+    <pg><w>Yvan</w></pg>
+    <pg><w>watched</w></pg>
+    <pg><w>TV</w></pg>
+    <pg><w untranscribed="unintelligible">xxx</w></pg>
+    <t type="p"></t>
+  </u>
+</CHAT>

@@ -1,11 +1,11 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="mor-translations" corpus="timmy" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="timmy" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>spa eng</languages>
   <participants>
     <participant id="CHI">
       <role>Target_Child</role>
       <name>Timmy</name>
-      <age>P2Y9M8DT0H0M0S</age>
+      <age>P2Y9M8D</age>
       <languages>spa eng</languages>
     </participant>
     <participant id="LIN">
@@ -25,28 +25,28 @@
     </participant>
   </participants>
   <userTiers>
-    <td tierName="Morphology" type="mor" excludeFromAlignment="true"></td>
+    <td tierName="Morphology" type="mor" excludeFromAlignment="true"/>
   </userTiers>
   <transcript>
     <comment type="Generic">
       <tierData><tw>One</tw><tw>or</tw><tw>more</tw><tw>simple</tw><tw>translations.</tw></tierData>
     </comment>
-    <r speaker="CHI" uuid="63eee7c5-af79-4452-9ce6-ea938da8b77b" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w>mi</w>
           <w>musica</w>
           <w>mi</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <userTier name="Morphology">
         <mors>
           <mor><mw><pos><c>pro</c><subc>poss</subc></pos><stem>mi</stem></mw><menx>my</menx></mor>
           <mor><mw><pos><c>n</c></pos><stem>musica</stem></mw><menx>musician</menx><menx>music</menx></mor>
           <mor><mw><pos><c>pro</c><subc>poss</subc></pos><stem>mi</stem></mw><menx>my</menx></mor>
-          <mor><mt type="p"></mt></mor>
+          <mor><mt type="p"/></mor>
         </mors>
       </userTier>
     </r>

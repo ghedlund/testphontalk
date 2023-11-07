@@ -1,12 +1,12 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="number" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>zho eng</languages>
   <participants>
     <participant id="CHI">
       <role>Child</role>
       <group>normal</group>
       <sex>female</sex>
-      <age>P1Y8M0DT0H0M0S</age>
+      <age>P1Y8M</age>
       <languages>zho eng</languages>
     </participant>
     <participant id="MOT">
@@ -15,24 +15,24 @@
     </participant>
   </participants>
   <transcript>
-    <r speaker="CHI" uuid="f149256a-a016-4e0d-9fde-2094e663931a" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w>ha6</w>
           <w>foo7</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT" uuid="34d25263-c3f1-452c-87e8-f176dd6618f0" excludeFromSearches="false">
+    <r speaker="MOT">
       <orthography>
         <u>
-          <w>piao4<p type="drawl"></p>liang4</w>
-          <t type="p"></t>
+          <w>piao4<p type="drawl"/>liang4</w>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
   </transcript>
 </session>

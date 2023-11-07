@@ -1,42 +1,42 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="mor-tags" corpus="timmy" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="timmy" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>eng</languages>
   <participants>
     <participant id="CHI">
       <role>Target_Child</role>
       <name>Timmy</name>
-      <age>P2Y0M0DT0H0M0S</age>
+      <age>P2Y</age>
       <languages>eng</languages>
     </participant>
   </participants>
   <userTiers>
-    <td tierName="Morphology" type="mor" excludeFromAlignment="true"></td>
-    <td tierName="intonation" type="default" excludeFromAlignment="true"></td>
+    <td tierName="Morphology" type="mor" excludeFromAlignment="true"/>
+    <td tierName="Intonation" type="default" excludeFromAlignment="true"/>
   </userTiers>
   <transcript>
     <comment type="Generic">
       <tierData><tw>tag</tw><tw>markers,</tw><tw>including</tw><tw>comma</tw></tierData>
     </comment>
-    <r speaker="CHI" uuid="d24ee0f4-086c-46f2-9b96-11dceeeefa2a" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w>it</w>
           <w>was</w>
           <w>lowering</w>
-          <g><w>concrete</w><w>posts</w><tagMarker type="tag"></tagMarker><w>wasn't</w><w>it</w><w>off</w><w>a</w><k type="retracing with correction"></k></g>
+          <g><w>concrete</w><w>posts</w><tagMarker type="tag"/><w>wasn't</w><w>it</w><w>off</w><w>a</w><k type="retracing with correction"/></g>
           <w>concrete</w>
           <w>girders</w>
-          <g><w>off</w><w>a</w><k type="retracing"></k></g>
+          <g><w>off</w><w>a</w><k type="retracing"/></g>
           <w>off</w>
           <w>a</w>
           <w>lorry</w>
-          <tagMarker type="tag"></tagMarker>
+          <tagMarker type="tag"/>
           <w>wasn't</w>
           <w>it</w>
-          <t type="q"></t>
+          <t type="q"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <userTier name="Morphology">
         <mors>
           <mor><mw><pos><c>pro</c></pos><stem>it</stem></mw></mor>
@@ -50,30 +50,30 @@
           <mor><mw><pos><c>end</c></pos><stem>end</stem></mw></mor>
           <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">PAST</mk><mk type="sfxf">13S</mk></mw><mor-post><mw><pos><c>neg</c></pos><stem>not</stem></mw></mor-post></mor>
           <mor><mw><pos><c>pro</c></pos><stem>it</stem></mw></mor>
-          <mor><mt type="q"></mt></mor>
+          <mor><mt type="q"/></mor>
         </mors>
       </userTier>
     </r>
-    <r speaker="CHI" uuid="05c4e06f-be3e-43e3-a206-adfe76b38b97" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w>it</w>
           <w>was</w>
           <w>lowering</w>
-          <g><w>concrete</w><w>posts</w><tagMarker type="vocative"></tagMarker><w>wasn't</w><w>it</w><w>off</w><w>a</w><k type="retracing with correction"></k></g>
+          <g><w>concrete</w><w>posts</w><tagMarker type="vocative"/><w>wasn't</w><w>it</w><w>off</w><w>a</w><k type="retracing with correction"/></g>
           <w>concrete</w>
           <w>girders</w>
-          <g><w>off</w><w>a</w><k type="retracing"></k></g>
+          <g><w>off</w><w>a</w><k type="retracing"/></g>
           <w>off</w>
           <w>a</w>
           <w>lorry</w>
-          <tagMarker type="vocative"></tagMarker>
+          <tagMarker type="vocative"/>
           <w>wasn't</w>
           <w>it</w>
-          <t type="q"></t>
+          <t type="q"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <userTier name="Morphology">
         <mors>
           <mor><mw><pos><c>pro</c></pos><stem>it</stem></mw></mor>
@@ -87,33 +87,33 @@
           <mor><mw><pos><c>beg</c></pos><stem>beg</stem></mw></mor>
           <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">PAST</mk><mk type="sfxf">13S</mk></mw><mor-post><mw><pos><c>neg</c></pos><stem>not</stem></mw></mor-post></mor>
           <mor><mw><pos><c>pro</c></pos><stem>it</stem></mw></mor>
-          <mor><mt type="q"></mt></mor>
+          <mor><mt type="q"/></mor>
         </mors>
       </userTier>
-      <userTier name="intonation">
+      <userTier name="Intonation">
         <tierData><tw>„</tw><tw>‡</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI" uuid="84549c12-b997-40b2-996c-a86f8a85213b" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w>it</w>
           <w>was</w>
           <w>lowering</w>
-          <g><w>concrete</w><w>posts</w><tagMarker type="comma"></tagMarker><w>wasn't</w><w>it</w><w>off</w><w>a</w><k type="retracing with correction"></k></g>
+          <g><w>concrete</w><w>posts</w><tagMarker type="comma"/><w>wasn't</w><w>it</w><w>off</w><w>a</w><k type="retracing with correction"/></g>
           <w>concrete</w>
           <w>girders</w>
-          <g><w>off</w><w>a</w><k type="retracing"></k></g>
+          <g><w>off</w><w>a</w><k type="retracing"/></g>
           <w>off</w>
           <w>a</w>
           <w>lorry</w>
-          <tagMarker type="comma"></tagMarker>
+          <tagMarker type="comma"/>
           <w>wasn't</w>
           <w>it</w>
-          <t type="q"></t>
+          <t type="q"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <userTier name="Morphology">
         <mors>
           <mor><mw><pos><c>pro</c></pos><stem>it</stem></mw></mor>
@@ -127,7 +127,7 @@
           <mor><mw><pos><c>cm</c></pos><stem>cm</stem></mw></mor>
           <mor><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">PAST</mk><mk type="sfxf">13S</mk></mw><mor-post><mw><pos><c>neg</c></pos><stem>not</stem></mw></mor-post></mor>
           <mor><mw><pos><c>pro</c></pos><stem>it</stem></mw></mor>
-          <mor><mt type="q"></mt></mor>
+          <mor><mt type="q"/></mor>
         </mors>
       </userTier>
     </r>

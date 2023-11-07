@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Corpus="sample" Lang="eng">
+  <Participants>
+    <participant id="MOT" role="Mother" name="Kelly" language="eng"/>
+    <participant id="CHI" role="Target_Child" name="Nicolette" age="P1Y10M4D" language="eng"/>
+  </Participants>
+  <u who="CHI" uID="u0">
+    <g><w>overlap</w><w>with</w><w>comment</w><freecode>comment</freecode><overlap type="overlap follows"></overlap></g>
+    <t type="p"></t>
+  </u>
+</CHAT>

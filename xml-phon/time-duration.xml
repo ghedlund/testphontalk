@@ -1,12 +1,12 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="time-duration" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>eng</languages>
   <participants>
     <participant id="CHI">
       <role>Child</role>
       <group>normal</group>
       <sex>female</sex>
-      <age>P1Y8M0DT0H0M0S</age>
+      <age>P1Y8M</age>
       <languages>eng</languages>
     </participant>
     <participant id="MOT">
@@ -18,17 +18,17 @@
     <comment type="Time Duration">
       <tierData><tw>8:30:31</tw></tierData>
     </comment>
-    <r speaker="CHI" uuid="be27fafc-da81-43c6-9046-996d75aef527" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w>what</w>
-          <s type="clause delimiter"></s>
+          <s type="clause delimiter"/>
           <w>why</w>
           <w>now</w>
-          <t type="q"></t>
+          <t type="q"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
   </transcript>
 </session>

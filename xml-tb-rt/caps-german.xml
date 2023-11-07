@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Corpus="bates" Lang="deu">
+  <Participants>
+    <participant id="CHI" role="Child" age="P1Y8M" group="normal" sex="female" language="deu"/>
+    <participant id="MOT" role="Mother" language="deu"/>
+  </Participants>
+  <comment type="Generic">German allows caps in compounds</comment>
+  <u who="CHI" uID="u0">
+    <w>Foo<wk type="cmp"></wk>Bar</w>
+    <w>ist</w>
+    <w>richtig</w>
+    <t type="p"></t>
+  </u>
+</CHAT>

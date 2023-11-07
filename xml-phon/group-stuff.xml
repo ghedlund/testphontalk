@@ -1,12 +1,12 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="group-stuff" corpus="aarsenbos" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="aarsenbos" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <date>1991-06-20</date>
   <languages>ara</languages>
   <participants>
     <participant id="CHI">
       <role>Target_Child</role>
       <name>Chariba</name>
-      <age>P8Y9M12DT0H0M0S</age>
+      <age>P8Y9M12D</age>
       <languages>ara</languages>
     </participant>
     <participant id="HAY">
@@ -22,15 +22,15 @@
     <comment type="Generic">
       <tierData><tw>Retrace</tw><tw>followed</tw><tw>by</tw><tw>material</tw><tw>as</tw><tw>required</tw></tierData>
     </comment>
-    <r speaker="CHI" uuid="fa895b1f-a4d5-49c5-9e9f-3320ea620e38" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
-          <g><w>ana</w><k type="retracing with correction"></k></g>
+          <g><w>ana</w><k type="retracing with correction"/></g>
           <w>an</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
   </transcript>
 </session>

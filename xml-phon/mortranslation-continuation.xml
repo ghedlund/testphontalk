@@ -1,5 +1,5 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="mortranslation-continuation" corpus="Paris" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="Paris" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <date>2007-06-03</date>
   <languages>fra</languages>
   <participants>
@@ -8,7 +8,7 @@
       <name>Antoine</name>
       <sex>male</sex>
       <birthday>2006-04-10</birthday>
-      <age>P1Y1M23DT0H0M0S</age>
+      <age>P1Y1M23D</age>
       <languages>fra</languages>
     </participant>
     <participant id="FAT">
@@ -16,7 +16,7 @@
       <name>Mathieu</name>
       <sex>male</sex>
       <birthday>1978-07-07</birthday>
-      <age>P35Y0M0DT0H0M0S</age>
+      <age>P35Y</age>
       <languages>fra</languages>
     </participant>
     <participant id="OBS">
@@ -24,7 +24,7 @@
       <name>Christophe</name>
       <sex>male</sex>
       <birthday>1960-12-15</birthday>
-      <age>P46Y5M18DT0H0M0S</age>
+      <age>P46Y5M18D</age>
       <languages>fra</languages>
     </participant>
     <participant id="AUN">
@@ -32,12 +32,12 @@
       <name>Anne_Aunt</name>
       <sex>female</sex>
       <birthday>1975-05-05</birthday>
-      <age>P32Y0M28DT0H0M0S</age>
+      <age>P32Y28D</age>
       <languages>fra</languages>
     </participant>
   </participants>
   <userTiers>
-    <td tierName="Morphology" type="mor" excludeFromAlignment="true"></td>
+    <td tierName="Morphology" type="mor" excludeFromAlignment="true"/>
   </userTiers>
   <transcript>
     <comment type="Generic">
@@ -46,7 +46,7 @@
     <comment type="Date">
       <tierData><tw>03-JUN-2007</tw></tierData>
     </comment>
-    <r speaker="AUN" uuid="1e106371-ec6a-4392-96df-444f5fc3b6a8" excludeFromSearches="false">
+    <r speaker="AUN">
       <orthography>
         <u>
           <w>ah</w>
@@ -64,10 +64,10 @@
           <w>va</w>
           <w>chercher</w>
           <w untranscribed="unintelligible">xxx</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="350.255" end="354.852" unit="s"></segment>
+      <segment start="350.255" end="354.852" unit="s"/>
       <userTier name="Morphology">
         <mors>
           <mor><mw><pos><c>co</c></pos><stem>ah</stem></mw></mor>
@@ -84,7 +84,7 @@
           <mor><mw><pos><c>pro</c><subc>subj</subc></pos><stem>elle</stem></mw></mor>
           <mor><mw><pos><c>v</c><subc>mdl</subc></pos><stem>aller</stem><mk type="sfxf">PRES</mk><mk type="sfxf">3s</mk></mw></mor>
           <mor><mw><pos><c>v</c></pos><stem>chercher</stem><mk type="sfx">INF</mk></mw></mor>
-          <mor><mt type="p"></mt></mor>
+          <mor><mt type="p"/></mor>
         </mors>
       </userTier>
     </r>

@@ -1,12 +1,12 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="freeannotation" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>eng</languages>
   <participants>
     <participant id="CHI">
       <role>Child</role>
       <group>normal</group>
       <sex>female</sex>
-      <age>P1Y8M0DT0H0M0S</age>
+      <age>P1Y8M</age>
       <languages>eng</languages>
     </participant>
     <participant id="MOT">
@@ -18,36 +18,36 @@
     <comment type="Generic">
       <tierData><tw>freecodes</tw><tw>in</tw><tw>various</tw><tw>places</tw></tierData>
     </comment>
-    <r speaker="MOT" uuid="1a4c23fb-e964-4e03-8a1f-3f11cf988715" excludeFromSearches="false">
+    <r speaker="MOT">
       <orthography>
         <u>
           <w>hello</w>
           <freecode>huh: what</freecode>
           <w>there</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT" uuid="37d3abc5-9cd5-465c-8741-a47f0cb5b851" excludeFromSearches="false">
+    <r speaker="MOT">
       <orthography>
         <u>
           <g><w>this</w><w>is</w><freecode>huh</freecode><w>mother</w><freecode>right</freecode><w>speaking</w><ga type="explanation">foo</ga></g>
           <w>sucks</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT" uuid="d0cbdbbe-77dc-49ae-a8c4-595d6cd0975a" excludeFromSearches="false">
+    <r speaker="MOT">
       <orthography>
         <u>
           <g><w>hello</w><freecode>huh: what</freecode><w>there</w><ga type="explanation">foo</ga></g>
           <w>sucks</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
   </transcript>
 </session>

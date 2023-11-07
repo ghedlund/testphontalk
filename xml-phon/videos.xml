@@ -1,7 +1,7 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="videos" corpus="Scale" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="Scale" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>eng</languages>
-  <media>videos</media>
+  <mediaLocation>videos</mediaLocation>
   <participants>
     <participant id="PAR1">
       <role>Participant</role>
@@ -61,14 +61,14 @@
     </participant>
   </participants>
   <transcript>
-    <r speaker="INV1" uuid="b74d790d-fd64-4525-8a33-ece4c50745da" excludeFromSearches="false">
+    <r speaker="INV1">
       <orthography>
         <u>
           <w>alright</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="1.600" end="2.364" unit="s"></segment>
+      <segment start="1.600" end="2.364" unit="s"/>
     </r>
   </transcript>
 </session>

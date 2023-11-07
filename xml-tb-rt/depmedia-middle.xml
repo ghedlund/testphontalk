@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Corpus="stevens" Media="depmedia-middle" Lang="eng">
+  <Participants>
+    <participant id="EN1" role="Student" name="Engineer1" language="eng"/>
+    <participant id="AR1" role="Student" name="Architect1" language="eng"/>
+    <participant id="EN2" role="Student" name="Enginneer2" language="eng"/>
+    <participant id="AR2" role="Student" name="Architect2" language="eng"/>
+    <participant id="PR1" role="Student" name="Preservationist" language="eng"/>
+  </Participants>
+  <comment type="Generic">bullet inside a dependent tier</comment>
+  <u who="EN2" uID="u0">
+    <w>and</w>
+    <w>I'm</w>
+    <w>getting</w>
+    <w>demand</w>
+    <w>capacity</w>
+    <w>ratios</w>
+    <w>of</w>
+    <w>one</w>
+    <w>point</w>
+    <w>five</w>
+    <t type="p"></t>
+    <media start="32.221" end="37.628" unit="s"/>
+  </u>
+  <u who="AR1" uID="u1">
+    <w>hmmm</w>
+    <t type="p"></t>
+    <media start="37.628" end="38.893" unit="s"/>
+  </u>
+  <u who="EN2" uID="u2">
+    <w>and</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>uh</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>one</w>
+    <w>point</w>
+    <w>one</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>ok</w>
+    <t type="q"></t>
+    <media start="38.893" end="42.173" unit="s"/>
+  </u>
+  <u who="EN2" uID="u3">
+    <w>we</w>
+    <w>need</w>
+    <w>to</w>
+    <underline type="begin"></underline>
+    <w>do<underline type="end"></underline></w>
+    <w>something</w>
+    <underline type="begin"></underline>
+    <w>to<underline type="end"></underline></w>
+    <w>that</w>
+    <w>wall</w>
+    <t type="p"></t>
+    <media start="47.685" end="50.005" unit="s"/>
+    <a type="coding">palm down hand opens, and bobs up and down over the west wall<media start="48.908" end="50.441" unit="s"/></a>
+  </u>
+</CHAT>

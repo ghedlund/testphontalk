@@ -1,5 +1,5 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="pho-new-only" corpus="IDO" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="IDO" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <date>2000-06-23</date>
   <languages>ind jav</languages>
   <participants>
@@ -8,7 +8,7 @@
       <name>Ido</name>
       <sex>male</sex>
       <birthday>1996-01-01</birthday>
-      <age>P4Y5M21DT0H0M0S</age>
+      <age>P4Y5M21D</age>
       <languages>ind jav</languages>
     </participant>
     <participant id="MOT">
@@ -21,7 +21,7 @@
       <role>Investigator</role>
       <name>Bety</name>
       <sex>female</sex>
-      <age>P25Y1M14DT0H0M0S</age>
+      <age>P25Y1M14D</age>
       <languages>ind jav</languages>
     </participant>
     <participant id="ABA">
@@ -29,13 +29,13 @@
       <name>Praba</name>
       <sex>male</sex>
       <birthday>1994-10-31</birthday>
-      <age>P5Y7M22DT0H0M0S</age>
+      <age>P5Y7M22D</age>
       <languages>ind jav</languages>
     </participant>
   </participants>
   <userTiers>
-    <td tierName="pho" type="default" excludeFromAlignment="false"></td>
-    <td tierName="mod" type="default" excludeFromAlignment="false"></td>
+    <td tierName="pho" type="default" excludeFromAlignment="false"/>
+    <td tierName="mod" type="default" excludeFromAlignment="false"/>
   </userTiers>
   <transcript>
     <comment type="Date">
@@ -44,7 +44,7 @@
     <comment type="Generic">
       <tierData><tw>Test</tw><tw>new</tw><tw>pho</tw></tierData>
     </comment>
-    <r speaker="EXP" uuid="d29a0aae-bf1d-48d7-a792-d865de123c4a" excludeFromSearches="false">
+    <r speaker="EXP">
       <orthography>
         <u>
           <pg><w>entar</w></pg>
@@ -54,18 +54,15 @@
           <pg><w>maen</w></pg>
           <pg><w>lagi</w></pg>
           <pg><w>deh</w></pg>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <ipaActual>
-        <pho><pw><ph><base>e</base></ph><ph><base>n</base></ph><ph><base>t</base></ph><ph><base>a</base></ph><ph><base>r</base></ph></pw><pw><ph><base>t</base></ph><ph><base>a</base></ph><ph><base>n</base></ph><ph><base>t</base></ph><ph><base>e</base></ph></pw><pw><ph><base>n</base></ph><ph><base>g</base></ph><ph><base>g</base></ph><ph><base>a</base></ph><ph><base>k</base></ph></pw><pw><ph><base>m</base></ph><ph><base>o</base></ph></pw><pw><ph><base>m</base></ph><ph><base>a</base></ph><ph><base>e</base></ph><ph><base>n</base></ph></pw><pw><ph><base>l</base></ph><ph><base>a</base></ph><ph><base>g</base></ph><ph><base>i</base></ph></pw><pw><ph><base>d</base></ph><ph><base>e</base></ph><ph><base>h</base></ph></pw></pho>
-      </ipaActual>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <comment type="Generic">
       <tierData><tw>With</tw><tw>pho</tw><tw>groups</tw></tierData>
     </comment>
-    <r speaker="EXP" uuid="6119c6b4-8009-4b5e-a1de-d73ff235385c" excludeFromSearches="false">
+    <r speaker="EXP">
       <orthography>
         <u>
           <pg><w>entar</w></pg>
@@ -75,95 +72,74 @@
           <pg><w>maen</w></pg>
           <pg><w>lagi</w></pg>
           <pg><w>deh</w></pg>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <ipaActual>
-        <pho><pw><ph><base>a</base></ph><ph><base>b</base></ph></pw><pw><ph><base>c</base></ph></pw><pw><ph><base>d</base></ph><ph><base>e</base></ph></pw><pw><ph><base>f</base></ph></pw><pw><ph><base>g</base></ph></pw><pw><ph><base>h</base></ph><ph><base>i</base></ph></pw><pw><ph><base>j</base></ph></pw></pho>
-      </ipaActual>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <comment type="Generic">
       <tierData><tw>retrace</tw><tw>without</tw><tw>groups</tw></tierData>
     </comment>
-    <r speaker="EXP" uuid="57b0aecc-4794-4512-8ec3-4aa837a73e5b" excludeFromSearches="false">
+    <r speaker="EXP">
       <orthography>
         <u>
-          <g><pg><w>mon</w></pg><overlap type="overlap precedes"></overlap><k type="retracing"></k></g>
+          <g><pg><w>mon</w></pg><overlap type="overlap precedes"/><k type="retracing"/></g>
           <pg><w>non</w></pg>
-          <t type="e"></t>
+          <t type="e"/>
         </u>
       </orthography>
-      <ipaActual>
-        <pho><pw><ph><base>m</base></ph><ph><base>a</base><combining>̃</combining></ph></pw><pw><ph><base>n</base></ph><ph><base>a</base><combining>̃</combining></ph></pw></pho>
-      </ipaActual>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <comment type="Generic">
       <tierData><tw>retrace</tw><tw>with</tw><tw>groups</tw></tierData>
     </comment>
-    <r speaker="EXP" uuid="2264eb7a-b8c5-41d8-b8b3-aaa2804b9dda" excludeFromSearches="false">
+    <r speaker="EXP">
       <orthography>
         <u>
-          <g><pg><w>ah</w><w>non</w></pg><overlap type="overlap precedes"></overlap><k type="retracing"></k></g>
+          <g><pg><w>ah</w><w>non</w></pg><overlap type="overlap precedes"/><k type="retracing"/></g>
           <pg><w>ah</w><w>non</w></pg>
-          <t type="e"></t>
+          <t type="e"/>
         </u>
       </orthography>
-      <ipaActual>
-        <pho><pw><ph><base>a</base></ph><ph><base>n</base></ph><ph><base>a</base><combining>̃</combining></ph></pw><pw><ph><base>a</base></ph><ph><base>n</base></ph><ph><base>a</base><combining>̃</combining></ph></pw></pho>
-      </ipaActual>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <comment type="Generic">
       <tierData><tw>1-1</tw><tw>group</tw><tw>on</tw><tw>main</tw><tw>line</tw></tierData>
     </comment>
-    <r speaker="EXP" uuid="29d36478-6120-451b-ac6e-c9a5c748a070" excludeFromSearches="false">
+    <r speaker="EXP">
       <orthography>
         <u>
           <pg><w>c'</w><w>est</w></pg>
           <pg><w>lait</w></pg>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <ipaActual>
-        <pho><pw><ph><base>s</base></ph><ph><base>e</base></ph></pw><pw><ph><base>l</base></ph><ph><base>e</base></ph></pw></pho>
-      </ipaActual>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <comment type="Generic">
       <tierData><tw>1-1</tw><tw>group</tw><tw>on</tw><tw>main</tw><tw>line</tw><tw>for</tw><tw>&amp;=cri</tw></tierData>
     </comment>
-    <r speaker="EXP" uuid="f4270249-119d-4e05-ab8c-be7b1fbab392" excludeFromSearches="false">
+    <r speaker="EXP">
       <orthography>
         <u>
           <pg><e><happening>cri</happening></e></pg>
           <pg><w>lait</w></pg>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <ipaActual>
-        <pho><pw><ph><base>s</base></ph><ph><base>e</base></ph></pw><pw><ph><base>l</base></ph><ph><base>e</base></ph></pw></pho>
-      </ipaActual>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <comment type="Generic">
       <tierData><tw>1-1</tw><tw>group</tw><tw>on</tw><tw>npho</tw><tw>line</tw></tierData>
     </comment>
-    <r speaker="EXP" uuid="4d0878b2-5d8a-4992-8e81-fb89477ebcd0" excludeFromSearches="false">
+    <r speaker="EXP">
       <orthography>
         <u>
           <pg><w>lait</w></pg>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <ipaTarget>
-        <pho><pw><ph><base>s</base></ph><ph><base>e</base></ph><ph><base>l</base></ph><ph><base>e</base></ph></pw></pho>
-      </ipaTarget>
-      <ipaActual>
-        <pho><pw><ph><base>s</base></ph><ph><base>e</base></ph><ph><base>l</base></ph><ph><base>e</base></ph></pw></pho>
-      </ipaActual>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <userTier name="pho">
         <tierData><tw>‹se</tw><tw>le›</tw></tierData>
       </userTier>
@@ -174,185 +150,144 @@
     <comment type="Generic">
       <tierData><tw>compound</tw></tierData>
     </comment>
-    <r speaker="EXP" uuid="3b1a6a50-6c45-43c8-b998-97243de54521" excludeFromSearches="false">
+    <r speaker="EXP">
       <orthography>
         <u>
-          <pg><w>foo<wk type="cmp"></wk>bar</w></pg>
-          <t type="p"></t>
+          <pg><w>foo<wk type="cmp"/>bar</w></pg>
+          <t type="p"/>
         </u>
       </orthography>
-      <ipaActual>
-        <pho><pw><ph><base>f</base></ph><ph><base>o</base></ph><ph><base>o</base></ph><ph><base>b</base></ph><ph><base>a</base></ph><ph><base>r</base></ph></pw></pho>
-      </ipaActual>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <comment type="Generic">
       <tierData><tw>retrace</tw><tw>of</tw><tw>simple</tw><tw>word</tw></tierData>
     </comment>
-    <r speaker="EXP" uuid="3907eddb-3bbf-4f33-b101-12fd4fd42d6e" excludeFromSearches="false">
+    <r speaker="EXP">
       <orthography>
         <u>
-          <pg><g><w>est</w><k type="retracing"></k></g></pg>
+          <pg><g><w>est</w><k type="retracing"/></g></pg>
           <pg><w>lait</w></pg>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <ipaActual>
-        <pho><pw><ph><base>s</base></ph><ph><base>e</base></ph></pw><pw><ph><base>l</base></ph><ph><base>e</base></ph></pw></pho>
-      </ipaActual>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <comment type="Generic">
       <tierData><tw>fragment</tw><tw>retrace</tw></tierData>
     </comment>
-    <r speaker="EXP" uuid="3d141174-402e-4786-8d19-3a65f3890581" excludeFromSearches="false">
+    <r speaker="EXP">
       <orthography>
         <u>
-          <pg><g><w type="nonword">est</w><k type="retracing"></k></g></pg>
+          <pg><g><w type="nonword">est</w><k type="retracing"/></g></pg>
           <pg><w>lait</w></pg>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <ipaActual>
-        <pho><pw><ph><base>s</base></ph><ph><base>e</base></ph></pw><pw><ph><base>l</base></ph><ph><base>e</base></ph></pw></pho>
-      </ipaActual>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <comment type="Generic">
       <tierData><tw>pho</tw><tw>group</tw><tw>around</tw><tw>regular</tw><tw>group,</tw><tw>and</tw><tw>vice</tw><tw>versa</tw></tierData>
     </comment>
-    <r speaker="EXP" uuid="0a92a44e-b5c8-48d4-8610-a77e95baaade" excludeFromSearches="false">
+    <r speaker="EXP">
       <orthography>
         <u>
-          <pg><w>est</w><g><w>lait</w><k type="retracing"></k></g><w>la</w></pg>
-          <g><pg><w>est</w></pg><pg><w>lait</w></pg><k type="retracing"></k></g>
+          <pg><w>est</w><g><w>lait</w><k type="retracing"/></g><w>la</w></pg>
+          <g><pg><w>est</w></pg><pg><w>lait</w></pg><k type="retracing"/></g>
           <pg><w>la</w></pg>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <ipaActual>
-        <pho><pw><ph><base>a</base></ph></pw><pw><ph><base>b</base></ph></pw><pw><ph><base>c</base></ph></pw><pw><ph><base>d</base></ph></pw></pho>
-      </ipaActual>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <comment type="Generic">
       <tierData><tw>syllable</tw><tw>stress</tw></tierData>
     </comment>
-    <r speaker="EXP" uuid="c39e16c4-8e23-4568-9bfe-506890c0c080" excludeFromSearches="false">
+    <r speaker="EXP">
       <orthography>
         <u>
           <pg><w>hello</w></pg>
           <pg><w>world</w></pg>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <ipaTarget>
-        <pho><pw><ph><base>h</base></ph><ph><base>ə</base></ph><stress type="primary"></stress><ph><base>l</base></ph><ph><base>o</base></ph><ph><base>ʊ</base></ph></pw><pw><stress type="primary"></stress><ph><base>w</base></ph><ph><base>ʌ</base></ph><ph><base>ɹ</base></ph><ph><base>l</base></ph><ph><base>d</base></ph></pw></pho>
-      </ipaTarget>
-      <ipaActual>
-        <pho><pw><ph><base>h</base></ph><ph><base>ə</base></ph><stress type="primary"></stress><ph><base>l</base></ph><ph><base>o</base></ph><ph><base>ʊ</base></ph></pw><pw><stress type="primary"></stress><ph><base>w</base></ph><ph><base>ʌ</base></ph><ph><base>ɹ</base></ph><ph><base>l</base></ph><ph><base>d</base></ph></pw></pho>
-      </ipaActual>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <comment type="Generic">
       <tierData><tw>omission</tw><tw>etc.</tw></tierData>
     </comment>
-    <r speaker="EXP" uuid="b9224bd6-c9d9-489a-89da-e64ff102d9c2" excludeFromSearches="false">
+    <r speaker="EXP">
       <orthography>
         <u>
           <pg><w>hello</w></pg>
           <w type="omission">omitted</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <ipaActual>
-        <pho><pw><ph><base>a</base></ph></pw></pho>
-      </ipaActual>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <comment type="Generic">
       <tierData><tw>yyy</tw><tw>has</tw><tw>pho</tw></tierData>
     </comment>
-    <r speaker="EXP" uuid="027db04a-729c-4e89-915a-fab7f9ca26e5" excludeFromSearches="false">
+    <r speaker="EXP">
       <orthography>
         <u>
           <pg><w untranscribed="unintelligible-with-pho">yyy</w></pg>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <ipaActual>
-        <pho><pw><ph><base>a</base></ph></pw></pho>
-      </ipaActual>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="EXP" uuid="8196f0b8-ebde-43db-84ed-bf4700441997" excludeFromSearches="false">
+    <r speaker="EXP">
       <orthography>
         <u>
           <pg><w type="nonword">notomitted</w></pg>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <ipaActual>
-        <pho><pw><ph><base>a</base></ph></pw></pho>
-      </ipaActual>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="EXP" uuid="36b64a0b-f34e-480e-82ee-9c2d4379262c" excludeFromSearches="false">
+    <r speaker="EXP">
       <orthography>
         <u>
           <pg><w type="filler">notomitted</w></pg>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <ipaActual>
-        <pho><pw><ph><base>a</base></ph></pw></pho>
-      </ipaActual>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="EXP" uuid="92dd3855-c37a-47bf-a798-9f4cfe09d8a9" excludeFromSearches="false">
+    <r speaker="EXP">
       <orthography>
         <u>
           <pg><w type="fragment">notomitted</w></pg>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <ipaActual>
-        <pho><pw><ph><base>a</base></ph></pw></pho>
-      </ipaActual>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="EXP" uuid="faf09c26-64b8-430f-8f86-a8341aac491b" excludeFromSearches="false">
+    <r speaker="EXP">
       <orthography>
         <u>
           <pg><w>hello</w></pg>
-          <e>
-            <happening>omitted</happening>
-          </e>
-          <t type="p"></t>
+          <e><happening>omitted</happening></e>
+          <t type="p"/>
         </u>
       </orthography>
-      <ipaActual>
-        <pho><pw><ph><base>a</base></ph></pw></pho>
-      </ipaActual>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <comment type="Generic">
       <tierData><tw>xxx</tw><tw>has</tw><tw>*</tw></tierData>
     </comment>
-    <r speaker="EXP" uuid="82172b64-61af-46c2-a1e9-2c3f6c9de328" excludeFromSearches="false">
+    <r speaker="EXP">
       <orthography>
         <u>
           <pg><w>Yvan</w></pg>
           <pg><w>watched</w></pg>
           <pg><w>TV</w></pg>
           <pg><w untranscribed="unintelligible">xxx</w></pg>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <ipaActual>
-        <pho><pw><ph><base>a</base></ph></pw><pw><ph><base>b</base></ph></pw><pw><ph><base>c</base></ph></pw><pw><ph><base>*</base></ph></pw></pho>
-      </ipaActual>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
   </transcript>
 </session>

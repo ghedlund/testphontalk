@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Corpus="timmy" Lang="eng">
+  <Participants>
+    <participant id="CHI" role="Target_Child" name="Timmy" age="P2Y" language="eng"/>
+    <participant id="LIN" role="Investigator" name="Linda" language="eng"/>
+    <participant id="WIN" role="Investigator" name="Winnie" language="eng"/>
+    <participant id="GEM" role="Speaker" name="Gemma" language="eng"/>
+  </Participants>
+  <comment type="Generic">inlined quotation, with or without group</comment>
+  <u who="CHI" uID="u0">
+    <quotation type="begin"></quotation>
+    <w type="nonword">foo</w>
+    <w>and</w>
+    <w>more</w>
+    <quotation type="end"></quotation>
+    <t type="p"></t>
+  </u>
+  <u who="CHI" uID="u1">
+    <g><quotation type="begin"></quotation><w>wij</w><w>hebben</w><w>een</w><w>kikker</w><w>gevangen</w><quotation type="end"></quotation><overlap type="overlap precedes"></overlap></g>
+    <t type="p"></t>
+  </u>
+</CHAT>

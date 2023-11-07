@@ -1,12 +1,12 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="mod" corpus="mcf" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="mcf" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <date>1987-05-01</date>
   <languages>por swe</languages>
   <participants>
     <participant id="CHI">
       <role>Target_Child</role>
       <name>Karin</name>
-      <age>P1Y9M0DT0H0M0S</age>
+      <age>P1Y9M</age>
       <languages>por swe</languages>
     </participant>
     <participant id="DAD">
@@ -21,11 +21,11 @@
     </participant>
   </participants>
   <userTiers>
-    <td tierName="target gloss" type="default" excludeFromAlignment="true"></td>
-    <td tierName="english translation" type="default" excludeFromAlignment="true"></td>
-    <td tierName="pho" type="default" excludeFromAlignment="false"></td>
-    <td tierName="mod" type="default" excludeFromAlignment="false"></td>
-    <td tierName="intonation" type="default" excludeFromAlignment="true"></td>
+    <td tierName="Target gloss" type="default" excludeFromAlignment="true"/>
+    <td tierName="Eng translation" type="default" excludeFromAlignment="true"/>
+    <td tierName="pho" type="default" excludeFromAlignment="false"/>
+    <td tierName="mod" type="default" excludeFromAlignment="false"/>
+    <td tierName="Intonation" type="default" excludeFromAlignment="true"/>
   </userTiers>
   <transcript>
     <comment type="Transcriber">
@@ -49,21 +49,21 @@
     <comment type="Activities">
       <tierData><tw>playing</tw><tw>with</tw><tw>crayons</tw><tw>and</tw><tw>paper</tw><tw>on</tw><tw>the</tw><tw>table.</tw></tierData>
     </comment>
-    <r speaker="CHI" uuid="3aee4ddf-7a46-470a-a42d-1beaec814789" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w>n<shortening>e</shortening>j</w>
-          <g><w><shortening>v</shortening>ill</w><k type="best guess"></k></g>
+          <g><w><shortening>v</shortening>ill</w><k type="best guess"/></g>
           <w><shortening>h</shortening>a</w>
           <w>han<shortening>d</shortening></w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
-      <userTier name="target gloss">
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Target gloss">
         <tierData><tw>nej,</tw><tw>jag</tw><tw>vill</tw><tw>ha</tw><tw>handen</tw><tw>.</tw></tierData>
       </userTier>
-      <userTier name="english translation">
+      <userTier name="Eng translation">
         <tierData><tw>no,</tw><tw>I</tw><tw>want</tw><tw>the</tw><tw>hand</tw><tw>.</tw></tierData>
       </userTier>
       <userTier name="pho">
@@ -72,7 +72,7 @@
       <userTier name="mod">
         <tierData><tw>neʝ</tw><tw>vil</tw><tw>hɑː</tw><tw>ˈhandən</tw></tierData>
       </userTier>
-      <userTier name="intonation">
+      <userTier name="Intonation">
         <tierData><tw>LL</tw><tw>on</tw><tw>syllabic</tw><tw>nasal,</tw><tw>HF</tw><tw>on</tw><tw>the</tw><tw>next</tw><tw>three</tw><tw>sylls,</tw><tw>MR</tw><tw>on</tw><tw>last</tw><tw>word</tw><tw>.</tw></tierData>
       </userTier>
     </r>

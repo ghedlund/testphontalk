@@ -1,12 +1,12 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="mornumber" corpus="timmy" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="timmy" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <date>1996-02-29</date>
   <languages>zho eng</languages>
   <participants>
     <participant id="CHI">
       <role>Target_Child</role>
       <name>Timmy</name>
-      <age>P2Y9M8DT0H0M0S</age>
+      <age>P2Y9M8D</age>
       <languages>zho eng</languages>
     </participant>
     <participant id="LIN">
@@ -26,7 +26,7 @@
     </participant>
   </participants>
   <userTiers>
-    <td tierName="Morphology" type="mor" excludeFromAlignment="true"></td>
+    <td tierName="Morphology" type="mor" excludeFromAlignment="true"/>
   </userTiers>
   <transcript>
     <comment type="Tape Location">
@@ -38,48 +38,48 @@
     <comment type="Time Duration">
       <tierData><tw>17:30-18:00</tw></tierData>
     </comment>
-    <r speaker="CHI" uuid="34559409-282e-4601-b270-79f6f1ecf683" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w>so</w>
           <w>dirty</w>
           <w>soldier</w>
           <w>aa3</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <userTier name="Morphology">
         <mors>
           <mor><mw><pos><c>co</c></pos><stem>so</stem></mw></mor>
           <mor><mw><pos><c>v</c></pos><stem>dirty</stem></mw></mor>
           <mor><mw><pos><c>n</c></pos><stem>soldier</stem></mw></mor>
           <mor><mw><pos><c>sfp</c></pos><stem>aa3</stem></mw></mor>
-          <mor><mt type="p"></mt></mor>
+          <mor><mt type="p"/></mor>
         </mors>
       </userTier>
     </r>
     <comment type="Generic">
       <tierData><tw>Put</tw><tw>in</tw><tw>'</tw><tw>for</tw><tw>character</tw><tw>content</tw></tierData>
     </comment>
-    <r speaker="CHI" uuid="38641482-1d81-47eb-a956-51e2707b7e56" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w>so</w>
           <w>dirty</w>
           <w>soldier's</w>
           <w>aa3</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <userTier name="Morphology">
         <mors>
           <mor><mw><pos><c>co</c></pos><stem>so</stem></mw></mor>
           <mor><mw><pos><c>v</c></pos><stem>dirty</stem></mw></mor>
           <mor><mw><pos><c>n</c></pos><stem>soldier</stem></mw><mor-post><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor>
           <mor><mw><pos><c>sfp</c></pos><stem>aa3</stem></mw></mor>
-          <mor><mt type="p"></mt></mor>
+          <mor><mt type="p"/></mor>
         </mors>
       </userTier>
     </r>

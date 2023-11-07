@@ -1,12 +1,12 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="lazygemwords" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>eng</languages>
   <participants>
     <participant id="CHI">
       <role>Child</role>
       <group>normal</group>
       <sex>female</sex>
-      <age>P1Y8M0DT0H0M0S</age>
+      <age>P1Y8M</age>
       <languages>eng</languages>
     </participant>
     <participant id="MOT">
@@ -15,37 +15,37 @@
     </participant>
   </participants>
   <userTiers>
-    <td tierName="actions" type="default" excludeFromAlignment="true"></td>
-    <td tierName="gesture" type="default" excludeFromAlignment="true"></td>
-    <td tierName="pho" type="default" excludeFromAlignment="false"></td>
+    <td tierName="Actions" type="default" excludeFromAlignment="true"/>
+    <td tierName="Gesture" type="default" excludeFromAlignment="true"/>
+    <td tierName="pho" type="default" excludeFromAlignment="false"/>
   </userTiers>
   <transcript>
     <gem type="lazy">a bear</gem>
-    <r speaker="MOT" uuid="f978dc15-fd9d-4b72-90f9-4d5e56748f2e" excludeFromSearches="false">
+    <r speaker="MOT">
       <orthography>
         <u>
           <w>what's</w>
           <w>that</w>
-          <t type="q"></t>
+          <t type="q"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
-      <userTier name="actions">
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Actions">
         <tierData><tw>holds</tw><tw>object</tw><tw>out</tw><tw>to</tw><tw>Amy</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI" uuid="63837077-55e7-41c2-a2b6-94ba3ff4f48d" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w untranscribed="unintelligible-with-pho">yyy</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
-      <userTier name="gesture">
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Gesture">
         <tierData><tw>looks</tw><tw>at</tw><tw>chicken</tw></tierData>
       </userTier>
-      <userTier name="actions">
+      <userTier name="Actions">
         <tierData><tw>holds</tw><tw>nesting</tw><tw>cups</tw></tierData>
       </userTier>
       <userTier name="pho">
@@ -53,75 +53,75 @@
       </userTier>
     </r>
     <gem type="lazy">b foo</gem>
-    <r speaker="MOT" uuid="bbdb40de-1dc0-4239-b6fa-1baa44719623" excludeFromSearches="false">
+    <r speaker="MOT">
       <orthography>
         <u>
           <w>it's</w>
           <w>a</w>
           <w>chicken</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI" uuid="50bf0087-048c-4173-8231-e0ae7df9ae53" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w>yeah</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
-      <userTier name="actions">
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Actions">
         <tierData><tw>takes</tw><tw>chicken</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT" uuid="940266a9-c01c-4686-be15-344d2eeed649" excludeFromSearches="false">
+    <r speaker="MOT">
       <orthography>
         <u>
           <w>yeah</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT" uuid="037a895c-d271-4ce7-bfb7-b9e892bb6459" excludeFromSearches="false">
+    <r speaker="MOT">
       <orthography>
         <u>
           <w>what's</w>
           <w>this</w>
-          <t type="q"></t>
+          <t type="q"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
-      <userTier name="actions">
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Actions">
         <tierData><tw>&lt;1w-2w&gt;</tw><tw>holds</tw><tw>object</tw><tw>out</tw><tw>to</tw><tw>Amy</tw><tw>&lt;1w&gt;</tw><tw>picks</tw><tw>up</tw><tw>object</tw><tw>.</tw></tierData>
       </userTier>
     </r>
     <gem type="lazy">a bear</gem>
-    <r speaker="MOT" uuid="1fd985ca-0f50-434e-a3d2-4d863421c305" excludeFromSearches="false">
+    <r speaker="MOT">
       <orthography>
         <u>
           <w>what</w>
-          <g><w>is</w><k type="stressing"></k></g>
+          <g><w>is</w><k type="stressing"/></g>
           <w>that</w>
-          <t type="q"></t>
+          <t type="q"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
-      <userTier name="actions">
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Actions">
         <tierData><tw>&lt;1w-3w&gt;</tw><tw>holds</tw><tw>object</tw><tw>out</tw><tw>to</tw><tw>Amy</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI" uuid="f3d74d11-428d-45de-8745-7d01b8a31da6" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w untranscribed="unintelligible-with-pho">yyy</w>
-          <t type="q"></t>
+          <t type="q"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
-      <userTier name="actions">
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Actions">
         <tierData><tw>&lt;aft&gt;</tw><tw>manipulates</tw><tw>chicken</tw><tw>in</tw><tw>hands</tw></tierData>
       </userTier>
       <userTier name="pho">
@@ -129,34 +129,34 @@
       </userTier>
     </r>
     <gem type="lazy">b baz</gem>
-    <r speaker="MOT" uuid="0da7fdef-6585-4f1c-a7d3-2942cbe3d2a3" excludeFromSearches="false">
+    <r speaker="MOT">
       <orthography>
         <u>
           <w>it's</w>
           <w>a</w>
-          <w>woof<wk type="cmp"></wk><shortening>woof</shortening></w>
-          <t type="p"></t>
+          <w>woof<wk type="cmp"/><shortening>woof</shortening></w>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI" uuid="6e7070ff-611c-462a-9c08-25b9f2ff6180" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w>yeah</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT" uuid="4e4ed11f-68cb-4502-a8b1-70ed04912e8d" excludeFromSearches="false">
+    <r speaker="MOT">
       <orthography>
         <u>
           <w>yeah</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
   </transcript>
 </session>

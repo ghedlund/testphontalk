@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Corpus="timmy" Lang="eng">
+  <Participants>
+    <participant id="CHI" role="Target_Child" name="Timmy" age="P2Y9M8D" language="eng"/>
+    <participant id="LIN" role="Investigator" name="Linda" language="eng"/>
+    <participant id="WIN" role="Investigator" name="Winnie" language="eng"/>
+    <participant id="GEM" role="Speaker" name="Gemma" language="eng"/>
+  </Participants>
+  <u who="CHI" uID="u0">
+    <w>junk</w>
+    <w><ca-delimiter type="begin" label="high-pitch"></ca-delimiter>higher<ca-delimiter type="end" label="high-pitch"></ca-delimiter></w>
+    <w><ca-delimiter type="begin" label="low-pitch"></ca-delimiter>lower<ca-delimiter type="end" label="low-pitch"></ca-delimiter></w>
+    <w>stuff</w>
+    <t type="p"></t>
+  </u>
+</CHAT>

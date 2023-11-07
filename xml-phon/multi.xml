@@ -1,7 +1,7 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="multi" corpus="sample" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="sample" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>eng</languages>
-  <media>multi</media>
+  <mediaLocation>multi</mediaLocation>
   <participants>
     <participant id="MOT">
       <role>Mother</role>
@@ -9,7 +9,7 @@
     </participant>
     <participant id="CHI">
       <role>Target_Child</role>
-      <age>P1Y10M4DT0H0M0S</age>
+      <age>P1Y10M4D</age>
       <languages>eng</languages>
     </participant>
   </participants>
@@ -17,16 +17,16 @@
     <comment type="Generic">
       <tierData><tw>test</tw><tw>options</tw><tw>multi</tw></tierData>
     </comment>
-    <r speaker="CHI" uuid="d98c37fb-85b7-477b-8cdd-f2ff45411bc0" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w>crap</w>
-          <internal-media start="2041.689" end="2042.652" unit="s"></internal-media>
-          <pause symbolic-length="simple" length="9.400"></pause>
-          <t type="p"></t>
+          <internal-media start="2041.689" end="2042.652" unit="s"/>
+          <pause symbolic-length="simple" length="9.400"/>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="2042.652" end="2043.652" unit="s"></segment>
+      <segment start="2042.652" end="2043.652" unit="s"/>
     </r>
   </transcript>
 </session>

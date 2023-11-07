@@ -1,5 +1,5 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="pho-groupings" corpus="IDO" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="IDO" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <date>2000-06-23</date>
   <languages>ind jav</languages>
   <participants>
@@ -8,7 +8,7 @@
       <name>Ido</name>
       <sex>male</sex>
       <birthday>1996-01-01</birthday>
-      <age>P4Y5M21DT0H0M0S</age>
+      <age>P4Y5M21D</age>
       <languages>ind jav</languages>
     </participant>
     <participant id="MOT">
@@ -21,7 +21,7 @@
       <role>Investigator</role>
       <name>Bety</name>
       <sex>female</sex>
-      <age>P25Y1M14DT0H0M0S</age>
+      <age>P25Y1M14D</age>
       <languages>ind jav</languages>
     </participant>
     <participant id="ABA">
@@ -29,7 +29,7 @@
       <name>Praba</name>
       <sex>male</sex>
       <birthday>1994-10-31</birthday>
-      <age>P5Y7M22DT0H0M0S</age>
+      <age>P5Y7M22D</age>
       <languages>ind jav</languages>
     </participant>
   </participants>
@@ -40,19 +40,16 @@
     <comment type="Generic">
       <tierData><tw>Test</tw><tw>Brian's</tw><tw>problem</tw></tierData>
     </comment>
-    <r speaker="CHI" uuid="73a8f797-224c-493c-a415-2cd2630b6876" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <pg><w>mais</w></pg>
-          <g><pg><w>c'est</w></pg><k type="retracing with correction"></k></g>
-          <g><pg><w>ce<wk type="cmp"></wk>qu'</w></pg><pg><w>y<wk type="cmp"></wk>a</w></pg><pg><w>en</w><w>haut</w></pg><overlap type="overlap follows"></overlap></g>
-          <t type="interruption"></t>
+          <g><pg><w>c'est</w></pg><k type="retracing with correction"/></g>
+          <g><pg><w>ce<wk type="cmp"/>qu'</w></pg><pg><w>y<wk type="cmp"/>a</w></pg><pg><w>en</w><w>haut</w></pg><overlap type="overlap follows"/></g>
+          <t type="interruption"/>
         </u>
       </orthography>
-      <ipaActual>
-        <pho><pw><ph><base>m</base></ph><ph><base>ɛ</base></ph></pw><pw><ph><base>s</base></ph><ph><base>ɛ</base></ph></pw><pw><ph><base>s</base></ph><ph><base>k</base></ph></pw><pw><ph><base>j</base></ph><ph><base>a</base></ph></pw><pw><ph><base>ɑ</base><combining>̃</combining></ph><ph><base>o</base></ph></pw></pho>
-      </ipaActual>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
   </transcript>
 </session>

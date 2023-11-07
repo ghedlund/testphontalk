@@ -1,5 +1,5 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="gra" corpus="brown" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="brown" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <date>1962-10-15</date>
   <languages>eng</languages>
   <participants>
@@ -7,7 +7,7 @@
       <role>Target_Child</role>
       <name>Eve</name>
       <sex>female</sex>
-      <age>P1Y6M0DT0H0M0S</age>
+      <age>P1Y6M</age>
       <languages>eng</languages>
     </participant>
     <participant id="MOT">
@@ -27,10 +27,10 @@
     </participant>
   </participants>
   <userTiers>
-    <td tierName="Speech Turn" type="mor" excludeFromAlignment="true"></td>
-    <td tierName="Grasp Turn" type="gra" excludeFromAlignment="true"></td>
-    <td tierName="Morphology" type="mor" excludeFromAlignment="true"></td>
-    <td tierName="Grasp" type="gra" excludeFromAlignment="true"></td>
+    <td tierName="Speech Turn" type="mor" excludeFromAlignment="true"/>
+    <td tierName="GRASP Turn" type="gra" excludeFromAlignment="true"/>
+    <td tierName="Morphology" type="mor" excludeFromAlignment="true"/>
+    <td tierName="GRASP" type="gra" excludeFromAlignment="true"/>
   </userTiers>
   <transcript>
     <comment type="Date">
@@ -39,103 +39,103 @@
     <comment type="Generic">
       <tierData><tw>simplest</tw><tw>gra</tw></tierData>
     </comment>
-    <r speaker="CHI" uuid="30411595-947a-40cf-a691-791a0a5131c6" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w>more</w>
           <w>cookie</w>
-          <t type="p"></t>
+          <t type="p"/>
           <postcode>IMP</postcode>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <userTier name="Speech Turn">
         <mors>
           <mor><mw><pos><c>qn</c></pos><stem>more</stem></mw></mor>
           <mor><mw><pos><c>n</c></pos><stem>cookie</stem></mw></mor>
-          <mor><mt type="p"></mt></mor>
+          <mor><mt type="p"/></mor>
         </mors>
       </userTier>
-      <userTier name="Grasp Turn">
+      <userTier name="GRASP Turn">
         <gras>
-          <gra index="1" head="2" relation="QUANT"></gra>
-          <gra index="2" head="0" relation="ROOT"></gra>
-          <gra index="3" head="2" relation="PUNCT"></gra>
+          <gra index="1" head="2" relation="QUANT"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="2" relation="PUNCT"/>
         </gras>
       </userTier>
     </r>
     <comment type="Generic">
       <tierData><tw>with</tw><tw>postclitic</tw></tierData>
     </comment>
-    <r speaker="MOT" uuid="2daca7bb-30b3-4816-b0c1-323c12a1fc53" excludeFromSearches="false">
+    <r speaker="MOT">
       <orthography>
         <u>
           <w>where's</w>
           <w>your</w>
           <w>cup</w>
-          <t type="q"></t>
+          <t type="q"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <userTier name="Morphology">
         <mors>
           <mor><mw><pos><c>adv</c><subc>wh</subc></pos><stem>where</stem></mw><mor-post><mw><pos><c>v</c><subc>cop</subc></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor>
           <mor><mw><pos><c>pro</c><subc>poss</subc><subc>det</subc></pos><stem>your</stem></mw></mor>
           <mor><mw><pos><c>n</c></pos><stem>cup</stem></mw></mor>
-          <mor><mt type="q"></mt></mor>
+          <mor><mt type="q"/></mor>
         </mors>
       </userTier>
-      <userTier name="Grasp">
+      <userTier name="GRASP">
         <gras>
-          <gra index="1" head="2" relation="PRED"></gra>
-          <gra index="2" head="0" relation="ROOT"></gra>
-          <gra index="3" head="4" relation="MOD"></gra>
-          <gra index="4" head="2" relation="SUBJ"></gra>
-          <gra index="5" head="2" relation="PUNCT"></gra>
+          <gra index="1" head="2" relation="PRED"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="4" relation="MOD"/>
+          <gra index="4" head="2" relation="SUBJ"/>
+          <gra index="5" head="2" relation="PUNCT"/>
         </gras>
       </userTier>
     </r>
     <comment type="Generic">
       <tierData><tw>with</tw><tw>compound</tw></tierData>
     </comment>
-    <r speaker="CHI" uuid="753dc75b-1e54-4362-b776-8d37475a64b9" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
-          <w>ice<wk type="cmp"></wk>cream</w>
-          <t type="p"></t>
+          <w>ice<wk type="cmp"/>cream</w>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <userTier name="Morphology">
         <mors>
           <mor><mwc><pos><c>n</c></pos><mw><pos><c>n</c></pos><stem>ice</stem></mw><mw><pos><c>n</c></pos><stem>cream</stem></mw></mwc></mor>
-          <mor><mt type="p"></mt></mor>
+          <mor><mt type="p"/></mor>
         </mors>
       </userTier>
-      <userTier name="Grasp">
+      <userTier name="GRASP">
         <gras>
-          <gra index="1" head="0" relation="ROOT"></gra>
-          <gra index="2" head="1" relation="PUNCT"></gra>
+          <gra index="1" head="0" relation="ROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
         </gras>
       </userTier>
     </r>
     <comment type="Generic">
       <tierData><tw>with</tw><tw>compound</tw><tw>and</tw><tw>postclitic</tw></tierData>
     </comment>
-    <r speaker="MOT" uuid="a8c7c4f2-201b-4cf5-b1d3-5bb559b784d6" excludeFromSearches="false">
+    <r speaker="MOT">
       <orthography>
         <u>
           <w>you</w>
           <w>gonna</w>
           <w>put</w>
           <w>the</w>
-          <w>choo<wk type="cmp"></wk>choo's</w>
+          <w>choo<wk type="cmp"/>choo's</w>
           <w>wheel</w>
           <w>on</w>
-          <t type="q"></t>
+          <t type="q"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <userTier name="Morphology">
         <mors>
           <mor><mw><pos><c>pro</c></pos><stem>you</stem></mw></mor>
@@ -145,21 +145,21 @@
           <mor><mwc><pos><c>n</c></pos><mw><pos><c>on</c></pos><stem>choo</stem></mw><mw><pos><c>on</c></pos><stem>choo</stem></mw></mwc><mor-post><mw><pos><c>v</c><subc>cop</subc></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor>
           <mor><mw><pos><c>n</c></pos><stem>wheel</stem></mw></mor>
           <mor><mw><pos><c>adv</c><subc>loc</subc></pos><stem>on</stem></mw></mor>
-          <mor><mt type="q"></mt></mor>
+          <mor><mt type="q"/></mor>
         </mors>
       </userTier>
-      <userTier name="Grasp">
+      <userTier name="GRASP">
         <gras>
-          <gra index="1" head="2" relation="SUBJ"></gra>
-          <gra index="2" head="0" relation="ROOT"></gra>
-          <gra index="3" head="4" relation="INF"></gra>
-          <gra index="4" head="2" relation="XCOMP"></gra>
-          <gra index="5" head="6" relation="DET"></gra>
-          <gra index="6" head="7" relation="SUBJ"></gra>
-          <gra index="7" head="4" relation="OBJ"></gra>
-          <gra index="8" head="7" relation="PRED"></gra>
-          <gra index="9" head="8" relation="JCT"></gra>
-          <gra index="10" head="2" relation="PUNCT"></gra>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="4" relation="INF"/>
+          <gra index="4" head="2" relation="XCOMP"/>
+          <gra index="5" head="6" relation="DET"/>
+          <gra index="6" head="7" relation="SUBJ"/>
+          <gra index="7" head="4" relation="OBJ"/>
+          <gra index="8" head="7" relation="PRED"/>
+          <gra index="9" head="8" relation="JCT"/>
+          <gra index="10" head="2" relation="PUNCT"/>
         </gras>
       </userTier>
     </r>

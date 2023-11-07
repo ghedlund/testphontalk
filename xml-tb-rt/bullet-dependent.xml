@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Corpus="sample" Media="bullet-dependent" Lang="eng">
+  <Participants>
+    <participant id="MOT" role="Mother" language="eng"/>
+    <participant id="CHI" role="Target_Child" age="P1Y10M4D" language="eng"/>
+  </Participants>
+  <comment type="Generic">dependent tier bullet should not count in start checking</comment>
+  <u who="CHI" uID="u0">
+    <g><w>ryoote</w><w>agete</w><ga type="paralinguistics">singing</ga></g>
+    <t type="p"></t>
+    <postcode>bch</postcode>
+    <postcode>foo</postcode>
+    <media start="2041.689" end="2042.652" unit="s"/>
+    <a type="actions">foo<media start="2061.689" end="2062.652" unit="s"/> bar<media start="2061.689" end="2062.652" unit="s"/></a>
+  </u>
+  <u who="CHI" uID="u1">
+    <g><w>ryoote</w><w>agete</w><ga type="paralinguistics">singing</ga></g>
+    <t type="p"></t>
+    <postcode>bch</postcode>
+    <postcode>foo</postcode>
+    <media start="2051.689" end="2052.652" unit="s"/>
+  </u>
+</CHAT>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Date="2000-06-23" Corpus="IDO" Lang="ind jav">
+  <Participants>
+    <participant id="CHI" role="Target_Child" name="Ido" age="P4Y5M21D" sex="male" birthday="1996-01-01" language="ind jav"/>
+    <participant id="MOT" role="Mother" name="Rimi" sex="female" language="ind jav"/>
+    <participant id="EXP" role="Investigator" name="Bety" age="P25Y1M14D" sex="female" language="ind jav"/>
+    <participant id="ABA" role="Brother" name="Praba" age="P5Y7M22D" sex="male" birthday="1994-10-31" language="ind jav"/>
+  </Participants>
+  <comment type="Date">23-JUN-2000</comment>
+  <comment type="Generic">Test pho with replacement.</comment>
+  <u who="EXP" uID="u0">
+    <pg><w>a</w></pg>
+    <pg><w>b</w></pg>
+    <pg><w>c</w></pg>
+    <pg><w>d<replacement real="false"><w>dd</w><w>ddd</w></replacement></w></pg>
+    <pg><w>e</w></pg>
+    <pg><w>f<replacement real="true"><w>ff</w><w>fff</w></replacement></w></pg>
+    <pg><w>g</w></pg>
+    <t type="p"></t>
+  </u>
+</CHAT>

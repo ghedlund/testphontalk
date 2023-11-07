@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Corpus="sample" Media="tcu-bullet" Lang="eng">
+  <Participants>
+    <participant id="MOT" role="Mother" language="eng"/>
+    <participant id="CHI" role="Target_Child" age="P1Y10M4D" language="eng"/>
+  </Participants>
+  <comment type="Generic">TCU bullet, conceptually at end of tier; 4-15-09 require terminator</comment>
+  <u who="CHI" uID="u0">
+    <w>crap</w>
+    <internal-media start="2041.689" end="2042.652" unit="s"></internal-media>
+    <pause symbolic-length="simple" length="9.400"></pause>
+    <t type="p"></t>
+    <media start="2042.652" end="2043.652" unit="s"/>
+  </u>
+</CHAT>

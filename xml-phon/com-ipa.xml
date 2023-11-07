@@ -1,14 +1,14 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="com-ipa" corpus="providence" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="providence" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <date>2003-04-29</date>
   <languages>eng</languages>
-  <media>com-ipa</media>
+  <mediaLocation>com-ipa</mediaLocation>
   <participants>
     <participant id="CHI">
       <role>Target_Child</role>
       <sex>male</sex>
       <birthday>2000-12-04</birthday>
-      <age>P2Y4M25DT0H0M0S</age>
+      <age>P2Y4M25D</age>
       <languages>eng</languages>
     </participant>
     <participant id="MOT">
@@ -25,8 +25,8 @@
     </participant>
   </participants>
   <userTiers>
-    <td tierName="pho" type="default" excludeFromAlignment="false"></td>
-    <td tierName="comments" type="default" excludeFromAlignment="true"></td>
+    <td tierName="pho" type="default" excludeFromAlignment="false"/>
+    <td tierName="Comments" type="default" excludeFromAlignment="true"/>
   </userTiers>
   <transcript>
     <comment type="Date">
@@ -38,20 +38,20 @@
     <comment type="Generic">
       <tierData><tw>Language</tw><tw>of</tw><tw>Caregivers</tw><tw>Mother</tw><tw>Southeastern</tw><tw>Massachusetts,</tw><tw>Father</tw><tw>Southeastern</tw><tw>Massachusetts,</tw><tw>Grandmother</tw><tw>Southeastern</tw><tw>Massachusetts;</tw><tw>Speaker</tw><tw>is</tw><tw>Manuela</tw></tierData>
     </comment>
-    <r speaker="CHI" uuid="54f12985-ec66-404c-93c2-0619f77d14d1" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w>Mommy</w>
           <w>open</w>
           <w>this</w>
-          <t type="q"></t>
+          <t type="q"/>
         </u>
       </orthography>
-      <segment start="620.128" end="621.843" unit="s"></segment>
+      <segment start="620.128" end="621.843" unit="s"/>
       <userTier name="pho">
         <tierData><tw>əˈmaɪs</tw><tw>ɛmˈpʊʃ</tw></tierData>
       </userTier>
-      <userTier name="comments">
+      <userTier name="Comments">
         <tierData><tw>after</tw><tw>transcribing</tw><tw>the</tw><tw>entire</tw><tw>file,</tw><tw>I</tw><tw>realized</tw><tw>that</tw><tw>pʊʃ</tw><tw>and</tw><tw>similar</tw><tw>sounding</tw><tw>things</tw><tw>might</tw><tw>mean</tw><tw>"open</tw><tw>this</tw><tw>."</tw><tw>Things</tw><tw>that</tw><tw>sound</tw><tw>like</tw><tw>əˈmaɪ</tw><tw>or</tw><tw>ʊˈmaɪ</tw><tw>seem</tw><tw>to</tw><tw>connote</tw><tw>desire</tw><tw>roughly,</tw><tw>"I</tw><tw>want</tw><tw>Mommy</tw><tw>to"</tw><tw>or</tw><tw>"I</tw><tw>want</tw><tw>you</tw><tw>to"</tw><tw>or</tw><tw>something</tw><tw>like</tw><tw>that:</tw><tw>this</tw><tw>is</tw><tw>what</tw><tw>CHI</tw><tw>usually</tw><tw>says</tw><tw>when</tw><tw>he's</tw><tw>asking</tw><tw>his</tw><tw>mom</tw><tw>to</tw><tw>do</tw><tw>something</tw><tw>for</tw><tw>him</tw><tw>.</tw><tw>I've</tw><tw>transcribed</tw><tw>it</tw><tw>as</tw><tw>"Mommy"</tw><tw>.</tw></tierData>
       </userTier>
     </r>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Corpus="bates" Lang="eng">
+  <Participants>
+    <participant id="CHI" role="Child" age="P1Y8M" group="normal" sex="female" language="eng"/>
+    <participant id="MOT" role="Mother" language="eng"/>
+  </Participants>
+  <comment type="Generic">SCOTUS explanation</comment>
+  <u who="CHI" uID="u0">
+    <w>I</w>
+    <w>read</w>
+    <w>section</w>
+    <g><w>four</w><w formType="letter">b</w><ga type="explanation">(4)(b)</ga></g>
+    <w>yesterday</w>
+    <t type="p"></t>
+  </u>
+</CHAT>

@@ -1,12 +1,12 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="pho-with-mor-without-group" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>eng</languages>
   <participants>
     <participant id="CHI">
       <role>Child</role>
       <group>normal</group>
       <sex>female</sex>
-      <age>P1Y8M0DT0H0M0S</age>
+      <age>P1Y8M</age>
       <languages>eng</languages>
     </participant>
     <participant id="MOT">
@@ -15,10 +15,10 @@
     </participant>
   </participants>
   <userTiers>
-    <td tierName="Morphology" type="mor" excludeFromAlignment="true"></td>
+    <td tierName="Morphology" type="mor" excludeFromAlignment="true"/>
   </userTiers>
   <transcript>
-    <r speaker="CHI" uuid="fde3aaeb-21c6-4a65-8ac8-59b0208e6696" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <pg><w>non</w></pg>
@@ -29,17 +29,14 @@
           <pg><w>dans</w></pg>
           <pg><w>ma</w></pg>
           <pg><w>classe</w></pg>
-          <g><pg><w type="omission">il</w><w>y</w><w>a</w></pg><k type="retracing with correction"></k></g>
+          <g><pg><w type="omission">il</w><w>y</w><w>a</w></pg><k type="retracing with correction"/></g>
           <pg><w>c'est</w></pg>
           <pg><w>que</w></pg>
           <pg><w>Anouk</w></pg>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <ipaActual>
-        <pho><pw><ph><base>n</base></ph><ph><base>ɑ</base><combining>̃</combining></ph></pw><pw><ph><base>j</base></ph><ph><base>a</base></ph></pw><pw><ph><base>p</base></ph><ph><base>a</base></ph></pw><pw><ph><base>d</base></ph></pw><pw><ph><base>a</base></ph><ph><base>n</base></ph><ph><base>a</base></ph><ph><base>h</base></ph><ph><base>e</base></ph></pw><pw><ph><base>d</base></ph><ph><base>ɑ</base><combining>̃</combining></ph></pw><pw><ph><base>m</base></ph><ph><base>a</base></ph></pw><pw><ph><base>k</base></ph><ph><base>l</base></ph><ph><base>a</base></ph><ph><base>s</base></ph></pw><pw><ph><base>j</base></ph><ph><base>a</base></ph></pw><pw><ph><base>s</base></ph><ph><base>ɛ</base></ph></pw><pw><ph><base>k</base></ph></pw><pw><ph><base>a</base></ph><ph><base>n</base></ph><ph><base>u</base></ph><ph><base>k</base></ph></pw></pho>
-      </ipaActual>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <userTier name="Morphology">
         <mors>
           <mor><mw><pos><c>co</c></pos><stem>non</stem></mw><menx>no</menx></mor>
@@ -55,7 +52,7 @@
           <mor><mw><pos><c>v</c><subc>aux</subc></pos><stem>être</stem><mk type="sfxf">PRES</mk><mk type="sfxf">3s</mk></mw><mor-pre><mw><pos><c>pro</c><subc>dem</subc></pos><stem>ce</stem></mw></mor-pre></mor>
           <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>que</stem></mw></mor>
           <mor><mw><pos><c>n</c><subc>prop</subc></pos><stem>Anouk</stem></mw></mor>
-          <mor><mt type="p"></mt></mor>
+          <mor><mt type="p"/></mor>
         </mors>
       </userTier>
     </r>

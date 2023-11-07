@@ -1,7 +1,7 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="dependent-tier-multiple-media" corpus="sample" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="sample" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>eng</languages>
-  <media>dependent-tier-multiple-media</media>
+  <mediaLocation>dependent-tier-multiple-media</mediaLocation>
   <participants>
     <participant id="MOT">
       <role>Mother</role>
@@ -9,28 +9,28 @@
     </participant>
     <participant id="CHI">
       <role>Target_Child</role>
-      <age>P1Y10M4DT0H0M0S</age>
+      <age>P1Y10M4D</age>
       <languages>eng</languages>
     </participant>
   </participants>
   <userTiers>
-    <td tierName="coding" type="default" excludeFromAlignment="true"></td>
+    <td tierName="Coding" type="default" excludeFromAlignment="true"/>
   </userTiers>
   <transcript>
-    <r speaker="CHI" uuid="ce1e710a-1c92-4ced-8f52-0dcf5ca06d17" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <g><w>ryoote</w><w>agete</w><ga type="paralinguistics">singing</ga></g>
-          <internal-media start="2041.689" end="2042.652" unit="s"></internal-media>
+          <internal-media start="2041.689" end="2042.652" unit="s"/>
           <w>stuff</w>
-          <t type="p"></t>
+          <t type="p"/>
           <postcode>bch</postcode>
           <postcode>foo</postcode>
         </u>
       </orthography>
-      <segment start="2042.689" end="2043.652" unit="s"></segment>
-      <userTier name="coding">
-        <tierData><tw>this</tw><tw>is</tw><tw>junk</tw><internal-media start="2051.689" end="2052.652" unit="s"></internal-media><tw>and</tw><tw>more</tw><internal-media start="2062.689" end="2063.652" unit="s"></internal-media></tierData>
+      <segment start="2042.689" end="2043.652" unit="s"/>
+      <userTier name="Coding">
+        <tierData><tw>this</tw><tw>is</tw><tw>junk</tw><internal-media start="2051.689" end="2052.652" unit="s"/><tw>and</tw><tw>more</tw><internal-media start="2062.689" end="2063.652" unit="s"/></tierData>
       </userTier>
     </r>
   </transcript>

@@ -1,47 +1,47 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="n-dash" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>fra</languages>
   <participants>
     <participant id="CHI">
       <role>Target_Child</role>
       <group>normal</group>
       <sex>female</sex>
-      <age>P1Y8M0DT0H0M0S</age>
+      <age>P1Y8M</age>
       <languages>fra</languages>
     </participant>
   </participants>
   <userTiers>
-    <td tierName="Morphology" type="mor" excludeFromAlignment="true"></td>
-    <td tierName="Grasp" type="gra" excludeFromAlignment="true"></td>
+    <td tierName="Morphology" type="mor" excludeFromAlignment="true"/>
+    <td tierName="GRASP" type="gra" excludeFromAlignment="true"/>
   </userTiers>
   <transcript>
     <comment type="Generic">
       <tierData><tw>allow</tw><tw>Unicode</tw><tw>2013</tw><tw>in</tw><tw>%mor</tw></tierData>
     </comment>
-    <r speaker="CHI" uuid="98e70d59-8c7f-48c0-9af3-055696a1edf4" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w>I</w>
           <w>need</w>
           <w>band-aids</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <userTier name="Morphology">
         <mors>
           <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>I</stem></mw></mor>
           <mor><mw><pos><c>v</c></pos><stem>need</stem></mw></mor>
           <mor><mw><pos><c>n</c></pos><stem>band–aid</stem><mk type="sfx">PL</mk></mw></mor>
-          <mor><mt type="p"></mt></mor>
+          <mor><mt type="p"/></mor>
         </mors>
       </userTier>
-      <userTier name="Grasp">
+      <userTier name="GRASP">
         <gras>
-          <gra index="1" head="2" relation="SUBJ"></gra>
-          <gra index="2" head="0" relation="ROOT"></gra>
-          <gra index="3" head="2" relation="OBJ"></gra>
-          <gra index="4" head="2" relation="PUNCT"></gra>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="2" relation="OBJ"/>
+          <gra index="4" head="2" relation="PUNCT"/>
         </gras>
       </userTier>
     </r>

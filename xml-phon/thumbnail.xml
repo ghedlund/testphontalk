@@ -1,7 +1,7 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="thumbnail" corpus="sample" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="sample" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>eng</languages>
-  <media>thumbnail</media>
+  <mediaLocation>thumbnail</mediaLocation>
   <participants>
     <participant id="MOT">
       <role>Mother</role>
@@ -9,7 +9,7 @@
     </participant>
     <participant id="CHI">
       <role>Target_Child</role>
-      <age>P1Y10M4DT0H0M0S</age>
+      <age>P1Y10M4D</age>
       <languages>eng</languages>
     </participant>
   </participants>
@@ -20,30 +20,30 @@
     <comment type="T">
       <tierData><tw>first</tw><tw>thumbnail</tw></tierData>
     </comment>
-    <r speaker="CHI" uuid="d9300c3e-fdfb-418a-bab3-ec37fcd5fbc9" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <g><w>ryoote</w><w>agete</w><ga type="paralinguistics">singing</ga></g>
-          <t type="p"></t>
+          <t type="p"/>
           <postcode>bch</postcode>
           <postcode>foo</postcode>
         </u>
       </orthography>
-      <segment start="2041.689" end="2042.652" unit="s"></segment>
+      <segment start="2041.689" end="2042.652" unit="s"/>
     </r>
     <comment type="T">
       <tierData><tw>second</tw><tw>thumbnail</tw></tierData>
     </comment>
-    <r speaker="CHI" uuid="2ab1585d-29cd-4c8f-99ca-a2ac04969e1d" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <g><w>ryoote</w><w>agete</w><ga type="paralinguistics">singing</ga></g>
-          <t type="p"></t>
+          <t type="p"/>
           <postcode>bch</postcode>
           <postcode>foo</postcode>
         </u>
       </orthography>
-      <segment start="3041.689" end="3042.652" unit="s"></segment>
+      <segment start="3041.689" end="3042.652" unit="s"/>
     </r>
   </transcript>
 </session>

@@ -1,12 +1,12 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="mor-ipa" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>eng</languages>
   <participants>
     <participant id="CHI">
       <role>Child</role>
       <group>normal</group>
       <sex>female</sex>
-      <age>P1Y8M0DT0H0M0S</age>
+      <age>P1Y8M</age>
       <languages>eng</languages>
     </participant>
     <participant id="MOT">
@@ -15,31 +15,29 @@
     </participant>
   </participants>
   <userTiers>
-    <td tierName="Morphology" type="mor" excludeFromAlignment="true"></td>
+    <td tierName="Morphology" type="mor" excludeFromAlignment="true"/>
   </userTiers>
   <transcript>
     <comment type="Generic">
       <tierData><tw>Simple</tw><tw>example</tw></tierData>
     </comment>
-    <r speaker="MOT" uuid="68d45595-e838-4aa7-8bad-45716437a399" excludeFromSearches="false">
+    <r speaker="MOT">
       <orthography>
         <u>
           <g><w formType="UNIBET">kɛstɰə˞<replacement real="true"><w>giftware</w></replacement></w><error>n:k</error></g>
-          <g><w>no</w><k type="retracing with correction"></k></g>
+          <g><w>no</w><k type="retracing with correction"/></g>
           <w type="nonword">in</w>
-          <e>
-            <happening>shakes:head</happening>
-          </e>
+          <e><happening>shakes:head</happening></e>
           <g><w formType="UNIBET">ɪnstlə<replacement real="true"><w>includes</w></replacement></w><error>n:k</error></g>
-          <t type="trail off"></t>
+          <t type="trail off"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <userTier name="Morphology">
         <mors>
           <mor><mw><pos><c>uni</c></pos><stem>kɛstɰə˞</stem></mw></mor>
           <mor><mw><pos><c>uni</c></pos><stem>ɪnstlə</stem></mw></mor>
-          <mor><mt type="trail off"></mt></mor>
+          <mor><mt type="trail off"/></mor>
         </mors>
       </userTier>
     </r>

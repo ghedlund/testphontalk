@@ -1,12 +1,12 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="zeros" corpus="timmy" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="timmy" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <date>1996-02-29</date>
   <languages>eng</languages>
   <participants>
     <participant id="CHI">
       <role>Target_Child</role>
       <name>Timmy</name>
-      <age>P2Y9M8DT0H0M0S</age>
+      <age>P2Y9M8D</age>
       <languages>eng</languages>
     </participant>
     <participant id="LIN">
@@ -29,54 +29,47 @@
     <comment type="Date">
       <tierData><tw>29-FEB-1996</tw></tierData>
     </comment>
-    <r speaker="CHI" uuid="1bcf07fd-78b0-4d2a-aef2-bda2b803d495" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
-          <e>
-            <action></action>
-          </e>
-          <e>
-            <happening>yawn</happening>
-          </e>
-          <t type="p"></t>
+          <e><action/></e>
+          <e><happening>yawn</happening></e>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI" uuid="5504be42-6bf4-440f-924a-ecc6742faac1" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
-          <e>
-            <action></action>
-            <overlap type="overlap precedes"></overlap>
-          </e>
-          <t type="p"></t>
+          <e><action/><overlap type="overlap precedes"/></e>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI" uuid="95aee046-8a3c-492c-bee2-b14a6118bceb" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w>The</w>
           <w type="omission">die</w>
           <w>is</w>
           <w>silly</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI" uuid="39eb697d-23bb-4151-bf9b-321524a06c27" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w formType="word play" type="omission">die</w>
           <w>is</w>
           <w>silly</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
   </transcript>
 </session>

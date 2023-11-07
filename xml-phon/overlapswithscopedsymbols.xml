@@ -1,12 +1,12 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="overlapswithscopedsymbols" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>eng</languages>
   <participants>
     <participant id="CHI">
       <role>Child</role>
       <group>normal</group>
       <sex>female</sex>
-      <age>P1Y8M0DT0H0M0S</age>
+      <age>P1Y8M</age>
       <languages>eng</languages>
     </participant>
     <participant id="MOT">
@@ -15,46 +15,46 @@
     </participant>
   </participants>
   <transcript>
-    <r speaker="MOT" uuid="dbf6a24f-80e8-4fdb-93b0-38f847881b56" excludeFromSearches="false">
+    <r speaker="MOT">
       <orthography>
         <u>
           <w>if</w>
           <w>we</w>
           <w>have</w>
-          <g><w>some</w><w>time</w><overlap type="overlap follows"></overlap></g>
+          <g><w>some</w><w>time</w><overlap type="overlap follows"/></g>
           <w>we</w>
           <w>can</w>
           <w>get</w>
-          <g><w>tickets</w><w>to</w><overlap type="overlap follows"></overlap></g>
+          <g><w>tickets</w><w>to</w><overlap type="overlap follows"/></g>
           <w>the</w>
           <w>opera</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI" uuid="65ccc644-9d27-49b4-9269-e430c7590a41" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
-          <g><w>start</w><w>overlap</w><w>and</w><w>retrace</w><overlap type="overlap precedes"></overlap><k type="retracing"></k></g>
+          <g><w>start</w><w>overlap</w><w>and</w><w>retrace</w><overlap type="overlap precedes"/><k type="retracing"/></g>
           <w>rest</w>
           <w>of</w>
           <w>retrace</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT" uuid="c68b6213-ee8f-4dd4-af2e-07210f23530b" excludeFromSearches="false">
+    <r speaker="MOT">
       <orthography>
         <u>
-          <g><w>honey</w><w>we</w><w>need</w><overlap type="overlap precedes"></overlap></g>
+          <g><w>honey</w><w>we</w><w>need</w><overlap type="overlap precedes"/></g>
           <w>to</w>
           <w>go</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
   </transcript>
 </session>

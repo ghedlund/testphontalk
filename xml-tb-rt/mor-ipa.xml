@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Corpus="bates" Lang="eng">
+  <Participants>
+    <participant id="CHI" role="Child" age="P1Y8M" group="normal" sex="female" language="eng"/>
+    <participant id="MOT" role="Mother" language="eng"/>
+  </Participants>
+  <comment type="Generic">Simple example</comment>
+  <u who="MOT" uID="u0">
+    <g><w formType="UNIBET">kɛstɰə˞<replacement real="true"><w>giftware</w></replacement><mor type="mor"><mw><pos><c>uni</c></pos><stem>kɛstɰə˞</stem></mw></mor></w><error>n:k</error></g>
+    <g><w>no</w><k type="retracing with correction"></k></g>
+    <w type="nonword">in</w>
+    <e><happening>shakes:head</happening></e>
+    <g><w formType="UNIBET">ɪnstlə<replacement real="true"><w>includes</w></replacement><mor type="mor"><mw><pos><c>uni</c></pos><stem>ɪnstlə</stem></mw></mor></w><error>n:k</error></g>
+    <t type="trail off"><mor type="mor"><mt type="trail off"></mt></mor></t>
+  </u>
+</CHAT>

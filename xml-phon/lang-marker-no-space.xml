@@ -1,5 +1,5 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="lang-marker-no-space" corpus="samples" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="samples" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>eng spa</languages>
   <participants>
     <participant id="MOT">
@@ -15,15 +15,15 @@
     <comment type="Generic">
       <tierData><tw>@s</tw><tw>with</tw><tw>no</tw><tw>space</tw><tw>after</tw><tw>it</tw></tierData>
     </comment>
-    <r speaker="MOT" uuid="f0bf5940-52fd-43f6-be5b-928a64eb6658" excludeFromSearches="false">
+    <r speaker="MOT">
       <orthography>
         <u>
           <w>what's</w>
           <w><langs><single>spa</single></langs>that</w>
-          <t type="q"></t>
+          <t type="q"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
   </transcript>
 </session>

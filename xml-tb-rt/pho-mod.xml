@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Date="2000-06-23" Corpus="IDO" Lang="ind jav">
+  <Participants>
+    <participant id="CHI" role="Target_Child" name="Ido" age="P4Y5M21D" sex="male" language="ind jav"/>
+  </Participants>
+  <comment type="Date">23-JUN-2000</comment>
+  <comment type="Generic">Test new pho with mod</comment>
+  <u who="CHI" uID="u0">
+    <pg><w>A</w></pg>
+    <pg><w>B</w></pg>
+    <pg><w>C</w></pg>
+    <t type="p"></t>
+  </u>
+</CHAT>

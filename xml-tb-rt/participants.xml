@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Corpus="bates" Lang="eng">
+  <Participants>
+    <participant id="CHI" role="Child" name="Mei-Oanh" age="P1Y8M" group="normal" sex="female" language="eng"/>
+    <participant id="MOT" role="Mother" name="Beatrice_Teacher's_Aide" language="eng"/>
+    <participant id="678" role="Justice" name="890" language="eng"/>
+    <participant id="FOO" role="Speaker" language="eng"/>
+  </Participants>
+  <comment type="Generic">Test participants line.</comment>
+  <u who="CHI" uID="u0">
+    <w>hey</w>
+    <w>man</w>
+    <w>what</w>
+    <w>in</w>
+    <w>the</w>
+    <w>world</w>
+    <w>isn't</w>
+    <w>this</w>
+    <t type="q"></t>
+  </u>
+  <u who="678" uID="u1">
+    <w>test</w>
+    <w>numeric</w>
+    <w>speaker</w>
+    <w>id</w>
+    <t type="p"></t>
+  </u>
+</CHAT>

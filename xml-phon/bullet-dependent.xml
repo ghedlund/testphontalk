@@ -1,7 +1,7 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="bullet-dependent" corpus="sample" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="sample" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>eng</languages>
-  <media>bullet-dependent</media>
+  <mediaLocation>bullet-dependent</mediaLocation>
   <participants>
     <participant id="MOT">
       <role>Mother</role>
@@ -9,41 +9,41 @@
     </participant>
     <participant id="CHI">
       <role>Target_Child</role>
-      <age>P1Y10M4DT0H0M0S</age>
+      <age>P1Y10M4D</age>
       <languages>eng</languages>
     </participant>
   </participants>
   <userTiers>
-    <td tierName="actions" type="default" excludeFromAlignment="true"></td>
+    <td tierName="Actions" type="default" excludeFromAlignment="true"/>
   </userTiers>
   <transcript>
     <comment type="Generic">
       <tierData><tw>dependent</tw><tw>tier</tw><tw>bullet</tw><tw>should</tw><tw>not</tw><tw>count</tw><tw>in</tw><tw>start</tw><tw>checking</tw></tierData>
     </comment>
-    <r speaker="CHI" uuid="5bc8bef4-6f7b-474a-9a3d-44976fe80414" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <g><w>ryoote</w><w>agete</w><ga type="paralinguistics">singing</ga></g>
-          <t type="p"></t>
+          <t type="p"/>
           <postcode>bch</postcode>
           <postcode>foo</postcode>
         </u>
       </orthography>
-      <segment start="2041.689" end="2042.652" unit="s"></segment>
-      <userTier name="actions">
-        <tierData><tw>foo</tw><internal-media start="2061.689" end="2062.652" unit="s"></internal-media><tw>bar</tw><internal-media start="2061.689" end="2062.652" unit="s"></internal-media></tierData>
+      <segment start="2041.689" end="2042.652" unit="s"/>
+      <userTier name="Actions">
+        <tierData><tw>foo</tw><internal-media start="2061.689" end="2062.652" unit="s"/><tw>bar</tw><internal-media start="2061.689" end="2062.652" unit="s"/></tierData>
       </userTier>
     </r>
-    <r speaker="CHI" uuid="f6c8cd4c-be1a-4e8d-9d33-778cf9874218" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <g><w>ryoote</w><w>agete</w><ga type="paralinguistics">singing</ga></g>
-          <t type="p"></t>
+          <t type="p"/>
           <postcode>bch</postcode>
           <postcode>foo</postcode>
         </u>
       </orthography>
-      <segment start="2051.689" end="2052.652" unit="s"></segment>
+      <segment start="2051.689" end="2052.652" unit="s"/>
     </r>
   </transcript>
 </session>

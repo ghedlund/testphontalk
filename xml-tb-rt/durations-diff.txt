@@ -1,0 +1,7 @@
+Expected attribute value '2.20.0' but was '2.21.0' - comparing <CHAT Version="2.20.0"...> at /CHAT[1]/@Version to <CHAT Version="2.21.0"...> at /CHAT[1]/@Version (DIFFERENT)
+Expected attribute value 'P1Y10M04D' but was 'P1Y10M4D' - comparing <participant age="P1Y10M04D"...> at /CHAT[1]/Participants[1]/participant[2]/@age to <participant age="P1Y10M4D"...> at /CHAT[1]/Participants[1]/participant[2]/@age (DIFFERENT)
+Expected text value '3' but was '3.000' - comparing <duration ...>3</duration> at /CHAT[1]/u[1]/g[1]/duration[1]/text()[1] to <duration ...>3.000</duration> at /CHAT[1]/u[1]/g[1]/duration[1]/text()[1] (DIFFERENT)
+Expected text value '123' but was '123.000' - comparing <duration ...>123</duration> at /CHAT[1]/u[2]/g[1]/duration[1]/text()[1] to <duration ...>123.000</duration> at /CHAT[1]/u[2]/g[1]/duration[1]/text()[1] (DIFFERENT)
+Expected text value '123.4' but was '123.400' - comparing <duration ...>123.4</duration> at /CHAT[1]/u[3]/g[1]/duration[1]/text()[1] to <duration ...>123.400</duration> at /CHAT[1]/u[3]/g[1]/duration[1]/text()[1] (DIFFERENT)
+Expected text value '3.4' but was '3.400' - comparing <duration ...>3.4</duration> at /CHAT[1]/u[4]/g[1]/duration[1]/text()[1] to <duration ...>3.400</duration> at /CHAT[1]/u[4]/g[1]/duration[1]/text()[1] (DIFFERENT)
+Expected text value '6' but was '6.000' - comparing <duration ...>6</duration> at /CHAT[1]/u[5]/e[1]/duration[1]/text()[1] to <duration ...>6.000</duration> at /CHAT[1]/u[5]/e[1]/duration[1]/text()[1] (DIFFERENT)

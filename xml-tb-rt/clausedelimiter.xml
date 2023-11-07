@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Corpus="bates" Lang="eng">
+  <Participants>
+    <participant id="CHI" role="Child" age="P1Y8M" group="normal" sex="female" language="eng"/>
+    <participant id="MOT" role="Mother" language="eng"/>
+  </Participants>
+  <u who="CHI" uID="u0">
+    <w>When</w>
+    <w>you</w>
+    <w>are</w>
+    <w>stupid</w>
+    <freecode>c</freecode>
+    <w>this</w>
+    <w>makes</w>
+    <w>no</w>
+    <w>sense</w>
+    <t type="p"></t>
+  </u>
+</CHAT>

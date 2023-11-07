@@ -1,8 +1,8 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="pho-mod-order" corpus="Paris-Corpus_Leonard" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="Paris-Corpus_Leonard" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <date>1992-06-23</date>
   <languages>fra</languages>
-  <media>pho-mod-order</media>
+  <mediaLocation>pho-mod-order</mediaLocation>
   <participants>
     <participant id="CHI">
       <role>Target_Child</role>
@@ -10,7 +10,7 @@
       <group>bi</group>
       <sex>male</sex>
       <birthday>1990-10-15</birthday>
-      <age>P1Y8M9DT0H0M0S</age>
+      <age>P1Y8M9D</age>
       <languages>fra</languages>
     </participant>
     <participant id="MOT">
@@ -38,20 +38,14 @@
     <comment type="Generic">
       <tierData><tw>Test</tw><tw>%mod</tw><tw>and</tw><tw>%pho</tw><tw>order.</tw><tw>TODO</tw><tw>Round</tw><tw>trip.</tw></tierData>
     </comment>
-    <r speaker="CHI" uuid="3c7d1925-1e79-4c51-93a2-21f2020e9cb0" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <pg><w>oh</w></pg>
-          <t type="e"></t>
+          <t type="e"/>
         </u>
       </orthography>
-      <ipaTarget>
-        <pho><pw><ph><base>ɔ</base></ph></pw></pho>
-      </ipaTarget>
-      <ipaActual>
-        <pho><pw><ph><base>o</base><phlen>ː</phlen></ph></pw></pho>
-      </ipaActual>
-      <segment start="0.000" end="12.286" unit="s"></segment>
+      <segment start="0.000" end="12.286" unit="s"/>
     </r>
   </transcript>
 </session>

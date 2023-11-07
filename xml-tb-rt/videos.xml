@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Corpus="Scale" Media="videos" Lang="eng">
+  <Participants>
+    <participant id="PAR1" role="Participant" name="Alison" sex="female" language="eng" custom-field="Alison"/>
+    <participant id="PAR2" role="Participant" name="Don" sex="male" language="eng" custom-field="Don"/>
+    <participant id="PAR3" role="Participant" name="Larry" sex="male" language="eng" custom-field="Larry"/>
+    <participant id="PAR4" role="Participant" name="Barry" sex="male" language="eng" custom-field="Barry"/>
+    <participant id="PAR5" role="Participant" name="Chris" sex="female" language="eng" custom-field="Chris"/>
+    <participant id="INV1" role="Investigator" name="Christopher" sex="male" language="eng" custom-field="Christopher"/>
+    <participant id="INV2" role="Investigator" name="Denise" sex="female" language="eng" custom-field="Denise"/>
+    <participant id="INV3" role="Investigator" name="Margie" sex="female" language="eng" custom-field="Margie"/>
+  </Participants>
+  <u who="INV1" uID="u0">
+    <w>alright</w>
+    <t type="p"></t>
+    <media start="1.600" end="2.364" unit="s"/>
+  </u>
+</CHAT>

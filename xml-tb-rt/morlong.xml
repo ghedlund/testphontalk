@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Corpus="belfast" Lang="eng">
+  <Participants>
+    <participant id="CHI" role="Target_Child" name="Courtney" age="P3Y6M18D" SES="UC" birthday="1992-09-08" language="eng"/>
+    <participant id="MOT" role="Mother" name="Tracy" language="eng"/>
+    <participant id="INV" role="Investigator" name="Rose" language="eng"/>
+    <participant id="FAT" role="Father" name="Tom" language="eng"/>
+  </Participants>
+  <comment type="Generic">Had to manually insert the # and -</comment>
+  <u who="INV" uID="u0">
+    <w>Ethan's<mor type="mor"><mw><pos><c>n</c><s>prop</s></pos><stem>Ethan</stem><mk type="sfx">POSS</mk></mw></mor></w>
+    <w>fast<mor type="mor"><mw><pos><c>n</c></pos><stem>fast</stem></mw></mor></w>
+    <w>antidisestablishmentarianism<mor type="mor"><mw><mpfx>anti</mpfx><mpfx>dis</mpfx><pos><c>v</c></pos><stem>establish</stem><mk type="sfx">ment</mk><mk type="sfx">ari</mk><mk type="sfx">an</mk><mk type="sfx">ism</mk></mw></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"></mt></mor></t>
+  </u>
+</CHAT>

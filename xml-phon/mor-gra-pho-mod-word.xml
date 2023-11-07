@@ -1,5 +1,5 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="mor-gra-pho-mod-word" corpus="Alex" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="Alex" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <date>2002-05-02</date>
   <languages>eng</languages>
   <participants>
@@ -7,37 +7,37 @@
       <role>Target_Child</role>
       <name>Alex</name>
       <sex>male</sex>
-      <age>P1Y4M28DT0H0M0S</age>
+      <age>P1Y4M28D</age>
       <languages>eng</languages>
     </participant>
     <participant id="MOT">
       <role>Mother</role>
       <name>Mother</name>
-      <age>P25Y0M0DT0H0M0S</age>
+      <age>P25Y</age>
       <languages>eng</languages>
     </participant>
     <participant id="OPE">
       <role>Speaker</role>
       <name>Speaker</name>
-      <age>P25Y0M0DT0H0M0S</age>
+      <age>P25Y</age>
       <languages>eng</languages>
     </participant>
     <participant id="ENV">
       <role>Environment</role>
       <name>Environment</name>
-      <age>P25Y0M0DT0H0M0S</age>
+      <age>P25Y</age>
       <languages>eng</languages>
     </participant>
     <participant id="TOY">
       <role>Speaker</role>
       <name>Speaker</name>
-      <age>P25Y0M0DT0H0M0S</age>
+      <age>P25Y</age>
       <languages>eng</languages>
     </participant>
   </participants>
   <userTiers>
-    <td tierName="Morphology" type="mor" excludeFromAlignment="true"></td>
-    <td tierName="Grasp" type="gra" excludeFromAlignment="true"></td>
+    <td tierName="Morphology" type="mor" excludeFromAlignment="true"/>
+    <td tierName="GRASP" type="gra" excludeFromAlignment="true"/>
   </userTiers>
   <transcript>
     <comment type="Generic">
@@ -49,30 +49,24 @@
     <comment type="Date">
       <tierData><tw>02-MAY-2002</tw></tierData>
     </comment>
-    <r speaker="CHI" uuid="9ab4c0e4-8868-4eed-99bd-9d7c81746b4c" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <pg><w>Mommy</w></pg>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <ipaTarget>
-        <pho><pw><stress type="primary"></stress><ph><base>m</base></ph><ph><base>ɑ</base></ph><ph><base>m</base></ph><ph><base>i</base><phlen>ː</phlen></ph></pw></pho>
-      </ipaTarget>
-      <ipaActual>
-        <pho><pw><stress type="primary"></stress><ph><base>ɑ</base></ph><ph><base>m</base></ph><ph><base>ɪ</base></ph></pw></pho>
-      </ipaActual>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <userTier name="Morphology">
         <mors>
           <mor><mw><pos><c>n</c><subc>prop</subc></pos><stem>Mommy</stem></mw></mor>
-          <mor><mt type="p"></mt></mor>
+          <mor><mt type="p"/></mor>
         </mors>
       </userTier>
-      <userTier name="Grasp">
+      <userTier name="GRASP">
         <gras>
-          <gra index="1" head="0" relation="INCROOT"></gra>
-          <gra index="2" head="1" relation="PUNCT"></gra>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
         </gras>
       </userTier>
     </r>

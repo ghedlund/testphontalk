@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Corpus="bates" Lang="eng">
+  <Participants>
+    <participant id="CHI" role="Child" age="P1Y8M" group="normal" sex="female" language="eng"/>
+    <participant id="MOT" role="Mother" language="eng"/>
+  </Participants>
+  <u who="MOT" uID="u0">
+    <w>Mommy's<mor type="mor"><mw><pos><c>n</c><s>prop</s></pos><stem>Mommy</stem></mw><mor-post><mw><pos><c>v</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor></w>
+    <w>the<mor type="mor"><mw><pos><c>det</c></pos><stem>the</stem></mw></mor></w>
+    <g><w>phone<wk type="cmp"></wk>man<mor type="mor"><mwc><pos><c>n</c></pos><mw><pos><c>n</c></pos><stem>phone</stem></mw><mw><pos><c>n</c></pos><stem>man</stem></mw></mwc></mor></w><error></error></g>
+    <t type="p"><mor type="mor"><mt type="p"></mt></mor></t>
+  </u>
+</CHAT>

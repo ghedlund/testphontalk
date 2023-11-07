@@ -1,11 +1,11 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="mor-spanish" corpus="timmy" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="timmy" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>spa</languages>
   <participants>
     <participant id="CHI">
       <role>Target_Child</role>
       <name>Timmy</name>
-      <age>P2Y9M8DT0H0M0S</age>
+      <age>P2Y9M8D</age>
       <languages>spa</languages>
     </participant>
     <participant id="LIN">
@@ -25,24 +25,24 @@
     </participant>
   </participants>
   <userTiers>
-    <td tierName="Morphology" type="mor" excludeFromAlignment="true"></td>
+    <td tierName="Morphology" type="mor" excludeFromAlignment="true"/>
   </userTiers>
   <transcript>
     <comment type="Generic">
       <tierData><tw>mor</tw><tw>with</tw><tw>multiple</tw><tw>postclitics,</tw><tw>e.g.,</tw><tw>Spanish</tw></tierData>
     </comment>
-    <r speaker="CHI" uuid="5cae0706-702b-4ecb-84ff-08454edd1f73" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w>damelo</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <userTier name="Morphology">
         <mors>
           <mor><mw><pos><c>v</c></pos><stem>da</stem></mw><mor-post><mw><pos><c>pro</c></pos><stem>me</stem><mk type="sfxf">dat</mk></mw></mor-post><mor-post><mw><pos><c>pro</c></pos><stem>lo</stem><mk type="sfxf">acc</mk></mw><menx>give</menx></mor-post></mor>
-          <mor><mt type="p"></mt></mor>
+          <mor><mt type="p"/></mor>
         </mors>
       </userTier>
     </r>

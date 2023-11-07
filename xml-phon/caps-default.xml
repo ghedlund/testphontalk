@@ -1,5 +1,5 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="caps-default" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>eng</languages>
   <participants>
     <participant id="CHI">
@@ -7,7 +7,7 @@
       <name>Mei-Oanh</name>
       <group>normal</group>
       <sex>female</sex>
-      <age>P1Y8M0DT0H0M0S</age>
+      <age>P1Y8M</age>
       <languages>eng</languages>
     </participant>
   </participants>
@@ -15,7 +15,7 @@
     <comment type="Generic">
       <tierData><tw>Test</tw><tw>caps</tw><tw>without</tw><tw>option.</tw></tierData>
     </comment>
-    <r speaker="CHI" uuid="4236eeaf-c5f7-4b8d-bb70-eef1309cfa1b" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w>hey</w>
@@ -27,10 +27,10 @@
           <w>world</w>
           <w>isn't</w>
           <w>this</w>
-          <t type="q"></t>
+          <t type="q"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
   </transcript>
 </session>

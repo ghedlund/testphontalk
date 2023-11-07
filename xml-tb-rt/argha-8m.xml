@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Date="1991-06-20" Corpus="aarsenbos" Lang="ara">
+  <Participants>
+    <participant id="CHI" role="Target_Child" name="Chariba" age="P8Y9M12D" language="ara"/>
+    <participant id="HAY" role="Investigator" name="Hayat" language="ara"/>
+  </Participants>
+  <comment type="Date">20-JUN-1991</comment>
+  <u who="CHI" uID="u0">
+    <w type="nonword">gʰan</w>
+    <t type="p"></t>
+  </u>
+</CHAT>

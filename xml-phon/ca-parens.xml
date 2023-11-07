@@ -1,5 +1,5 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="ca-parens" corpus="change_me_later" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="change_me_later" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>eng</languages>
   <participants>
     <participant id="CHI">
@@ -8,7 +8,7 @@
     </participant>
   </participants>
   <transcript>
-    <r speaker="CHI" uuid="ce1aa42d-1ca1-4b8b-8212-231ff45e5d5b" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w>CA</w>
@@ -20,10 +20,10 @@
           <w>transcription</w>
           <w>is</w>
           <w>uncertain</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
   </transcript>
 </session>

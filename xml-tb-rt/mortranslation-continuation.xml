@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Date="2007-06-03" Corpus="Paris" Lang="fra">
+  <Participants>
+    <participant id="CHI" role="Target_Child" name="Antoine" age="P1Y1M23D" sex="male" birthday="2006-04-10" language="fra"/>
+    <participant id="FAT" role="Father" name="Mathieu" age="P35Y" sex="male" birthday="1978-07-07" language="fra"/>
+    <participant id="OBS" role="Investigator" name="Christophe" age="P46Y5M18D" sex="male" birthday="1960-12-15" language="fra"/>
+    <participant id="AUN" role="Relative" name="Anne_Aunt" age="P32Y28D" sex="female" birthday="1975-05-05" language="fra"/>
+  </Participants>
+  <comment type="Generic">mor translation with continuation lines</comment>
+  <comment type="Date">03-JUN-2007</comment>
+  <u who="AUN" uID="u0">
+    <w>ah<mor type="mor"><mw><pos><c>co</c></pos><stem>ah</stem></mw></mor></w>
+    <w>oui<mor type="mor"><mw><pos><c>co</c></pos><stem>oui</stem></mw><menx>yes</menx></mor></w>
+    <w>alors<mor type="mor"><mw><pos><c>adv</c></pos><stem>alors</stem></mw></mor></w>
+    <w>je<mor type="mor"><mw><pos><c>pro</c><s>subj</s></pos><stem>je</stem></mw></mor></w>
+    <w>peux<mor type="mor"><mw><pos><c>v</c><s>mdl</s></pos><stem>pouvoir</stem><mk type="sfxf">PRES</mk><mk type="sfxf">12s</mk></mw></mor></w>
+    <w>éteindre<mor type="mor"><mw><pos><c>v</c></pos><stem>éteindre</stem><mk type="sfx">INF</mk></mw></mor></w>
+    <w>dans<mor type="mor"><mw><pos><c>prep</c></pos><stem>dans</stem></mw></mor></w>
+    <w>le<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>le</stem><mk type="sfxf">m</mk><mk type="sfxf">sg</mk></mw></mor></w>
+    <w>couloir<mor type="mor"><mw><pos><c>n</c></pos><stem>couloir</stem><mk type="sfxf">m</mk></mw></mor></w>
+    <w>oui<mor type="mor"><mw><pos><c>co</c></pos><stem>oui</stem></mw><menx>yes</menx></mor></w>
+    <w>non<mor type="mor"><mw><pos><c>co</c></pos><stem>non</stem></mw><menx>no</menx></mor></w>
+    <w>elle<mor type="mor"><mw><pos><c>pro</c><s>subj</s></pos><stem>elle</stem></mw></mor></w>
+    <w>va<mor type="mor"><mw><pos><c>v</c><s>mdl</s></pos><stem>aller</stem><mk type="sfxf">PRES</mk><mk type="sfxf">3s</mk></mw></mor></w>
+    <w>chercher<mor type="mor"><mw><pos><c>v</c></pos><stem>chercher</stem><mk type="sfx">INF</mk></mw></mor></w>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"><mor type="mor"><mt type="p"></mt></mor></t>
+    <media start="350.255" end="354.852" unit="s"/>
+  </u>
+</CHAT>

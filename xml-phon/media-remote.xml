@@ -1,7 +1,7 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="media-remote" corpus="sample" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="sample" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>eng</languages>
-  <media>https://media.talkbank.org/childes/Eng-NA/MacWhinney/000203a.mp3</media>
+  <mediaLocation>https://media.talkbank.org/childes/Eng-NA/MacWhinney/000203a.mp3</mediaLocation>
   <participants>
     <participant id="MOT">
       <role>Mother</role>
@@ -9,7 +9,7 @@
     </participant>
     <participant id="CHI">
       <role>Target_Child</role>
-      <age>P1Y10M4DT0H0M0S</age>
+      <age>P1Y10M4D</age>
       <languages>eng</languages>
     </participant>
   </participants>
@@ -17,15 +17,15 @@
     <comment type="Generic">
       <tierData><tw>test</tw><tw>media</tw><tw>header</tw><tw>missing,</tw><tw>no</tw><tw>bullets</tw></tierData>
     </comment>
-    <r speaker="CHI" uuid="8e9e0fab-f99c-4ec2-bd50-d2be7971513f" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w>foo</w>
           <w>bar</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
   </transcript>
 </session>

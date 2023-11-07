@@ -1,0 +1,4 @@
+Expected attribute value '2.20.0' but was '2.21.0' - comparing <CHAT Version="2.20.0"...> at /CHAT[1]/@Version to <CHAT Version="2.21.0"...> at /CHAT[1]/@Version (DIFFERENT)
+Expected attribute value 'P4Y05M21D' but was 'P4Y5M21D' - comparing <participant age="P4Y05M21D"...> at /CHAT[1]/Participants[1]/participant[1]/@age to <participant age="P4Y5M21D"...> at /CHAT[1]/Participants[1]/participant[1]/@age (DIFFERENT)
+Expected attribute value 'P25Y01M14D' but was 'P25Y1M14D' - comparing <participant age="P25Y01M14D"...> at /CHAT[1]/Participants[1]/participant[3]/@age to <participant age="P25Y1M14D"...> at /CHAT[1]/Participants[1]/participant[3]/@age (DIFFERENT)
+Expected attribute value 'P5Y07M22D' but was 'P5Y7M22D' - comparing <participant age="P5Y07M22D"...> at /CHAT[1]/Participants[1]/participant[4]/@age to <participant age="P5Y7M22D"...> at /CHAT[1]/Participants[1]/participant[4]/@age (DIFFERENT)

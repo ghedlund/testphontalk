@@ -1,5 +1,5 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="pho-new" corpus="IDO" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="IDO" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <date>2000-06-23</date>
   <languages>ind jav</languages>
   <participants>
@@ -8,7 +8,7 @@
       <name>Ido</name>
       <sex>male</sex>
       <birthday>1996-01-01</birthday>
-      <age>P4Y5M21DT0H0M0S</age>
+      <age>P4Y5M21D</age>
       <languages>ind jav</languages>
     </participant>
     <participant id="MOT">
@@ -21,7 +21,7 @@
       <role>Investigator</role>
       <name>Bety</name>
       <sex>female</sex>
-      <age>P25Y1M14DT0H0M0S</age>
+      <age>P25Y1M14D</age>
       <languages>ind jav</languages>
     </participant>
     <participant id="ABA">
@@ -29,12 +29,12 @@
       <name>Praba</name>
       <sex>male</sex>
       <birthday>1994-10-31</birthday>
-      <age>P5Y7M22DT0H0M0S</age>
+      <age>P5Y7M22D</age>
       <languages>ind jav</languages>
     </participant>
   </participants>
   <userTiers>
-    <td tierName="Morphology" type="mor" excludeFromAlignment="true"></td>
+    <td tierName="Morphology" type="mor" excludeFromAlignment="true"/>
   </userTiers>
   <transcript>
     <comment type="Date">
@@ -43,7 +43,7 @@
     <comment type="Generic">
       <tierData><tw>Test</tw><tw>new</tw><tw>pho,</tw><tw>along</tw><tw>with</tw><tw>mor,</tw><tw>since</tw><tw>both</tw><tw>1-1</tw></tierData>
     </comment>
-    <r speaker="EXP" uuid="cf048512-d7c3-44f1-ae08-6649b6acb749" excludeFromSearches="false">
+    <r speaker="EXP">
       <orthography>
         <u>
           <pg><w>entar</w></pg>
@@ -53,13 +53,10 @@
           <pg><w>maen</w></pg>
           <pg><w>lagi</w></pg>
           <pg><w>deh</w></pg>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <ipaActual>
-        <pho><pw><ph><base>a</base></ph></pw><pw><ph><base>b</base></ph></pw><pw><ph><base>c</base></ph></pw><pw><ph><base>d</base></ph></pw><pw><ph><base>e</base></ph></pw><pw><ph><base>f</base></ph></pw><pw><ph><base>g</base></ph></pw></pho>
-      </ipaActual>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <userTier name="Morphology">
         <mors>
           <mor><mw><pos><c>det</c></pos><stem>the</stem></mw></mor>
@@ -69,11 +66,11 @@
           <mor><mw><pos><c>n</c></pos><stem>cake</stem><mk type="sfx">PL</mk></mw></mor>
           <mor><mw><pos><c>n</c></pos><stem>cake</stem><mk type="sfx">PL</mk></mw></mor>
           <mor><mw><pos><c>n</c></pos><stem>cake</stem><mk type="sfx">PL</mk></mw></mor>
-          <mor><mt type="p"></mt></mor>
+          <mor><mt type="p"/></mor>
         </mors>
       </userTier>
     </r>
-    <r speaker="EXP" uuid="95dc12e9-5616-44d5-ae55-0f49a3614df1" excludeFromSearches="false">
+    <r speaker="EXP">
       <orthography>
         <u>
           <pg><w>entar</w></pg>
@@ -83,18 +80,15 @@
           <pg><w>maen</w></pg>
           <pg><w>lagi</w></pg>
           <pg><w>deh</w></pg>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <ipaActual>
-        <pho><pw><ph><base>a</base></ph></pw><pw><ph><base>b</base></ph></pw><pw><ph><base>c</base></ph></pw><pw><ph><base>d</base></ph></pw><pw><ph><base>e</base></ph></pw><pw><ph><base>f</base></ph></pw><pw><ph><base>g</base></ph></pw></pho>
-      </ipaActual>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <comment type="Generic">
       <tierData><tw>xxx</tw></tierData>
     </comment>
-    <r speaker="EXP" uuid="2e79e584-67e3-4d31-b0e0-8a8e143c528d" excludeFromSearches="false">
+    <r speaker="EXP">
       <orthography>
         <u>
           <pg><w>entar</w></pg>
@@ -105,13 +99,10 @@
           <pg><w>maen</w></pg>
           <pg><w>lagi</w></pg>
           <pg><w>deh</w></pg>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <ipaActual>
-        <pho><pw><ph><base>e</base></ph><ph><base>n</base></ph><ph><base>t</base></ph><ph><base>a</base></ph><ph><base>r</base></ph></pw><pw><ph><base>X</base></ph></pw><pw><ph><base>t</base></ph><ph><base>a</base></ph><ph><base>n</base></ph><ph><base>t</base></ph><ph><base>e</base></ph></pw><pw><ph><base>n</base></ph><ph><base>g</base></ph><ph><base>g</base></ph><ph><base>a</base></ph><ph><base>k</base></ph></pw><pw><ph><base>m</base></ph><ph><base>o</base></ph></pw><pw><ph><base>m</base></ph><ph><base>a</base></ph><ph><base>e</base></ph><ph><base>n</base></ph></pw><pw><ph><base>l</base></ph><ph><base>a</base></ph><ph><base>g</base></ph><ph><base>i</base></ph></pw><pw><ph><base>d</base></ph><ph><base>e</base></ph><ph><base>h</base></ph></pw></pho>
-      </ipaActual>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
   </transcript>
 </session>

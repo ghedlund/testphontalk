@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Date="2002-05-02" Corpus="Alex" Lang="eng">
+  <Participants>
+    <participant id="CHI" role="Target_Child" name="Alex" age="P1Y4M28D" sex="male" language="eng"/>
+    <participant id="MOT" role="Mother" name="Mother" age="P25Y" language="eng"/>
+    <participant id="OPE" role="Speaker" name="Speaker" age="P25Y" language="eng"/>
+    <participant id="ENV" role="Environment" name="Environment" age="P25Y" language="eng"/>
+    <participant id="TOY" role="Speaker" name="Speaker" age="P25Y" language="eng"/>
+  </Participants>
+  <comment type="Generic">matt denio</comment>
+  <comment type="Generic">Language of Caregivers Mother Southeastern Massachusetts , Father Southeastern Massachusetts , Grandmother Southeastern Massachusetts</comment>
+  <comment type="Date">02-MAY-2002</comment>
+  <u who="CHI" uID="u0">
+    <pg><w>Mommy<mor type="mor"><mw><pos><c>n</c><s>prop</s></pos><stem>Mommy</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"></gra></mor></w></pg>
+    <t type="p"><mor type="mor"><mt type="p"></mt><gra type="gra" index="2" head="1" relation="PUNCT"></gra></mor></t>
+  </u>
+</CHAT>

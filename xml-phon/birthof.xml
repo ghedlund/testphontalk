@@ -1,5 +1,5 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="birthof" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>eng</languages>
   <participants>
     <participant id="CHI">
@@ -7,7 +7,7 @@
       <group>normal</group>
       <sex>female</sex>
       <birthday>2001-06-28</birthday>
-      <age>P1Y8M0DT0H0M0S</age>
+      <age>P1Y8M</age>
       <languages>eng</languages>
     </participant>
     <participant id="MOT">
@@ -16,16 +16,16 @@
     </participant>
   </participants>
   <transcript>
-    <r speaker="CHI" uuid="ffe18e1e-ee55-4ad4-9931-1a5be7fa91d4" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w>here</w>
           <w>i</w>
           <w>am</w>
-          <t type="e"></t>
+          <t type="e"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
   </transcript>
 </session>

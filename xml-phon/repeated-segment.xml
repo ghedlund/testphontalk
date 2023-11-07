@@ -1,5 +1,5 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="repeated-segment" corpus="change_me_later" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="change_me_later" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>eng</languages>
   <participants>
     <participant id="CHI">
@@ -11,78 +11,78 @@
     <comment type="Generic">
       <tierData><tw>segment</tw><tw>repetition</tw><tw>inside</tw><tw>word</tw></tierData>
     </comment>
-    <r speaker="CHI" uuid="790071e3-d985-4d6f-93ef-59532da181d6" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
-          <w>an<ca-delimiter type="begin" label="repeated-segment"></ca-delimiter>d-d-d-d-d-d<ca-delimiter type="end" label="repeated-segment"></ca-delimiter>d</w>
+          <w>an<ca-delimiter type="begin" label="repeated-segment"/>d-d-d-d-d-d<ca-delimiter type="end" label="repeated-segment"/>d</w>
           <w>the</w>
           <w>lion</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI" uuid="901be4bf-0ca1-4b28-840e-0e611c8fe1bb" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w>mommy</w>
-          <g><w type="fragment"><ca-element type="blocked segments"></ca-element>w</w><k type="retracing with correction"></k></g>
-          <g><w>we</w><k type="retracing with correction"></k></g>
-          <w><ca-delimiter type="begin" label="repeated-segment"></ca-delimiter>a<ca-delimiter type="end" label="repeated-segment"></ca-delimiter>and</w>
-          <t type="p"></t>
+          <g><w type="fragment"><ca-element type="blocked segments"/>w</w><k type="retracing with correction"/></g>
+          <g><w>we</w><k type="retracing with correction"/></g>
+          <w><ca-delimiter type="begin" label="repeated-segment"/>a<ca-delimiter type="end" label="repeated-segment"/>and</w>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI" uuid="90aceb7b-8f54-490b-8801-be55ae97ebf8" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
-          <w><ca-delimiter type="begin" label="repeated-segment"></ca-delimiter>w<p type="drawl"></p><ca-delimiter type="end" label="repeated-segment"></ca-delimiter>what's</w>
+          <w><ca-delimiter type="begin" label="repeated-segment"/>w<p type="drawl"/><ca-delimiter type="end" label="repeated-segment"/>what's</w>
           <w>this</w>
           <w>daddy</w>
-          <t type="q"></t>
+          <t type="q"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI" uuid="fb5e7412-0139-4f69-bfe5-3d97287e4a04" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
-          <g><w><ca-delimiter type="begin" label="repeated-segment"></ca-delimiter>bo<p type="drawl"></p>-bo<p type="drawl"></p><ca-delimiter type="end" label="repeated-segment"></ca-delimiter>both</w><k type="retracing"></k></g>
-          <w>bo<p type="drawl"></p>th</w>
-          <t type="p"></t>
+          <g><w><ca-delimiter type="begin" label="repeated-segment"/>bo<p type="drawl"/>-bo<p type="drawl"/><ca-delimiter type="end" label="repeated-segment"/>both</w><k type="retracing"/></g>
+          <w>bo<p type="drawl"/>th</w>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI" uuid="2d04c789-53af-4359-afe3-3c4258a312dc" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
-          <w><ca-delimiter type="begin" label="repeated-segment"></ca-delimiter>h-h<ca-delimiter type="end" label="repeated-segment"></ca-delimiter>hit</w>
-          <w><ca-delimiter type="begin" label="repeated-segment"></ca-delimiter>som<p type="drawl"></p><ca-delimiter type="end" label="repeated-segment"></ca-delimiter>somebod<shortening>y</shortening><ca-delimiter type="begin" label="repeated-segment"></ca-delimiter>body<ca-delimiter type="end" label="repeated-segment"></ca-delimiter></w>
-          <t type="p"></t>
+          <w><ca-delimiter type="begin" label="repeated-segment"/>h-h<ca-delimiter type="end" label="repeated-segment"/>hit</w>
+          <w><ca-delimiter type="begin" label="repeated-segment"/>som<p type="drawl"/><ca-delimiter type="end" label="repeated-segment"/>somebod<shortening>y</shortening><ca-delimiter type="begin" label="repeated-segment"/>body<ca-delimiter type="end" label="repeated-segment"/></w>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI" uuid="d8070456-b030-4e57-bda9-4a069c5d3fae" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
-          <w><ca-element type="blocked segments"></ca-element><ca-delimiter type="begin" label="repeated-segment"></ca-delimiter>i<ca-delimiter type="end" label="repeated-segment"></ca-delimiter>it</w>
+          <w><ca-element type="blocked segments"/><ca-delimiter type="begin" label="repeated-segment"/>i<ca-delimiter type="end" label="repeated-segment"/>it</w>
           <w>was</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI" uuid="25a13d08-b2d2-4c2e-9ac8-97e0ffff9120" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
-          <w><ca-delimiter type="begin" label="repeated-segment"></ca-delimiter>the-the<ca-delimiter type="end" label="repeated-segment"></ca-delimiter><ca-element type="blocked segments"></ca-element>then</w>
-          <t type="p"></t>
+          <w><ca-delimiter type="begin" label="repeated-segment"/>the-the<ca-delimiter type="end" label="repeated-segment"/><ca-element type="blocked segments"/>then</w>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
   </transcript>
 </session>

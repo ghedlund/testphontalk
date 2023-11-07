@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Corpus="CLAPIcf" Media="ca-stuff" Lang="fra">
+  <Participants>
+    <participant id="MAN" role="Adult" name="Manon" language="fra"/>
+    <participant id="SIM" role="Adult" name="Simon" language="fra"/>
+  </Participants>
+  <u who="SIM" uID="u0">
+    <overlap-point start-end="start" top-bottom="bottom"></overlap-point>
+    <w>mais</w>
+    <w>j<shortening>e</shortening></w>
+    <overlap-point start-end="end" top-bottom="bottom"></overlap-point>
+    <w>veux</w>
+    <w>pas</w>
+    <w>étudier</w>
+    <w>là</w>
+    <w>dedans</w>
+    <t type="no break TCU continuation"></t>
+    <media start="87.226" end="88.638" unit="s"/>
+  </u>
+</CHAT>

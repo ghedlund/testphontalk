@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Date="1990-02-15" Corpus="BermanLong" Lang="heb">
+  <Participants>
+    <participant id="CHI" role="Child" name="Hagar" age="P3Y3M11D" sex="female" language="heb"/>
+    <participant id="MOT" role="Mother" name="Inbal" language="heb"/>
+    <participant id="FAT" role="Father" name="Moshe" language="heb"/>
+  </Participants>
+  <comment type="Date">15-FEB-1990</comment>
+  <comment type="Generic">mor translation with gra</comment>
+  <u who="FAT" uID="u0">
+    <w type="nonword">a</w>
+    <t type="p"></t>
+  </u>
+  <u who="FAT" uID="u1">
+    <w>Hagāri<mor type="mor"><mw><pos><c>n</c><s>prop</s></pos><stem>Hagāri</stem></mw><gra type="gra" index="1" head="0" relation="ROOT"></gra></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"></mt><gra type="gra" index="2" head="1" relation="PUNCT"></gra></mor></t>
+  </u>
+  <u who="CHI" uID="u2">
+    <w>ma<mor type="mor"><mw><pos><c>que</c></pos><stem>ma</stem></mw><menx>what</menx><gra type="gra" index="1" head="0" relation="ROOT"></gra></mor></w>
+    <t type="q"><mor type="mor"><mt type="q"></mt><gra type="gra" index="2" head="1" relation="PUNCT"></gra></mor></t>
+  </u>
+</CHAT>

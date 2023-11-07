@@ -1,0 +1,3 @@
+Expected attribute value '2.20.0' but was '2.21.0' - comparing <CHAT Version="2.20.0"...> at /CHAT[1]/@Version to <CHAT Version="2.21.0"...> at /CHAT[1]/@Version (DIFFERENT)
+Expected attribute value 'P1Y10M04D' but was 'P1Y10M4D' - comparing <participant age="P1Y10M04D"...> at /CHAT[1]/Participants[1]/participant[2]/@age to <participant age="P1Y10M4D"...> at /CHAT[1]/Participants[1]/participant[2]/@age (DIFFERENT)
+Expected attribute value '9.4' but was '9.400' - comparing <pause length="9.4"...> at /CHAT[1]/u[1]/pause[1]/@length to <pause length="9.400"...> at /CHAT[1]/u[1]/pause[1]/@length (DIFFERENT)

@@ -1,12 +1,12 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="word-hyphen-underline" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>eng</languages>
   <participants>
     <participant id="CHI">
       <role>Child</role>
       <group>normal</group>
       <sex>female</sex>
-      <age>P1Y8M0DT0H0M0S</age>
+      <age>P1Y8M</age>
       <languages>eng</languages>
     </participant>
     <participant id="MOT">
@@ -18,17 +18,17 @@
     <comment type="Generic">
       <tierData><tw>Test</tw><tw>word</tw><tw>ending</tw><tw>in</tw><tw>hyphen</tw></tierData>
     </comment>
-    <r speaker="CHI" uuid="d38e1741-1c6c-4d15-98e2-ee2606d56def" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
-          <underline type="begin"></underline>
-          <w>a<underline type="end"></underline>-z</w>
-          <underline type="begin"></underline>
-          <w>b<underline type="end"></underline>-</w>
-          <t type="p"></t>
+          <underline type="begin"/>
+          <w>a<underline type="end"/>-z</w>
+          <underline type="begin"/>
+          <w>b<underline type="end"/>-</w>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
   </transcript>
 </session>

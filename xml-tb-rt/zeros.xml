@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Date="1996-02-29" Corpus="timmy" Lang="eng">
+  <Participants>
+    <participant id="CHI" role="Target_Child" name="Timmy" age="P2Y9M8D" language="eng"/>
+    <participant id="LIN" role="Investigator" name="Linda" language="eng"/>
+    <participant id="WIN" role="Investigator" name="Winnie" language="eng"/>
+    <participant id="GEM" role="Speaker" name="Gemma" language="eng"/>
+  </Participants>
+  <comment type="Date">29-FEB-1996</comment>
+  <u who="CHI" uID="u0">
+    <e><action></action></e>
+    <e><happening>yawn</happening></e>
+    <t type="p"></t>
+  </u>
+  <u who="CHI" uID="u1">
+    <e><action></action><overlap type="overlap precedes"></overlap></e>
+    <t type="p"></t>
+  </u>
+  <u who="CHI" uID="u2">
+    <w>The</w>
+    <w type="omission">die</w>
+    <w>is</w>
+    <w>silly</w>
+    <t type="p"></t>
+  </u>
+  <u who="CHI" uID="u3">
+    <w formType="word play" type="omission">die</w>
+    <w>is</w>
+    <w>silly</w>
+    <t type="p"></t>
+  </u>
+</CHAT>

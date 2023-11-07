@@ -1,12 +1,12 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="punctuation" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>eng</languages>
   <participants>
     <participant id="CHI">
       <role>Child</role>
       <group>normal</group>
       <sex>female</sex>
-      <age>P1Y8M0DT0H0M0S</age>
+      <age>P1Y8M</age>
       <languages>eng</languages>
     </participant>
     <participant id="MOT">
@@ -18,56 +18,56 @@
     <comment type="Generic">
       <tierData><tw>separators</tw></tierData>
     </comment>
-    <r speaker="CHI" uuid="1b93225d-bdaf-498a-a645-875ffac870c6" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w>hey</w>
           <w>man</w>
-          <tagMarker type="comma"></tagMarker>
+          <tagMarker type="comma"/>
           <w>what</w>
           <w>in</w>
           <w>the</w>
           <w>world</w>
           <w>isn't</w>
           <w>this</w>
-          <t type="q"></t>
+          <t type="q"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI" uuid="893f9e4c-76ab-4c9d-abe7-ba32cf5733ae" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w>hey</w>
           <w>man</w>
-          <s type="semicolon"></s>
+          <s type="semicolon"/>
           <w>what</w>
           <w>in</w>
           <w>the</w>
           <w>world</w>
           <w>isn't</w>
           <w>this</w>
-          <t type="q"></t>
+          <t type="q"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI" uuid="7d597601-c3fc-4e17-8864-d518d4bb2fc4" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w>hey</w>
           <w>man</w>
-          <s type="colon"></s>
+          <s type="colon"/>
           <w>what</w>
           <w>in</w>
           <w>the</w>
           <w>world</w>
           <w>isn't</w>
           <w>this</w>
-          <t type="q"></t>
+          <t type="q"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
   </transcript>
 </session>

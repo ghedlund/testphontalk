@@ -1,5 +1,5 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="languages" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <date>1964-07-23</date>
   <languages>eng zho yue</languages>
   <participants>
@@ -7,7 +7,7 @@
       <role>Child</role>
       <group>normal</group>
       <sex>female</sex>
-      <age>P1Y8M0DT0H0M0S</age>
+      <age>P1Y8M</age>
       <languages>eng zho yue</languages>
     </participant>
     <participant id="MOT">
@@ -22,7 +22,7 @@
     <comment type="Generic">
       <tierData><tw>Multiple</tw><tw>languages</tw></tierData>
     </comment>
-    <r speaker="CHI" uuid="58640559-8a35-4ad2-880c-5ff7eb503057" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w>hey</w>
@@ -30,10 +30,10 @@
           <w>what</w>
           <w>is</w>
           <w>this</w>
-          <t type="q"></t>
+          <t type="q"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
   </transcript>
 </session>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Corpus="sample" Lang="eng">
+  <Participants>
+    <participant id="MOT" role="Mother" language="eng"/>
+    <participant id="CHI" role="Target_Child" age="P1Y10M4D" language="eng"/>
+  </Participants>
+  <comment type="Generic">durations for groups</comment>
+  <u who="CHI" uID="u0">
+    <g><w>a</w><w>b</w><duration>3.000</duration></g>
+    <t type="p"></t>
+  </u>
+  <u who="CHI" uID="u1">
+    <g><w>a</w><w>b</w><duration>123.000</duration></g>
+    <t type="p"></t>
+  </u>
+  <u who="CHI" uID="u2">
+    <g><w>a</w><w>b</w><duration>123.400</duration></g>
+    <t type="p"></t>
+  </u>
+  <u who="CHI" uID="u3">
+    <g><w>a</w><w>b</w><duration>3.400</duration></g>
+    <t type="p"></t>
+  </u>
+  <u who="CHI" uID="u4">
+    <e><happening>foo</happening><duration>6.000</duration></e>
+    <t type="p"></t>
+  </u>
+</CHAT>

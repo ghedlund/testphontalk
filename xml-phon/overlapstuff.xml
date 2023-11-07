@@ -1,12 +1,12 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="overlapstuff" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>eng</languages>
   <participants>
     <participant id="CHI">
       <role>Child</role>
       <group>normal</group>
       <sex>female</sex>
-      <age>P1Y8M0DT0H0M0S</age>
+      <age>P1Y8M</age>
       <languages>eng</languages>
     </participant>
     <participant id="MOT">
@@ -15,32 +15,32 @@
     </participant>
   </participants>
   <transcript>
-    <r speaker="CHI" uuid="87abe844-1181-4d29-870b-b11c165d3d35" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
           <w>en</w>
           <w>nu</w>
-          <g><w>moeten</w><w>we</w><k type="retracing with correction"></k><overlap index="1" type="overlap follows"></overlap></g>
+          <g><w>moeten</w><w>we</w><k type="retracing with correction"/><overlap index="1" type="overlap follows"/></g>
           <w>staan</w>
           <w>we</w>
-          <g><w>op</w><w>het</w><overlap index="2" type="overlap follows"></overlap></g>
+          <g><w>op</w><w>het</w><overlap index="2" type="overlap follows"/></g>
           <w>punt</w>
           <w>om</w>
           <w>het</w>
-          <g><w>toch</w><overlap index="3" type="overlap follows"></overlap></g>
+          <g><w>toch</w><overlap index="3" type="overlap follows"/></g>
           <w>maar</w>
           <w>wel</w>
           <w>te</w>
           <w>doen</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI" uuid="b2d68296-0fe3-48d7-9c1b-9eb1b6414083" excludeFromSearches="false">
+    <r speaker="CHI">
       <orthography>
         <u>
-          <g><w>het</w><w>hele</w><overlap type="overlap precedes"></overlap><k type="retracing"></k></g>
+          <g><w>het</w><w>hele</w><overlap type="overlap precedes"/><k type="retracing"/></g>
           <w>het</w>
           <w>hele</w>
           <w>onderzoek</w>
@@ -49,10 +49,10 @@
           <w>mist</w>
           <w>in</w>
           <w>zo</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
     </r>
   </transcript>
 </session>

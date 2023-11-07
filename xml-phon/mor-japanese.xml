@@ -1,5 +1,5 @@
-<?xml version="1.0" ?>
-<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="mor-japanese" corpus="belfast" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="belfast" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>eng</languages>
   <participants>
     <participant id="CHI">
@@ -7,7 +7,7 @@
       <name>Courtney</name>
       <SES>UC</SES>
       <birthday>1992-09-08</birthday>
-      <age>P3Y6M18DT0H0M0S</age>
+      <age>P3Y6M18D</age>
       <languages>eng</languages>
     </participant>
     <participant id="MOT">
@@ -27,21 +27,21 @@
     </participant>
   </participants>
   <userTiers>
-    <td tierName="Morphology" type="mor" excludeFromAlignment="true"></td>
+    <td tierName="Morphology" type="mor" excludeFromAlignment="true"/>
   </userTiers>
   <transcript>
-    <r speaker="INV" uuid="a314c668-8d64-4052-9db0-56b56e559da1" excludeFromSearches="false">
+    <r speaker="INV">
       <orthography>
         <u>
           <w>oneesanusagi</w>
-          <t type="p"></t>
+          <t type="p"/>
         </u>
       </orthography>
-      <segment start="0.0" end="0.0" unit="ms"></segment>
+      <segment start="0.0" end="0.0" unit="ms"/>
       <userTier name="Morphology">
         <mors>
           <mor><mwc><mpfx>o</mpfx><pos><c>n</c></pos><mw><pos><c>n</c></pos><stem>neesan</stem></mw><mw><pos><c>n</c></pos><stem>usagi</stem></mw></mwc></mor>
-          <mor><mt type="p"></mt></mor>
+          <mor><mt type="p"/></mor>
         </mors>
       </userTier>
     </r>

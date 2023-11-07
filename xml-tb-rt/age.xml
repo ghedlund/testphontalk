@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Corpus="bates" Lang="eng">
+  <Participants>
+    <participant id="CHI" role="Child" age="P1Y10M31D" group="normal" sex="female" language="eng"/>
+    <participant id="MOT" role="Mother" language="eng"/>
+  </Participants>
+  <u who="CHI" uID="u0">
+    <w>hey</w>
+    <w>man</w>
+    <w>what</w>
+    <w>in</w>
+    <w>the</w>
+    <w>world</w>
+    <w>isn't</w>
+    <w>this</w>
+    <w>gonna<replacement real="false"><w>going</w><w>to</w></replacement></w>
+    <t type="q"></t>
+  </u>
+  <u who="MOT" uID="u1">
+    <w>hey</w>
+    <w>a/c</w>
+    <w>what</w>
+    <w>in</w>
+    <w>the</w>
+    <w>universe</w>
+    <w>is</w>
+    <w>in</w>
+    <w>this</w>
+    <w>fé</w>
+    <t type="q"></t>
+  </u>
+</CHAT>
