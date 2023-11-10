@@ -22,7 +22,7 @@
       <orthography>
         <u>
           <quotation type="begin"/>
-          <w>only_one_allowed<replacement real="false"><w>foo</w></replacement></w>
+          <w>only_one_allowed<replacement><w>foo</w></replacement></w>
           <quotation type="end"/>
           <t type="p"/>
         </u>

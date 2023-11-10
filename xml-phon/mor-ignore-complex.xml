@@ -31,7 +31,7 @@
     <r speaker="CHI">
       <orthography>
         <u>
-          <g><w>pos<replacement real="false"><w>puess</w></replacement></w><error></error><k type="retracing with correction"/></g>
+          <g><w>pos<replacement><w>puess</w></replacement></w><error></error><k type="retracing with correction"/></g>
           <w>pues</w>
           <t type="p"/>
         </u>

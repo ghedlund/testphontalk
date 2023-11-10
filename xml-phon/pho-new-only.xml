@@ -2,6 +2,9 @@
 <session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="IDO" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <date>2000-06-23</date>
   <languages>ind jav</languages>
+  <metadata>
+    <md key="Window">263_127_668_685_-1_-1_1797_0_1802_0</md>
+  </metadata>
   <participants>
     <participant id="CHI">
       <role>Target_Child</role>

@@ -2,6 +2,12 @@
 <session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="UCL" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>eng</languages>
   <mediaLocation>wor</mediaLocation>
+  <metadata>
+    <md key="Mediatypes">audio</md>
+    <md key="Options">multi</md>
+    <md key="Window">257_1118_770_1024_-1_-1_15518_0_15518_0</md>
+    <md key="PID">11312/a-00054835-1</md>
+  </metadata>
   <participants>
     <participant id="PAR">
       <role>Participant</role>
@@ -20,9 +26,9 @@
     </participant>
   </participants>
   <userTiers>
+    <td tierName="Word intervals" type="chat" excludeFromAlignment="false"/>
     <td tierName="Morphology" type="mor" excludeFromAlignment="true"/>
     <td tierName="GRASP" type="gra" excludeFromAlignment="true"/>
-    <td tierName="Word intervals" type="chat" excludeFromAlignment="false"/>
   </userTiers>
   <transcript>
     <comment type="Generic">
@@ -50,6 +56,35 @@
         </u>
       </orthography>
       <segment start="0.050" end="3.610" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>yeah</w>
+          <internal-media start="0.050" end="0.200" unit="s"/>
+          <w>so</w>
+          <internal-media start="0.200" end="0.390" unit="s"/>
+          <w>I'm</w>
+          <internal-media start="0.420" end="0.970" unit="s"/>
+          <w>going</w>
+          <internal-media start="1.010" end="1.280" unit="s"/>
+          <w>to</w>
+          <internal-media start="1.280" end="1.380" unit="s"/>
+          <w>be</w>
+          <internal-media start="1.380" end="1.580" unit="s"/>
+          <w>asking</w>
+          <internal-media start="1.620" end="2.180" unit="s"/>
+          <w>you</w>
+          <internal-media start="2.180" end="2.520" unit="s"/>
+          <w>to</w>
+          <internal-media start="2.550" end="2.610" unit="s"/>
+          <w>do</w>
+          <internal-media start="2.670" end="2.820" unit="s"/>
+          <w>some</w>
+          <internal-media start="2.820" end="3.060" unit="s"/>
+          <w>talking</w>
+          <internal-media start="3.060" end="3.610" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
       <userTier name="Morphology">
         <mors>
           <mor><mw><pos><c>co</c></pos><stem>yeah</stem></mw></mor>
@@ -89,35 +124,6 @@
           <gra index="16" head="7" relation="PUNCT"/>
         </gras>
       </userTier>
-      <userTier name="Word intervals">
-        <u>
-          <w>yeah</w>
-          <internal-media start="0.050" end="0.200" unit="s"/>
-          <w>so</w>
-          <internal-media start="0.200" end="0.390" unit="s"/>
-          <w>I'm</w>
-          <internal-media start="0.420" end="0.970" unit="s"/>
-          <w>going</w>
-          <internal-media start="1.010" end="1.280" unit="s"/>
-          <w>to</w>
-          <internal-media start="1.280" end="1.380" unit="s"/>
-          <w>be</w>
-          <internal-media start="1.380" end="1.580" unit="s"/>
-          <w>asking</w>
-          <internal-media start="1.620" end="2.180" unit="s"/>
-          <w>you</w>
-          <internal-media start="2.180" end="2.520" unit="s"/>
-          <w>to</w>
-          <internal-media start="2.550" end="2.610" unit="s"/>
-          <w>do</w>
-          <internal-media start="2.670" end="2.820" unit="s"/>
-          <w>some</w>
-          <internal-media start="2.820" end="3.060" unit="s"/>
-          <w>talking</w>
-          <internal-media start="3.060" end="3.610" unit="s"/>
-          <t type="p"/>
-        </u>
-      </userTier>
     </r>
     <r speaker="INV">
       <orthography>
@@ -136,6 +142,31 @@
         </u>
       </orthography>
       <segment start="5.090" end="8.060" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w type="filler">um</w>
+          <internal-media start="5.090" end="5.530" unit="s"/>
+          <w>how</w>
+          <internal-media start="5.710" end="5.900" unit="s"/>
+          <w>do</w>
+          <internal-media start="5.900" end="6.030" unit="s"/>
+          <w>you</w>
+          <internal-media start="6.030" end="6.150" unit="s"/>
+          <w>think</w>
+          <internal-media start="6.150" end="6.660" unit="s"/>
+          <w>your</w>
+          <internal-media start="6.660" end="6.790" unit="s"/>
+          <w>speech</w>
+          <internal-media start="6.790" end="7.310" unit="s"/>
+          <w>is</w>
+          <internal-media start="7.310" end="7.660" unit="s"/>
+          <w>these</w>
+          <internal-media start="7.690" end="7.920" unit="s"/>
+          <w>days</w>
+          <internal-media start="7.920" end="8.060" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
       <userTier name="Morphology">
         <mors>
           <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>how</stem></mw></mor>
@@ -163,31 +194,6 @@
           <gra index="9" head="7" relation="PRED"/>
           <gra index="10" head="4" relation="PUNCT"/>
         </gras>
-      </userTier>
-      <userTier name="Word intervals">
-        <u>
-          <w type="filler">um</w>
-          <internal-media start="5.090" end="5.530" unit="s"/>
-          <w>how</w>
-          <internal-media start="5.710" end="5.900" unit="s"/>
-          <w>do</w>
-          <internal-media start="5.900" end="6.030" unit="s"/>
-          <w>you</w>
-          <internal-media start="6.030" end="6.150" unit="s"/>
-          <w>think</w>
-          <internal-media start="6.150" end="6.660" unit="s"/>
-          <w>your</w>
-          <internal-media start="6.660" end="6.790" unit="s"/>
-          <w>speech</w>
-          <internal-media start="6.790" end="7.310" unit="s"/>
-          <w>is</w>
-          <internal-media start="7.310" end="7.660" unit="s"/>
-          <w>these</w>
-          <internal-media start="7.690" end="7.920" unit="s"/>
-          <w>days</w>
-          <internal-media start="7.920" end="8.060" unit="s"/>
-          <t type="q"/>
-        </u>
       </userTier>
     </r>
     <r speaker="PAR">
@@ -226,32 +232,6 @@
         </u>
       </orthography>
       <segment start="11.284" end="29.354" unit="s"/>
-      <userTier name="Morphology">
-        <mors>
-          <mor><mw><pos><c>det</c><subc>poss</subc></pos><stem>my</stem></mw></mor>
-          <mor><mw><pos><c>n</c></pos><stem>aunt</stem><mk type="sfx">DIM</mk></mw></mor>
-          <mor><mw><pos><c>v</c></pos><stem>say</stem><mk type="sfxf">PAST</mk></mw></mor>
-          <mor><mw><pos><c>det</c><subc>poss</subc></pos><stem>my</stem></mw></mor>
-          <mor><mw><pos><c>n</c></pos><stem>speech</stem></mw></mor>
-          <mor><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
-          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>it</stem></mw></mor>
-          <mor><mw><pos><c>adj</c></pos><stem>bad</stem><mk type="sfxf">CP</mk></mw></mor>
-          <mor><mt type="p"/></mor>
-        </mors>
-      </userTier>
-      <userTier name="GRASP">
-        <gras>
-          <gra index="1" head="2" relation="DET"/>
-          <gra index="2" head="3" relation="SUBJ"/>
-          <gra index="3" head="0" relation="ROOT"/>
-          <gra index="4" head="5" relation="DET"/>
-          <gra index="5" head="6" relation="SUBJ"/>
-          <gra index="6" head="3" relation="COMP"/>
-          <gra index="7" head="6" relation="PRED"/>
-          <gra index="8" head="7" relation="POSTMOD"/>
-          <gra index="9" head="3" relation="PUNCT"/>
-        </gras>
-      </userTier>
       <userTier name="Word intervals">
         <u>
           <w type="filler">um</w>
@@ -314,6 +294,32 @@
           <internal-media start="29.054" end="29.354" unit="s"/>
           <t type="p"/>
         </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>det</c><subc>poss</subc></pos><stem>my</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>aunt</stem><mk type="sfx">DIM</mk></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>say</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>det</c><subc>poss</subc></pos><stem>my</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>speech</stem></mw></mor>
+          <mor><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>it</stem></mw></mor>
+          <mor><mw><pos><c>adj</c></pos><stem>bad</stem><mk type="sfxf">CP</mk></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="DET"/>
+          <gra index="2" head="3" relation="SUBJ"/>
+          <gra index="3" head="0" relation="ROOT"/>
+          <gra index="4" head="5" relation="DET"/>
+          <gra index="5" head="6" relation="SUBJ"/>
+          <gra index="6" head="3" relation="COMP"/>
+          <gra index="7" head="6" relation="PRED"/>
+          <gra index="8" head="7" relation="POSTMOD"/>
+          <gra index="9" head="3" relation="PUNCT"/>
+        </gras>
       </userTier>
     </r>
   </transcript>

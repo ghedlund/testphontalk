@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="bates" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>eng</languages>
+  <metadata>
+    <md key="PID">id123</md>
+  </metadata>
   <participants>
     <participant id="CHI">
       <role>Child</role>
@@ -26,7 +29,7 @@
           <w>world</w>
           <w>isn't</w>
           <w>this</w>
-          <w>gonna<replacement real="false"><w>going</w><w>to</w></replacement></w>
+          <w>gonna<replacement><w>going</w><w>to</w></replacement></w>
           <t type="q"/>
         </u>
       </orthography>

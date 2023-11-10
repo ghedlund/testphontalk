@@ -20,7 +20,7 @@
     <r speaker="SUB">
       <orthography>
         <u>
-          <w>lil<replacement real="false"><w>little</w></replacement></w>
+          <w>lil<replacement><w>little</w></replacement></w>
           <t type="p"/>
         </u>
       </orthography>

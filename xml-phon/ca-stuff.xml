@@ -2,6 +2,10 @@
 <session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="CLAPIcf" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>fra</languages>
   <mediaLocation>ca-stuff</mediaLocation>
+  <metadata>
+    <md key="Mediatypes">audio</md>
+    <md key="Options">CA</md>
+  </metadata>
   <participants>
     <participant id="MAN">
       <role>Adult</role>

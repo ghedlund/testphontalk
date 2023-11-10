@@ -74,6 +74,9 @@
         </u>
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Intonation">
+        <tierData><tw>„</tw><tw>‡</tw></tierData>
+      </userTier>
       <userTier name="Morphology">
         <mors>
           <mor><mw><pos><c>pro</c></pos><stem>it</stem></mw></mor>
@@ -89,9 +92,6 @@
           <mor><mw><pos><c>pro</c></pos><stem>it</stem></mw></mor>
           <mor><mt type="q"/></mor>
         </mors>
-      </userTier>
-      <userTier name="Intonation">
-        <tierData><tw>„</tw><tw>‡</tw></tierData>
       </userTier>
     </r>
     <r speaker="CHI">

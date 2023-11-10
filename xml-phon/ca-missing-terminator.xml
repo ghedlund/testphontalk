@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="sample" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>eng</languages>
+  <metadata>
+    <md key="Options">CA</md>
+  </metadata>
   <participants>
     <participant id="MOT">
       <role>Mother</role>

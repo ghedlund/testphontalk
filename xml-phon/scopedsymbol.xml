@@ -45,7 +45,7 @@
     <r speaker="MOT">
       <orthography>
         <u>
-          <g><w>rocking<wk type="cmp"/>house<replacement real="false"><w>rocking<wk type="cmp"/>horse</w></replacement></w><error></error></g>
+          <g><w>rocking<wk type="cmp"/>house<replacement><w>rocking<wk type="cmp"/>horse</w></replacement></w><error></error></g>
           <t type="q"/>
         </u>
       </orthography>
@@ -95,7 +95,7 @@
         <u>
           <w>this</w>
           <w>is</w>
-          <w>child<replacement real="false"><w>a<wk type="cmp"/>er</w><w>b</w></replacement></w>
+          <w>child<replacement><w>a<wk type="cmp"/>er</w><w>b</w></replacement></w>
           <w>speaking</w>
           <t type="p"/>
         </u>
@@ -218,7 +218,7 @@
         <u>
           <w>this</w>
           <w>is</w>
-          <w>child<wk type="cmp"/>child<replacement real="false"><w>a</w><w>b</w></replacement></w>
+          <w>child<wk type="cmp"/>child<replacement><w>a</w><w>b</w></replacement></w>
           <w>speaking</w>
           <t type="p"/>
         </u>

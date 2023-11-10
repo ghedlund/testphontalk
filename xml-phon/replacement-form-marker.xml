@@ -21,7 +21,7 @@
     <r speaker="CHI">
       <orthography>
         <u>
-          <w>form_marker_allowed<replacement real="false"><w formType="neologism">foo</w></replacement></w>
+          <w>form_marker_allowed<replacement><w formType="neologism">foo</w></replacement></w>
           <t type="p"/>
         </u>
       </orthography>

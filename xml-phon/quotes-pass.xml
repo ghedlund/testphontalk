@@ -8,8 +8,8 @@
     </participant>
   </participants>
   <userTiers>
-    <td tierName="Morphology" type="mor" excludeFromAlignment="true"/>
     <td tierName="Comments" type="default" excludeFromAlignment="true"/>
+    <td tierName="Morphology" type="mor" excludeFromAlignment="true"/>
   </userTiers>
   <transcript>
     <r speaker="CHI">
@@ -26,6 +26,9 @@
         </u>
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Comments">
+        <tierData><tw>this</tw><tw>should</tw><tw>pass,</tw><tw>because</tw><tw>MOR</tw><tw>should</tw><tw>not</tw><tw>be</tw><tw>generating</tw><tw>anything</tw><tw>for</tw><tw>the</tw><tw>quotes</tw></tierData>
+      </userTier>
       <userTier name="Morphology">
         <mors>
           <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>she</stem></mw></mor>
@@ -35,9 +38,6 @@
           <mor><mw><pos><c>n</c></pos><stem>cookie</stem><mk type="sfx">PL</mk></mw></mor>
           <mor><mt type="p"/></mor>
         </mors>
-      </userTier>
-      <userTier name="Comments">
-        <tierData><tw>this</tw><tw>should</tw><tw>pass,</tw><tw>because</tw><tw>MOR</tw><tw>should</tw><tw>not</tw><tw>be</tw><tw>generating</tw><tw>anything</tw><tw>for</tw><tw>the</tw><tw>quotes</tw></tierData>
       </userTier>
     </r>
   </transcript>

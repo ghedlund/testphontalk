@@ -8,9 +8,9 @@
     </participant>
   </participants>
   <userTiers>
+    <td tierName="Comments" type="default" excludeFromAlignment="true"/>
     <td tierName="Morphology" type="mor" excludeFromAlignment="true"/>
     <td tierName="GRASP" type="gra" excludeFromAlignment="true"/>
-    <td tierName="Comments" type="default" excludeFromAlignment="true"/>
   </userTiers>
   <transcript>
     <r speaker="CHI">
@@ -24,6 +24,9 @@
         </u>
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Comments">
+        <tierData><tw>this</tw><tw>is</tw><tw>okay</tw><tw>because</tw><tw>parens</tw><tw>can</tw><tw>mark</tw><tw>parts</tw><tw>of</tw><tw>words,</tw><tw>just</tw><tw>not</tw><tw>whole</tw><tw>words</tw></tierData>
+      </userTier>
       <userTier name="Morphology">
         <mors>
           <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>I</stem></mw></mor>
@@ -42,9 +45,6 @@
           <gra index="5" head="2" relation="PUNCT"/>
         </gras>
       </userTier>
-      <userTier name="Comments">
-        <tierData><tw>this</tw><tw>is</tw><tw>okay</tw><tw>because</tw><tw>parens</tw><tw>can</tw><tw>mark</tw><tw>parts</tw><tw>of</tw><tw>words,</tw><tw>just</tw><tw>not</tw><tw>whole</tw><tw>words</tw></tierData>
-      </userTier>
     </r>
     <r speaker="CHI">
       <orthography>
@@ -57,6 +57,9 @@
         </u>
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Comments">
+        <tierData><tw>this</tw><tw>one</tw><tw>should</tw><tw>pass,</tw><tw>because</tw><tw>it</tw><tw>marks</tw><tw>the</tw><tw>omitted</tw><tw>word</tw><tw>correctly</tw></tierData>
+      </userTier>
       <userTier name="Morphology">
         <mors>
           <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>I</stem></mw></mor>
@@ -74,9 +77,6 @@
           <gra index="4" head="2" relation="OBJ"/>
           <gra index="5" head="2" relation="PUNCT"/>
         </gras>
-      </userTier>
-      <userTier name="Comments">
-        <tierData><tw>this</tw><tw>one</tw><tw>should</tw><tw>pass,</tw><tw>because</tw><tw>it</tw><tw>marks</tw><tw>the</tw><tw>omitted</tw><tw>word</tw><tw>correctly</tw></tierData>
       </userTier>
     </r>
   </transcript>

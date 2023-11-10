@@ -3,6 +3,9 @@
   <date>2003-04-29</date>
   <languages>eng</languages>
   <mediaLocation>com-ipa</mediaLocation>
+  <metadata>
+    <md key="Mediatypes">video</md>
+  </metadata>
   <participants>
     <participant id="CHI">
       <role>Target_Child</role>
