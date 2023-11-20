@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Date="2023-10-30" Corpus="other-phon" Lang="CAN">
+  <Participants></Participants>
+  <u who="UNI" uID="u0">
+    <w>truck<mod><pw><stress type="primary"></stress><ph scType="onset"><base>t</base></ph><ph scType="onset"><base>ɹ</base></ph><ph scType="nucleus"><base>ʌ</base></ph><ph scType="coda"><base>k</base></ph><stress type="secondary"></stress><ph scType="onset"><base>d</base></ph><ph scType="onset"><base>ɹ</base></ph><cmph><ph><base>a</base></ph><lig type="breve"></lig><ph><base>ɪ</base></ph></cmph><ph scType="onset"><base>v</base></ph><ph scType="nucleus"><base>ɚ</base></ph></pw></mod></w>
+    <w>driver</w>
+    <t type="missing CA terminator"/>
+    <a type="comments">multisyllabic word with both stresses and a diphthong</a>
+  </u>
+  <u who="UNI" uID="u1">
+    <w>hippopotamus<mod><pw><stress type="secondary"></stress><ph scType="onset"><base>h</base></ph><ph scType="nucleus"><base>ɪ</base></ph><pp type="syllable break"></pp><ph scType="onset"><base>p</base></ph><ph scType="nucleus"><base>ə</base></ph><stress type="primary"></stress><ph scType="onset"><base>p</base></ph><ph scType="nucleus"><base>ɑ</base></ph><ph scType="onset"><base>ɾ</base></ph><ph scType="nucleus"><base>ə</base></ph><ph scType="onset"><base>m</base></ph><ph scType="nucleus"><base>ə</base></ph><ph scType="coda"><base>s</base></ph></pw></mod></w>
+    <t type="missing CA terminator"/>
+    <a type="comments">forced syllable boundary</a>
+  </u>
+  <u who="UNI" uID="u2">
+    <w>feel<mod><pw><stress type="primary"></stress><ph scType="onset"><base>f</base></ph><ph scType="nucleus"><base>i</base><phlen>ː</phlen></ph><ph scType="coda"><base>ɫ</base></ph></pw></mod></w>
+    <t type="missing CA terminator"/>
+    <a type="comments">phone length simple</a>
+  </u>
+  <u who="UNI" uID="u3">
+    <w>peel<mod><pw><stress type="primary"></stress><ph scType="onset"><base>p</base></ph><ph scType="nucleus"><base>i</base><phlen>ːːː</phlen></ph><ph scType="coda"><base>ɫ</base></ph></pw></mod></w>
+    <t type="missing CA terminator"/>
+    <a type="comments">phone length long</a>
+  </u>
+  <u who="UNI" uID="u4">
+    <w>nkeng<mod><pw><ph scType="onset"><prefix>ᵑ</prefix><base>k</base></ph><ph scType="nucleus"><base>ɛ</base></ph><ph scType="coda"><base>ŋ</base></ph></pw></mod></w>
+    <t type="missing CA terminator"/>
+    <a type="comments">prefix diacritic</a>
+  </u>
+  <u who="UNI" uID="u5">
+    <w>hkeng<mod><pw><ph scType="onset"><prefix>ʰ̵</prefix><base>k</base></ph><ph scType="nucleus"><base>ɛ</base></ph><ph scType="coda"><base>ŋ</base></ph></pw></mod></w>
+    <t type="missing CA terminator"/>
+    <a type="comments">prefix diacritic reversed</a>
+  </u>
+  <u who="UNI" uID="u6">
+    <w>pakh<mod><pw><ph scType="onset"><base>p</base></ph><ph scType="nucleus"><base>a</base></ph><ph scType="coda"><base>k</base><suffix>ʰ</suffix></ph></pw></mod></w>
+    <t type="missing CA terminator"/>
+    <a type="comments">suffix diacritic</a>
+  </u>
+  <u who="UNI" uID="u7">
+    <w>padn<mod><pw><ph scType="onset"><base>p</base></ph><ph scType="nucleus"><base>a</base></ph><ph scType="coda"><base>d</base></ph></pw></mod></w>
+    <t type="missing CA terminator"/>
+    <a type="comments">suffix diacritic reversed</a>
+  </u>
+  <u who="UNI" uID="u8">
+    <w>prank<mod><pw><stress type="primary"></stress><ph scType="onset"><base>p</base></ph><ph scType="onset"><base>ɹ</base><combining>̥</combining></ph><ph scType="nucleus"><base>æ</base><combining>̃</combining></ph><ph scType="coda"><base>ŋ</base></ph><ph scType="coda"><base>k</base></ph></pw></mod></w>
+    <t type="missing CA terminator"/>
+    <a type="comments">combining diacritics</a>
+  </u>
+  <u who="UNI" uID="u9">
+    <w>tone237<mod><pw><stress type="primary"></stress><ph scType="onset"><base>t</base></ph><ph scType="nucleus"><base>o</base></ph><ph scType="coda"><base>n</base><toneNumber>²³⁷</toneNumber></ph></pw></mod></w>
+    <t type="missing CA terminator"/>
+    <a type="comments">tone numbers</a>
+  </u>
+  <u who="UNI" uID="u10">
+    <w>les<mod><pw><ph scType="onset"><base>l</base></ph><ph scType="nucleus"><base>ɛ</base></ph><sandhi type="linker"></sandhi><ph scType="onset"><base>z</base></ph><ph scType="nucleus"><base>a</base></ph><ph scType="onset"><base>m</base></ph><ph scType="nucleus"><base>i</base></ph></pw></mod></w>
+    <w>amis</w>
+    <t type="missing CA terminator"/>
+    <a type="comments">liaison</a>
+  </u>
+  <u who="UNI" uID="u11">
+    <w>an<mod><pw><ph scType="nucleus"><base>ə</base></ph><ph scType="coda"><base>n</base></ph><sandhi type="contraction"></sandhi><ph scType="nucleus"><base>ɪ</base></ph><ph scType="coda"><base>g</base></ph><stress type="primary"></stress><ph scType="onset"><base>z</base></ph><ph scType="nucleus"><base>æ</base></ph><ph scType="coda"><base>m</base></ph><ph scType="onset"><base>p</base></ph><ph scType="nucleus"><base>ɫ</base><combining>̩</combining></ph></pw></mod></w>
+    <w>example</w>
+    <t type="missing CA terminator"/>
+    <a type="comments">linker</a>
+  </u>
+  <u who="UNI" uID="u12">
+    <pg><w>c'</w><w>est</w><mod><pw><ph scType="onset"><base>s</base></ph><ph scType="nucleus"><base>ɛ</base></ph></pw></mod></pg>
+    <w>bien<mod><pw><ph scType="onset"><base>b</base></ph><ph scType="onset"><base>j</base></ph><ph scType="nucleus"><base>ɛ</base><combining>̃</combining></ph></pw></mod></w>
+    <t type="missing CA terminator"/>
+    <a type="comments">phonetic group main line</a>
+  </u>
+  <u who="UNI" uID="u13">
+    <w>paint<mod><pw><stress type="primary"></stress><ph scType="onset"><base>p</base><combining>̆</combining><suffix>ʰ</suffix></ph><ph scType="nucleus"><base>e</base></ph><ph scType="coda"><base>n</base></ph><ph scType="coda"><base>t</base></ph></pw></mod></w>
+    <t type="missing CA terminator"/>
+    <a type="comments">diacritic with combining diacritic</a>
+  </u>
+  <u who="UNI" uID="u14">
+    <w>celle-la<mod><phog><pw><ph><base>s</base></ph><ph><base>e</base></ph></pw><pw><ph><base>l</base></ph><ph><base>a</base></ph></pw></phog></mod></w>
+    <w>une<mod><pw><ph><base>y</base></ph><ph><base>n</base></ph></pw></mod></w>
+    <t type="missing CA terminator"/>
+    <a type="comments">phonetic group IPA</a>
+  </u>
+  <u who="UNI" uID="u15">
+    <pg><w>c'est</w><g><w>la</w><k type="retracing"></k></g><w>une</w><mod><phog><pw><ph><base>s</base></ph><ph><base>e</base></ph></pw><pw><ph><base>l</base></ph><sandhi type="contraction"></sandhi><ph><base>u</base></ph><ph><base>n</base></ph><ph><base>e</base></ph></pw></phog></mod></pg>
+    <w untranscribed="unintelligible">xxx<mod><pw><ph><base>*</base></ph></pw></mod></w>
+    <t type="p"></t>
+    <a type="comments">phonetic group both</a>
+  </u>
+  <u who="UNI" uID="u16">
+    <w>apfel<mod><pw><ph scType="onset"><base>ʔ</base></ph><ph scType="nucleus"><base>a</base></ph><cmph><ph><base>p</base></ph><lig type="breve"></lig><ph><base>f</base></ph></cmph><ph scType="nucleus"><base>ə</base></ph><ph scType="coda"><base>l</base></ph></pw></mod></w>
+    <t type="missing CA terminator"/>
+    <a type="comments">simple compound phone</a>
+  </u>
+  <u who="UNI" uID="u17">
+    <w>kopfw<mod><pw><ph scType="onset"><base>k</base></ph><ph scType="nucleus"><base>ɔ</base></ph><cmph><ph><base>p</base></ph><lig type="breve"></lig><ph><base>f</base><suffix>ʷ</suffix></ph></cmph></pw></mod></w>
+    <t type="missing CA terminator"/>
+    <a type="comments">compound phone with suffix diacritics</a>
+  </u>
+  <u who="UNI" uID="u18">
+    <w>mpfeffer<mod><pw><cmph><ph><prefix>ᵐ</prefix><base>p</base></ph><lig type="breve"></lig><ph><base>f</base></ph></cmph><ph scType="nucleus"><base>ɛ</base></ph><ph scType="onset"><base>f</base></ph><ph scType="nucleus"><base>ə</base></ph><ph scType="coda"><base>ʀ</base></ph></pw></mod></w>
+    <t type="missing CA terminator"/>
+    <a type="comments">compound phone with prefix diacritics</a>
+  </u>
+</CHAT>
