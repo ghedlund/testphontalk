@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="tiers" corpus="other-phon" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <participants>
+    <participant id="CHI">
+      <role>Target_Child</role>
+    </participant>
+  </participants>
+  <userTiers>
+    <td tierName="Test Tier" type="default" excludeFromAlignment="false"/>
+    <td tierName="Test Tier Copy" type="default" excludeFromAlignment="false"/>
+    <td tierName="MyTier" type="default" excludeFromAlignment="false"/>
+  </userTiers>
+  <tierOrder>
+    <tierView tierName="Orthography" visible="true" locked="false" font="default"/>
+    <tierView tierName="IPA Target" visible="true" locked="false" font="default"/>
+    <tierView tierName="IPA Actual" visible="true" locked="false" font="default"/>
+    <tierView tierName="Test Tier" visible="true" locked="false" font="default"/>
+    <tierView tierName="Test Tier Copy" visible="true" locked="false" font="default"/>
+    <tierView tierName="MyTier" visible="true" locked="false" font="default"/>
+  </tierOrder>
+  <transcript>
+    <comment type="Generic">
+      <tierData><tw>Testing</tw><tw>tier</tw><tw>name</tw><tw>mapping</tw><tw>between</tw><tw>Phon</tw><tw>and</tw><tw>CHAT</tw></tierData>
+    </comment>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>test</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><ph><base>A</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><ph><base>B</base></ph></pw></pho>
+      </ipaActual>
+      <alignment>
+        <pm target="0" actual="0">
+          <top>-1 0</top>
+          <bottom>0 -1</bottom>
+        </pm>
+      </alignment>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Test Tier">
+        <tierData><tw>one</tw></tierData>
+      </userTier>
+      <userTier name="Test Tier Copy">
+        <tierData><tw>two</tw></tierData>
+      </userTier>
+      <userTier name="MyTier">
+        <tierData><tw>three</tw></tierData>
+      </userTier>
+    </r>
+  </transcript>
+</session>

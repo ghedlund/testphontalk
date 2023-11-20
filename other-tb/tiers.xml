@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Corpus="other-phon" Lang="CAN">
+  <Participants>
+    <participant id="CHI" role="Target_Child" language=""/>
+  </Participants>
+  <comment type="Generic">%xTestTie = Test Tier</comment>
+  <comment type="Generic">%xTestTi1 = Test Tier Copy</comment>
+  <comment type="Generic">Testing tier name mapping between Phon and CHAT</comment>
+  <u who="CHI" uID="u0">
+    <w>test<mod><pw><ph><base>A</base></ph></pw></mod><pho><pw><ph><base>B</base></ph></pw></pho></w>
+    <t type="p"></t>
+    <a type="extension" flavor="TestTie">one</a>
+    <a type="extension" flavor="TestTi1">two</a>
+    <a type="extension" flavor="MyTier">three</a>
+  </u>
+</CHAT>
