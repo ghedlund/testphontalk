@@ -18,7 +18,7 @@
     <comment type="Generic">
       <tierData><tw>Form</tw><tw>marker</tw><tw>can</tw><tw>have</tw><tw>subword</tw><tw>content</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w formType="babbling">mom<p type="drawl"/>my</w>

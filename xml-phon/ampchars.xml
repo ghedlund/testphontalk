@@ -18,7 +18,7 @@
     <comment type="Generic">
       <tierData><tw>phonological</tw><tw>fragments</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>foo</w>

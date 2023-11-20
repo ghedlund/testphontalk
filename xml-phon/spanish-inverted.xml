@@ -24,7 +24,7 @@
     <comment type="Generic">
       <tierData><tw>2</tw><tw>095</tw><tw>China</tw></tierData>
     </comment>
-    <r speaker="PAR">
+    <r speaker="PAR" id="u0">
       <orthography>
         <u>
           <w>cómo</w>
@@ -37,7 +37,7 @@
         <tierData><tw>¿comó</tw><tw>estás?</tw></tierData>
       </userTier>
     </r>
-    <r speaker="PAR">
+    <r speaker="PAR" id="u1">
       <orthography>
         <u>
           <w>hace</w>
@@ -52,7 +52,7 @@
         <tierData><tw>hace</tw><tw>mucho</tw><tw>sin</tw><tw>verte.</tw></tierData>
       </userTier>
     </r>
-    <r speaker="PAR">
+    <r speaker="PAR" id="u2">
       <orthography>
         <u>
           <w>todo</w>
@@ -65,7 +65,7 @@
         <tierData><tw>ʕtodo</tw><tw>bien?</tw></tierData>
       </userTier>
     </r>
-    <r speaker="PAR">
+    <r speaker="PAR" id="u3">
       <orthography>
         <u>
           <w>no</w>
@@ -86,7 +86,7 @@
         <tierData><tw>no</tw><tw>&lt;la&gt;</tw><tw>[//]</tw><tw>lo</tw><tw>conozco</tw><tw>la</tw><tw>gente</tw><tw>de</tw><tw>curso</tw><tw>de</tw><tw>español.</tw></tierData>
       </userTier>
     </r>
-    <r speaker="PAR">
+    <r speaker="PAR" id="u4">
       <orthography>
         <u>
           <w>pero</w>
@@ -101,7 +101,7 @@
         <tierData><tw>pero</tw><tw>me</tw><tw>interesa</tw><tw>mucho.</tw></tierData>
       </userTier>
     </r>
-    <r speaker="PAR">
+    <r speaker="PAR" id="u5">
       <orthography>
         <u>
           <w>yo</w>
@@ -116,7 +116,7 @@
         <tierData><tw>yo</tw><tw>puedo</tw><tw>&lt;venir&gt;</tw><tw>[//]</tw><tw>ir.</tw></tierData>
       </userTier>
     </r>
-    <r speaker="PAR">
+    <r speaker="PAR" id="u6">
       <orthography>
         <u>
           <w>yo</w>
@@ -138,7 +138,7 @@
         <tierData><tw>Yo</tw><tw>puedo</tw><tw>traer</tw><tw>una</tw><tw>campaña,</tw><tw>un</tw><tw>paston</tw><tw>y</tw><tw>&lt;las</tw><tw>comidas&gt;</tw><tw>[//]</tw><tw>las</tw><tw>comidas.</tw></tierData>
       </userTier>
     </r>
-    <r speaker="PAR">
+    <r speaker="PAR" id="u7">
       <orthography>
         <u>
           <w>es</w>
@@ -151,7 +151,7 @@
         <tierData><tw>¿es</tw><tw>sufisiente?</tw></tierData>
       </userTier>
     </r>
-    <r speaker="PAR">
+    <r speaker="PAR" id="u8">
       <orthography>
         <u>
           <w>dime</w>
@@ -168,7 +168,7 @@
         <tierData><tw>Dime</tw><tw>que</tw><tw>más</tw><tw>tengo</tw><tw>que</tw><tw>traer.</tw></tierData>
       </userTier>
     </r>
-    <r speaker="PAR">
+    <r speaker="PAR" id="u9">
       <orthography>
         <u>
           <w>también</w>
@@ -188,7 +188,7 @@
         <tierData><tw>también</tw><tw>Dime</tw><tw>la</tw><tw>ficha</tw><tw>&lt;xxx&gt;</tw><tw>[//]</tw><tw>concleta</tw><tw>para</tw><tw>&lt;xxx&gt;</tw><tw>[//]</tw><tw>quidernos.</tw></tierData>
       </userTier>
     </r>
-    <r speaker="PAR">
+    <r speaker="PAR" id="u10">
       <orthography>
         <u>
           <w>un</w>
@@ -201,7 +201,7 @@
         <tierData><tw>un</tw><tw>saludo.</tw></tierData>
       </userTier>
     </r>
-    <r speaker="PAR">
+    <r speaker="PAR" id="u11">
       <orthography>
         <u>
           <w>Sanem</w>

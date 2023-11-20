@@ -39,7 +39,7 @@
     </participant>
   </participants>
   <transcript>
-    <r speaker="FRED">
+    <r speaker="FRED" id="u0">
       <orthography>
         <u>
           <w>it's</w>
@@ -58,7 +58,7 @@
       </orthography>
       <segment start="1139.850" end="1140.362" unit="s"/>
     </r>
-    <r speaker="WESS">
+    <r speaker="WESS" id="u1">
       <orthography>
         <u>
           <overlap-point start-end="start" top-bottom="bottom"/>
@@ -69,7 +69,7 @@
       </orthography>
       <segment start="1139.975" end="1140.362" unit="s"/>
     </r>
-    <r speaker="JO">
+    <r speaker="JO" id="u2">
       <orthography>
         <u>
           <overlap-point start-end="start" top-bottom="bottom"/>
@@ -81,7 +81,7 @@
       </orthography>
       <segment start="1139.984" end="1140.875" unit="s"/>
     </r>
-    <r speaker="FRED">
+    <r speaker="FRED" id="u3">
       <orthography>
         <u>
           <overlap-point index="2" start-end="start" top-bottom="bottom"/>
@@ -97,7 +97,7 @@
       </orthography>
       <segment start="1140.362" end="1141.652" unit="s"/>
     </r>
-    <r speaker="JO">
+    <r speaker="JO" id="u4">
       <orthography>
         <u>
           <w>ye<overlap-point index="2" start-end="end" top-bottom="top"/><overlap-point index="3" start-end="start" top-bottom="bottom"/><p type="drawl"/>s</w>

@@ -13,7 +13,7 @@
     <comment type="Generic">
       <tierData><tw>retrace</tw><tw>in</tw><tw>a</tw><tw>group</tw><tw>can</tw><tw>be</tw><tw>followed</tw><tw>by</tw><tw>something</tw><tw>after</tw><tw>group</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <g><g><w>ingroup</w><k type="retracing"/></g><overlap type="overlap precedes"/></g>

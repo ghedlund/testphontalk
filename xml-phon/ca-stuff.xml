@@ -19,7 +19,7 @@
     </participant>
   </participants>
   <transcript>
-    <r speaker="SIM">
+    <r speaker="SIM" id="u0">
       <orthography>
         <u>
           <overlap-point start-end="start" top-bottom="bottom"/>

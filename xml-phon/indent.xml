@@ -22,7 +22,7 @@
     </participant>
   </participants>
   <transcript>
-    <r speaker="ROY">
+    <r speaker="ROY" id="u0">
       <orthography>
         <u>
           <overlap-point start-end="start" top-bottom="top"/>
@@ -36,7 +36,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="PETE">
+    <r speaker="PETE" id="u1">
       <orthography>
         <u>
           <overlap-point start-end="start" top-bottom="bottom"/>
@@ -47,7 +47,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MARI">
+    <r speaker="MARI" id="u2">
       <orthography>
         <u>
           <overlap-point index="2" start-end="start" top-bottom="bottom"/>
@@ -58,7 +58,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="PETE">
+    <r speaker="PETE" id="u3">
       <orthography>
         <u>
           <overlap-point index="3" start-end="start" top-bottom="top"/>
@@ -69,7 +69,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MARI">
+    <r speaker="MARI" id="u4">
       <orthography>
         <u>
           <overlap-point index="3" start-end="start" top-bottom="bottom"/>
@@ -80,7 +80,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MARI">
+    <r speaker="MARI" id="u5">
       <orthography>
         <u>
           <overlap-point index="4" start-end="start" top-bottom="top"/>
@@ -91,7 +91,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="ROY">
+    <r speaker="ROY" id="u6">
       <orthography>
         <u>
           <overlap-point index="4" start-end="start" top-bottom="bottom"/>
@@ -105,7 +105,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="PETE">
+    <r speaker="PETE" id="u7">
       <orthography>
         <u>
           <overlap-point index="4" start-end="start" top-bottom="bottom"/>

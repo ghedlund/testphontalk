@@ -21,7 +21,7 @@
     <comment type="Generic">
       <tierData><tw>Simple</tw><tw>example</tw></tierData>
     </comment>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u0">
       <orthography>
         <u>
           <w>the</w>
@@ -44,7 +44,7 @@
         </mors>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u1">
       <orthography>
         <u>
           <w>hi</w>

@@ -40,7 +40,7 @@
     <comment type="Generic">
       <tierData><tw>Test</tw><tw>pho</tw><tw>with</tw><tw>replacement.</tw></tierData>
     </comment>
-    <r speaker="EXP">
+    <r speaker="EXP" id="u0">
       <orthography>
         <u>
           <pg><w>a</w></pg>

@@ -32,7 +32,7 @@
     <comment type="Generic">
       <tierData><tw>mor</tw><tw>translation</tw><tw>with</tw><tw>gra</tw></tierData>
     </comment>
-    <r speaker="FAT">
+    <r speaker="FAT" id="u0">
       <orthography>
         <u>
           <w type="nonword">a</w>
@@ -41,7 +41,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="FAT">
+    <r speaker="FAT" id="u1">
       <orthography>
         <u>
           <w>Hagāri</w>
@@ -62,7 +62,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u2">
       <orthography>
         <u>
           <w>ma</w>

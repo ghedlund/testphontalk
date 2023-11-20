@@ -31,7 +31,7 @@
     <comment type="Generic">
       <tierData><tw>Translations</tw><tw>for</tw><tw>each</tw><tw>part.</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>in<wk type="cli"/>the</w>

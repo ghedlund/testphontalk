@@ -23,7 +23,7 @@
     <td tierName="Coding" type="default" excludeFromAlignment="true"/>
   </userTiers>
   <transcript>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>foo</w>

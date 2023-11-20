@@ -20,7 +20,7 @@
     <comment type="Generic">
       <tierData><tw>test</tw><tw>media</tw><tw>header</tw><tw>missing,</tw><tw>no</tw><tw>bullets</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>foo</w>

@@ -21,7 +21,7 @@
     <comment type="Generic">
       <tierData><tw>a@nv:foo</tw><tw>.</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>not</w>

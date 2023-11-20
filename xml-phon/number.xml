@@ -15,7 +15,7 @@
     </participant>
   </participants>
   <transcript>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>ha6</w>
@@ -25,7 +25,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u1">
       <orthography>
         <u>
           <w>piao4<p type="drawl"/>liang4</w>

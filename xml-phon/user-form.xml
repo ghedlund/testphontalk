@@ -18,7 +18,7 @@
     <comment type="Generic">
       <tierData><tw>@z:foo</tw><tw>user</tw><tw>special</tw><tw>form</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>this</w>

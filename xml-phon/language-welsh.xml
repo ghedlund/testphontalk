@@ -22,7 +22,7 @@
     <comment type="Generic">
       <tierData><tw>Welsh</tw><tw>allows</tw><tw>numbers:</tw><tw>a</tw><tw>hack</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>a</w>

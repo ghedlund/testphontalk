@@ -18,7 +18,7 @@
     <comment type="Generic">
       <tierData><tw>Test</tw><tw>new</tw><tw>pho</tw><tw>with</tw><tw>mod</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <pg><w>A</w></pg>

@@ -18,7 +18,7 @@
     <comment type="Generic">
       <tierData><tw>replacement</tw><tw>[:</tw><tw>foo]</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>only_one_allowed<replacement><w>foo</w></replacement></w>

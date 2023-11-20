@@ -15,7 +15,7 @@
     <comment type="Generic">
       <tierData><tw>@s</tw><tw>with</tw><tw>no</tw><tw>space</tw><tw>after</tw><tw>it</tw></tierData>
     </comment>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u0">
       <orthography>
         <u>
           <w>what's</w>

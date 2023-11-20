@@ -18,7 +18,7 @@
     <comment type="Generic">
       <tierData><tw>German</tw><tw>allows</tw><tw>caps</tw><tw>in</tw><tw>compounds</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>Foo<wk type="cmp"/>Bar</w>

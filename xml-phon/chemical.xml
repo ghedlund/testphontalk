@@ -18,7 +18,7 @@
     <comment type="Generic">
       <tierData><tw>chemical</tw><tw>formula</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <e><happening>C17H21NO4</happening></e>

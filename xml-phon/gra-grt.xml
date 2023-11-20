@@ -39,7 +39,7 @@
     <comment type="Generic">
       <tierData><tw>simplest</tw><tw>gra</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>more</w>
@@ -67,7 +67,7 @@
     <comment type="Generic">
       <tierData><tw>with</tw><tw>postclitic</tw></tierData>
     </comment>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u1">
       <orthography>
         <u>
           <w>where's</w>
@@ -115,7 +115,7 @@
     <comment type="Generic">
       <tierData><tw>with</tw><tw>compound</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u2">
       <orthography>
         <u>
           <w>ice<wk type="cmp"/>cream</w>
@@ -139,7 +139,7 @@
     <comment type="Generic">
       <tierData><tw>with</tw><tw>compound</tw><tw>and</tw><tw>postclitic</tw></tierData>
     </comment>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u3">
       <orthography>
         <u>
           <w>you</w>

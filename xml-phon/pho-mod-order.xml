@@ -41,7 +41,7 @@
     <comment type="Generic">
       <tierData><tw>Test</tw><tw>%mod</tw><tw>and</tw><tw>%pho</tw><tw>order.</tw><tw>TODO</tw><tw>Round</tw><tw>trip.</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <pg><w>oh</w></pg>

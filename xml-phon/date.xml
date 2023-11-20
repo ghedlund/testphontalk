@@ -29,7 +29,7 @@
     <comment type="Date">
       <tierData><tw>29-FEB-1996</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>foo</w>

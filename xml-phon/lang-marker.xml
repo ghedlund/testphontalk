@@ -22,7 +22,7 @@
     <comment type="Generic">
       <tierData><tw>@s,</tw><tw>default:</tw><tw>round</tw><tw>trip</tw><tw>will</tw><tw>generate</tw><tw>explicit</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>hey</w>
@@ -38,7 +38,7 @@
     <comment type="Generic">
       <tierData><tw>@s,</tw><tw>one</tw><tw>explicit</tw><tw>lang</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u1">
       <orthography>
         <u>
           <w>hey</w>
@@ -54,7 +54,7 @@
     <comment type="Generic">
       <tierData><tw>@s,</tw><tw>two</tw><tw>langs</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u2">
       <orthography>
         <u>
           <w>hey</w>
@@ -70,7 +70,7 @@
     <comment type="Generic">
       <tierData><tw>@s,</tw><tw>two</tw><tw>langs,</tw><tw>ambiguous</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u3">
       <orthography>
         <u>
           <w><langs><single>spa</single></langs>hey</w>

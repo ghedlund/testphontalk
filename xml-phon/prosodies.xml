@@ -18,7 +18,7 @@
     <comment type="Generic">
       <tierData><tw>prosodies</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>a</w>
@@ -32,7 +32,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u1">
       <orthography>
         <u>
           <g><w>ik</w><w>heb</w><w>g<p type="drawl"/>epuzzeld</w><ga type="explanation">silly</ga></g>

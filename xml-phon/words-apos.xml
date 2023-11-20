@@ -18,7 +18,7 @@
     <comment type="Generic">
       <tierData><tw>words</tw><tw>with</tw><tw>apostrophe</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>foo</w>

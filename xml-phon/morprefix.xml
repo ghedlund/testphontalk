@@ -30,7 +30,7 @@
     <td tierName="Morphology" type="mor" excludeFromAlignment="true"/>
   </userTiers>
   <transcript>
-    <r speaker="INV">
+    <r speaker="INV" id="u0">
       <orthography>
         <u>
           <w>Ethan's</w>

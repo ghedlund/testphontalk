@@ -20,7 +20,7 @@
     <comment type="Generic">
       <tierData><tw>pause</tw><tw>cannot</tw><tw>have</tw><tw>comment</tw><tw>unless</tw><tw>wrapped</tw><tw>in</tw><tw>group</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <g><pause symbolic-length="simple" length="0.400"/><ga type="explanation">WHO CHI TYPE walking</ga></g>

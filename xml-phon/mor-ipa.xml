@@ -21,7 +21,7 @@
     <comment type="Generic">
       <tierData><tw>Simple</tw><tw>example</tw></tierData>
     </comment>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u0">
       <orthography>
         <u>
           <g><w formType="UNIBET">kɛstɰə˞<replacement real="true"><w>giftware</w></replacement></w><error>n:k</error></g>

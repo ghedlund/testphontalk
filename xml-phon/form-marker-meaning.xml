@@ -21,7 +21,7 @@
     <comment type="Generic">
       <tierData><tw>one@m:card:n</tw><tw>jack@m:card:n</tw><tw>hello@m:hi</tw><tw>word@m:p</tw><tw>.</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>not</w>

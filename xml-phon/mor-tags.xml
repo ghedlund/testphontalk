@@ -17,7 +17,7 @@
     <comment type="Generic">
       <tierData><tw>tag</tw><tw>markers,</tw><tw>including</tw><tw>comma</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>it</w>
@@ -54,7 +54,7 @@
         </mors>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u1">
       <orthography>
         <u>
           <w>it</w>
@@ -94,7 +94,7 @@
         </mors>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u2">
       <orthography>
         <u>
           <w>it</w>

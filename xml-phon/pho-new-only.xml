@@ -47,7 +47,7 @@
     <comment type="Generic">
       <tierData><tw>Test</tw><tw>new</tw><tw>pho</tw></tierData>
     </comment>
-    <r speaker="EXP">
+    <r speaker="EXP" id="u0">
       <orthography>
         <u>
           <pg><w>entar</w></pg>
@@ -68,7 +68,7 @@
     <comment type="Generic">
       <tierData><tw>With</tw><tw>pho</tw><tw>groups</tw></tierData>
     </comment>
-    <r speaker="EXP">
+    <r speaker="EXP" id="u1">
       <orthography>
         <u>
           <pg><w>entar</w></pg>
@@ -89,7 +89,7 @@
     <comment type="Generic">
       <tierData><tw>retrace</tw><tw>without</tw><tw>groups</tw></tierData>
     </comment>
-    <r speaker="EXP">
+    <r speaker="EXP" id="u2">
       <orthography>
         <u>
           <g><pg><w>mon</w></pg><overlap type="overlap precedes"/><k type="retracing"/></g>
@@ -105,7 +105,7 @@
     <comment type="Generic">
       <tierData><tw>retrace</tw><tw>with</tw><tw>groups</tw></tierData>
     </comment>
-    <r speaker="EXP">
+    <r speaker="EXP" id="u3">
       <orthography>
         <u>
           <g><pg><w>ah</w><w>non</w></pg><overlap type="overlap precedes"/><k type="retracing"/></g>
@@ -121,7 +121,7 @@
     <comment type="Generic">
       <tierData><tw>1-1</tw><tw>group</tw><tw>on</tw><tw>main</tw><tw>line</tw></tierData>
     </comment>
-    <r speaker="EXP">
+    <r speaker="EXP" id="u4">
       <orthography>
         <u>
           <pg><w>c'</w><w>est</w></pg>
@@ -137,7 +137,7 @@
     <comment type="Generic">
       <tierData><tw>1-1</tw><tw>group</tw><tw>on</tw><tw>main</tw><tw>line</tw><tw>for</tw><tw>&amp;=cri</tw></tierData>
     </comment>
-    <r speaker="EXP">
+    <r speaker="EXP" id="u5">
       <orthography>
         <u>
           <pg><e><happening>cri</happening></e></pg>
@@ -153,7 +153,7 @@
     <comment type="Generic">
       <tierData><tw>1-1</tw><tw>group</tw><tw>on</tw><tw>npho</tw><tw>line</tw></tierData>
     </comment>
-    <r speaker="EXP">
+    <r speaker="EXP" id="u6">
       <orthography>
         <u>
           <pg><w>lait</w></pg>
@@ -177,7 +177,7 @@
     <comment type="Generic">
       <tierData><tw>compound</tw></tierData>
     </comment>
-    <r speaker="EXP">
+    <r speaker="EXP" id="u7">
       <orthography>
         <u>
           <pg><w>foo<wk type="cmp"/>bar</w></pg>
@@ -192,7 +192,7 @@
     <comment type="Generic">
       <tierData><tw>retrace</tw><tw>of</tw><tw>simple</tw><tw>word</tw></tierData>
     </comment>
-    <r speaker="EXP">
+    <r speaker="EXP" id="u8">
       <orthography>
         <u>
           <pg><g><w>est</w><k type="retracing"/></g></pg>
@@ -208,7 +208,7 @@
     <comment type="Generic">
       <tierData><tw>fragment</tw><tw>retrace</tw></tierData>
     </comment>
-    <r speaker="EXP">
+    <r speaker="EXP" id="u9">
       <orthography>
         <u>
           <pg><g><w type="nonword">est</w><k type="retracing"/></g></pg>
@@ -224,7 +224,7 @@
     <comment type="Generic">
       <tierData><tw>pho</tw><tw>group</tw><tw>around</tw><tw>regular</tw><tw>group,</tw><tw>and</tw><tw>vice</tw><tw>versa</tw></tierData>
     </comment>
-    <r speaker="EXP">
+    <r speaker="EXP" id="u10">
       <orthography>
         <u>
           <pg><w>est</w><g><w>lait</w><k type="retracing"/></g><w>la</w></pg>
@@ -241,7 +241,7 @@
     <comment type="Generic">
       <tierData><tw>syllable</tw><tw>stress</tw></tierData>
     </comment>
-    <r speaker="EXP">
+    <r speaker="EXP" id="u11">
       <orthography>
         <u>
           <pg><w>hello</w></pg>
@@ -260,7 +260,7 @@
     <comment type="Generic">
       <tierData><tw>omission</tw><tw>etc.</tw></tierData>
     </comment>
-    <r speaker="EXP">
+    <r speaker="EXP" id="u12">
       <orthography>
         <u>
           <pg><w>hello</w></pg>
@@ -276,7 +276,7 @@
     <comment type="Generic">
       <tierData><tw>yyy</tw><tw>has</tw><tw>pho</tw></tierData>
     </comment>
-    <r speaker="EXP">
+    <r speaker="EXP" id="u13">
       <orthography>
         <u>
           <pg><w untranscribed="unintelligible-with-pho">yyy</w></pg>
@@ -288,7 +288,7 @@
       </ipaActual>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="EXP">
+    <r speaker="EXP" id="u14">
       <orthography>
         <u>
           <pg><w type="nonword">notomitted</w></pg>
@@ -300,7 +300,7 @@
       </ipaActual>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="EXP">
+    <r speaker="EXP" id="u15">
       <orthography>
         <u>
           <pg><w type="filler">notomitted</w></pg>
@@ -312,7 +312,7 @@
       </ipaActual>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="EXP">
+    <r speaker="EXP" id="u16">
       <orthography>
         <u>
           <pg><w type="fragment">notomitted</w></pg>
@@ -324,7 +324,7 @@
       </ipaActual>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="EXP">
+    <r speaker="EXP" id="u17">
       <orthography>
         <u>
           <pg><w>hello</w></pg>
@@ -340,7 +340,7 @@
     <comment type="Generic">
       <tierData><tw>xxx</tw><tw>has</tw><tw>*</tw></tierData>
     </comment>
-    <r speaker="EXP">
+    <r speaker="EXP" id="u18">
       <orthography>
         <u>
           <pg><w>Yvan</w></pg>

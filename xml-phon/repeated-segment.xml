@@ -14,7 +14,7 @@
     <comment type="Generic">
       <tierData><tw>segment</tw><tw>repetition</tw><tw>inside</tw><tw>word</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>an<ca-delimiter type="begin" label="repeated-segment"/>d-d-d-d-d-d<ca-delimiter type="end" label="repeated-segment"/>d</w>
@@ -25,7 +25,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u1">
       <orthography>
         <u>
           <w>mommy</w>
@@ -37,7 +37,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u2">
       <orthography>
         <u>
           <w><ca-delimiter type="begin" label="repeated-segment"/>w<p type="drawl"/><ca-delimiter type="end" label="repeated-segment"/>what's</w>
@@ -48,7 +48,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u3">
       <orthography>
         <u>
           <g><w><ca-delimiter type="begin" label="repeated-segment"/>bo<p type="drawl"/>-bo<p type="drawl"/><ca-delimiter type="end" label="repeated-segment"/>both</w><k type="retracing"/></g>
@@ -58,7 +58,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u4">
       <orthography>
         <u>
           <w><ca-delimiter type="begin" label="repeated-segment"/>h-h<ca-delimiter type="end" label="repeated-segment"/>hit</w>
@@ -68,7 +68,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u5">
       <orthography>
         <u>
           <w><ca-element type="blocked segments"/><ca-delimiter type="begin" label="repeated-segment"/>i<ca-delimiter type="end" label="repeated-segment"/>it</w>
@@ -78,7 +78,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u6">
       <orthography>
         <u>
           <w><ca-delimiter type="begin" label="repeated-segment"/>the-the<ca-delimiter type="end" label="repeated-segment"/><ca-element type="blocked segments"/>then</w>

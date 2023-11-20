@@ -20,7 +20,7 @@
     <comment type="Generic">
       <tierData><tw>pause</tw><tw>starting</tw><tw>with</tw><tw>0.</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <pause symbolic-length="simple" length="0.400"/>
@@ -29,7 +29,7 @@
       </orthography>
       <segment start="0.000" end="4.818" unit="s"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u1">
       <orthography>
         <u>
           <g><w>hey</w><w>you</w><pause symbolic-length="simple"/><ga type="explanation">hey you</ga></g>

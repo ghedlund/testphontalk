@@ -22,7 +22,7 @@
     <comment type="Generic">
       <tierData><tw>Elements</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>blocked</w>
@@ -33,7 +33,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u1">
       <orthography>
         <u>
           <w>a</w>
@@ -44,7 +44,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u2">
       <orthography>
         <u>
           <w>a</w>
@@ -55,7 +55,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u3">
       <orthography>
         <u>
           <w>a</w>
@@ -65,7 +65,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u4">
       <orthography>
         <u>
           <w>a</w>
@@ -75,7 +75,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u5">
       <orthography>
         <u>
           <w>a</w>
@@ -86,7 +86,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u6">
       <orthography>
         <u>
           <w>a</w>
@@ -101,7 +101,7 @@
     <comment type="Generic">
       <tierData><tw>CA</tw><tw>overlaps</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u7">
       <orthography>
         <u>
           <w>a</w>
@@ -120,7 +120,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u8">
       <orthography>
         <u>
           <w>a</w>
@@ -139,7 +139,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u9">
       <orthography>
         <u>
           <w>a</w>
@@ -157,7 +157,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u10">
       <orthography>
         <u>
           <w>a</w>
@@ -178,7 +178,7 @@
     <comment type="Generic">
       <tierData><tw>CA</tw><tw>overlaps</tw><tw>,</tw><tw>inside</tw><tw>groups</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u11">
       <orthography>
         <u>
           <g><w>a</w><overlap-point start-end="start" top-bottom="top"/><w>top</w><w>begin</w><w>overlap</w><tagMarker type="comma"/><w>top</w><w>end</w><w>overlap</w><overlap-point start-end="end" top-bottom="top"/><w>here</w><ga type="explanation">foo</ga></g>
@@ -187,7 +187,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u12">
       <orthography>
         <u>
           <g><w>a</w><overlap-point start-end="start" top-bottom="bottom"/><w>bottom</w><w>begin</w><w>overlap</w><tagMarker type="comma"/><w>bottom</w><w>end</w><w>overlap</w><overlap-point start-end="end" top-bottom="bottom"/><w>there</w><ga type="explanation">foo</ga></g>
@@ -196,7 +196,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u13">
       <orthography>
         <u>
           <g><w>a</w><overlap-point start-end="start" top-bottom="top"/><w>top</w><w>begin</w><w>overlap</w><tagMarker type="comma"/><w>top</w><w>end</w><w>overlap<overlap-point start-end="end" top-bottom="top"/></w><w>here</w><ga type="explanation">foo</ga></g>
@@ -205,7 +205,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u14">
       <orthography>
         <u>
           <g><w>a</w><overlap-point start-end="start" top-bottom="bottom"/><w>bottom</w><w>begin</w><w>overlap</w><tagMarker type="comma"/><w>bottom</w><w>end</w><w>overlap<overlap-point start-end="end" top-bottom="bottom"/></w><w>there</w><ga type="explanation">foo</ga></g>
@@ -217,7 +217,7 @@
     <comment type="Generic">
       <tierData><tw>Segment</tw><tw>repetition</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u15">
       <orthography>
         <u>
           <w><ca-delimiter type="begin" label="repeated-segment"/>s-s-s<ca-delimiter type="end" label="repeated-segment"/>segment</w>
@@ -226,7 +226,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u16">
       <orthography>
         <u>
           <w><ca-delimiter type="begin" label="repeated-segment"/>s-s-s<ca-delimiter type="end" label="repeated-segment"/>seg<ca-delimiter type="begin" label="repeated-segment"/>m-m-m-m<ca-delimiter type="end" label="repeated-segment"/>ments</w>
@@ -238,7 +238,7 @@
     <comment type="Generic">
       <tierData><tw>Unmatched</tw><tw>delimiters</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u17">
       <orthography>
         <u>
           <w>a</w>
@@ -248,7 +248,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u18">
       <orthography>
         <u>
           <w>a</w>
@@ -258,7 +258,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u19">
       <orthography>
         <u>
           <w>a</w>
@@ -268,7 +268,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u20">
       <orthography>
         <u>
           <w>a</w>
@@ -278,7 +278,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u21">
       <orthography>
         <u>
           <w>a</w>
@@ -288,7 +288,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u22">
       <orthography>
         <u>
           <w>a</w>
@@ -298,7 +298,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u23">
       <orthography>
         <u>
           <w>a</w>
@@ -308,7 +308,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u24">
       <orthography>
         <u>
           <w>a</w>
@@ -318,7 +318,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u25">
       <orthography>
         <u>
           <w>a</w>
@@ -328,7 +328,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u26">
       <orthography>
         <u>
           <w>a</w>
@@ -338,7 +338,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u27">
       <orthography>
         <u>
           <w>a</w>
@@ -348,7 +348,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u28">
       <orthography>
         <u>
           <w>a</w>
@@ -361,7 +361,7 @@
     <comment type="Generic">
       <tierData><tw>Unmatched</tw><tw>delimiters</tw><tw>,</tw><tw>in</tw><tw>group</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u29">
       <orthography>
         <u>
           <g><w>a</w><w><ca-delimiter type="begin" label="faster"/>faster<ca-delimiter type="end" label="faster"/></w><ga type="explanation">foo</ga></g>
@@ -370,7 +370,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u30">
       <orthography>
         <u>
           <g><w>a</w><w><ca-delimiter type="begin" label="slower"/>slower<ca-delimiter type="end" label="slower"/></w><ga type="explanation">foo</ga></g>
@@ -379,7 +379,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u31">
       <orthography>
         <u>
           <g><w>a</w><w><ca-delimiter type="begin" label="creaky"/>creaky<ca-delimiter type="end" label="creaky"/></w><ga type="explanation">foo</ga></g>
@@ -388,7 +388,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u32">
       <orthography>
         <u>
           <g><g><w><ca-delimiter type="begin" label="softer"/>softer<ca-delimiter type="end" label="softer"/></w><k type="retracing"/></g><w>soft</w><ga type="explanation">foo</ga></g>
@@ -397,7 +397,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u33">
       <orthography>
         <u>
           <g><w>a</w><w><ca-delimiter type="begin" label="softer"/>softer<ca-delimiter type="end" label="softer"/></w><ga type="explanation">foo</ga></g>
@@ -406,7 +406,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u34">
       <orthography>
         <u>
           <g><w>a</w><w><ca-delimiter type="begin" label="low-pitch"/>lowpitch<ca-delimiter type="end" label="low-pitch"/></w><ga type="explanation">foo</ga></g>
@@ -415,7 +415,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u35">
       <orthography>
         <u>
           <g><w>a</w><w><ca-delimiter type="begin" label="high-pitch"/>highpitch<ca-delimiter type="end" label="high-pitch"/></w><ga type="explanation">foo</ga></g>
@@ -424,7 +424,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u36">
       <orthography>
         <u>
           <g><w>a</w><w><ca-delimiter type="begin" label="smile voice"/>smilevoice<ca-delimiter type="end" label="smile voice"/></w><ga type="explanation">foo</ga></g>
@@ -433,7 +433,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u37">
       <orthography>
         <u>
           <g><w>a</w><w><ca-delimiter type="begin" label="breathy voice"/>breathyvoice<ca-delimiter type="end" label="breathy voice"/></w><ga type="explanation">foo</ga></g>
@@ -442,7 +442,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u38">
       <orthography>
         <u>
           <g><w>a</w><w><ca-delimiter type="begin" label="unsure"/>unsure<ca-delimiter type="end" label="unsure"/></w><ga type="explanation">foo</ga></g>
@@ -451,7 +451,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u39">
       <orthography>
         <u>
           <g><w>a</w><w><ca-delimiter type="begin" label="whisper"/>whisper<ca-delimiter type="end" label="whisper"/></w><ga type="explanation">foo</ga></g>
@@ -460,7 +460,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u40">
       <orthography>
         <u>
           <g><w>a</w><w><ca-delimiter type="begin" label="yawn"/>yawn<ca-delimiter type="end" label="yawn"/></w><ga type="explanation">foo</ga></g>
@@ -469,7 +469,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u41">
       <orthography>
         <u>
           <g><w>a</w><w><ca-delimiter type="begin" label="singing"/>singing<ca-delimiter type="end" label="singing"/></w><ga type="explanation">foo</ga></g>
@@ -481,7 +481,7 @@
     <comment type="Generic">
       <tierData><tw>No</tw><tw>terminator</tw><tw>at</tw><tw>end</tw><tw>of</tw><tw>utterance</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u42">
       <orthography>
         <u>
           <w>rising</w>
@@ -492,7 +492,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u43">
       <orthography>
         <u>
           <w>rising</w>
@@ -503,7 +503,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u44">
       <orthography>
         <u>
           <w>level</w>
@@ -512,7 +512,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u45">
       <orthography>
         <u>
           <w>falling</w>
@@ -523,7 +523,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u46">
       <orthography>
         <u>
           <w>falling</w>
@@ -537,7 +537,7 @@
     <comment type="Generic">
       <tierData><tw>continuations</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u47">
       <orthography>
         <u>
           <w>rising</w>
@@ -551,7 +551,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u48">
       <orthography>
         <u>
           <w>junk</w>
@@ -560,7 +560,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u49">
       <orthography>
         <u>
           <linker type="technical break TCU completion"/>
@@ -570,7 +570,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u50">
       <orthography>
         <u>
           <w>rising</w>
@@ -584,7 +584,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u51">
       <orthography>
         <u>
           <w>junk</w>
@@ -593,7 +593,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u52">
       <orthography>
         <u>
           <linker type="technical break TCU completion"/>
@@ -603,7 +603,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u53">
       <orthography>
         <u>
           <w>level</w>
@@ -615,7 +615,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u54">
       <orthography>
         <u>
           <w>junk</w>
@@ -624,7 +624,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u55">
       <orthography>
         <u>
           <linker type="technical break TCU completion"/>
@@ -634,7 +634,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u56">
       <orthography>
         <u>
           <w>falling</w>
@@ -648,7 +648,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u57">
       <orthography>
         <u>
           <w>junk</w>
@@ -657,7 +657,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u58">
       <orthography>
         <u>
           <linker type="technical break TCU completion"/>
@@ -667,7 +667,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u59">
       <orthography>
         <u>
           <w>falling</w>
@@ -681,7 +681,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u60">
       <orthography>
         <u>
           <w>junk</w>
@@ -690,7 +690,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u61">
       <orthography>
         <u>
           <linker type="technical break TCU completion"/>
@@ -700,7 +700,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u62">
       <orthography>
         <u>
           <w>technical</w>
@@ -712,7 +712,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u63">
       <orthography>
         <u>
           <w>junk</w>
@@ -721,7 +721,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u64">
       <orthography>
         <u>
           <linker type="technical break TCU completion"/>
@@ -731,7 +731,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u65">
       <orthography>
         <u>
           <w>falling</w>
@@ -748,7 +748,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u66">
       <orthography>
         <u>
           <w>junk</w>
@@ -757,7 +757,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u67">
       <orthography>
         <u>
           <linker type="no break TCU completion"/>
@@ -773,7 +773,7 @@
     <comment type="Generic">
       <tierData><tw>CA</tw><tw>separators</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u68">
       <orthography>
         <u>
           <w>foo</w>
@@ -786,7 +786,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u69">
       <orthography>
         <u>
           <w>foo</w>
@@ -799,7 +799,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u70">
       <orthography>
         <u>
           <w>foo</w>
@@ -810,7 +810,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u71">
       <orthography>
         <u>
           <w>foo</w>
@@ -823,7 +823,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u72">
       <orthography>
         <u>
           <w>foo</w>
@@ -836,7 +836,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u73">
       <orthography>
         <u>
           <w>þa<overlap-point start-end="start" top-bottom="top"/>ð</w>
@@ -853,7 +853,7 @@
     <comment type="Generic">
       <tierData><tw>optional</tw><tw>spaces</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u74">
       <orthography>
         <u>
           <w>technical</w>
@@ -865,7 +865,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u75">
       <orthography>
         <u>
           <w>junk</w>
@@ -874,7 +874,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u76">
       <orthography>
         <u>
           <linker type="technical break TCU completion"/>

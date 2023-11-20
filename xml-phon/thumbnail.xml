@@ -23,7 +23,7 @@
     <comment type="T">
       <tierData><tw>first</tw><tw>thumbnail</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <g><w>ryoote</w><w>agete</w><ga type="paralinguistics">singing</ga></g>
@@ -37,7 +37,7 @@
     <comment type="T">
       <tierData><tw>second</tw><tw>thumbnail</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u1">
       <orthography>
         <u>
           <g><w>ryoote</w><w>agete</w><ga type="paralinguistics">singing</ga></g>

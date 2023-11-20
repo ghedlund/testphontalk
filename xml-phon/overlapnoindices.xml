@@ -15,7 +15,7 @@
     </participant>
   </participants>
   <transcript>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <g><w>het</w><w>hele</w><overlap type="overlap precedes"/><k type="retracing"/></g>

@@ -28,7 +28,7 @@
     </participant>
   </participants>
   <transcript>
-    <r speaker="REED">
+    <r speaker="REED" id="u0">
       <orthography>
         <u>
           <pause symbolic-length="long"/>
@@ -39,7 +39,7 @@
       </orthography>
       <segment start="2.589" end="4.447" unit="s"/>
     </r>
-    <r speaker="DARRE">
+    <r speaker="DARRE" id="u1">
       <orthography>
         <u>
           <w>Hey</w>
@@ -48,7 +48,7 @@
       </orthography>
       <segment start="4.447" end="4.934" unit="s"/>
     </r>
-    <r speaker="REED">
+    <r speaker="REED" id="u2">
       <orthography>
         <u>
           <pause symbolic-length="long"/>
@@ -83,7 +83,7 @@
       </orthography>
       <segment start="8.464" end="12.328" unit="s"/>
     </r>
-    <r speaker="DARRE">
+    <r speaker="DARRE" id="u3">
       <orthography>
         <u>
           <pause symbolic-length="simple"/>
@@ -94,7 +94,7 @@
       </orthography>
       <segment start="12.328" end="12.879" unit="s"/>
     </r>
-    <r speaker="DARRE">
+    <r speaker="DARRE" id="u4">
       <orthography>
         <u>
           <e><happening>laugh</happening></e>
@@ -104,7 +104,7 @@
       </orthography>
       <segment start="12.879" end="13.234" unit="s"/>
     </r>
-    <r speaker="SALLY">
+    <r speaker="SALLY" id="u5">
       <orthography>
         <u>
           <e><happening>laugh</happening></e>
@@ -113,7 +113,7 @@
       </orthography>
       <segment start="13.234" end="13.408" unit="s"/>
     </r>
-    <r speaker="REED">
+    <r speaker="REED" id="u6">
       <orthography>
         <u>
           <w>We<p type="drawl"/>ll</w>
@@ -131,7 +131,7 @@
       </orthography>
       <segment start="14.046" end="15.579" unit="s"/>
     </r>
-    <r speaker="DARRE">
+    <r speaker="DARRE" id="u7">
       <orthography>
         <u>
           <overlap-point start-end="start" top-bottom="top"/>
@@ -143,7 +143,7 @@
       </orthography>
       <segment start="15.579" end="16.185" unit="s"/>
     </r>
-    <r speaker="REED">
+    <r speaker="REED" id="u8">
       <orthography>
         <u>
           <overlap-point start-end="start" top-bottom="bottom"/>
@@ -162,7 +162,7 @@
       </orthography>
       <segment start="15.637" end="17.163" unit="s"/>
     </r>
-    <r speaker="ENV">
+    <r speaker="ENV" id="u9">
       <orthography>
         <u>
           <overlap-point index="2" start-end="start" top-bottom="bottom"/>
@@ -173,7 +173,7 @@
       </orthography>
       <segment start="16.212" end="16.788" unit="s"/>
     </r>
-    <r speaker="REED">
+    <r speaker="REED" id="u10">
       <orthography>
         <u>
           <w>so</w>
@@ -187,7 +187,7 @@
       </orthography>
       <segment start="17.163" end="18.591" unit="s"/>
     </r>
-    <r speaker="DARRE">
+    <r speaker="DARRE" id="u11">
       <orthography>
         <u>
           <pause symbolic-length="simple"/>
@@ -202,7 +202,7 @@
       </orthography>
       <segment start="18.969" end="19.619" unit="s"/>
     </r>
-    <r speaker="DARRE">
+    <r speaker="DARRE" id="u12">
       <orthography>
         <u>
           <pause symbolic-length="long"/>
@@ -224,7 +224,7 @@
       </orthography>
       <segment start="19.619" end="21.848" unit="s"/>
     </r>
-    <r speaker="REED">
+    <r speaker="REED" id="u13">
       <orthography>
         <u>
           <overlap-point start-end="start" top-bottom="bottom"/>
@@ -245,7 +245,7 @@
       </orthography>
       <segment start="22.208" end="22.684" unit="s"/>
     </r>
-    <r speaker="DARRE">
+    <r speaker="DARRE" id="u14">
       <orthography>
         <u>
           <pause symbolic-length="long"/>

@@ -41,7 +41,7 @@
     <comment type="Generic">
       <tierData><tw>Language</tw><tw>of</tw><tw>Caregivers</tw><tw>Mother</tw><tw>Southeastern</tw><tw>Massachusetts,</tw><tw>Father</tw><tw>Southeastern</tw><tw>Massachusetts,</tw><tw>Grandmother</tw><tw>Southeastern</tw><tw>Massachusetts;</tw><tw>Speaker</tw><tw>is</tw><tw>Manuela</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>Mommy</w>

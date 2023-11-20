@@ -28,7 +28,7 @@
     <td tierName="Morphology" type="mor" excludeFromAlignment="true"/>
   </userTiers>
   <transcript>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>palma</w>

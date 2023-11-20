@@ -28,7 +28,7 @@
     <td tierName="Morphology" type="mor" excludeFromAlignment="true"/>
   </userTiers>
   <transcript>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>it's</w>
@@ -48,7 +48,7 @@
     <comment type="Generic">
       <tierData><tw>+</tw><tw>with</tw><tw>~</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u1">
       <orthography>
         <u>
           <w>you</w>
@@ -78,7 +78,7 @@
     <comment type="Generic">
       <tierData><tw>this</tw><tw>is</tw><tw>not</tw><tw>legal</tw><tw>for</tw><tw>mor</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u2">
       <orthography>
         <u>
           <w>you</w>

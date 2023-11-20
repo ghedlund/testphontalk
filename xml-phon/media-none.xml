@@ -20,7 +20,7 @@
     <comment type="Generic">
       <tierData><tw>outdated</tw><tw>test</tw><tw>file</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>foo</w>

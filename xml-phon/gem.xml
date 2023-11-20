@@ -29,7 +29,7 @@
       <tierData><tw>example</tw><tw>of</tw><tw>begin</tw><tw>and</tw><tw>end</tw><tw>gems</tw></tierData>
     </comment>
     <gem type="begin">a</gem>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u0">
       <orthography>
         <u>
           <w>what's</w>
@@ -43,7 +43,7 @@
       </userTier>
     </r>
     <gem type="begin"></gem>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u1">
       <orthography>
         <u>
           <w untranscribed="unintelligible-with-pho">yyy</w>
@@ -63,7 +63,7 @@
     </r>
     <gem type="end"></gem>
     <gem type="begin">b</gem>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u2">
       <orthography>
         <u>
           <w>it's</w>
@@ -74,7 +74,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u3">
       <orthography>
         <u>
           <w>yeah</w>
@@ -86,7 +86,7 @@
         <tierData><tw>takes</tw><tw>chicken</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u4">
       <orthography>
         <u>
           <w>yeah</w>
@@ -95,7 +95,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u5">
       <orthography>
         <u>
           <w>what's</w>
@@ -109,7 +109,7 @@
       </userTier>
     </r>
     <gem type="end">a</gem>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u6">
       <orthography>
         <u>
           <w>what</w>
@@ -123,7 +123,7 @@
         <tierData><tw>&lt;1w-3w&gt;</tw><tw>holds</tw><tw>object</tw><tw>out</tw><tw>to</tw><tw>Amy</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u7">
       <orthography>
         <u>
           <w untranscribed="unintelligible-with-pho">yyy</w>
@@ -139,7 +139,7 @@
       </userTier>
     </r>
     <gem type="end">b</gem>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u8">
       <orthography>
         <u>
           <w>it's</w>
@@ -150,7 +150,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u9">
       <orthography>
         <u>
           <w>yeah</w>
@@ -159,7 +159,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u10">
       <orthography>
         <u>
           <w>yeah</w>
@@ -171,7 +171,7 @@
         <tierData><tw>picks</tw><tw>up</tw><tw>object</tw><tw>and</tw><tw>puts</tw><tw>back</tw><tw>in</tw><tw>dollhouse</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u11">
       <orthography>
         <u>
           <w untranscribed="unintelligible">xxx</w>
@@ -187,7 +187,7 @@
         <tierData><tw>&lt;2w&gt;</tw><tw>wu</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u12">
       <orthography>
         <u>
           <w>it's</w>
@@ -198,7 +198,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u13">
       <orthography>
         <u>
           <w>what's</w>
@@ -211,7 +211,7 @@
         <tierData><tw>&lt;1w&gt;</tw><tw>picks</tw><tw>up</tw><tw>object</tw><tw>from</tw><tw>dollhouse</tw><tw>and</tw><tw>holds</tw><tw>out</tw><tw>to</tw><tw>Amy</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u14">
       <orthography>
         <u>
           <w>a</w>
@@ -221,7 +221,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u15">
       <orthography>
         <u>
           <e><action/></e>
@@ -233,7 +233,7 @@
         <tierData><tw>takes</tw><tw>object</tw><tw>and</tw><tw>examines</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u16">
       <orthography>
         <u>
           <w>what's</w>
@@ -246,7 +246,7 @@
         <tierData><tw>picks</tw><tw>up</tw><tw>object</tw><tw>from</tw><tw>dollhouse</tw><tw>and</tw><tw>holds</tw><tw>out</tw><tw>to</tw><tw>Amy</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u17">
       <orthography>
         <u>
           <w>hat</w>
@@ -261,7 +261,7 @@
         <tierData><tw>hi6</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u18">
       <orthography>
         <u>
           <w>is</w>
@@ -273,7 +273,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u19">
       <orthography>
         <u>
           <w>yeah</w>
@@ -288,7 +288,7 @@
         <tierData><tw>spoken</tw><tw>loudly</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u20">
       <orthography>
         <u>
           <w>yeah</w>
@@ -297,7 +297,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u21">
       <orthography>
         <u>
           <w untranscribed="unintelligible-with-pho">yyy</w>
@@ -309,7 +309,7 @@
         <tierData><tw>mA</tw><tw>bI</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u22">
       <orthography>
         <u>
           <w>huh</w>
@@ -321,7 +321,7 @@
         <tierData><tw>&lt;1w&gt;</tw><tw>picks</tw><tw>up</tw><tw>table,</tw><tw>examines</tw><tw>and</tw><tw>puts</tw><tw>in</tw><tw>dollhouse</tw><tw>&lt;1w&gt;</tw><tw>puts</tw><tw>object</tw><tw>in</tw><tw>dollhouse</tw><tw>.</tw><tw>picks</tw><tw>up</tw><tw>chair</tw><tw>and</tw><tw>puts</tw><tw>in</tw><tw>dollhouse</tw><tw>.</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u23">
       <orthography>
         <u>
           <w>oh</w>
@@ -336,7 +336,7 @@
         <tierData><tw>&lt;1w-4w&gt;</tw><tw>picks</tw><tw>up</tw><tw>table,</tw><tw>examines</tw><tw>and</tw><tw>puts</tw><tw>in</tw><tw>dollhouse</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u24">
       <orthography>
         <u>
           <w>there's</w>
@@ -348,7 +348,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u25">
       <orthography>
         <u>
           <w>and</w>
@@ -367,7 +367,7 @@
         <tierData><tw>&lt;dur&gt;</tw><tw>picks</tw><tw>up</tw><tw>another</tw><tw>chair</tw><tw>and</tw><tw>puts</tw><tw>by</tw><tw>table</tw><tw>.</tw><tw>picks</tw><tw>up</tw><tw>man</tw><tw>and</tw><tw>puts</tw><tw>in</tw><tw>chair</tw><tw>&lt;bef&gt;</tw><tw>picks</tw><tw>up</tw><tw>chair</tw><tw>and</tw><tw>puts</tw><tw>down</tw><tw>by</tw><tw>table</tw><tw>.</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u26">
       <orthography>
         <u>
           <w>hey</w>
@@ -382,7 +382,7 @@
         <tierData><tw>points</tw><tw>in</tw><tw>dollhouse</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u27">
       <orthography>
         <u>
           <w formType="interjection">aht</w>
@@ -391,7 +391,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u28">
       <orthography>
         <u>
           <w>ow</w>
@@ -406,7 +406,7 @@
         <tierData><tw>&lt;aft&gt;</tw><tw>picks</tw><tw>up</tw><tw>object</tw><tw>and</tw><tw>holds</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u29">
       <orthography>
         <u>
           <w>hoo<wk type="cmp"/>hoo<wk type="cmp"/>hoo<wk type="cmp"/>hoo<wk type="cmp"/>hoo</w>
@@ -421,7 +421,7 @@
         <tierData><tw>dancing</tw><tw>noises</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u30">
       <orthography>
         <u>
           <w>I</w>
@@ -435,7 +435,7 @@
         <tierData><tw>&lt;1w&gt;</tw><tw>picks</tw><tw>up</tw><tw>ladder</tw><tw>and</tw><tw>examines</tw><tw>.</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u31">
       <orthography>
         <u>
           <w>what's</w>
@@ -448,7 +448,7 @@
         <tierData><tw>&lt;1w&gt;</tw><tw>puts</tw><tw>down</tw><tw>on</tw><tw>side</tw><tw>of</tw><tw>dollhouse</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u32">
       <orthography>
         <u>
           <w>a</w>
@@ -460,7 +460,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u33">
       <orthography>
         <u>
           <e><action/></e>
@@ -472,7 +472,7 @@
         <tierData><tw>puts</tw><tw>object</tw><tw>down</tw><tw>.</tw><tw>takes</tw><tw>two</tw><tw>men</tw><tw>out</tw><tw>of</tw><tw>dollhouse</tw><tw>and</tw><tw>holds</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u34">
       <orthography>
         <u>
           <e><action/></e>
@@ -484,7 +484,7 @@
         <tierData><tw>takes</tw><tw>chair</tw><tw>from</tw><tw>dollhouse</tw><tw>and</tw><tw>puts</tw><tw>on</tw><tw>floor</tw><tw>.</tw><tw>takes</tw><tw>another</tw><tw>chair</tw><tw>out</tw><tw>and</tw><tw>begins</tw><tw>to</tw><tw>put</tw><tw>on</tw><tw>floor</tw><tw>but</tw><tw>stops</tw><tw>.</tw><tw>moves</tw><tw>toward</tw><tw>Amy</tw><tw>and</tw><tw>puts</tw><tw>chair</tw><tw>on</tw><tw>floor</tw><tw>in</tw><tw>front</tw><tw>of</tw><tw>her</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u35">
       <orthography>
         <u>
           <e><action/></e>
@@ -496,7 +496,7 @@
         <tierData><tw>picks</tw><tw>up</tw><tw>chair</tw><tw>out</tw><tw>of</tw><tw>dollhouse,</tw><tw>drops,</tw><tw>picks</tw><tw>up</tw><tw>again</tw><tw>.</tw><tw>begins</tw><tw>tp</tw><tw>put</tw><tw>on</tw><tw>floor</tw><tw>but</tw><tw>stops,</tw><tw>examines,</tw><tw>and</tw><tw>puts</tw><tw>down</tw><tw>by</tw><tw>Mother's</tw><tw>chair</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u36">
       <orthography>
         <u>
           <w>can</w>
@@ -512,7 +512,7 @@
         <tierData><tw>&lt;aft&gt;</tw><tw>opens</tw><tw>dollhouse</tw><tw>door</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u37">
       <orthography>
         <u>
           <w>boom<wk type="cmp"/>boom<wk type="cmp"/>boom<wk type="cmp"/>boom</w>
@@ -527,7 +527,7 @@
         <tierData><tw>walking</tw><tw>noises</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u38">
       <orthography>
         <u>
           <w>yeah</w>
@@ -539,7 +539,7 @@
         <tierData><tw>&lt;aft&gt;</tw><tw>picks</tw><tw>up</tw><tw>chair</tw><tw>with</tw><tw>other</tw><tw>hand</tw><tw>and</tw><tw>holds</tw><tw>both</tw><tw>to</tw><tw>knee</tw><tw>&lt;dur&gt;</tw><tw>lowers</tw><tw>one</tw><tw>man</tw><tw>toward</tw><tw>chair</tw><tw>.</tw><tw>&lt;bef&gt;</tw><tw>manipulates</tw><tw>men,</tw><tw>holding</tw><tw>one</tw><tw>in</tw><tw>each</tw><tw>hand</tw><tw>.</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u39">
       <orthography>
         <u>
           <e><action/></e>
@@ -551,7 +551,7 @@
         <tierData><tw>walks</tw><tw>another</tw><tw>man</tw><tw>out</tw><tw>dollhouse</tw><tw>door</tw><tw>and</tw><tw>puts</tw><tw>in</tw><tw>chair</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u40">
       <orthography>
         <u>
           <w>here</w>
@@ -563,7 +563,7 @@
         <tierData><tw>&lt;dur&gt;</tw><tw>picks</tw><tw>up</tw><tw>man</tw><tw>and</tw><tw>puts</tw><tw>in</tw><tw>car</tw><tw>.</tw><tw>pushes</tw><tw>car</tw><tw>toward</tw><tw>Amy</tw><tw>slightly</tw><tw>&lt;1w&gt;</tw><tw>moves</tw><tw>chair</tw><tw>toward</tw><tw>Amy</tw><tw>slightly</tw><tw>.</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u41">
       <orthography>
         <u>
           <w>go</w>
@@ -578,7 +578,7 @@
         <tierData><tw>&lt;dur&gt;</tw><tw>picks</tw><tw>up</tw><tw>man</tw><tw>and</tw><tw>puts</tw><tw>in</tw><tw>car</tw><tw>.</tw><tw>pushes</tw><tw>car</tw><tw>toward</tw><tw>Amy</tw><tw>slightly</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u42">
       <orthography>
         <u>
           <w>yeah</w>
@@ -587,7 +587,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u43">
       <orthography>
         <u>
           <w>he's</w>
@@ -608,7 +608,7 @@
         <tierData><tw>picks</tw><tw>up</tw><tw>chicken</tw><tw>by</tw><tw>Amy</tw><tw>and</tw><tw>puts</tw><tw>in</tw><tw>car</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u44">
       <orthography>
         <u>
           <w>yeah</w>
@@ -620,7 +620,7 @@
         <tierData><tw>attempts</tw><tw>to</tw><tw>put</tw><tw>man</tw><tw>in</tw><tw>car</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u45">
       <orthography>
         <u>
           <w>yeah</w>
@@ -629,7 +629,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u46">
       <orthography>
         <u>
           <w>yeah</w>
@@ -644,7 +644,7 @@
         <tierData><tw>spoken</tw><tw>loudly</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u47">
       <orthography>
         <u>
           <w>yeah</w>
@@ -653,7 +653,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u48">
       <orthography>
         <u>
           <e><action/></e>
@@ -665,7 +665,7 @@
         <tierData><tw>examines</tw><tw>man</tw><tw>in</tw><tw>hand</tw><tw>.</tw><tw>attempts</tw><tw>to</tw><tw>put</tw><tw>man</tw><tw>in</tw><tw>car</tw><tw>.</tw><tw>knocks</tw><tw>other</tw><tw>man</tw><tw>out</tw><tw>.</tw><tw>succeeds</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u49">
       <orthography>
         <u>
           <w>whoops</w>
@@ -674,7 +674,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u50">
       <orthography>
         <u>
           <w untranscribed="unintelligible">xxx</w>
@@ -689,7 +689,7 @@
         <tierData><tw>car</tw><tw>noises</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u51">
       <orthography>
         <u>
           <e><action/><ga type="paralinguistics">snoring noise</ga></e>
@@ -701,7 +701,7 @@
         <tierData><tw>picks</tw><tw>up</tw><tw>chair</tw><tw>and</tw><tw>puts</tw><tw>on</tw><tw>floor</tw><tw>.</tw><tw>puts</tw><tw>man</tw><tw>in</tw><tw>chair,</tw><tw>tilting</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u52">
       <orthography>
         <u>
           <e><action/><ga type="paralinguistics">laughs</ga><overlap type="overlap follows"/></e>
@@ -710,7 +710,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u53">
       <orthography>
         <u>
           <e><action/><ga type="paralinguistics">laughs</ga><overlap type="overlap precedes"/></e>
@@ -722,7 +722,7 @@
         <tierData><tw>pokes</tw><tw>Amy</tw><tw>in</tw><tw>stomach</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u54">
       <orthography>
         <u>
           <e><action/><ga type="paralinguistics">laughs louder</ga></e>
@@ -734,7 +734,7 @@
         <tierData><tw>pushes</tw><tw>toys</tw><tw>on</tw><tw>floor,</tw><tw>knocks</tw><tw>ladder</tw><tw>and</tw><tw>puts</tw><tw>hands</tw><tw>on</tw><tw>toys</tw><tw>on</tw><tw>floor</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u55">
       <orthography>
         <u>
           <w>uhoh</w>
@@ -746,7 +746,7 @@
         <tierData><tw>&lt;1w&gt;</tw><tw>rights</tw><tw>ladder</tw><tw>.</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u56">
       <orthography>
         <u>
           <w>here</w>
@@ -767,7 +767,7 @@
         <tierData><tw>&lt;1w&gt;</tw><tw>picks</tw><tw>up</tw><tw>dog</tw><tw>and</tw><tw>makes</tw><tw>him</tw><tw>climb</tw><tw>the</tw><tw>ladder</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u57">
       <orthography>
         <u>
           <e><action/><ga type="paralinguistics">chuckles</ga></e>
@@ -779,7 +779,7 @@
         <tierData><tw>pushes</tw><tw>toys</tw><tw>toward</tw><tw>ladder</tw><tw>and</tw><tw>ladder</tw><tw>falls</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u58">
       <orthography>
         <u>
           <w>look</w>
@@ -796,7 +796,7 @@
         <tierData><tw>climbing</tw><tw>noises</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u59">
       <orthography>
         <u>
           <w>look</w>
@@ -805,7 +805,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u60">
       <orthography>
         <u>
           <w>boom<wk type="cmp"/>boom<wk type="cmp"/>boom<wk type="cmp"/>boom</w>
@@ -814,7 +814,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u61">
       <orthography>
         <u>
           <w>ah</w>
@@ -829,7 +829,7 @@
         <tierData><tw>draws</tw><tw>out</tw><tw>the</tw><tw>letter</tw><tw>h</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u62">
       <orthography>
         <u>
           <e><action/></e>
@@ -841,7 +841,7 @@
         <tierData><tw>picks</tw><tw>up</tw><tw>Mother's</tw><tw>man</tw><tw>and</tw><tw>holds</tw><tw>with</tw><tw>other</tw><tw>object</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u63">
       <orthography>
         <u>
           <w>there's</w>
@@ -859,7 +859,7 @@
         <tierData><tw>picks</tw><tw>up</tw><tw>chair</tw><tw>by</tw><tw>Amy</tw><tw>and</tw><tw>puts</tw><tw>down</tw><tw>by</tw><tw>table</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u64">
       <orthography>
         <u>
           <w>there's</w>
@@ -874,7 +874,7 @@
         <tierData><tw>&lt;aft&gt;</tw><tw>reaches</tw><tw>in</tw><tw>dollhouse,</tw><tw>takes</tw><tw>out</tw><tw>object</tw><tw>and</tw><tw>puts</tw><tw>on</tw><tw>floor</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u65">
       <orthography>
         <u>
           <w>ah</w>
@@ -886,7 +886,7 @@
         <tierData><tw>yet</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u66">
       <orthography>
         <u>
           <w untranscribed="unintelligible-with-pho">yyy</w>
@@ -898,7 +898,7 @@
         <tierData><tw>&lt;aft&gt;</tw><tw>picks</tw><tw>up</tw><tw>man</tw><tw>and</tw><tw>holds</tw><tw>.</tw><tw>dog</tw><tw>falls</tw><tw>.</tw><tw>examines</tw><tw>objects</tw><tw>.</tw><tw>lets</tw><tw>another</tw><tw>object</tw><tw>fall</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u67">
       <orthography>
         <u>
           <w>shall</w>
@@ -913,7 +913,7 @@
         <tierData><tw>holds</tw><tw>dog</tw><tw>.</tw><tw>dances</tw><tw>dog</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u68">
       <orthography>
         <u>
           <w untranscribed="unintelligible-with-pho">yyy</w>
@@ -928,7 +928,7 @@
         <tierData><tw>ye+yet</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u69">
       <orthography>
         <u>
           <w>c<shortening>o</shortening>m<shortening>e</shortening></w>
@@ -941,7 +941,7 @@
         <tierData><tw>picks</tw><tw>up</tw><tw>dog</tw><tw>and</tw><tw>brings</tw><tw>to</tw><tw>table</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u70">
       <orthography>
         <u>
           <w>let's</w>
@@ -952,7 +952,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u71">
       <orthography>
         <u>
           <w>no</w>
@@ -964,7 +964,7 @@
         <tierData><tw>takes</tw><tw>hand</tw><tw>back</tw><tw>and</tw><tw>holds</tw><tw>man</tw><tw>and</tw><tw>objects</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u72">
       <orthography>
         <u>
           <w>uh</w>
@@ -976,7 +976,7 @@
         <tierData><tw>&lt;1w&gt;</tw><tw>puts</tw><tw>dog</tw><tw>in</tw><tw>chair</tw><tw>.</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u73">
       <orthography>
         <u>
           <w>dog's</w>
@@ -992,7 +992,7 @@
         <tierData><tw>&lt;1w-5w&gt;</tw><tw>picks</tw><tw>up</tw><tw>boy,</tw><tw>walks</tw><tw>him</tw><tw>toward</tw><tw>table</tw><tw>and</tw><tw>puts</tw><tw>him</tw><tw>in</tw><tw>chair</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u74">
       <orthography>
         <u>
           <w>dog</w>
@@ -1007,7 +1007,7 @@
         <tierData><tw>&lt;1w-4w&gt;</tw><tw>picks</tw><tw>up</tw><tw>boy,</tw><tw>walks</tw><tw>him</tw><tw>toward</tw><tw>table</tw><tw>and</tw><tw>puts</tw><tw>him</tw><tw>in</tw><tw>chair</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u75">
       <orthography>
         <u>
           <w>uh<wk type="cmp"/>uh<wk type="cmp"/>uh</w>
@@ -1022,7 +1022,7 @@
         <tierData><tw>walking</tw><tw>noises</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u76">
       <orthography>
         <u>
           <w>huh</w>
@@ -1034,7 +1034,7 @@
         <tierData><tw>walks</tw><tw>man</tw><tw>toward</tw><tw>chair</tw><tw>and</tw><tw>puts</tw><tw>in</tw><tw>chair</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u77">
       <orthography>
         <u>
           <w>here</w>
@@ -1047,7 +1047,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u78">
       <orthography>
         <u>
           <w>girl</w>
@@ -1062,7 +1062,7 @@
         <tierData><tw>ge</tw><tw>wId6l</tw><tw>g6</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u79">
       <orthography>
         <u>
           <w>little</w>
@@ -1075,7 +1075,7 @@
         <tierData><tw>&lt;1w&gt;</tw><tw>examines</tw><tw>object</tw><tw>in</tw><tw>hand</tw><tw>&lt;1w&gt;</tw><tw>attempts</tw><tw>to</tw><tw>put</tw><tw>man</tw><tw>in</tw><tw>chair</tw><tw>and</tw><tw>succeeds</tw><tw>.</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u80">
       <orthography>
         <u>
           <e><action/><ga type="paralinguistics">eating noises</ga></e>
@@ -1084,7 +1084,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u81">
       <orthography>
         <u>
           <e><action/></e>
@@ -1096,7 +1096,7 @@
         <tierData><tw>smiles</tw><tw>at</tw><tw>Mother</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u82">
       <orthography>
         <u>
           <e><action/><ga type="paralinguistics">eating noises</ga></e>
@@ -1105,7 +1105,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u83">
       <orthography>
         <u>
           <w>hey</w>
@@ -1117,7 +1117,7 @@
         <tierData><tw>reaches</tw><tw>for</tw><tw>shape</tw><tw>box</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u84">
       <orthography>
         <u>
           <w>what's</w>
@@ -1127,7 +1127,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u85">
       <orthography>
         <u>
           <w untranscribed="unintelligible-with-pho">yyy</w>
@@ -1142,7 +1142,7 @@
         <tierData><tw>geI</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u86">
       <orthography>
         <u>
           <w>huh</w>
@@ -1154,7 +1154,7 @@
         <tierData><tw>rummages</tw><tw>in</tw><tw>shape</tw><tw>box</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u87">
       <orthography>
         <u>
           <w>oh</w>
@@ -1163,7 +1163,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u88">
       <orthography>
         <u>
           <w>what's</w>
@@ -1174,7 +1174,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u89">
       <orthography>
         <u>
           <w untranscribed="unintelligible-with-pho">yyy</w>
@@ -1186,7 +1186,7 @@
         <tierData><tw>m6</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u90">
       <orthography>
         <u>
           <w>huh</w>
@@ -1198,7 +1198,7 @@
         <tierData><tw>takes</tw><tw>block</tw><tw>out</tw><tw>of</tw><tw>shape</tw><tw>box,</tw><tw>drops,</tw><tw>and</tw><tw>retrieves</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u91">
       <orthography>
         <u>
           <e><action/></e>
@@ -1210,7 +1210,7 @@
         <tierData><tw>takes</tw><tw>ball</tw><tw>out</tw><tw>of</tw><tw>shape</tw><tw>box</tw><tw>and</tw><tw>holds</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u92">
       <orthography>
         <u>
           <w>what's</w>
@@ -1223,7 +1223,7 @@
         <tierData><tw>holds</tw><tw>object</tw><tw>out</tw><tw>on</tw><tw>her</tw><tw>palm</tw><tw>toward</tw><tw>Amy</tw><tw>.</tw><tw>closes</tw><tw>palm</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u93">
       <orthography>
         <u>
           <w>what</w>
@@ -1237,7 +1237,7 @@
         <tierData><tw>opens</tw><tw>palm</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u94">
       <orthography>
         <u>
           <w untranscribed="unintelligible-with-pho">yyy</w>
@@ -1255,7 +1255,7 @@
         <tierData><tw>A</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u95">
       <orthography>
         <u>
           <w>a</w>
@@ -1265,7 +1265,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u96">
       <orthography>
         <u>
           <e><action/></e>
@@ -1277,7 +1277,7 @@
         <tierData><tw>ball</tw><tw>drops</tw><tw>.</tw><tw>picks</tw><tw>up</tw><tw>ball</tw><tw>and</tw><tw>holds</tw><tw>.</tw><tw>kicks</tw><tw>object</tw><tw>on</tw><tw>floor</tw><tw>away</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u97">
       <orthography>
         <u>
           <e><action/><ga type="paralinguistics">babbles</ga></e>
@@ -1289,7 +1289,7 @@
         <tierData><tw>fingers</tw><tw>ball</tw><tw>on</tw><tw>top</tw><tw>.</tw><tw>takes</tw><tw>hand</tw><tw>away</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u98">
       <orthography>
         <u>
           <e><action/></e>
@@ -1301,7 +1301,7 @@
         <tierData><tw>pushes</tw><tw>dollhouse</tw><tw>away</tw><tw>and</tw><tw>shuts</tw><tw>door</tw><tw>.</tw><tw>puts</tw><tw>balls</tw><tw>on</tw><tw>top</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u99">
       <orthography>
         <u>
           <w>where</w>
@@ -1313,7 +1313,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u100">
       <orthography>
         <u>
           <e><action/></e>
@@ -1325,7 +1325,7 @@
         <tierData><tw>puts</tw><tw>ball</tw><tw>in</tw><tw>shape</tw><tw>box</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u101">
       <orthography>
         <u>
           <w>up</w>
@@ -1337,7 +1337,7 @@
         <tierData><tw>&lt;aft&gt;</tw><tw>retrieves</tw><tw>ball</tw><tw>and</tw><tw>puts</tw><tw>on</tw><tw>shape</tw><tw>box</tw><tw>lid</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u102">
       <orthography>
         <u>
           <e><action/></e>
@@ -1349,7 +1349,7 @@
         <tierData><tw>opens</tw><tw>shape</tw><tw>box</tw><tw>lid</tw><tw>and</tw><tw>block</tw><tw>falls</tw><tw>.</tw><tw>holds</tw><tw>open</tw><tw>a</tw><tw>bit</tw><tw>and</tw><tw>then</tw><tw>shuts</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u103">
       <orthography>
         <u>
           <w>where</w>
@@ -1361,7 +1361,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u104">
       <orthography>
         <u>
           <e><action/></e>
@@ -1373,7 +1373,7 @@
         <tierData><tw>picks</tw><tw>up</tw><tw>ball</tw><tw>and</tw><tw>attempts</tw><tw>to</tw><tw>put</tw><tw>in</tw><tw>wrong</tw><tw>hole</tw><tw>.</tw><tw>bangs</tw><tw>on</tw><tw>lid</tw><tw>with</tw><tw>block</tw><tw>.</tw><tw>puts</tw><tw>block</tw><tw>in</tw><tw>right</tw><tw>hole</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u105">
       <orthography>
         <u>
           <e><action/><ga type="paralinguistics">gasps</ga></e>
@@ -1382,7 +1382,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u106">
       <orthography>
         <u>
           <e><action/></e>
@@ -1394,7 +1394,7 @@
         <tierData><tw>opens</tw><tw>shape</tw><tw>box</tw><tw>and</tw><tw>block</tw><tw>falls</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u107">
       <orthography>
         <u>
           <w>whoop<shortening>s</shortening></w>
@@ -1406,7 +1406,7 @@
         <tierData><tw>retrieves</tw><tw>block</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u108">
       <orthography>
         <u>
           <e><action/></e>
@@ -1421,7 +1421,7 @@
         <tierData><tw>smiles</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u109">
       <orthography>
         <u>
           <w>where</w>
@@ -1436,7 +1436,7 @@
         <tierData><tw>holds</tw><tw>object</tw><tw>out</tw><tw>to</tw><tw>Amy</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u110">
       <orthography>
         <u>
           <e><action/></e>
@@ -1448,7 +1448,7 @@
         <tierData><tw>shuts</tw><tw>shape</tw><tw>box</tw><tw>lid</tw><tw>.</tw><tw>puts</tw><tw>own</tw><tw>ball</tw><tw>in</tw><tw>.</tw><tw>opens</tw><tw>shape</tw><tw>box</tw><tw>lid</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u111">
       <orthography>
         <u>
           <w untranscribed="unintelligible">xxx</w>
@@ -1463,7 +1463,7 @@
         <tierData><tw>spoken</tw><tw>very</tw><tw>softly</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u112">
       <orthography>
         <u>
           <e><action/></e>
@@ -1475,7 +1475,7 @@
         <tierData><tw>reaches</tw><tw>in</tw><tw>shape</tw><tw>box</tw><tw>and</tw><tw>takes</tw><tw>out</tw><tw>block</tw><tw>.</tw><tw>shuts</tw><tw>lid,</tw><tw>rubs</tw><tw>block</tw><tw>on</tw><tw>lid</tw><tw>and</tw><tw>puts</tw><tw>in</tw><tw>shape</tw><tw>box</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u113">
       <orthography>
         <u>
           <e><action/><ga type="paralinguistics">gasps</ga></e>
@@ -1487,7 +1487,7 @@
         <tierData><tw>&lt;aft&gt;</tw><tw>smiles</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u114">
       <orthography>
         <u>
           <e><action/><ga type="paralinguistics">laughs</ga></e>
@@ -1499,7 +1499,7 @@
         <tierData><tw>opens</tw><tw>shape</tw><tw>box</tw><tw>lid,</tw><tw>takes</tw><tw>out</tw><tw>same</tw><tw>block,</tw><tw>shuts</tw><tw>lid</tw><tw>and</tw><tw>puts</tw><tw>in</tw><tw>shape</tw><tw>box</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u115">
       <orthography>
         <u>
           <e><action/><ga type="paralinguistics">laughs</ga></e>
@@ -1511,7 +1511,7 @@
         <tierData><tw>opens</tw><tw>shape</tw><tw>box</tw><tw>and</tw><tw>reaches</tw><tw>in</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u116">
       <orthography>
         <u>
           <e><action/></e>
@@ -1523,7 +1523,7 @@
         <tierData><tw>reaches</tw><tw>in</tw><tw>shape</tw><tw>box</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u117">
       <orthography>
         <u>
           <w>no</w>
@@ -1535,7 +1535,7 @@
         <tierData><tw>takes</tw><tw>Mother's</tw><tw>hand</tw><tw>out</tw><tw>.</tw><tw>reaches</tw><tw>in</tw><tw>shape</tw><tw>box</tw><tw>and</tw><tw>rummages</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u118">
       <orthography>
         <u>
           <w>no</w>
@@ -1547,7 +1547,7 @@
         <tierData><tw>&lt;aft&gt;</tw><tw>puts</tw><tw>finger</tw><tw>to</tw><tw>shape</tw><tw>box</tw><tw>lid</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u119">
       <orthography>
         <u>
           <w>ah</w>
@@ -1565,7 +1565,7 @@
         <tierData><tw>pleasurable</tw><tw>scream</tw><tw>.</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u120">
       <orthography>
         <u>
           <w>let</w>
@@ -1579,7 +1579,7 @@
         <tierData><tw>puts</tw><tw>hand</tw><tw>in</tw><tw>shape</tw><tw>box</tw><tw>and</tw><tw>rummages</tw><tw>.</tw><tw>takes</tw><tw>out</tw><tw>blocks</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u121">
       <orthography>
         <u>
           <w>let</w>
@@ -1590,7 +1590,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u122">
       <orthography>
         <u>
           <w>no</w>
@@ -1605,7 +1605,7 @@
         <tierData><tw>&lt;1w&gt;</tw><tw>ne</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u123">
       <orthography>
         <u>
           <w>no</w>
@@ -1617,7 +1617,7 @@
         <tierData><tw>&lt;1w&gt;</tw><tw>spoken</tw><tw>louder</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u124">
       <orthography>
         <u>
           <g><w>what's</w><w>this</w><w>one</w><overlap type="overlap follows"/></g>
@@ -1629,7 +1629,7 @@
         <tierData><tw>holds</tw><tw>block</tw><tw>out</tw><tw>to</tw><tw>Amy</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u125">
       <orthography>
         <u>
           <g><w>no</w><overlap type="overlap precedes"/></g>
@@ -1638,7 +1638,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u126">
       <orthography>
         <u>
           <w>no</w>
@@ -1650,7 +1650,7 @@
         <tierData><tw>&lt;aft&gt;</tw><tw>puts</tw><tw>block</tw><tw>in</tw><tw>shape</tw><tw>box</tw><tw>but</tw><tw>it</tw><tw>sticks</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u127">
       <orthography>
         <u>
           <w>mine</w>
@@ -1662,7 +1662,7 @@
         <tierData><tw>manipulates</tw><tw>Mother's</tw><tw>block</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u128">
       <orthography>
         <u>
           <e><action/></e>
@@ -1674,7 +1674,7 @@
         <tierData><tw>pushes</tw><tw>stuck</tw><tw>block</tw><tw>through</tw><tw>hole</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u129">
       <orthography>
         <u>
           <e><action/></e>
@@ -1686,7 +1686,7 @@
         <tierData><tw>attempts</tw><tw>to</tw><tw>put</tw><tw>square</tw><tw>block</tw><tw>in</tw><tw>circular</tw><tw>hole</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u130">
       <orthography>
         <u>
           <w>uhoh</w>
@@ -1700,7 +1700,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u131">
       <orthography>
         <u>
           <w untranscribed="unintelligible-with-pho">yyy</w>
@@ -1715,7 +1715,7 @@
         <tierData><tw>6+n6</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u132">
       <orthography>
         <u>
           <w>huh</w>
@@ -1724,7 +1724,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u133">
       <orthography>
         <u>
           <w>uhoh</w>
@@ -1736,7 +1736,7 @@
         <tierData><tw>&lt;aft&gt;</tw><tw>puts</tw><tw>block</tw><tw>in</tw><tw>shape</tw><tw>box</tw><tw>.</tw><tw>takes</tw><tw>out</tw><tw>round</tw><tw>block</tw><tw>and</tw><tw>attempts</tw><tw>to</tw><tw>put</tw><tw>in</tw><tw>wrong</tw><tw>hole</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u134">
       <orthography>
         <u>
           <w>where</w>
@@ -1749,7 +1749,7 @@
         <tierData><tw>picks</tw><tw>up</tw><tw>square</tw><tw>block</tw><tw>and</tw><tw>holds</tw><tw>out</tw><tw>to</tw><tw>Amy</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u135">
       <orthography>
         <u>
           <w>yeah</w>
@@ -1761,7 +1761,7 @@
         <tierData><tw>lifts</tw><tw>block</tw><tw>up</tw><tw>and</tw><tw>takes</tw><tw>Mother's</tw><tw>block</tw><tw>.</tw><tw>puts</tw><tw>round</tw><tw>block</tw><tw>in</tw><tw>shape</tw><tw>box</tw><tw>but</tw><tw>it</tw><tw>sticks</tw><tw>.</tw><tw>attempts</tw><tw>to</tw><tw>push</tw><tw>through</tw><tw>with</tw><tw>index</tw><tw>finger</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u136">
       <orthography>
         <u>
           <w>where</w>
@@ -1776,7 +1776,7 @@
         <tierData><tw>&lt;3w&gt;</tw><tw>touches</tw><tw>block</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u137">
       <orthography>
         <u>
           <e><action/><ga type="paralinguistics">laughs</ga></e>
@@ -1788,7 +1788,7 @@
         <tierData><tw>&lt;bef&gt;</tw><tw>opens</tw><tw>shape</tw><tw>box</tw><tw>a</tw><tw>bit</tw><tw>and</tw><tw>block</tw><tw>falls</tw><tw>through</tw><tw>and</tw><tw>lid</tw><tw>falls</tw><tw>shut</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u138">
       <orthography>
         <u>
           <e><action/><ga type="paralinguistics">laughs</ga></e>
@@ -1800,7 +1800,7 @@
         <tierData><tw>&lt;dur&gt;</tw><tw>opens</tw><tw>shape</tw><tw>box</tw><tw>lid</tw><tw>&lt;bef&gt;</tw><tw>lifts</tw><tw>shape</tw><tw>box</tw><tw>lid</tw><tw>a</tw><tw>bit</tw><tw>and</tw><tw>lets</tw><tw>it</tw><tw>shut</tw><tw>.</tw><tw>repeats</tw><tw>two</tw><tw>times</tw><tw>.</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u139">
       <orthography>
         <u>
           <e><action/></e>
@@ -1812,7 +1812,7 @@
         <tierData><tw>helps</tw><tw>open</tw><tw>shape</tw><tw>box</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u140">
       <orthography>
         <u>
           <e><action/></e>
@@ -1824,7 +1824,7 @@
         <tierData><tw>takes</tw><tw>block</tw><tw>from</tw><tw>shape</tw><tw>box</tw><tw>and</tw><tw>holds</tw><tw>under</tw><tw>arm</tw><tw>with</tw><tw>other</tw><tw>blocks</tw><tw>.</tw><tw>reaches</tw><tw>in</tw><tw>and</tw><tw>out</tw><tw>of</tw><tw>shape</tw><tw>box</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u141">
       <orthography>
         <u>
           <w>shall</w>
@@ -1841,7 +1841,7 @@
         <tierData><tw>&lt;aft&gt;</tw><tw>dumps</tw><tw>box</tw><tw>out,</tw><tw>rights</tw><tw>box</tw><tw>and</tw><tw>shuts</tw><tw>lid</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u142">
       <orthography>
         <u>
           <e><action/></e>
@@ -1853,7 +1853,7 @@
         <tierData><tw>helps</tw><tw>with</tw><tw>shape</tw><tw>box</tw><tw>.</tw><tw>puts</tw><tw>hand</tw><tw>over</tw><tw>box</tw><tw>and</tw><tw>block</tw><tw>falls</tw><tw>from</tw><tw>under</tw><tw>her</tw><tw>arm</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u143">
       <orthography>
         <u>
           <w>there</w>
@@ -1865,7 +1865,7 @@
         <tierData><tw>pushes</tw><tw>shape</tw><tw>box</tw><tw>toward</tw><tw>Amy</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u144">
       <orthography>
         <u>
           <w>uh</w>
@@ -1877,7 +1877,7 @@
         <tierData><tw>opens</tw><tw>shape</tw><tw>box</tw><tw>and</tw><tw>reaches</tw><tw>in</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u145">
       <orthography>
         <u>
           <w>op<shortening>en</shortening></w>
@@ -1886,7 +1886,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u146">
       <orthography>
         <u>
           <w untranscribed="unintelligible-with-pho">yyy</w>
@@ -1901,7 +1901,7 @@
         <tierData><tw>deI</tw><tw>de</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u147">
       <orthography>
         <u>
           <w>mmhm</w>
@@ -1910,7 +1910,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u148">
       <orthography>
         <u>
           <w>uh</w>
@@ -1925,7 +1925,7 @@
         <tierData><tw>struggle</tw><tw>noise</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u149">
       <orthography>
         <u>
           <w>where</w>
@@ -1941,7 +1941,7 @@
         <tierData><tw>picks</tw><tw>up</tw><tw>block</tw><tw>and</tw><tw>holds</tw><tw>out</tw><tw>to</tw><tw>Amy</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u150">
       <orthography>
         <u>
           <w>there</w>
@@ -1956,7 +1956,7 @@
         <tierData><tw>&lt;1w&gt;</tw><tw>ger</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u151">
       <orthography>
         <u>
           <w>op<shortening>en</shortening></w>
@@ -1965,7 +1965,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u152">
       <orthography>
         <u>
           <w untranscribed="unintelligible-with-pho">yyy</w>
@@ -1980,7 +1980,7 @@
         <tierData><tw>eI</tw><tw>g6</tw><tw>gum</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u153">
       <orthography>
         <u>
           <w>where</w>
@@ -1995,7 +1995,7 @@
         <tierData><tw>&lt;dur&gt;</tw><tw>fingers</tw><tw>and</tw><tw>holds</tw><tw>it</tw><tw>&lt;bef&gt;</tw><tw>picks</tw><tw>up</tw><tw>another</tw><tw>slab</tw><tw>.</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u154">
       <orthography>
         <u>
           <w>nope</w>
@@ -2007,7 +2007,7 @@
         <tierData><tw>&lt;dur&gt;</tw><tw>holds</tw><tw>block</tw><tw>over</tw><tw>hole</tw><tw>&lt;bef&gt;</tw><tw>taps</tw><tw>block</tw><tw>on</tw><tw>lid</tw><tw>.</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u155">
       <orthography>
         <u>
           <e><action/></e>
@@ -2019,7 +2019,7 @@
         <tierData><tw>holds</tw><tw>blocks</tw><tw>.</tw><tw>arm</tw><tw>follows</tw><tw>Mother's</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u156">
       <orthography>
         <u>
           <w>nope</w>
@@ -2031,7 +2031,7 @@
         <tierData><tw>puts</tw><tw>block</tw><tw>over</tw><tw>another</tw><tw>hole</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u157">
       <orthography>
         <u>
           <e><action/></e>
@@ -2043,7 +2043,7 @@
         <tierData><tw>touches</tw><tw>Mother's</tw><tw>block</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u158">
       <orthography>
         <u>
           <w>nope</w>
@@ -2055,7 +2055,7 @@
         <tierData><tw>puts</tw><tw>block</tw><tw>over</tw><tw>another</tw><tw>hole</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u159">
       <orthography>
         <u>
           <w>no</w>
@@ -2073,7 +2073,7 @@
         <tierData><tw>nA</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u160">
       <orthography>
         <u>
           <w>nope</w>
@@ -2085,7 +2085,7 @@
         <tierData><tw>draws</tw><tw>out</tw><tw>the</tw><tw>letter</tw><tw>o</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u161">
       <orthography>
         <u>
           <w>no</w>
@@ -2097,7 +2097,7 @@
         <tierData><tw>nA</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u162">
       <orthography>
         <u>
           <w>where</w>
@@ -2109,7 +2109,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u163">
       <orthography>
         <u>
           <w>no</w>
@@ -2124,7 +2124,7 @@
         <tierData><tw>nA</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u164">
       <orthography>
         <u>
           <w>no</w>
@@ -2137,7 +2137,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u165">
       <orthography>
         <u>
           <w untranscribed="unintelligible-with-pho">yyy</w>
@@ -2152,7 +2152,7 @@
         <tierData><tw>noI</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u166">
       <orthography>
         <u>
           <w>where</w>
@@ -2164,7 +2164,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u167">
       <orthography>
         <u>
           <w>try</w>
@@ -2178,7 +2178,7 @@
         <tierData><tw>&lt;1w&gt;</tw><tw>points</tw><tw>to</tw><tw>middle</tw><tw>hole</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u168">
       <orthography>
         <u>
           <w>try</w>
@@ -2189,7 +2189,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u169">
       <orthography>
         <u>
           <e><action/></e>

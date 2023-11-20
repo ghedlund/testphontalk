@@ -20,7 +20,7 @@
     <comment type="Generic">
       <tierData><tw>test</tw><tw>video</tw><tw>bullet</tw><tw>that</tw><tw>can</tw><tw>be</tw><tw>underlined</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>foo</w>

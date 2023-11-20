@@ -18,7 +18,7 @@
     <comment type="Generic">
       <tierData><tw>test</tw><tw>all</tw><tw>the</tw><tw>legal</tw><tw>form</tw><tw>markers</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w formType="addition">a</w>

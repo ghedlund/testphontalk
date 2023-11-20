@@ -20,7 +20,7 @@
     <comment type="Generic">
       <tierData><tw>bullets</tw><tw>in</tw><tw>an</tw><tw>utterance</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>one</w>

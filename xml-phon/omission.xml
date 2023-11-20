@@ -32,7 +32,7 @@
     <comment type="Generic">
       <tierData><tw>test</tw><tw>omissions</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>a<shortening>b</shortening>c<shortening>d</shortening></w>
@@ -47,7 +47,7 @@
     <comment type="Generic">
       <tierData><tw>underscores</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u1">
       <orthography>
         <u>
           <w>Wi<shortening>nnie_the</shortening>_Pooh</w>

@@ -21,7 +21,7 @@
     <comment type="Generic">
       <tierData><tw>optional</tw><tw>@Window</tw><tw>header</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>hello</w>

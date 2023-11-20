@@ -19,7 +19,7 @@
       <tierData><tw>transcript</tw><tw>group</tw></tierData>
     </comment>
     <gem type="lazy">3a ? = monkey is eating banana, 3b ? = squirrel is eating banana, 3c ? = bunny is eating banana</gem>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u0">
       <orthography>
         <u>
           <w>hi</w>

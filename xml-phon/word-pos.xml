@@ -22,7 +22,7 @@
     <comment type="Generic">
       <tierData><tw>$n</tw><tw>in</tw><tw>words,</tw><tw>with</tw><tw>or</tw><tw>without</tw><tw>@s</tw><tw>stuff</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>foo</w>
@@ -33,7 +33,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u1">
       <orthography>
         <u>
           <w>hey</w>
@@ -46,7 +46,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u2">
       <orthography>
         <u>
           <w>hey</w>
@@ -59,7 +59,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u3">
       <orthography>
         <u>
           <w>hey</w>
@@ -72,7 +72,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u4">
       <orthography>
         <u>
           <w>hey</w>
@@ -88,7 +88,7 @@
     <comment type="Generic">
       <tierData><tw>with</tw><tw>subcategories</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u5">
       <orthography>
         <u>
           <w>foo</w>

@@ -15,7 +15,7 @@
     <comment type="Generic">
       <tierData><tw>Test</tw><tw>caps</tw><tw>without</tw><tw>option.</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>hey</w>

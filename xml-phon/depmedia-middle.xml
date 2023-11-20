@@ -39,7 +39,7 @@
     <comment type="Generic">
       <tierData><tw>bullet</tw><tw>inside</tw><tw>a</tw><tw>dependent</tw><tw>tier</tw></tierData>
     </comment>
-    <r speaker="EN2">
+    <r speaker="EN2" id="u0">
       <orthography>
         <u>
           <w>and</w>
@@ -57,7 +57,7 @@
       </orthography>
       <segment start="32.221" end="37.628" unit="s"/>
     </r>
-    <r speaker="AR1">
+    <r speaker="AR1" id="u1">
       <orthography>
         <u>
           <w>hmmm</w>
@@ -66,7 +66,7 @@
       </orthography>
       <segment start="37.628" end="38.893" unit="s"/>
     </r>
-    <r speaker="EN2">
+    <r speaker="EN2" id="u2">
       <orthography>
         <u>
           <w>and</w>
@@ -83,7 +83,7 @@
       </orthography>
       <segment start="38.893" end="42.173" unit="s"/>
     </r>
-    <r speaker="EN2">
+    <r speaker="EN2" id="u3">
       <orthography>
         <u>
           <w>we</w>

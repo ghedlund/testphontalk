@@ -49,7 +49,7 @@
     <comment type="Activities">
       <tierData><tw>playing</tw><tw>with</tw><tw>crayons</tw><tw>and</tw><tw>paper</tw><tw>on</tw><tw>the</tw><tw>table.</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>n<shortening>e</shortening>j</w>

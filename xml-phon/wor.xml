@@ -35,7 +35,7 @@
       <tierData><tw>PAR</tw><tw>has</tw><tw>neurogenic</tw><tw>stutter</tw></tierData>
     </comment>
     <gem type="lazy">Speech</gem>
-    <r speaker="INV">
+    <r speaker="INV" id="u0">
       <orthography>
         <u>
           <w>yeah</w>
@@ -125,7 +125,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u1">
       <orthography>
         <u>
           <w type="filler">um</w>
@@ -196,7 +196,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="PAR">
+    <r speaker="PAR" id="u2">
       <orthography>
         <u>
           <w type="filler">um</w>

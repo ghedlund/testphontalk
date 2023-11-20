@@ -20,7 +20,7 @@
     <comment type="Generic">
       <tierData><tw>test</tw><tw>legal</tw><tw>characters</tw><tw>in</tw><tw>media</tw><tw>file</tw><tw>name</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <g><w>ryoote</w><w>agete</w><ga type="paralinguistics">singing</ga></g>

@@ -40,7 +40,7 @@
     <comment type="Generic">
       <tierData><tw>Test</tw><tw>Brian's</tw><tw>problem</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <pg><w>mais</w></pg>

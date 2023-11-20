@@ -38,7 +38,7 @@
     <comment type="Time Duration">
       <tierData><tw>17:30-18:00</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <g><w><ca-delimiter type="begin" label="softer"/>softer<ca-delimiter type="end" label="softer"/></w><k type="retracing"/></g>
@@ -48,7 +48,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u1">
       <orthography>
         <u>
           <g><w><ca-delimiter type="begin" label="softer"/>softer<shortening>foo</shortening><ca-delimiter type="end" label="softer"/></w><k type="retracing"/></g>

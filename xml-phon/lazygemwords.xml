@@ -21,7 +21,7 @@
   </userTiers>
   <transcript>
     <gem type="lazy">a bear</gem>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u0">
       <orthography>
         <u>
           <w>what's</w>
@@ -34,7 +34,7 @@
         <tierData><tw>holds</tw><tw>object</tw><tw>out</tw><tw>to</tw><tw>Amy</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u1">
       <orthography>
         <u>
           <w untranscribed="unintelligible-with-pho">yyy</w>
@@ -53,7 +53,7 @@
       </userTier>
     </r>
     <gem type="lazy">b foo</gem>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u2">
       <orthography>
         <u>
           <w>it's</w>
@@ -64,7 +64,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u3">
       <orthography>
         <u>
           <w>yeah</w>
@@ -76,7 +76,7 @@
         <tierData><tw>takes</tw><tw>chicken</tw></tierData>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u4">
       <orthography>
         <u>
           <w>yeah</w>
@@ -85,7 +85,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u5">
       <orthography>
         <u>
           <w>what's</w>
@@ -99,7 +99,7 @@
       </userTier>
     </r>
     <gem type="lazy">a bear</gem>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u6">
       <orthography>
         <u>
           <w>what</w>
@@ -113,7 +113,7 @@
         <tierData><tw>&lt;1w-3w&gt;</tw><tw>holds</tw><tw>object</tw><tw>out</tw><tw>to</tw><tw>Amy</tw></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u7">
       <orthography>
         <u>
           <w untranscribed="unintelligible-with-pho">yyy</w>
@@ -129,7 +129,7 @@
       </userTier>
     </r>
     <gem type="lazy">b baz</gem>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u8">
       <orthography>
         <u>
           <w>it's</w>
@@ -140,7 +140,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u9">
       <orthography>
         <u>
           <w>yeah</w>
@@ -149,7 +149,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u10">
       <orthography>
         <u>
           <w>yeah</w>

@@ -43,7 +43,7 @@
     <comment type="Generic">
       <tierData><tw>Test</tw><tw>new</tw><tw>pho,</tw><tw>along</tw><tw>with</tw><tw>mor,</tw><tw>since</tw><tw>both</tw><tw>1-1</tw></tierData>
     </comment>
-    <r speaker="EXP">
+    <r speaker="EXP" id="u0">
       <orthography>
         <u>
           <pg><w>entar</w></pg>
@@ -73,7 +73,7 @@
         </mors>
       </userTier>
     </r>
-    <r speaker="EXP">
+    <r speaker="EXP" id="u1">
       <orthography>
         <u>
           <pg><w>entar</w></pg>
@@ -94,7 +94,7 @@
     <comment type="Generic">
       <tierData><tw>xxx</tw></tierData>
     </comment>
-    <r speaker="EXP">
+    <r speaker="EXP" id="u2">
       <orthography>
         <u>
           <pg><w>entar</w></pg>

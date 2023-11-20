@@ -24,7 +24,7 @@
     <comment type="Generic">
       <tierData><tw>Contrast</tw><tw>with</tw><tw>regular</tw><tw>word</tw><tw>plural</tw><tw>with</tw><tw>hyphen.</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>boy-s</w>
@@ -39,7 +39,7 @@
         </mors>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u1">
       <orthography>
         <u>
           <w formSuffix="-s" formType="letter">a</w>

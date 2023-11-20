@@ -38,7 +38,7 @@
     <comment type="Time Duration">
       <tierData><tw>17:30-18:00</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>so</w>
@@ -62,7 +62,7 @@
     <comment type="Generic">
       <tierData><tw>Put</tw><tw>in</tw><tw>'</tw><tw>for</tw><tw>character</tw><tw>content</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u1">
       <orthography>
         <u>
           <w>so</w>

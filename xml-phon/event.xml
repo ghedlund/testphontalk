@@ -35,7 +35,7 @@
     <comment type="Time Duration">
       <tierData><tw>17:30-18:00</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <e><happening>yawn</happening></e>
@@ -48,7 +48,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u1">
       <orthography>
         <u>
           <e><happening>TAPE_CUTS_OFF_BEFORE_EVENT_FINISHES</happening></e>
@@ -57,7 +57,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u2">
       <orthography>
         <u>
           <e><happening>TRANSCRIPT_ABORTED_AT_26:34:_POOR_SOUND_QUALITY_LAST_42_MIN</happening></e>
@@ -66,7 +66,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u3">
       <orthography>
         <u>
           <e><happening>VIDEO_CLIP_THROUGHOUT_NEXT_:22_OF_UTTERANCE</happening></e>
@@ -75,7 +75,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u4">
       <orthography>
         <u>
           <e><happening>END_FIRST_TAPE/_BEGIN_SECOND_TAPE</happening></e>

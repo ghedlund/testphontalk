@@ -25,7 +25,7 @@
     <comment type="Generic">
       <tierData><tw>Retrace</tw><tw>followed</tw><tw>by</tw><tw>material</tw><tw>as</tw><tw>required</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <g><w>ana</w><k type="retracing with correction"/></g>

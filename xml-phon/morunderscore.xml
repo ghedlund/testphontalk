@@ -37,7 +37,7 @@
     <comment type="Situation">
       <tierData><tw>Did</tw><tw>a</tw><tw>Topsy</tw><tw>and</tw><tw>Tim</tw><tw>jigsaw</tw><tw>and</tw><tw>then</tw><tw>magnetic</tw><tw>fishing.</tw><tw>Ethan,</tw><tw>the</tw><tw>baby,</tw><tw>was</tw><tw>asleep</tw><tw>on</tw><tw>the</tw><tw>settee</tw><tw>to</tw><tw>begin</tw><tw>with.</tw><tw>Tom</tw><tw>came</tw><tw>in</tw><tw>briefly</tw><tw>on</tw><tw>his</tw><tw>way</tw><tw>to</tw><tw>work.</tw><tw>Hadn't</tw><tw>the</tw><tw>microphone</tw><tw>switched</tw><tw>on</tw><tw>to</tw><tw>begin</tw><tw>with</tw><tw>so</tw><tw>this</tw><tw>starts</tw><tw>a</tw><tw>few</tw><tw>minutes</tw><tw>into</tw><tw>the</tw><tw>visit.</tw></tierData>
     </comment>
-    <r speaker="INV">
+    <r speaker="INV" id="u0">
       <orthography>
         <u>
           <w>Ethan's</w>
@@ -56,7 +56,7 @@
         </mors>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u1">
       <orthography>
         <u>
           <w>do</w>

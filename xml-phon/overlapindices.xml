@@ -15,7 +15,7 @@
     </participant>
   </participants>
   <transcript>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u0">
       <orthography>
         <u>
           <w>if</w>
@@ -33,7 +33,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u1">
       <orthography>
         <u>
           <g><w>Mom</w><overlap index="1" type="overlap precedes"/></g>
@@ -42,7 +42,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u2">
       <orthography>
         <u>
           <g><w>honey</w><w>we</w><w>need</w><overlap index="2" type="overlap precedes"/></g>

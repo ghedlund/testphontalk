@@ -29,7 +29,7 @@
     </participant>
   </participants>
   <transcript>
-    <r speaker="MILE">
+    <r speaker="MILE" id="u0">
       <orthography>
         <u>
           <overlap-point start-end="start" top-bottom="top"/>
@@ -48,7 +48,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="JAMI">
+    <r speaker="JAMI" id="u1">
       <orthography>
         <u>
           <overlap-point start-end="start" top-bottom="bottom"/>
@@ -59,7 +59,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="JAMI">
+    <r speaker="JAMI" id="u2">
       <orthography>
         <u>
           <w>bottom</w>
@@ -70,7 +70,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="PETE">
+    <r speaker="PETE" id="u3">
       <orthography>
         <u>
           <overlap-point index="2" start-end="start" top-bottom="bottom"/>
@@ -82,7 +82,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="JAMI">
+    <r speaker="JAMI" id="u4">
       <orthography>
         <u>
           <overlap-point index="3" start-end="start" top-bottom="bottom"/>
@@ -94,7 +94,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="JAMI">
+    <r speaker="JAMI" id="u5">
       <orthography>
         <u>
           <w>third</w>

@@ -32,7 +32,7 @@
     <comment type="Generic">
       <tierData><tw>replacement</tw><tw>for</tw><tw>real</tw><tw>word,</tw><tw>so</tw><tw>that</tw><tw>mor</tw><tw>ignores</tw></tierData>
     </comment>
-    <r speaker="PAR">
+    <r speaker="PAR" id="u0">
       <orthography>
         <u>
           <e><happening>coughs</happening></e>
@@ -60,7 +60,7 @@
         </mors>
       </userTier>
     </r>
-    <r speaker="PAR">
+    <r speaker="PAR" id="u1">
       <orthography>
         <u>
           <e><happening>points:picture_one</happening></e>
@@ -93,7 +93,7 @@
         </mors>
       </userTier>
     </r>
-    <r speaker="PAR">
+    <r speaker="PAR" id="u2">
       <orthography>
         <u>
           <e><happening>points:picture_one</happening></e>

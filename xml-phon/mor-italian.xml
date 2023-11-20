@@ -29,7 +29,7 @@
     <comment type="Generic">
       <tierData><tw>Italian</tw><tw>mor</tw><tw>with</tw><tw>clitic</tw></tierData>
     </comment>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u0">
       <orthography>
         <u>
           <w>bisogna</w>

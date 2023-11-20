@@ -18,7 +18,7 @@
     <comment type="Generic">
       <tierData><tw>compounds</tw><tw>allowed</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w formType="child-invented">hoo<wk type="cmp"/>hoo<wk type="cmp"/>hoo</w>
@@ -27,7 +27,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u1">
       <orthography>
         <u>
           <w formType="neologism">hoo<wk type="cmp"/>hoo<wk type="cmp"/>hoo</w>

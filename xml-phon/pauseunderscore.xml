@@ -16,7 +16,7 @@
     <comment type="Generic">
       <tierData><tw>test</tw><tw>pause</tw><tw>with</tw><tw>.</tw><tw>(not</tw><tw>_</tw><tw>any</tw><tw>more)</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>word</w>

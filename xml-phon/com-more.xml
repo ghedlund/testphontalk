@@ -13,7 +13,7 @@
     <td tierName="Comments" type="default" excludeFromAlignment="true"/>
   </userTiers>
   <transcript>
-    <r speaker="TXT">
+    <r speaker="TXT" id="u0">
       <orthography>
         <u>
           <w>text</w>
@@ -25,7 +25,7 @@
         <tierData><tw>TTHIS</tw><tw>can</tw><tw>(happen)</tw><tw>in</tw><tw>"quotes"</tw><tw>or</tw><tw>even</tw><tw>with</tw><tw>!!</tw><tw>sometimes.</tw></tierData>
       </userTier>
     </r>
-    <r speaker="TXT">
+    <r speaker="TXT" id="u1">
       <orthography>
         <u>
           <w>text</w>
@@ -37,7 +37,7 @@
         <tierData><tw>a-a-and</tw><tw>-</tw><tw>--</tw><tw>we</tw><tw>get</tw><tw>***</tw><tw>/this\</tw><tw>or</tw><tw>#{this}</tw><tw>with</tw><tw>@^$</tw><tw>+</tw><tw>and</tw><tw>the</tw><tw>rest.</tw></tierData>
       </userTier>
     </r>
-    <r speaker="TXT">
+    <r speaker="TXT" id="u2">
       <orthography>
         <u>
           <w>text</w>
@@ -49,7 +49,7 @@
         <tierData><tw>then</tw><tw>there</tw><tw>is</tw><tw>IPA</tw><tw>ɟɮɬːɟɮːɬʉɨɤθ</tw><tw>and</tw><tw>so</tw><tw>on</tw></tierData>
       </userTier>
     </r>
-    <r speaker="TXT">
+    <r speaker="TXT" id="u3">
       <orthography>
         <u>
           <w>text</w>
@@ -61,7 +61,7 @@
         <tierData><tw>and</tw><tw>there</tw><tw>are</tw><tw>the</tw><tw>CA</tw><tw>characters</tw><tw>↓↑∆∇t☺</tw><tw>and</tw><tw>so</tw><tw>on</tw><tw>(see</tw><tw>manual)</tw></tierData>
       </userTier>
     </r>
-    <r speaker="TXT">
+    <r speaker="TXT" id="u4">
       <orthography>
         <u>
           <w>text</w>
@@ -73,7 +73,7 @@
         <tierData><tw>and</tw><tw>CJK</tw><tw>阿萨德</tw></tierData>
       </userTier>
     </r>
-    <r speaker="TXT">
+    <r speaker="TXT" id="u5">
       <orthography>
         <u>
           <w>text</w>

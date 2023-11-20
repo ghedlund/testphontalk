@@ -13,7 +13,7 @@
     <td tierName="GRASP" type="gra" excludeFromAlignment="true"/>
   </userTiers>
   <transcript>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>I</w>
@@ -46,7 +46,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u1">
       <orthography>
         <u>
           <w>I</w>

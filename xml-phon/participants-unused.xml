@@ -25,7 +25,7 @@
     <comment type="Generic">
       <tierData><tw>CHI,</tw><tw>F_A'-T</tw><tw>not</tw><tw>used</tw></tierData>
     </comment>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u0">
       <orthography>
         <u>
           <w>hey</w>

@@ -18,7 +18,7 @@
     <comment type="Generic">
       <tierData><tw>linkers</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <linker type="quoted utterance next"/>

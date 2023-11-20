@@ -28,7 +28,7 @@
     <comment type="Generic">
       <tierData><tw>Test</tw><tw>all</tw><tw>headers</tw><tw>FAKE_WORD</tw><tw>=</tw><tw>({ALNUM}</tw><tw>|</tw><tw>[\_\@\&amp;~\;\-\!\?\.\,\'\"\+\&lt;\&gt;\(\)\/\=\~\*\#\`\\\%\^\$]</tw><tw>|</tw><tw>{TAG_CHAR})+</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>foo</w>
@@ -67,7 +67,7 @@
     <comment type="Warning">
       <tierData><tw>foo</tw></tierData>
     </comment>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u1">
       <orthography>
         <u>
           <w>foo</w>

@@ -33,7 +33,7 @@
     <comment type="Generic">
       <tierData><tw>Test</tw><tw>~</tw><tw>clitics;</tw><tw>not</tw><tw>actually</tw><tw>correct</tw><tw>language</tw><tw>here,</tw><tw>manually</tw><tw>put</tw></tierData>
     </comment>
-    <r speaker="INV">
+    <r speaker="INV" id="u0">
       <orthography>
         <u>
           <w>Ethan's</w>

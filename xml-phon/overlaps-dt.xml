@@ -15,7 +15,7 @@
     </participant>
   </participants>
   <transcript>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u0">
       <orthography>
         <u>
           <g><w>there</w><overlap type="overlap follows"/></g>
@@ -24,7 +24,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u1">
       <orthography>
         <u>
           <g><w>mhm</w><overlap type="overlap precedes"/><overlap type="overlap follows"/></g>
@@ -33,7 +33,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u2">
       <orthography>
         <u>
           <g><w>ant</w><w>that's</w><overlap type="overlap precedes"/></g>

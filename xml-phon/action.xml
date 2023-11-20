@@ -35,7 +35,7 @@
     <comment type="Time Duration">
       <tierData><tw>17:30-18:00</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <e><action/><ga type="explanation">did nothing</ga></e>

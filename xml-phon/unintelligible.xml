@@ -38,7 +38,7 @@
     <comment type="Generic">
       <tierData><tw>xxx</tw><tw>yyy</tw><tw>www</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w untranscribed="unintelligible">xxx</w>

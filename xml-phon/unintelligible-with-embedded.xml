@@ -38,7 +38,7 @@
     <comment type="Generic">
       <tierData><tw>Make</tw><tw>sure</tw><tw>xxx</tw><tw>is</tw><tw>recognized</tw><tw>even</tw><tw>with</tw><tw>embedded</tw><tw>characters</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w untranscribed="unintelligible">xxx</w>

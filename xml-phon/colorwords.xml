@@ -21,7 +21,7 @@
     <comment type="Generic">
       <tierData><tw>optional</tw><tw>@Color</tw><tw>words</tw><tw>header</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>hello</w>

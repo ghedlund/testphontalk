@@ -44,7 +44,7 @@
     <comment type="Generic">
       <tierData><tw>All</tw><tw>the</tw><tw>dependent</tw><tw>tiers</tw><tw>besides</tw><tw>1-1</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>hey</w>

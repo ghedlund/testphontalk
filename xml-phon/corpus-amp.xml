@@ -21,7 +21,7 @@
     <comment type="Generic">
       <tierData><tw>test</tw><tw>comment</tw><tw>syntax;</tw><tw>note</tw><tw>chat2xml</tw><tw>is</tw><tw>lenient!</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>hey</w>

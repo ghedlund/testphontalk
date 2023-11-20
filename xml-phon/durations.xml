@@ -16,7 +16,7 @@
     <comment type="Generic">
       <tierData><tw>durations</tw><tw>for</tw><tw>groups</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <g><w>a</w><w>b</w><duration>3.000</duration></g>
@@ -25,7 +25,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u1">
       <orthography>
         <u>
           <g><w>a</w><w>b</w><duration>123.000</duration></g>
@@ -34,7 +34,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u2">
       <orthography>
         <u>
           <g><w>a</w><w>b</w><duration>123.400</duration></g>
@@ -43,7 +43,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u3">
       <orthography>
         <u>
           <g><w>a</w><w>b</w><duration>3.400</duration></g>
@@ -52,7 +52,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u4">
       <orthography>
         <u>
           <e><happening>foo</happening><duration>6.000</duration></e>

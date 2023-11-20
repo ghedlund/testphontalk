@@ -21,7 +21,7 @@
     <comment type="Generic">
       <tierData><tw>xxx</tw><tw>should</tw><tw>not</tw><tw>have</tw><tw>mor</tw><tw>information</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w untranscribed="unintelligible">xxx</w>

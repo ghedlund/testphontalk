@@ -18,7 +18,7 @@
     <comment type="Generic">
       <tierData><tw>xxx</tw><tw>with</tw><tw>annotation</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <g><w untranscribed="unintelligible">xxx</w><ga type="explanation">DESC=EDITED REASON=CONFIDENTIALITY</ga></g>

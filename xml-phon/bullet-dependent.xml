@@ -24,7 +24,7 @@
     <comment type="Generic">
       <tierData><tw>dependent</tw><tw>tier</tw><tw>bullet</tw><tw>should</tw><tw>not</tw><tw>count</tw><tw>in</tw><tw>start</tw><tw>checking</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <g><w>ryoote</w><w>agete</w><ga type="paralinguistics">singing</ga></g>
@@ -38,7 +38,7 @@
         <tierData><tw>foo</tw><internal-media start="2061.689" end="2062.652" unit="s"/><tw>bar</tw><internal-media start="2061.689" end="2062.652" unit="s"/></tierData>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u1">
       <orthography>
         <u>
           <g><w>ryoote</w><w>agete</w><ga type="paralinguistics">singing</ga></g>

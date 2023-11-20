@@ -20,7 +20,7 @@
     <comment type="Generic">
       <tierData><tw>missing</tw><tw>can</tw><tw>nevertheless</tw><tw>have</tw><tw>bullets</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>foo</w>

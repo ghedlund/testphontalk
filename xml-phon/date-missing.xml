@@ -28,7 +28,7 @@
     <comment type="Generic">
       <tierData><tw>Date</tw><tw>header</tw><tw>is</tw><tw>missing.</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>foo</w>

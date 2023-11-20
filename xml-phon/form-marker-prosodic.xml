@@ -18,7 +18,7 @@
     <comment type="Generic">
       <tierData><tw>word</tw><tw>before</tw><tw>form</tw><tw>marker</tw><tw>is</tw><tw>perfectly</tw><tw>valid</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w formType="sign speech">f<p type="drawl"/><p type="drawl"/>oo</w>

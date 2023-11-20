@@ -28,7 +28,7 @@
     <comment type="Generic">
       <tierData><tw>pitch</tw><tw>up</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>pitch<ca-element type="pitch up"/></w>

@@ -21,7 +21,7 @@
     <comment type="Generic">
       <tierData><tw>test</tw><tw>multi</tw><tw>bullets</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>We'll</w>

@@ -18,7 +18,7 @@
     <comment type="Generic">
       <tierData><tw>replacement</tw><tw>with</tw><tw>form</tw><tw>marker</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>form_marker_allowed<replacement><w formType="neologism">foo</w></replacement></w>
