@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Corpus="sample" Media="media-missing-bullets" Lang="eng">
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Corpus="sample" Media="media-missing-bullets" Mediatypes="video missing" Lang="eng">
   <Participants>
     <participant id="MOT" role="Mother" language="eng"/>
     <participant id="CHI" role="Target_Child" age="P1Y10M4D" language="eng"/>

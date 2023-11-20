@@ -7,7 +7,7 @@
   <comment type="Generic">replacement with quotation</comment>
   <u who="CHI" uID="u0">
     <quotation type="begin"></quotation>
-    <w>only_one_allowed<replacement real="false"><w>foo</w></replacement></w>
+    <w>only_one_allowed<replacement><w>foo</w></replacement></w>
     <quotation type="end"></quotation>
     <t type="p"></t>
   </u>

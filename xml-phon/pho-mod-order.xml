@@ -48,6 +48,12 @@
           <t type="e"/>
         </u>
       </orthography>
+      <ipaTarget>
+        <pho><pw><ph><base>ɔ</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><ph><base>o</base><phlen>ː</phlen></ph></pw></pho>
+      </ipaActual>
       <segment start="0.000" end="12.286" unit="s"/>
     </r>
   </transcript>

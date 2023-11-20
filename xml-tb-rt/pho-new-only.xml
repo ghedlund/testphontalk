@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Date="2000-06-23" Corpus="IDO" Lang="ind jav">
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Date="2000-06-23" Corpus="IDO" Lang="ind jav" Window="263_127_668_685_-1_-1_1797_0_1802_0">
   <Participants>
     <participant id="CHI" role="Target_Child" name="Ido" age="P4Y5M21D" sex="male" birthday="1996-01-01" language="ind jav"/>
     <participant id="MOT" role="Mother" name="Rimi" sex="female" language="ind jav"/>
@@ -9,121 +9,121 @@
   <comment type="Date">23-JUN-2000</comment>
   <comment type="Generic">Test new pho</comment>
   <u who="EXP" uID="u0">
-    <pg><w>entar</w></pg>
-    <pg><w>Tante</w></pg>
-    <pg><w>nggak</w></pg>
-    <pg><w>mo</w></pg>
-    <pg><w>maen</w></pg>
-    <pg><w>lagi</w></pg>
-    <pg><w>deh</w></pg>
+    <pg><w>entar</w><pho><pw><ph><base>e</base></ph><ph><base>n</base></ph><ph><base>t</base></ph><ph><base>a</base></ph><ph><base>r</base></ph></pw></pho></pg>
+    <pg><w>Tante</w><pho><pw><ph><base>t</base></ph><ph><base>a</base></ph><ph><base>n</base></ph><ph><base>t</base></ph><ph><base>e</base></ph></pw></pho></pg>
+    <pg><w>nggak</w><pho><pw><ph><base>n</base></ph><ph><base>g</base></ph><ph><base>g</base></ph><ph><base>a</base></ph><ph><base>k</base></ph></pw></pho></pg>
+    <pg><w>mo</w><pho><pw><ph><base>m</base></ph><ph><base>o</base></ph></pw></pho></pg>
+    <pg><w>maen</w><pho><pw><ph><base>m</base></ph><ph><base>a</base></ph><ph><base>e</base></ph><ph><base>n</base></ph></pw></pho></pg>
+    <pg><w>lagi</w><pho><pw><ph><base>l</base></ph><ph><base>a</base></ph><ph><base>g</base></ph><ph><base>i</base></ph></pw></pho></pg>
+    <pg><w>deh</w><pho><pw><ph><base>d</base></ph><ph><base>e</base></ph><ph><base>h</base></ph></pw></pho></pg>
     <t type="p"></t>
   </u>
   <comment type="Generic">With pho groups</comment>
   <u who="EXP" uID="u1">
-    <pg><w>entar</w></pg>
-    <pg><w>Tante</w></pg>
-    <pg><w>nggak</w></pg>
-    <pg><w>mo</w></pg>
-    <pg><w>maen</w></pg>
-    <pg><w>lagi</w></pg>
-    <pg><w>deh</w></pg>
+    <pg><w>entar</w><pho><pw><ph><base>a</base></ph><ph><base>b</base></ph></pw></pho></pg>
+    <pg><w>Tante</w><pho><pw><ph><base>c</base></ph></pw></pho></pg>
+    <pg><w>nggak</w><pho><pw><ph><base>d</base></ph><ph><base>e</base></ph></pw></pho></pg>
+    <pg><w>mo</w><pho><pw><ph><base>f</base></ph></pw></pho></pg>
+    <pg><w>maen</w><pho><pw><ph><base>g</base></ph></pw></pho></pg>
+    <pg><w>lagi</w><pho><pw><ph><base>h</base></ph><ph><base>i</base></ph></pw></pho></pg>
+    <pg><w>deh</w><pho><pw><ph><base>j</base></ph></pw></pho></pg>
     <t type="p"></t>
   </u>
   <comment type="Generic">retrace without groups</comment>
   <u who="EXP" uID="u2">
-    <g><pg><w>mon</w></pg><overlap type="overlap precedes"></overlap><k type="retracing"></k></g>
-    <pg><w>non</w></pg>
+    <g><pg><w>mon</w><pho><pw><ph><base>m</base></ph><ph><base>a</base><combining>̃</combining></ph></pw></pho></pg><overlap type="overlap precedes"></overlap><k type="retracing"></k></g>
+    <pg><w>non</w><pho><pw><ph><base>n</base></ph><ph><base>a</base><combining>̃</combining></ph></pw></pho></pg>
     <t type="e"></t>
   </u>
   <comment type="Generic">retrace with groups</comment>
   <u who="EXP" uID="u3">
-    <g><pg><w>ah</w><w>non</w></pg><overlap type="overlap precedes"></overlap><k type="retracing"></k></g>
-    <pg><w>ah</w><w>non</w></pg>
+    <g><pg><w>ah</w><w>non</w><pho><pw><ph><base>a</base></ph><ph><base>n</base></ph><ph><base>a</base><combining>̃</combining></ph></pw></pho></pg><overlap type="overlap precedes"></overlap><k type="retracing"></k></g>
+    <pg><w>ah</w><w>non</w><pho><pw><ph><base>a</base></ph><ph><base>n</base></ph><ph><base>a</base><combining>̃</combining></ph></pw></pho></pg>
     <t type="e"></t>
   </u>
   <comment type="Generic">1-1 group on main line</comment>
   <u who="EXP" uID="u4">
-    <pg><w>c'</w><w>est</w></pg>
-    <pg><w>lait</w></pg>
+    <pg><w>c'</w><w>est</w><pho><pw><ph><base>s</base></ph><ph><base>e</base></ph></pw></pho></pg>
+    <pg><w>lait</w><pho><pw><ph><base>l</base></ph><ph><base>e</base></ph></pw></pho></pg>
     <t type="p"></t>
   </u>
   <comment type="Generic">1-1 group on main line for &amp;=cri</comment>
   <u who="EXP" uID="u5">
-    <pg><e><happening>cri</happening></e></pg>
-    <pg><w>lait</w></pg>
+    <pg><e><happening>cri</happening></e><pho><pw><ph><base>s</base></ph><ph><base>e</base></ph></pw></pho></pg>
+    <pg><w>lait</w><pho><pw><ph><base>l</base></ph><ph><base>e</base></ph></pw></pho></pg>
     <t type="p"></t>
   </u>
   <comment type="Generic">1-1 group on npho line</comment>
   <u who="EXP" uID="u6">
-    <pg><w>lait</w></pg>
+    <pg><w>lait</w><mod><pw><ph><base>s</base></ph><ph><base>e</base></ph><ph><base>l</base></ph><ph><base>e</base></ph></pw></mod><pho><pw><ph><base>s</base></ph><ph><base>e</base></ph><ph><base>l</base></ph><ph><base>e</base></ph></pw></pho></pg>
     <t type="p"></t>
     <a type="extension" flavor="pho">‹se le›</a>
     <a type="extension" flavor="mod">‹se le›</a>
   </u>
   <comment type="Generic">compound</comment>
   <u who="EXP" uID="u7">
-    <pg><w>foo<wk type="cmp"></wk>bar</w></pg>
+    <pg><w>foo<wk type="cmp"></wk>bar</w><pho><pw><ph><base>f</base></ph><ph><base>o</base></ph><ph><base>o</base></ph><ph><base>b</base></ph><ph><base>a</base></ph><ph><base>r</base></ph></pw></pho></pg>
     <t type="p"></t>
   </u>
   <comment type="Generic">retrace of simple word</comment>
   <u who="EXP" uID="u8">
-    <pg><g><w>est</w><k type="retracing"></k></g></pg>
-    <pg><w>lait</w></pg>
+    <pg><g><w>est</w><k type="retracing"></k></g><pho><pw><ph><base>s</base></ph><ph><base>e</base></ph></pw></pho></pg>
+    <pg><w>lait</w><pho><pw><ph><base>l</base></ph><ph><base>e</base></ph></pw></pho></pg>
     <t type="p"></t>
   </u>
   <comment type="Generic">fragment retrace</comment>
   <u who="EXP" uID="u9">
-    <pg><g><w type="nonword">est</w><k type="retracing"></k></g></pg>
-    <pg><w>lait</w></pg>
+    <pg><g><w type="nonword">est</w><k type="retracing"></k></g><pho><pw><ph><base>s</base></ph><ph><base>e</base></ph></pw></pho></pg>
+    <pg><w>lait</w><pho><pw><ph><base>l</base></ph><ph><base>e</base></ph></pw></pho></pg>
     <t type="p"></t>
   </u>
   <comment type="Generic">pho group around regular group, and vice versa</comment>
   <u who="EXP" uID="u10">
-    <pg><w>est</w><g><w>lait</w><k type="retracing"></k></g><w>la</w></pg>
-    <g><pg><w>est</w></pg><pg><w>lait</w></pg><k type="retracing"></k></g>
-    <pg><w>la</w></pg>
+    <pg><w>est</w><g><w>lait</w><k type="retracing"></k></g><w>la</w><pho><pw><ph><base>a</base></ph></pw></pho></pg>
+    <g><pg><w>est</w><pho><pw><ph><base>b</base></ph></pw></pho></pg><pg><w>lait</w><pho><pw><ph><base>c</base></ph></pw></pho></pg><k type="retracing"></k></g>
+    <pg><w>la</w><pho><pw><ph><base>d</base></ph></pw></pho></pg>
     <t type="p"></t>
   </u>
   <comment type="Generic">syllable stress</comment>
   <u who="EXP" uID="u11">
-    <pg><w>hello</w></pg>
-    <pg><w>world</w></pg>
+    <pg><w>hello</w><mod><pw><ph><base>h</base></ph><ph><base>ə</base></ph><stress type="primary"></stress><ph><base>l</base></ph><ph><base>o</base></ph><ph><base>ʊ</base></ph></pw></mod><pho><pw><ph><base>h</base></ph><ph><base>ə</base></ph><stress type="primary"></stress><ph><base>l</base></ph><ph><base>o</base></ph><ph><base>ʊ</base></ph></pw></pho></pg>
+    <pg><w>world</w><mod><pw><stress type="primary"></stress><ph><base>w</base></ph><ph><base>ʌ</base></ph><ph><base>ɹ</base></ph><ph><base>l</base></ph><ph><base>d</base></ph></pw></mod><pho><pw><stress type="primary"></stress><ph><base>w</base></ph><ph><base>ʌ</base></ph><ph><base>ɹ</base></ph><ph><base>l</base></ph><ph><base>d</base></ph></pw></pho></pg>
     <t type="p"></t>
   </u>
   <comment type="Generic">omission etc.</comment>
   <u who="EXP" uID="u12">
-    <pg><w>hello</w></pg>
+    <pg><w>hello</w><pho><pw><ph><base>a</base></ph></pw></pho></pg>
     <w type="omission">omitted</w>
     <t type="p"></t>
   </u>
   <comment type="Generic">yyy has pho</comment>
   <u who="EXP" uID="u13">
-    <pg><w untranscribed="unintelligible-with-pho">yyy</w></pg>
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><pho><pw><ph><base>a</base></ph></pw></pho></pg>
     <t type="p"></t>
   </u>
   <u who="EXP" uID="u14">
-    <pg><w type="nonword">notomitted</w></pg>
+    <pg><w type="nonword">notomitted</w><pho><pw><ph><base>a</base></ph></pw></pho></pg>
     <t type="p"></t>
   </u>
   <u who="EXP" uID="u15">
-    <pg><w type="filler">notomitted</w></pg>
+    <pg><w type="filler">notomitted</w><pho><pw><ph><base>a</base></ph></pw></pho></pg>
     <t type="p"></t>
   </u>
   <u who="EXP" uID="u16">
-    <pg><w type="fragment">notomitted</w></pg>
+    <pg><w type="fragment">notomitted</w><pho><pw><ph><base>a</base></ph></pw></pho></pg>
     <t type="p"></t>
   </u>
   <u who="EXP" uID="u17">
-    <pg><w>hello</w></pg>
+    <pg><w>hello</w><pho><pw><ph><base>a</base></ph></pw></pho></pg>
     <e><happening>omitted</happening></e>
     <t type="p"></t>
   </u>
   <comment type="Generic">xxx has *</comment>
   <u who="EXP" uID="u18">
-    <pg><w>Yvan</w></pg>
-    <pg><w>watched</w></pg>
-    <pg><w>TV</w></pg>
-    <pg><w untranscribed="unintelligible">xxx</w></pg>
+    <pg><w>Yvan</w><pho><pw><ph><base>a</base></ph></pw></pho></pg>
+    <pg><w>watched</w><pho><pw><ph><base>b</base></ph></pw></pho></pg>
+    <pg><w>TV</w><pho><pw><ph><base>c</base></ph></pw></pho></pg>
+    <pg><w untranscribed="unintelligible">xxx</w><pho><pw><ph><base>*</base></ph></pw></pho></pg>
     <t type="p"></t>
   </u>
 </CHAT>

@@ -56,6 +56,9 @@
           <t type="p"/>
         </u>
       </orthography>
+      <ipaActual>
+        <pho><pw><ph><base>a</base></ph></pw><pw><ph><base>b</base></ph></pw><pw><ph><base>c</base></ph></pw><pw><ph><base>d</base></ph></pw><pw><ph><base>e</base></ph></pw><pw><ph><base>f</base></ph></pw><pw><ph><base>g</base></ph></pw></pho>
+      </ipaActual>
       <segment start="0.0" end="0.0" unit="ms"/>
       <userTier name="Morphology">
         <mors>
@@ -83,6 +86,9 @@
           <t type="p"/>
         </u>
       </orthography>
+      <ipaActual>
+        <pho><pw><ph><base>a</base></ph></pw><pw><ph><base>b</base></ph></pw><pw><ph><base>c</base></ph></pw><pw><ph><base>d</base></ph></pw><pw><ph><base>e</base></ph></pw><pw><ph><base>f</base></ph></pw><pw><ph><base>g</base></ph></pw></pho>
+      </ipaActual>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <comment type="Generic">
@@ -102,6 +108,9 @@
           <t type="p"/>
         </u>
       </orthography>
+      <ipaActual>
+        <pho><pw><ph><base>e</base></ph><ph><base>n</base></ph><ph><base>t</base></ph><ph><base>a</base></ph><ph><base>r</base></ph></pw><pw><ph><base>X</base></ph></pw><pw><ph><base>t</base></ph><ph><base>a</base></ph><ph><base>n</base></ph><ph><base>t</base></ph><ph><base>e</base></ph></pw><pw><ph><base>n</base></ph><ph><base>g</base></ph><ph><base>g</base></ph><ph><base>a</base></ph><ph><base>k</base></ph></pw><pw><ph><base>m</base></ph><ph><base>o</base></ph></pw><pw><ph><base>m</base></ph><ph><base>a</base></ph><ph><base>e</base></ph><ph><base>n</base></ph></pw><pw><ph><base>l</base></ph><ph><base>a</base></ph><ph><base>g</base></ph><ph><base>i</base></ph></pw><pw><ph><base>d</base></ph><ph><base>e</base></ph><ph><base>h</base></ph></pw></pho>
+      </ipaActual>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
   </transcript>

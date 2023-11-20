@@ -7,7 +7,7 @@
     <participant id="GEM" role="Speaker" name="Gemma" language="eng"/>
   </Participants>
   <u who="CHI" uID="u0">
-    <g><w>pos<replacement real="false"><w>puess</w></replacement></w><error></error><k type="retracing with correction"></k></g>
+    <g><w>pos<replacement><w>puess</w></replacement></w><error></error><k type="retracing with correction"></k></g>
     <w>pues<mor type="mor"><mw><pos><c>n</c></pos><stem>retrace</stem></mw></mor></w>
     <t type="p"><mor type="mor"><mt type="p"></mt></mor></t>
   </u>

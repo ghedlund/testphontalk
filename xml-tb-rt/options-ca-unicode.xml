@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Corpus="bates" Lang="eng">
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Corpus="bates" Lang="eng" Options="CA-Unicode">
   <Participants>
     <participant id="CHI" role="Partner" name="Mei-Oanh" age="P1Y8M" group="normal" sex="female" language="eng"/>
   </Participants>

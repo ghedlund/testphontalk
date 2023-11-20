@@ -20,7 +20,7 @@
     <t type="q"></t>
   </u>
   <u who="MOT" uID="u2">
-    <g><w>rocking<wk type="cmp"></wk>house<replacement real="false"><w>rocking<wk type="cmp"></wk>horse</w></replacement></w><error></error></g>
+    <g><w>rocking<wk type="cmp"></wk>house<replacement><w>rocking<wk type="cmp"></wk>horse</w></replacement></w><error></error></g>
     <t type="q"></t>
   </u>
   <comment type="Generic">All the ones</comment>
@@ -48,7 +48,7 @@
   <u who="CHI" uID="u6">
     <w>this</w>
     <w>is</w>
-    <w>child<replacement real="false"><w>a<wk type="cmp"></wk>er</w><w>b</w></replacement></w>
+    <w>child<replacement><w>a<wk type="cmp"></wk>er</w><w>b</w></replacement></w>
     <w>speaking</w>
     <t type="p"></t>
   </u>
@@ -119,7 +119,7 @@
   <u who="CHI" uID="u16">
     <w>this</w>
     <w>is</w>
-    <w>child<wk type="cmp"></wk>child<replacement real="false"><w>a</w><w>b</w></replacement></w>
+    <w>child<wk type="cmp"></wk>child<replacement><w>a</w><w>b</w></replacement></w>
     <w>speaking</w>
     <t type="p"></t>
   </u>

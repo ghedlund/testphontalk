@@ -6,7 +6,7 @@
   </Participants>
   <comment type="Generic">replacement [: foo]</comment>
   <u who="CHI" uID="u0">
-    <w>only_one_allowed<replacement real="false"><w>foo</w></replacement></w>
+    <w>only_one_allowed<replacement><w>foo</w></replacement></w>
     <t type="p"></t>
   </u>
 </CHAT>

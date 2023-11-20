@@ -13,7 +13,7 @@
     <w>world</w>
     <w>isn't</w>
     <w>this</w>
-    <w>gonna<replacement real="false"><w>going</w><w>to</w></replacement></w>
+    <w>gonna<replacement><w>going</w><w>to</w></replacement></w>
     <t type="q"></t>
   </u>
   <u who="MOT" uID="u1">

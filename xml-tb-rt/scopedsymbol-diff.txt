@@ -1,8 +1,2 @@
 Expected attribute value '2.20.0' but was '2.21.0' - comparing <CHAT Version="2.20.0"...> at /CHAT[1]/@Version to <CHAT Version="2.21.0"...> at /CHAT[1]/@Version (DIFFERENT)
 Expected attribute value 'P1Y08M' but was 'P1Y8M' - comparing <participant age="P1Y08M"...> at /CHAT[1]/Participants[1]/participant[1]/@age to <participant age="P1Y8M"...> at /CHAT[1]/Participants[1]/participant[1]/@age (DIFFERENT)
-Expected number of attributes '0' but was '1' - comparing <replacement...> at /CHAT[1]/u[3]/g[1]/w[1]/replacement[1] to <replacement...> at /CHAT[1]/u[3]/g[1]/w[1]/replacement[1] (DIFFERENT)
-Expected attribute name '/CHAT[1]/u[3]/g[1]/w[1]/replacement[1]' - comparing <replacement...> at /CHAT[1]/u[3]/g[1]/w[1]/replacement[1] to <replacement...> at /CHAT[1]/u[3]/g[1]/w[1]/replacement[1]/@real (DIFFERENT)
-Expected number of attributes '0' but was '1' - comparing <replacement...> at /CHAT[1]/u[7]/w[3]/replacement[1] to <replacement...> at /CHAT[1]/u[7]/w[3]/replacement[1] (DIFFERENT)
-Expected attribute name '/CHAT[1]/u[7]/w[3]/replacement[1]' - comparing <replacement...> at /CHAT[1]/u[7]/w[3]/replacement[1] to <replacement...> at /CHAT[1]/u[7]/w[3]/replacement[1]/@real (DIFFERENT)
-Expected number of attributes '0' but was '1' - comparing <replacement...> at /CHAT[1]/u[17]/w[3]/replacement[1] to <replacement...> at /CHAT[1]/u[17]/w[3]/replacement[1] (DIFFERENT)
-Expected attribute name '/CHAT[1]/u[17]/w[3]/replacement[1]' - comparing <replacement...> at /CHAT[1]/u[17]/w[3]/replacement[1] to <replacement...> at /CHAT[1]/u[17]/w[3]/replacement[1]/@real (DIFFERENT)

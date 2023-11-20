@@ -49,6 +49,9 @@
           <t type="interruption"/>
         </u>
       </orthography>
+      <ipaActual>
+        <pho><pw><ph><base>m</base></ph><ph><base>ɛ</base></ph></pw><pw><ph><base>s</base></ph><ph><base>ɛ</base></ph></pw><pw><ph><base>s</base></ph><ph><base>k</base></ph></pw><pw><ph><base>j</base></ph><ph><base>a</base></ph></pw><pw><ph><base>ɑ</base><combining>̃</combining></ph><ph><base>o</base></ph></pw></pho>
+      </ipaActual>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
   </transcript>

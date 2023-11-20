@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Corpus="SBCSAE" Media="indent-overlap-in-word" Lang="eng">
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Corpus="SBCSAE" Media="indent-overlap-in-word" Mediatypes="audio" Lang="eng" Options="CA">
   <Participants>
     <participant id="CAM" role="Speaker" name="CAM" language="eng"/>
     <participant id="JO" role="Speaker" name="JO" language="eng"/>

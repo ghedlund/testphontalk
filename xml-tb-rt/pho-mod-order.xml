@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Date="1992-06-23" Corpus="Paris-Corpus_Leonard" Media="pho-mod-order" Lang="fra">
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Date="1992-06-23" Corpus="Paris-Corpus_Leonard" Media="pho-mod-order" Mediatypes="video" Lang="fra">
   <Participants>
     <participant id="CHI" role="Target_Child" name="Léonard" age="P1Y8M9D" group="bi" sex="male" birthday="1990-10-15" language="fra"/>
     <participant id="MOT" role="Mother" language="fra"/>
@@ -10,7 +10,7 @@
   <comment type="Date">23-JUN-1992</comment>
   <comment type="Generic">Test %mod and %pho order. TODO Round trip.</comment>
   <u who="CHI" uID="u0">
-    <pg><w>oh</w></pg>
+    <pg><w>oh</w><mod><pw><ph><base>ɔ</base></ph></pw></mod><pho><pw><ph><base>o</base><phlen>ː</phlen></ph></pw></pho></pg>
     <t type="e"></t>
     <media start="0.000" end="12.286" unit="s"/>
   </u>

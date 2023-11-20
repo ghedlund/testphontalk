@@ -60,6 +60,9 @@
           <t type="p"/>
         </u>
       </orthography>
+      <ipaActual>
+        <pho><pw><ph><base>e</base></ph><ph><base>n</base></ph><ph><base>t</base></ph><ph><base>a</base></ph><ph><base>r</base></ph></pw><pw><ph><base>t</base></ph><ph><base>a</base></ph><ph><base>n</base></ph><ph><base>t</base></ph><ph><base>e</base></ph></pw><pw><ph><base>n</base></ph><ph><base>g</base></ph><ph><base>g</base></ph><ph><base>a</base></ph><ph><base>k</base></ph></pw><pw><ph><base>m</base></ph><ph><base>o</base></ph></pw><pw><ph><base>m</base></ph><ph><base>a</base></ph><ph><base>e</base></ph><ph><base>n</base></ph></pw><pw><ph><base>l</base></ph><ph><base>a</base></ph><ph><base>g</base></ph><ph><base>i</base></ph></pw><pw><ph><base>d</base></ph><ph><base>e</base></ph><ph><base>h</base></ph></pw></pho>
+      </ipaActual>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <comment type="Generic">
@@ -78,6 +81,9 @@
           <t type="p"/>
         </u>
       </orthography>
+      <ipaActual>
+        <pho><pw><ph><base>a</base></ph><ph><base>b</base></ph></pw><pw><ph><base>c</base></ph></pw><pw><ph><base>d</base></ph><ph><base>e</base></ph></pw><pw><ph><base>f</base></ph></pw><pw><ph><base>g</base></ph></pw><pw><ph><base>h</base></ph><ph><base>i</base></ph></pw><pw><ph><base>j</base></ph></pw></pho>
+      </ipaActual>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <comment type="Generic">
@@ -91,6 +97,9 @@
           <t type="e"/>
         </u>
       </orthography>
+      <ipaActual>
+        <pho><pw><ph><base>m</base></ph><ph><base>a</base><combining>̃</combining></ph></pw><pw><ph><base>n</base></ph><ph><base>a</base><combining>̃</combining></ph></pw></pho>
+      </ipaActual>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <comment type="Generic">
@@ -104,6 +113,9 @@
           <t type="e"/>
         </u>
       </orthography>
+      <ipaActual>
+        <pho><pw><ph><base>a</base></ph><ph><base>n</base></ph><ph><base>a</base><combining>̃</combining></ph></pw><pw><ph><base>a</base></ph><ph><base>n</base></ph><ph><base>a</base><combining>̃</combining></ph></pw></pho>
+      </ipaActual>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <comment type="Generic">
@@ -117,6 +129,9 @@
           <t type="p"/>
         </u>
       </orthography>
+      <ipaActual>
+        <pho><pw><ph><base>s</base></ph><ph><base>e</base></ph></pw><pw><ph><base>l</base></ph><ph><base>e</base></ph></pw></pho>
+      </ipaActual>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <comment type="Generic">
@@ -130,6 +145,9 @@
           <t type="p"/>
         </u>
       </orthography>
+      <ipaActual>
+        <pho><pw><ph><base>s</base></ph><ph><base>e</base></ph></pw><pw><ph><base>l</base></ph><ph><base>e</base></ph></pw></pho>
+      </ipaActual>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <comment type="Generic">
@@ -142,6 +160,12 @@
           <t type="p"/>
         </u>
       </orthography>
+      <ipaTarget>
+        <pho><pw><ph><base>s</base></ph><ph><base>e</base></ph><ph><base>l</base></ph><ph><base>e</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><ph><base>s</base></ph><ph><base>e</base></ph><ph><base>l</base></ph><ph><base>e</base></ph></pw></pho>
+      </ipaActual>
       <segment start="0.0" end="0.0" unit="ms"/>
       <userTier name="pho">
         <tierData><tw>‹se</tw><tw>le›</tw></tierData>
@@ -160,6 +184,9 @@
           <t type="p"/>
         </u>
       </orthography>
+      <ipaActual>
+        <pho><pw><ph><base>f</base></ph><ph><base>o</base></ph><ph><base>o</base></ph><ph><base>b</base></ph><ph><base>a</base></ph><ph><base>r</base></ph></pw></pho>
+      </ipaActual>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <comment type="Generic">
@@ -173,6 +200,9 @@
           <t type="p"/>
         </u>
       </orthography>
+      <ipaActual>
+        <pho><pw><ph><base>s</base></ph><ph><base>e</base></ph></pw><pw><ph><base>l</base></ph><ph><base>e</base></ph></pw></pho>
+      </ipaActual>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <comment type="Generic">
@@ -186,6 +216,9 @@
           <t type="p"/>
         </u>
       </orthography>
+      <ipaActual>
+        <pho><pw><ph><base>s</base></ph><ph><base>e</base></ph></pw><pw><ph><base>l</base></ph><ph><base>e</base></ph></pw></pho>
+      </ipaActual>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <comment type="Generic">
@@ -200,6 +233,9 @@
           <t type="p"/>
         </u>
       </orthography>
+      <ipaActual>
+        <pho><pw><ph><base>a</base></ph></pw><pw><ph><base>b</base></ph></pw><pw><ph><base>c</base></ph></pw><pw><ph><base>d</base></ph></pw></pho>
+      </ipaActual>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <comment type="Generic">
@@ -213,6 +249,12 @@
           <t type="p"/>
         </u>
       </orthography>
+      <ipaTarget>
+        <pho><pw><ph><base>h</base></ph><ph><base>ə</base></ph><stress type="primary"/><ph><base>l</base></ph><ph><base>o</base></ph><ph><base>ʊ</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ʌ</base></ph><ph><base>ɹ</base></ph><ph><base>l</base></ph><ph><base>d</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><ph><base>h</base></ph><ph><base>ə</base></ph><stress type="primary"/><ph><base>l</base></ph><ph><base>o</base></ph><ph><base>ʊ</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ʌ</base></ph><ph><base>ɹ</base></ph><ph><base>l</base></ph><ph><base>d</base></ph></pw></pho>
+      </ipaActual>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <comment type="Generic">
@@ -226,6 +268,9 @@
           <t type="p"/>
         </u>
       </orthography>
+      <ipaActual>
+        <pho><pw><ph><base>a</base></ph></pw></pho>
+      </ipaActual>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <comment type="Generic">
@@ -238,6 +283,9 @@
           <t type="p"/>
         </u>
       </orthography>
+      <ipaActual>
+        <pho><pw><ph><base>a</base></ph></pw></pho>
+      </ipaActual>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <r speaker="EXP">
@@ -247,6 +295,9 @@
           <t type="p"/>
         </u>
       </orthography>
+      <ipaActual>
+        <pho><pw><ph><base>a</base></ph></pw></pho>
+      </ipaActual>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <r speaker="EXP">
@@ -256,6 +307,9 @@
           <t type="p"/>
         </u>
       </orthography>
+      <ipaActual>
+        <pho><pw><ph><base>a</base></ph></pw></pho>
+      </ipaActual>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <r speaker="EXP">
@@ -265,6 +319,9 @@
           <t type="p"/>
         </u>
       </orthography>
+      <ipaActual>
+        <pho><pw><ph><base>a</base></ph></pw></pho>
+      </ipaActual>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <r speaker="EXP">
@@ -275,6 +332,9 @@
           <t type="p"/>
         </u>
       </orthography>
+      <ipaActual>
+        <pho><pw><ph><base>a</base></ph></pw></pho>
+      </ipaActual>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
     <comment type="Generic">
@@ -290,6 +350,9 @@
           <t type="p"/>
         </u>
       </orthography>
+      <ipaActual>
+        <pho><pw><ph><base>a</base></ph></pw><pw><ph><base>b</base></ph></pw><pw><ph><base>c</base></ph></pw><pw><ph><base>*</base></ph></pw></pho>
+      </ipaActual>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
   </transcript>

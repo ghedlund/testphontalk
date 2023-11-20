@@ -6,7 +6,7 @@
   </Participants>
   <comment type="Generic">replacement with form marker</comment>
   <u who="CHI" uID="u0">
-    <w>form_marker_allowed<replacement real="false"><w formType="neologism">foo</w></replacement></w>
+    <w>form_marker_allowed<replacement><w formType="neologism">foo</w></replacement></w>
     <t type="p"></t>
   </u>
 </CHAT>

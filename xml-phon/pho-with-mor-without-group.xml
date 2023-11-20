@@ -36,6 +36,9 @@
           <t type="p"/>
         </u>
       </orthography>
+      <ipaActual>
+        <pho><pw><ph><base>n</base></ph><ph><base>ɑ</base><combining>̃</combining></ph></pw><pw><ph><base>j</base></ph><ph><base>a</base></ph></pw><pw><ph><base>p</base></ph><ph><base>a</base></ph></pw><pw><ph><base>d</base></ph></pw><pw><ph><base>a</base></ph><ph><base>n</base></ph><ph><base>a</base></ph><ph><base>h</base></ph><ph><base>e</base></ph></pw><pw><ph><base>d</base></ph><ph><base>ɑ</base><combining>̃</combining></ph></pw><pw><ph><base>m</base></ph><ph><base>a</base></ph></pw><pw><ph><base>k</base></ph><ph><base>l</base></ph><ph><base>a</base></ph><ph><base>s</base></ph></pw><pw><ph><base>j</base></ph><ph><base>a</base></ph></pw><pw><ph><base>s</base></ph><ph><base>ɛ</base></ph></pw><pw><ph><base>k</base></ph></pw><pw><ph><base>a</base></ph><ph><base>n</base></ph><ph><base>u</base></ph><ph><base>k</base></ph></pw></pho>
+      </ipaActual>
       <segment start="0.0" end="0.0" unit="ms"/>
       <userTier name="Morphology">
         <mors>

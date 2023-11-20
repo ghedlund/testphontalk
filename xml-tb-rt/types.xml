@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Corpus="bates" Lang="eng">
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Corpus="bates" Lang="eng" DesignType="cross" ActivityType="toyplay" GroupType="SLI">
   <Participants>
     <participant id="CHI" role="Child" age="P1Y8M" group="normal" sex="female" language="eng"/>
     <participant id="MOT" role="Mother" language="eng"/>
@@ -14,7 +14,7 @@
     <w>world</w>
     <w>isn't</w>
     <w>this</w>
-    <w>gonna<replacement real="false"><w>going</w><w>to</w></replacement></w>
+    <w>gonna<replacement><w>going</w><w>to</w></replacement></w>
     <t type="q"></t>
   </u>
   <u who="MOT" uID="u1">

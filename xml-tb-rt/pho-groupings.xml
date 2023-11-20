@@ -9,9 +9,9 @@
   <comment type="Date">23-JUN-2000</comment>
   <comment type="Generic">Test Brian's problem</comment>
   <u who="CHI" uID="u0">
-    <pg><w>mais</w></pg>
-    <g><pg><w>c'est</w></pg><k type="retracing with correction"></k></g>
-    <g><pg><w>ce<wk type="cmp"></wk>qu'</w></pg><pg><w>y<wk type="cmp"></wk>a</w></pg><pg><w>en</w><w>haut</w></pg><overlap type="overlap follows"></overlap></g>
+    <pg><w>mais</w><pho><pw><ph><base>m</base></ph><ph><base>ɛ</base></ph></pw></pho></pg>
+    <g><pg><w>c'est</w><pho><pw><ph><base>s</base></ph><ph><base>ɛ</base></ph></pw></pho></pg><k type="retracing with correction"></k></g>
+    <g><pg><w>ce<wk type="cmp"></wk>qu'</w><pho><pw><ph><base>s</base></ph><ph><base>k</base></ph></pw></pho></pg><pg><w>y<wk type="cmp"></wk>a</w><pho><pw><ph><base>j</base></ph><ph><base>a</base></ph></pw></pho></pg><pg><w>en</w><w>haut</w><pho><pw><ph><base>ɑ</base><combining>̃</combining></ph><ph><base>o</base></ph></pw></pho></pg><overlap type="overlap follows"></overlap></g>
     <t type="interruption"></t>
   </u>
 </CHAT>

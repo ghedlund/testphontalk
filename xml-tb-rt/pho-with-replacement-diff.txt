@@ -17,8 +17,6 @@ Expected number of attributes '1' but was '0' - comparing <ph...> at /CHAT[1]/u[
 Expected attribute name '/CHAT[1]/u[1]/pg[3]/actual[1]/pw[1]/ph[1]/@id' - comparing <ph...> at /CHAT[1]/u[1]/pg[3]/actual[1]/pw[1]/ph[1]/@id to <ph...> at /CHAT[1]/u[1]/pg[3]/pho[1]/pw[1]/ph[1] (DIFFERENT)
 Expected child '#text' but was 'null' - comparing <ph ...>c</ph> at /CHAT[1]/u[1]/pg[3]/actual[1]/pw[1]/ph[1]/text()[1] to <NULL> (DIFFERENT)
 Expected child 'null' but was '{http://www.talkbank.org/ns/talkbank}base' - comparing <NULL> to <base...> at /CHAT[1]/u[1]/pg[3]/pho[1]/pw[1]/ph[1]/base[1] (DIFFERENT)
-Expected number of attributes '0' but was '1' - comparing <replacement...> at /CHAT[1]/u[1]/pg[4]/w[1]/replacement[1] to <replacement...> at /CHAT[1]/u[1]/pg[4]/w[1]/replacement[1] (DIFFERENT)
-Expected attribute name '/CHAT[1]/u[1]/pg[4]/w[1]/replacement[1]' - comparing <replacement...> at /CHAT[1]/u[1]/pg[4]/w[1]/replacement[1] to <replacement...> at /CHAT[1]/u[1]/pg[4]/w[1]/replacement[1]/@real (DIFFERENT)
 Expected element tag name 'actual' but was 'pho' - comparing <actual...> at /CHAT[1]/u[1]/pg[4]/actual[1] to <pho...> at /CHAT[1]/u[1]/pg[4]/pho[1] (DIFFERENT)
 Expected number of attributes '1' but was '0' - comparing <ph...> at /CHAT[1]/u[1]/pg[4]/actual[1]/pw[1]/ph[1] to <ph...> at /CHAT[1]/u[1]/pg[4]/pho[1]/pw[1]/ph[1] (DIFFERENT)
 Expected attribute name '/CHAT[1]/u[1]/pg[4]/actual[1]/pw[1]/ph[1]/@id' - comparing <ph...> at /CHAT[1]/u[1]/pg[4]/actual[1]/pw[1]/ph[1]/@id to <ph...> at /CHAT[1]/u[1]/pg[4]/pho[1]/pw[1]/ph[1] (DIFFERENT)

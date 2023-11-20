@@ -5,9 +5,9 @@
     <participant id="MOT" role="Mother" language="eng"/>
   </Participants>
   <u who="CHI" uID="u0">
-    <pg><w>a</w></pg>
+    <pg><w>a</w><pho><pw><ph><base>a</base></ph></pw></pho></pg>
     <e><happening>li</happening></e>
-    <pg><w>b</w></pg>
+    <pg><w>b</w><pho><pw><ph><base>b</base></ph></pw></pho></pg>
     <t type="p"></t>
   </u>
 </CHAT>

@@ -11,7 +11,7 @@
   <comment type="Generic">Language of Caregivers Mother Southeastern Massachusetts , Father Southeastern Massachusetts , Grandmother Southeastern Massachusetts</comment>
   <comment type="Date">02-MAY-2002</comment>
   <u who="CHI" uID="u0">
-    <pg><g><w>Mommy<mor type="mor"><mw><pos><c>n</c><s>prop</s></pos><stem>Mommy</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"></gra></mor></w><k type="best guess"></k></g></pg>
+    <pg><g><w>Mommy<mor type="mor"><mw><pos><c>n</c><s>prop</s></pos><stem>Mommy</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"></gra></mor></w><k type="best guess"></k></g><mod><pw><stress type="primary"></stress><ph><base>m</base></ph><ph><base>ɑ</base></ph><ph><base>m</base></ph><ph><base>i</base><phlen>ː</phlen></ph></pw></mod><pho><pw><stress type="primary"></stress><ph><base>ɑ</base></ph><ph><base>m</base></ph><ph><base>ɪ</base></ph></pw></pho></pg>
     <t type="p"><mor type="mor"><mt type="p"></mt><gra type="gra" index="2" head="1" relation="PUNCT"></gra></mor></t>
   </u>
 </CHAT>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Corpus="Kansas" Media="replacement-real" Lang="eng">
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Version="2.21.0" Corpus="Kansas" Media="replacement-real" Mediatypes="audio" Lang="eng">
   <Participants>
     <participant id="PAR" role="Participant" name="kansas14a" group="Wernicke" sex="female" SES="UC" language="eng"/>
     <participant id="INV" role="Investigator" SES="UC" language="eng"/>
